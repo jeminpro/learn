@@ -1,0 +1,146 @@
+---
+sidebar_position: 2
+---
+
+# HCF (Highest Common Factor)
+
+The **HCF** of two or more numbers is the **largest number** that can divide all of them **without remainder**.
+
+### 💡 Why Useful?
+
+When you want to divide or simplify **something equally**, like portions or groups.
+
+### 🧮 Example:
+
+Find the HCF of **12** and **18**
+
+* Factors of 12: 1, 2, 3, 4, 6, 12
+* Factors of 18: 1, 2, 3, 6, 9, 18
+  ✅ Common: 1, 2, 3, 6 → **HCF = 6**
+
+---
+
+### 🧩 Word Problem Example:
+
+#### 📝 Example 2:
+
+**"Ali has 12 pencils and 18 pens. He wants to group them into identical sets with no leftovers. What is the greatest number of identical sets he can make?"**
+
+🧠 You're being asked: *What's the greatest number that divides both 12 and 18?* → **HCF**
+
+✅ HCF = 6
+→ He can make **6 sets**, each with 2 pencils and 3 pens.
+
+---
+
+### ❓ Practice Questions:
+
+1. Find the HCF of 15 and 20.
+2. What is the HCF of 16, 24, and 32?
+3. Sam has 30 red and 45 blue marbles. What’s the largest number of identical bags he can make without mixing colors?
+
+---
+
+# Word Problems 
+
+## Easy Level
+
+**Q1.** Find the highest number that can divide both 12 and 18 exactly.
+
+**Q2.** What is the HCF of 10 and 5?
+
+**Q3.** List the common factors of 16 and 12. Which is the highest?
+
+**Q4.** Jill has 15 red and 10 blue balloons. She wants to group them in equal bunches. What’s the most she can make?
+
+**Q5.** Find the greatest number that can divide both 24 and 36 evenly.
+
+**Q6.** If you simplify the fraction 18/24, what factor are you dividing both by?
+
+**Q7.** Tom has 20 apples and 30 oranges. What is the greatest number of identical fruit baskets he can make?
+
+**Q8.** Which number is the HCF of 8 and 32?
+
+**Q9.** Lara split 14 pencils and 21 pens into equal pouches. What is the most pouches she can make?
+
+**Q10.** Is the HCF of 9 and 27 more than 5?
+
+**Answers:**
+- Q1: 6
+- Q2: 5
+- Q3: 1, 2, 4 — HCF is 4
+- Q4: 5
+- Q5: 12
+- Q6: 6
+- Q7: 10
+- Q8: 8
+- Q9: 7
+- Q10: Yes, it's 9
+
+## Medium Level
+
+**Q1.** Find the HCF of 28 and 42.
+
+**Q2.** Sam has 36 stickers and 60 cards. What is the maximum number of children he can give identical sets to?
+
+**Q3.** Which is the HCF of 45, 60, and 75?
+
+**Q4.** If the HCF of two numbers is 4, name one possible pair of numbers.
+
+**Q5.** HCF of 48 and 64 equals?
+
+**Q6.** Helen is packing 56 blue and 72 red pens into boxes with the same number of pens. What is the greatest number of boxes?
+
+**Q7.** A gardener has 24 tulips and 36 daffodils. What’s the most flower beds she can make with the same number of each flower?
+
+**Q8.** Which number is a common factor of 27 and 36 but not the HCF?
+
+**Q9.** Is the HCF of 32 and 96 equal to one of the numbers?
+
+**Q10.** Find the greatest number that can divide 18, 27, and 45.
+
+**Answers:**
+- Q1: 14
+- Q2: 12
+- Q3: 15
+- Q4: 8 and 12
+- Q5: 16
+- Q6: 8
+- Q7: 12
+- Q8: 9
+- Q9: Yes, it’s 32
+- Q10: 9
+
+## Hard Level
+
+**Q1.** Two ropes are 84m and 108m long. What’s the largest length you can cut both into without waste?
+
+**Q2.** You have 150, 225, and 300 marbles. What’s the greatest number of identical bags you can make?
+
+**Q3.** Three clocks chime every 20, 30, and 40 minutes. What is the longest time between all chiming together?
+
+**Q4.** If HCF(a, b) = 11 and a = 22, what is b likely to be?
+
+**Q5.** HCF of two numbers is 17, and their product is 289. What are the numbers?
+
+**Q6.** A baker has 96 and 144 cookies. What’s the maximum number of identical boxes he can use?
+
+**Q7.** Is it possible for the HCF of two prime numbers to be more than 1?
+
+**Q8.** Find the HCF of 210 and 315 using prime factorisation.
+
+**Q9.** A pack of red and blue pens must be split equally with no mixing. If there are 88 red and 104 blue pens, what's the most packs possible?
+
+**Q10.** Can the HCF of three even numbers be odd?
+
+**Answers:**
+- Q1: 12m
+- Q2: 75
+- Q3: 10
+- Q4: 33
+- Q5: 17 and 17
+- Q6: 48
+- Q7: No
+- Q8: 105
+- Q9: 8
+- Q10: No
