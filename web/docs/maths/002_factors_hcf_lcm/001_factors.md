@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Factors 
 
 A **factor** is a **whole number** that divides another number **exactly**, leaving no remainder.
