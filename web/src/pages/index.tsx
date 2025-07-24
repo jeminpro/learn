@@ -1,6 +1,9 @@
+
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import { Redirect } from '@docusaurus/router';
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
-  window.location.replace(`${siteConfig.baseUrl}docs/`);
+  const url = `${siteConfig.baseUrl}docs/`;
+  return <Redirect to={url} />;
 }

@@ -7,6 +7,11 @@ sidebar_position: 0
 
 # Welcome to learning resources!
 
-- [Maths](./category/Maths/)
-- [English](./category/English/)
-- [Prompting](./category/Prompting/)
+import CategoryCard from '@site/src/components/CategoryCard';
+import styles from '@site/src/components/CategoryCards.module.css';
+
+<div className={styles.cards}>
+  <CategoryCard to="/docs/category/Maths/" title="📐 Maths" />
+  <CategoryCard to="/docs/category/English/" title="📘 English" />
+  <CategoryCard to="/docs/category/Prompting/" title="🤖 Prompting" />
+</div>
