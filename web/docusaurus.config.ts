@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Primary School Learning',
+  title: 'Learn',
   tagline: 'Learning made easy',
   favicon: 'img/favicon.ico',
 
@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://jeminpro.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/primary-school/',
+  baseUrl: '/learn/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jeminpro', // Usually your GitHub org/user name.
-  projectName: 'primary-school', // Usually your repo name.
+  projectName: 'learn', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,7 +51,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/jeminpro/primary-school/tree/main/web/',
+            'https://github.com/jeminpro/learn/tree/main/web/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -64,7 +64,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Primary School Learning',
+      title: 'Learning',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -78,7 +78,7 @@ const config: Config = {
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/jeminpro/primary-school',
+          href: 'https://github.com/jeminpro/learn',
           label: 'GitHub',
           position: 'right',
         },
