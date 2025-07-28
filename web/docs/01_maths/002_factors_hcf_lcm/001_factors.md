@@ -96,13 +96,13 @@ A **factor** is a **whole number** that divides another number **exactly**, leav
 
 **Answers:**
 - Q1: 1, 2, 3, 4, 6, 9, 12, 18, 36
-- Q2: 20 (Factors: 1, 2, 4, 5, 10, 20)
+- Q2: Both have 6 factors, i.e. 18 (1, 2, 3, 6, 9, 18), 20 (Factors: 1, 2, 4, 5, 10, 20)
 - Q3: 1, 2, 3, 4, 6, 12
 - Q4: 20
 - Q5: True
 - Q6: 4 (1,2,4), 9 (1,3,9)
 - Q7: 9
-- Q8: 9 pairs (1x36, 2x18, 3x12, 4x9, 6x6)
+- Q8: 5 pairs (1x36, 2x18, 3x12, 4x9, 6x6)
 - Q9: 10
 - Q10: 36 (1, 2, 3, 4, 6, 9, 12, 18, 36)
 
