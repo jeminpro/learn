@@ -1,4 +1,4 @@
-## ✨ Divisibility Rules
+# ✨ Divisibility Rules
 
 ### 1️⃣ Divisible by 2
 
