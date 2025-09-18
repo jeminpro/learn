@@ -1,4 +1,4 @@
-# 🕵️ How to Recognise GL Question Types
+# 🕵️ Question Type Recognition
 
 This guide shows how to **spot different comprehension question types** in GL papers, using clue words in the question.
 

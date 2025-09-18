@@ -199,10 +199,11 @@ Compare | Contrast | Explain fully | Effective | Summary | Purpose | Function | 
 
 ---
 
-## Progress Tracking
+## 🎥 Helpful YouTube Resources
 
-After each practice paper, tick skills: Retrieval ✓ / Inference ✓ / Vocabulary ✓ / Technique ✓ / Main Idea ✓ / Summary ✓ / T/F/NG ✓ / Comparison ✓ / Sequencing ✓.
-Note mistakes and set targets for next time.
+- [Tips and Tricks](https://www.youtube.com/watch?v=Ok8ZZch2zLQ)  
+- [Easy 11+ (Playlist)](https://www.youtube.com/watch?v=0wsg2M1tTN0&list=PL406ghYZq2uDUYyokE2M1YxBTIKcys17j)  
+
 
 ---
 

@@ -1,4 +1,4 @@
-# 📘 11+ GL Comprehension — 8 Week Progression Pack
+# 📘 Drill Pack 2
 
 Each week:  
 1. Read the passage (150–250 words).  

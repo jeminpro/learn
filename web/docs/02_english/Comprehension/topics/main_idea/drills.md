@@ -1,4 +1,4 @@
-# ✏️ GL Comprehension — Main Idea & Summary Drill Pack (60 Questions)
+# ✏️ Main Idea & Summary Drill Pack (60 Questions)
 
 **How to answer Main Idea/Summary:**  
 - Ask: *What is this passage mostly about?*  

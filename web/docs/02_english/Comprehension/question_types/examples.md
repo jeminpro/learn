@@ -1,4 +1,4 @@
-# ✏️  Question Types & How to Tackle Them  
+# ✏️  Examples 
 *(Printable Worksheet in Markdown)*
 
 ---

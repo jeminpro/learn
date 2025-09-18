@@ -1,4 +1,4 @@
-# 📘 GL Comprehension Question Types — Clue Words Cheat Sheet
+# 📘 Question Types Cheat Sheet
 
 Keep this beside you when practising.  
 Use the **clue words** to recognise the question type quickly.

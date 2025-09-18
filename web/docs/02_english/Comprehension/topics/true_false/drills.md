@@ -1,4 +1,4 @@
-# ✏️ GL Comprehension — True / False / Not Given Drill Pack (60 Questions)
+# ✏️ True / False / Not Given Drill Pack (60 Questions)
 
 **How to answer TFNG:**  
 - **True (T)** → The statement matches the text.  

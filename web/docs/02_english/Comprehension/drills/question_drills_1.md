@@ -1,4 +1,4 @@
-# 📘 GL Comprehension Mixed Question Drills
+# 📘 Drill Pack 1
 
 These drills help you **recognise question types** in real time.  
 For each question:  

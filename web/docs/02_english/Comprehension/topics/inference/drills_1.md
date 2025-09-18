@@ -1,4 +1,4 @@
-# ✏️ Inference Drills — GL Comprehension Practice
+# ✏️ Inference Drills Practice
 
 Practice reading between the lines.  
 For each question:  

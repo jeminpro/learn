@@ -1,4 +1,4 @@
-# 📘 GL Comprehension Question Types — Teaching Resource
+# 📘 Introduction to Question Types
 
 This resource gives **examples + practice** for the 8 most common GL comprehension question types.  
 Use it to teach, model, and practise each skill.

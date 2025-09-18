@@ -1,4 +1,4 @@
-# ✏️ GL Inference Mega Drill Pack (60 Questions)
+# ✏️ Inference Mega Drill Pack (60 Questions)
 
 Practice reading between the lines.  
 - **Easy** = single actions with obvious clues.  
