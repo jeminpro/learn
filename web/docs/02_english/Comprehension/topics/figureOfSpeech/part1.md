@@ -1,4 +1,4 @@
-# ✏️ Module 1 – Figures of Speech & Language Devices  
+# ✏️  Figures of Speech & Language Devices  
 *(Printable Worksheet in Markdown)*
 
 ---
