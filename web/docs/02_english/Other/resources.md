@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # English
 
-## Resourcse
+## Resource
 
 [Freerice vocabulary](https://play.freerice.com/categories/english-vocabulary?level=1)
 
