@@ -1,3 +1,60 @@
+# 📝 Introduction to True / False / Not Given (TFNG)
+
+True / False / Not Given (TFNG) is a common type of comprehension question.  
+It tests whether you can **match a statement** to the information in a passage.  
+
+---
+
+## ✅ The Rules
+
+- **True (T):** The statement **agrees** with the passage.  
+- **False (F):** The statement **contradicts** the passage (opposite meaning).  
+- **Not Given (NG):** The passage does **not say enough** to decide.  
+
+---
+
+## 🔍 How to Answer Step by Step
+
+1. **Read the statement carefully.**  
+   Break it into keywords and main ideas.  
+
+2. **Find the information in the passage.**  
+   Look for matching ideas or paraphrased words (synonyms, rephrasing).  
+
+3. **Compare the meaning.**  
+   - If the passage and statement mean the **same thing** → **True**  
+   - If the passage says the **opposite** → **False**  
+   - If the passage says **nothing (or not enough)** → **Not Given**  
+
+---
+
+## 🎯 Key Tips
+
+- Don’t use **outside knowledge** — only the passage.  
+- Watch for **trap words** like *always, never, all, only*.  
+- Be careful with **numbers, times, and dates**.  
+- If you find yourself **guessing or assuming**, the answer is usually **Not Given**.  
+
+---
+
+## 📖 Example
+
+**Passage:**  
+“Marie Curie discovered radium. She was the first woman to win a Nobel Prize.”  
+
+**Statements:**  
+1. Marie Curie discovered radium. → ✅ **True**  
+2. Marie Curie discovered uranium. → ❌ **False** (different element)  
+3. Marie Curie won two Nobel Prizes. → ❓ **Not Given** (only mentions “a Nobel Prize,” not how many)  
+
+---
+
+# ✨ Quick Recap
+
+- **True = Same meaning**  
+- **False = Opposite meaning**  
+- **Not Given = Missing / not enough info**  
+
 # 🚨 TFNG Traps List
 
 ## 1. Exaggeration Words
