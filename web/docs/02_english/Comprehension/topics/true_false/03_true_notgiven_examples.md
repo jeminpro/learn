@@ -1,4 +1,4 @@
-# ✅ 30 TFNG Practice Examples – Comparing True vs Not Given
+# Comparing True vs Not Given
 
 Each has a short **Text**, then two **Statements**:  
 - One is **True** (matches the passage).  

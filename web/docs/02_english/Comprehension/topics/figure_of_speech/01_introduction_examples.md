@@ -1,4 +1,4 @@
-# 🌟 Figures of Speech — Explanations & Examples
+# Explanations & Examples
 
 ---
 

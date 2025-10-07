@@ -1,4 +1,4 @@
-# 🎯 Figures of Speech Drills
+# Drills
 
 ---
 

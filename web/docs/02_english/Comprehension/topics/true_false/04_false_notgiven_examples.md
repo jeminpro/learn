@@ -1,4 +1,4 @@
-# 🔍 30 TFNG Practice Examples – Comparing False vs Not Given
+# Comparing False vs Not Given
 
 Each has a short **Text**, then two **Statements**:  
 - One should be **False** (contradicts the text).  

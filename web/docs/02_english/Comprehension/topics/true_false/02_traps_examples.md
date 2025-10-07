@@ -1,4 +1,4 @@
-# 📝 True / False / Not Given (TFNG) – 50 Practice Examples with Answers
+# Practice Examples with Answers
 
 Each example has:  
 - **Text** (from the passage)  

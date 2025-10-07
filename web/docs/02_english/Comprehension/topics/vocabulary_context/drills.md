@@ -1,4 +1,4 @@
-# ✏️ Vocabulary in Context Drill Pack (60 Questions)
+# Drill Pack (60 Questions)
 
 **How to answer Vocabulary in Context:**  
 - Read the sentence before and after.  
