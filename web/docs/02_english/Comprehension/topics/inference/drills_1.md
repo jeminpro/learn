@@ -1,4 +1,4 @@
-# ✏️ Inference Drills Practice
+# Drills Practice
 
 Practice reading between the lines.  
 For each question:  

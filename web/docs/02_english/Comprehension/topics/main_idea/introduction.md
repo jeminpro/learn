@@ -1,4 +1,4 @@
-# ✏️ Main Idea & Summary  
+# Introduction
 *(Printable Worksheet in Markdown)*
 
 ---

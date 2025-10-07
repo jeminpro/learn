@@ -1,4 +1,4 @@
-# ✏️  Author’s Purpose & Viewpoint  
+# Introduction 
 *(Printable Worksheet in Markdown)*
 
 ---

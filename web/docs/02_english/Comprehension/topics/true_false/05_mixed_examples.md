@@ -1,4 +1,4 @@
-# 📝 50 Mixed TFNG Practice Questions
+# Mixed Questions
 
 ---
 

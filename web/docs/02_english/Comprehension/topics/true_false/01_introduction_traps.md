@@ -1,4 +1,4 @@
-# 📝 Introduction to True / False / Not Given (TFNG)
+# 📝 Introduction
 
 True / False / Not Given (TFNG) is a common type of comprehension question.  
 It tests whether you can **match a statement** to the information in a passage.  

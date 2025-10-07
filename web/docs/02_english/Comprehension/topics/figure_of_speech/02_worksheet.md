@@ -1,4 +1,4 @@
-# ✏️  Figures of Speech & Language Devices  
+# Worksheet  
 *(Printable Worksheet in Markdown)*
 
 ---

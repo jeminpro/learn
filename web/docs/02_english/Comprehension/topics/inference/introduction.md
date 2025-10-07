@@ -1,4 +1,4 @@
-# ✏️ Inference & Deduction  
+# Explanation
 *(Printable Worksheet in Markdown)*
 
 ---

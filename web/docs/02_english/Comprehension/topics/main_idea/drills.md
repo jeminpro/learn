@@ -1,4 +1,4 @@
-# ✏️ Main Idea & Summary Drill Pack (60 Questions)
+# Drill Pack (60 Questions)
 
 **How to answer Main Idea/Summary:**  
 - Ask: *What is this passage mostly about?*  
