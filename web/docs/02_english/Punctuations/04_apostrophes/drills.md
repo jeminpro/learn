@@ -223,6 +223,3 @@ Rewrite this short passage adding all needed apostrophes:
 
 ---
 
-> 🧩 Next Topic: [Speech Marks →](./speech-marks.md)
-
----

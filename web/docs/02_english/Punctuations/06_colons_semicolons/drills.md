@@ -221,6 +221,4 @@ Rewrite the following paragraph using **at least three colons or semicolons** co
 
 ---
 
-> 🧩 Next Topic: [Dashes, Brackets & Hyphens →](./dashes-brackets-hyphens.md)
 
----

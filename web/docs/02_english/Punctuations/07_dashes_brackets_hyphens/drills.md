@@ -226,6 +226,4 @@ Explain how each punctuation mark changes tone or meaning.
 
 ---
 
-> 🧩 Next Topic: [Ellipsis & Advanced Punctuation →](./ellipsis-advanced.md)
 
----

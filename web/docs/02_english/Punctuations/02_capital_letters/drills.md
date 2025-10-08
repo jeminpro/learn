@@ -208,6 +208,4 @@ Write a short paragraph (5–6 lines) describing your favourite holiday.
 
 ---
 
-> 🧩 Next Topic: [Commas →](./commas.md)
 
----

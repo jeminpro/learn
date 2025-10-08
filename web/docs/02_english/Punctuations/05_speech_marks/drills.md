@@ -243,7 +243,3 @@ Rewrite this passage correctly punctuating the dialogue and splitting new speake
 > “No, I checked there already,” groaned Lily.
 
 ---
-
-> 🧩 Next Topic: [Colons and Semicolons →](./colons-semicolons.md)
-
----

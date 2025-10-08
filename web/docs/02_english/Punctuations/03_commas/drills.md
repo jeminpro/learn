@@ -217,6 +217,3 @@ Rewrite this short passage using **at least five correct commas**:
 
 ---
 
-> 🧩 Next Topic: [Apostrophes →](./apostrophes.md)
-
----
