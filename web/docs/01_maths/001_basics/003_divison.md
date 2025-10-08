@@ -108,9 +108,9 @@
 ### A) As a **mixed number (fraction)**
 
 If dividend ÷ divisor = **Q remainder R**, then:
-[
-\text{answer} = Q\ \frac{R}{\text{divisor}}
-]
+
+**answer = Q + R/divisor** (as a mixed number)
+
 Always **simplify** the fraction.
 
 * Example: 85 ÷ 6 → 14 r1 → **14 1/6**
@@ -121,7 +121,7 @@ Always **simplify** the fraction.
 Two ways:
 
 1. **Continue the division** past the decimal point: add “.0” and bring down zeros.
-2. Convert the **fraction** ( \frac{R}{\text{divisor}} ) to a decimal.
+2. Convert the **fraction** (R/divisor) to a decimal.
 
 * 23 ÷ 5 → 4 r3 → **4 3/5 = 4.6** (terminates)
 * 85 ÷ 6 → **14 1/6 = 14.1666…** (6 recurs)
