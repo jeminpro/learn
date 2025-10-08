@@ -155,5 +155,3 @@ When in doubt, **read aloud** — punctuation should **make the writing sound ri
 If your voice hesitates, rises, or pauses — there’s probably a punctuation mark missing!
 
 ---
-
-> 🧠 *Next Step:* Try the [Mixed Punctuation Master Test](./mixed-punctuation-test.md) using this checklist.
