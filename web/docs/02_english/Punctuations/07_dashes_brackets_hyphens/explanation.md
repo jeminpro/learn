@@ -189,6 +189,4 @@ Discuss how tone changes.
 
 ---
 
-> 🧩 Next: [Dashes, Brackets & Hyphens — Drill Pack →](./dashes-brackets-hyphens-drill-pack.md)
 
----

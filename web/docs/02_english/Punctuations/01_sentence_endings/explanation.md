@@ -124,8 +124,5 @@ Correct the punctuation in these short sentences:
 4. I can’t find my shoes.  
 5. How funny that was!
 
----
-
-> 🧩 Next: [Capital Letters →](./capital-letters.md)
 
 ---

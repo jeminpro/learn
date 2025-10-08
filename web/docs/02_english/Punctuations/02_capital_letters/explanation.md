@@ -151,6 +151,3 @@ Fix the capital letters in the sentences below:
 
 ---
 
-> 🧩 Next: [Capital Letters — Drill Pack →](./capital-letters-drill-pack.md)
-
----

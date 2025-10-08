@@ -182,6 +182,3 @@ Explain why commas are used in this sentence:
 
 ---
 
-> 🧩 Next: [Commas — Drill Pack →](./commas-drill-pack.md)
-
----

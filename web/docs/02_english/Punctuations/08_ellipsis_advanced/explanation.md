@@ -199,7 +199,3 @@ Rewrite these sentences three ways — using **.**, **!**, and **…** — and d
 - The door creaked open … → suspense or mystery
 
 ---
-
-> 🧩 Next: [Mixed Punctuation Master Test →](./mixed-punctuation-test.md)
-
----

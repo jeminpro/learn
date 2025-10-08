@@ -167,8 +167,5 @@ Rewrite the short passage adding correct sentence endings **and** adjusting tone
 ✅ *Possible answer:*  
 > The thunder rumbled in the distance. We looked at each other. Should we run for it? The rain began to pour — it was too late!
 
----
-
-> 🧩 Next Drill Pack: [Capital Letters →](./capital-letters-drill-pack.md)
 
 ---

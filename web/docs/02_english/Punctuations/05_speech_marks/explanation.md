@@ -169,7 +169,3 @@ Rewrite this paragraph correctly punctuating the dialogue:
 > “But she’s taking forever!” complained Josh.
 
 ---
-
-> 🧩 Next: [Speech Marks — Drill Pack →](./speech-marks-drill-pack.md)
-
----

@@ -172,7 +172,3 @@ d) She gave me one piece of advice: never give up.
 e) We visited London, England; Rome, Italy; and Paris, France.
 
 ---
-
-> 🧩 Next: [Colons and Semicolons — Drill Pack →](./colons-semicolons-drill-pack.md)
-
----
