@@ -6,7 +6,7 @@ _Test interval: every 3 months_
 
 ## 📊 Summary Table
 
-| Date (MM/YYYY) | Overall (56) | Comprehension (20) | Punctuation (12) | Spelling (12) | Grammar (12) | Notes | Test |
+| Date (MM/YYYY) | Overall | Comprehension | Punctuation | Spelling | Grammar | Notes | Test |
 |----------------|:-------------:|:------------------:|:----------------:|:--------------:|:-------------:|:------|:---------|
 | **Sept 2025** | 24 / 56 | 12 / 20 | 8 / 12 | 4 / 12 | 0 / 12 | First full mock. Grammar unfinished due to time. | GL Assessment Pack 1 |
 | **Dec 2025** |  |  |  |  |  |  |

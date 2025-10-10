@@ -1,4 +1,4 @@
-# 📘 11+ English Progress Tracker
+# 11+ English Progress Tracker
 
 ## ✅ Topics Checklist
 
