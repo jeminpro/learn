@@ -1,114 +1,164 @@
-# ⏱️ Speed & Accuracy  
-*(Printable Worksheet in Markdown)*
+# 🧠 11+ Multiple-Choice Comprehension – Tips & Tricks
+
+These papers test **speed**, **understanding**, and **accuracy** — not long written answers.  
+The goal is to **spot clues quickly**, **avoid traps**, and **choose the most accurate option**.
 
 ---
 
-## Instructions  
-This worksheet will help you practise answering **quickly and accurately**.  
-- Use a **stopwatch** or timer.  
-- Skim the text quickly first, then scan for answers.  
-- Don’t get stuck—move on and come back later.  
-- Remember: there is **no negative marking** in GL.  
+## 📖 1. Read Smart – Skim Once and Underline Clues
+
+You don’t have time to read twice.
+
+✅ **Step 1:** Skim the passage quickly for the main idea.  
+✅ **Step 2:** Underline or highlight key clues:
+- Names and pronouns (who, where, when)  
+- Feelings or mood changes  
+- Connectives (but, although, suddenly, however)  
+- Strong adjectives or verbs  
+
+Then go straight to **Question 1** — you’ll revisit parts of the text as you go.
 
 ---
 
-## Part A: Skim & Scan (2 minutes)  
-Read the short passage. Then answer the questions.  
+## 🧩 2. Read the Question Carefully
 
-**Passage:**  
-The library was filled with the smell of old books. Anna hurried inside, searching for her history project notes. She checked the first table, then the second, but they weren’t there. Finally, she spotted them near the window, where she had been sitting earlier.  
+Every question gives you a **clue word** — underline it!
 
-**Questions (answer in under 2 minutes):**  
-1. Where was Anna searching?  
-2. What was she looking for?  
-3. Where did she finally find them?  
+✅ Look for:
+- “main idea”, “feeling”, “effect”, “means”, “suggests”  
+- Words like *not*, *always*, *never* that reverse meaning  
 
----
-
-## Part B: Find the Word Fast (1 minute)  
-Skim the paragraph. Circle or underline the words that mean the same as **“angry”**.  
-
-**Paragraph:**  
-John slammed the door and stomped across the room. His furious expression made everyone step back. “I can’t believe this!” he shouted, his face red with rage.  
-
-Synonyms for “angry”: __________  
+**Example:**  
+> Which word is **not similar** to “angry”?  
+Underline “not”! Most mistakes happen because it’s missed.
 
 ---
 
-## Part C: Quick Retrieval Race (90 seconds)  
-**Passage:**  
-The Amazon rainforest covers millions of square kilometres. It is home to jaguars, sloths, and thousands of bird species. Many medicines come from rainforest plants. However, trees are being cut down quickly, which threatens the animals.  
+## 🎯 3. Eliminate Wrong Answers First
 
-**Questions:**  
-1. Name two animals that live in the rainforest.  
-2. What useful things come from rainforest plants?  
-3. What problem is the rainforest facing?  
+Most questions have **one correct**, **one almost right**, and **two wrong** options.
 
----
+✅ Cross out obvious wrongs quickly.  
+✅ Between two close ones, check **which fits the whole sentence or tone**.  
+✅ If unsure, pick the answer that matches the **mood** of the passage.
 
-## Part D: Accuracy Test – Don’t Be Tricked (2 minutes)  
-**Passage:**  
-The River Thames flows through London and many other towns in England. Boats travel along it every day. Long ago, people used the river to transport coal and goods.  
-
-**Statements (True / False / Not Given):**  
-1. The River Thames is in Scotland. ___  
-2. Boats still travel on the River Thames. ___  
-3. The River Thames was used to move coal in the past. ___  
-4. The River Thames is the longest river in the world. ___  
+**Tip:** Wrong answers often sound too extreme, or don’t match the text’s feeling.
 
 ---
 
-## Part E: Timed Summary Challenge (3 minutes)  
-**Passage:**  
-Bees are small insects that play a big role in nature. They collect nectar from flowers and turn it into honey. While doing this, they also pollinate plants, which helps fruits and vegetables grow. Without bees, many foods humans rely on would disappear.  
+## 🧠 4. Question Order Helps You
 
-**Question:**  
-Write a **one-sentence summary** of this passage. You have **3 minutes**.  
+The questions usually follow the **same order as the passage**.  
+So when you finish one, the next answer is often found in the **next paragraph**.
 
----
-
-## Part F: 5-Minute Mixed Drill  
-Set a timer for **5 minutes**. Read the text and answer all questions.  
-
-**Passage:**  
-Mount Vesuvius is a volcano in Italy. In AD 79, it erupted and buried the Roman city of Pompeii under ash. Today, thousands of tourists visit the site to see the ruins. Scientists still study the volcano because it is active and could erupt again.  
-
-**Questions:**  
-1. What happened to Pompeii in AD 79?  
-2. Why do tourists visit the site today?  
-3. What do scientists study about Vesuvius?  
-4. Is the volcano still active?  
+👉 This helps you move through the text logically — no jumping back and forth.
 
 ---
 
-## 📝 Answer Key (Teacher Use Only)
+## 💬 5. Vocabulary / Meaning Questions
 
-**Part A**  
-1. In the library.  
-2. Her history project notes.  
-3. On the table near the window.  
+When asked what a word means:
+1. Read the full sentence again.  
+2. Think: does the word sound **positive or negative**?  
+3. Replace it mentally with a simple synonym.  
+4. Choose the option that fits best.
 
-**Part B**  
-Synonyms: furious, rage.  
+✅ Ignore dictionary meanings — choose what fits **in context**.
 
-**Part C**  
-1. Jaguars, sloths, (or birds).  
-2. Medicines.  
-3. Deforestation (trees being cut down).  
-
-**Part D**  
-1. False  
-2. True  
-3. True  
-4. Not Given  
-
-**Part E**  
-Bees make honey and pollinate plants, helping humans grow food.  
-
-**Part F**  
-1. Pompeii was buried in ash by an eruption.  
-2. To see the ruins.  
-3. The volcano, because it could erupt again.  
-4. Yes.  
+**Example:**  
+> “He trudged home through the rain.”  
+“Trudged” = walked **slowly and tiredly**, not just “walked”.
 
 ---
+
+## 💥 6. Inference Questions (Reading Between the Lines)
+
+You won’t find the answer directly.  
+Ask yourself: *What does this show? What does this tell me about the character?*
+
+✅ Check verbs, emotions, or body language.  
+✅ Avoid dramatic guesses — stick to clues in the text.
+
+**Example:**  
+> “Ben stared at his shoes.” → He’s probably **embarrassed or guilty**, not just looking down.
+
+---
+
+## 🔍 7. Tone and Feeling Questions
+
+When asked how a character feels or what the tone is:
+- Check emotion words, punctuation (!, …, ?)
+- Look for verbs that reveal attitude (snapped, sighed, whispered)
+- Read the whole sentence, not just one word
+
+| Clue | Feeling |
+|------|----------|
+| “She clenched her fists.” | Angry or tense |
+| “He shuffled away.” | Sad or ashamed |
+| “He grinned widely.” | Happy or relieved |
+
+---
+
+## 🧾 8. True / False / Not Given (if included)
+
+✅ **True** → clearly stated in the text  
+✅ **False** → clearly opposite of what’s in the text  
+✅ **Not Given** → not mentioned at all  
+
+Don’t overthink — if it’s not there, mark “Not Given”.
+
+---
+
+## ⏰ 9. Manage Your Time Wisely
+
+Typical format: 1 passage + 10–15 questions in 20–25 minutes.
+
+**Plan:**
+- 2 minutes skim + underline clues  
+- 15–18 minutes answering  
+- 2–3 minutes check skipped ones  
+
+✅ Don’t get stuck — guess, mark, move on, and return later.
+
+---
+
+## ⚡ 10. Common Examiner Tricks
+
+| Trap | How to Avoid |
+|------|---------------|
+| ❌ “Not” hidden in question | Underline it immediately |
+| ❌ Options too general | Pick the most specific one |
+| ❌ Emotional misdirection | Match the tone of the text |
+| ❌ Two similar answers | Check which one fits *every* clue |
+| ❌ Outside knowledge | Base answer only on passage |
+
+---
+
+## 📚 11. Practice Like the Real Test
+
+When practising:
+- Use a timer ⏱️  
+- Don’t read twice — skim, underline, move on  
+- Don’t guess wildly — **cross out wrongs first**  
+- Read options fully before selecting  
+
+**Best approach:**  
+> “Scan → Eliminate → Confirm”
+
+---
+
+## 🏆 12. Final 11+ Checklist
+
+| ✅ | Have you… |
+|----|------------|
+| 👀 Skimmed and underlined key clues? | |
+| ✏️ Underlined key words in each question? | |
+| ❌ Crossed out obvious wrong answers? | |
+| 🧠 Chosen the option that fits tone and evidence? | |
+| ⏰ Kept to time and moved on when unsure? | |
+
+---
+
+> 💡 **Remember:**  
+> In multiple-choice comprehension, speed and accuracy matter more than perfect detail.  
+> **Read smart, spot clues, and trust the text — not your memory!**

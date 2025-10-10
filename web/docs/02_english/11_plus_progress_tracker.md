@@ -3,13 +3,25 @@
 ## ✅ Topics Checklist
 
 ### Comprehension
-- [ ] Comprehension → Types of questions and text
+- [✔️] Comprehension → Types of questions and text
 - [ ] Comprehension → Inference  
 - [ ] Comprehension → Main Idea/Summary 
-- [ ] Comprehension → True/False/NG 
-- [ ] Comprehension → Writer’s purpose and viewpoint  
-- [ ] Comprehension → Vocabulary Context
+- [✔️] Comprehension → True/False/NG 
+- [✔️] Comprehension → Writer’s purpose and viewpoint  
+- [✔️] Comprehension → Vocabulary Context
 - [ ] Comprehension → Figure of speech
+- [ ] Comprehension → Tips and Tricks
+- [ ] Comprehension → Easy 11+ Videos 
+
+### Punctuation
+- [ ] Sentence Endings 
+- [ ] Capital Letters 
+- [ ] Apostrophes  
+- [ ] Speech Marks  
+- [ ] Colons & Semicolons  
+- [ ] Commas
+- [ ] Dashes, Brackets & Hyphens
+- [ ] Advanced Punctuation
 
 ### Grammar
 - [ ] Subject–Verb Agreement  
@@ -17,45 +29,42 @@
 - [ ] Clauses (main & subordinate)  
 - [ ] Pronouns  
 - [ ] Prepositions  
-- [ ] Sentence Types  
-
-### Punctuation
-- [ ] Full Stops & Capitals  
-- [ ] Commas (lists, clauses, openers)  
-- [ ] Apostrophes (contractions, possession)  
-- [ ] Speech Marks  
-- [ ] Colons & Semicolons  
+- [ ] Sentence Types 
 
 ---
 
 ## 📊 Progress & Notes
 
-| Topic         | Sub-Topic             | Status        | Notes                              |
-|---------------|-----------------------|---------------|------------------------------------|
-| Comprehension | Intro to type of qns  | Not Started   |                                    |
-| Comprehension | Retrieval             | Not Started   |                                    |
-| Comprehension | Vocabulary in Context | Not Started   |                                    |
-| Comprehension | Inference             | Not Started   |                                    |
-| Comprehension | Writer’s Technique    | Not Started   |                                    |
-| Comprehension | Main Idea             | Not Started   |                                    |
-| Comprehension | True/False/NG         | Not Started   |                                    |
-| Comprehension | Sequencing            | Not Started   |                                    |
-| Comprehension | Comparison            | Not Started   |                                    |
-| Vocabulary    | Synonyms              | In Progress   | Daily drills helping               |
-| Vocabulary    | Antonyms              | In Progress   | Daily drills helping               |
-| Vocabulary    | Word Families         | Not Started   |                                    |
-| Vocabulary    | Spelling Rules        | In Progress   |                                    |
-| Grammar       | Subject–Verb Agreement| Not Started   | Planned for 2026                   |
-| Grammar       | Tenses                | Not Started   |                                    |
-| Grammar       | Clauses               | Not Started   |                                    |
-| Grammar       | Pronouns              | Not Started   |                                    |
-| Grammar       | Prepositions          | Not Started   |                                    |
-| Grammar       | Sentence Types        | Not Started   |                                    |
-| Punctuation   | Full Stops & Capitals | Not Started   |  Planned for November              |
-| Punctuation   | Commas                | Not Started   |                                    |
-| Punctuation   | Apostrophes           | Not Started   |                                    |
-| Punctuation   | Speech Marks          | Not Started   |                                    |
-| Punctuation   | Colons & Semicolons   | Not Started   |                                    |
+---
 
-##### Status - Not Started, In Progress, Needs Revision, Mastered
+### 📘 **Comprehension** — 🟡 *In Progress*
+
+| Area | Status | Notes / Next Steps |
+|------|:-------:|-------------------|
+| **Vocabulary in Context** | 🟢 Good | Oct 2025: Struggles with meaning of difficult words → Focus on daily vocabulary building and contextual clues. |
+| **Author’s Purpose & Viewpoint** | 🟡 Needs Revision | Oct 2025: Practise **Part C: Author’s Viewpoint** and **Part D: Bias/Neutral** questions. |
+| **True / False / Not Given (TFNG)** | 🟢 Good | Oct 2025: Good grasp of the concept |
+| **Main Idea & Summary** | 🟢 Good | Oct 2025: Good grasp of the concept |
+| **Figure of Speech** | 🟡 Needs Revision | Oct 2025: Difficulty remembering devices. Focus on difference between **Metaphor vs Simile**, and practise **Personification**, **Rule of Three**, **Imagery**. Needs more reinforcement drills. |
+| **Inference** | 🔴 Not Started |  |
+---
+
+### 🧩 **Vocabulary** — 🟡 *In Progress*
+
+> Needs broader exposure to high-level and contextual vocabulary.  
+> Continue weekly synonym/antonym practice and reading comprehension-based word study.
+
+---
+
+### ✏️ **Punctuation** — 🔴 *Not Started*
+
+> Target start date - Nov 2025  
+
+
+---
+
+### 🧠 **Grammar** — 🔴 *Not Started*
+
+> Target start date - Jan 2026
+
 --- 

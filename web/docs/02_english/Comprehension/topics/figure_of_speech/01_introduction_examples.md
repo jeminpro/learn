@@ -93,12 +93,19 @@
 
 ---
 
-## 12. Sound Devices
-👉 Repeated **sounds** for effect (not just at the beginning).  
-- **Assonance (repeated vowel sounds):** “The m**oo**n r**oo**ms with l**oo**nely tr**oo**ps.”  
-- **Consonance (repeated consonant sounds):** “The shi**p** saile**d** to the dee**p**.”  
-- **Sibilance (repeated ‘s’ sounds):** “The **s**oft **s**ong of the **s**ea.”  
-- **Effect:** Creates rhythm, mood (soft = calm, harsh = tense).  
+## 12. Idioms
+
+An **idiom** is a common phrase or expression where the **meaning is different from the literal words**.  
+Writers use idioms to make their language sound **natural, expressive, and conversational**.
+
+**Example:**
+> It’s **raining cats and dogs**.
+
+**Meaning:**  
+It’s raining heavily (not literally animals falling from the sky!).
+
+**Effect:**  
+Idioms make writing sound more fluent, interesting, and familiar to the reader.
 
 ---
 
