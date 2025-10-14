@@ -1,6 +1,4 @@
-# 🗺️ 11+ GL Grammar Teaching Roadmap (Gloucestershire)
-*Punctuation is excluded — focus is purely on grammar and sentence structure.*
-
+# Teaching Roadmap
 ---
 
 ## 🌱 Stage 1: Core Foundations

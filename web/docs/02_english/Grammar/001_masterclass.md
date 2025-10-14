@@ -1,6 +1,4 @@
-# 🧾 11+ GL Grammar Topic Checklist (Gloucestershire)
-*Punctuation topics are excluded.*
-
+# Topic Checklist 
 ---
 
 ## 🟩 1. Sentence Structure
