@@ -1,5 +1,4 @@
-# 🧩 Adjectives and Adverbs Usage
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Adjectives and Adverbs Usage
 
 ---
 

@@ -1,5 +1,4 @@
-# 🧩 Sentence Combination and Transformation
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Sentence Combination and Transformation
 
 ---
 

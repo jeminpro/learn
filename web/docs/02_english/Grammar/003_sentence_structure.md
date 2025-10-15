@@ -1,4 +1,4 @@
-# 🧩 Sentence Structure
+# Sentence Structure
 *(11+ GL Grammar Masterclass – Gloucestershire)*
 
 ---

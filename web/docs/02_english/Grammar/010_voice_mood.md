@@ -1,5 +1,4 @@
-# 🧩 Voice and Mood
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Voice and Mood
 
 ---
 

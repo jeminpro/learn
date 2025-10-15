@@ -1,5 +1,4 @@
-# 🧩 Noun and Pronoun Agreement
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Noun and Pronoun Agreement
 
 ---
 

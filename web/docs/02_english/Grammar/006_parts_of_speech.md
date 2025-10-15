@@ -1,5 +1,4 @@
-# 🧩 Parts of Speech
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Parts of Speech
 
 ---
 

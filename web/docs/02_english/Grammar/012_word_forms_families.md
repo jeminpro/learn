@@ -1,5 +1,4 @@
-# 🧩 Word Forms and Families
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Word Forms and Families
 
 ---
 

@@ -1,5 +1,4 @@
-# 🧩 Direct and Reported Speech
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Direct and Reported Speech
 
 ---
 

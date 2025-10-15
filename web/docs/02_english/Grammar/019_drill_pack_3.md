@@ -1,5 +1,4 @@
-# 🧩 Mixed Grammar Drill Pack 3
-*(Gloucestershire GL 11+ English & Verbal Skills – Hard Level)*
+# Mixed Grammar Drill Pack 3
 
 ---
 

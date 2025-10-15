@@ -1,5 +1,4 @@
-# 🧩 Errors and Proofreading
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Errors and Proofreading
 
 ---
 

@@ -1,5 +1,4 @@
-# 🧩 Verb Forms and Tenses
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Verb Forms and Tenses
 
 ---
 

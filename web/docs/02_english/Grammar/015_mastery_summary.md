@@ -1,5 +1,4 @@
-# 🧾 Grammar Mastery Summary
-*(Gloucestershire GL 11+ English & Verbal Skills)*
+# Grammar Mastery Summary
 
 ---
 

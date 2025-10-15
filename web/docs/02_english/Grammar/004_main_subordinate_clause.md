@@ -1,5 +1,4 @@
-# 🧩 Main and Subordinate Clauses
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Main and Subordinate Clauses
 
 ---
 

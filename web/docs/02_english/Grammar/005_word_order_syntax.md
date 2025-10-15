@@ -1,5 +1,4 @@
-# 🧩 Word Order and Syntax
-*(11+ GL Grammar Masterclass – Gloucestershire)*
+# Word Order and Syntax
 
 ---
 
