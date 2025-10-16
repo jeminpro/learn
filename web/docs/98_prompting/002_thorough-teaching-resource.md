@@ -2,9 +2,9 @@
 # Thorough teaching resource
 
 ```md
-I am preparing for the **11 Plus (GL/CEM) exams** and would like a **thorough teaching resource** on **fractions**, broken down by individual concept.
+I am preparing for the **11 Plus (GL/CEM) exams** and would like a **thorough teaching resource** on **Decimals**, broken down by individual concept.
 
-For each of the listed fraction topics below, I want you to perform the following: 
+For each of the listed topics below, I want you to perform the following: 
 
 ---
 
@@ -44,31 +44,25 @@ For each of the listed fraction topics below, I want you to perform the followin
 
 ---
 
-### 📚 FRACTION TOPICS TO COVER:
+### 📚 TOPICS TO COVER:
 
-1. **Understanding Fractions**
-2. **Equivalent Fractions**
-3. **Simplifying Fractions**
-4. **Comparing Fractions**
-5. **Ordering Fractions**
-6. **Adding Fractions**
-7. **Subtracting Fractions**
-8. **Multiplying Fractions**
-9. **Dividing Fractions**
-10. **Finding Fractions of Quantities**
-11. **Converting Between Fractions, Decimals, and Percentages**
-12. **Solving Word Problems Involving Fractions**
+1. Decimal place value	
+2. Adding and subtracting decimals	
+3. Multiplying and dividing decimals	
+4. Converting decimals and fractions	
+5. Order and compare decimals		
 
 ---
 
 ### 🧠 Notes to the AI:
 
-* Stay consistent in notation (avoid mixing ¾ with 3/4 unless styled properly)
+* Stay consistent in notation and avoid using LaTeX math blocks in the markdown
+* Keep the markdown neater and compatabale for docusaurus docs
 * Word problems must be **age-appropriate but challenging**, reflecting 11 Plus expectations
 * Encourage **reasoning and logic**, not just rote calculation
 * Do not repeat templates or values excessively — prioritize variety and creativity
 * Use familiar UK-style measurements (pounds, litres, cm, etc.)
-* Avoid calculator-required values (stick to manageable fractions)
+* Avoid calculator-required values (stick to manageable mental math numbers)
 
 ---
 
@@ -110,5 +104,6 @@ Use this format for each topic:
 ...
 
 ---
+
 
 ```
