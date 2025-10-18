@@ -58,7 +58,7 @@
 
 ---
 
-### ✏️ **Punctuation** — 🔴 *In Progress*
+### ✏️ **Punctuation** — 🟡 *In Progress*
 
 | Area | Status | Notes / Next Steps |
 |------|:-------:|-------------------|
