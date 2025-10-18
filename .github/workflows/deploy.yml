@@ -24,10 +24,10 @@ jobs:
         with:
           fetch-depth: 0  # Full history for last updated info
 
-      - name: Setup Node.js
+      - name: Setup Node.js (use latest LTS)
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: 'lts/*'
           cache: 'npm'
           cache-dependency-path: web/package-lock.json
 
