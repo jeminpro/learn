@@ -1,12 +1,12 @@
 ---
-sidebar_position: 0
+sidebar_position: -1
 ---
-# 11+ Maths Progress Tracker
+# ⌛ 11+ Maths Progress Tracker
 
-> **Level** column, write one of: 💀 = Needs Practice 🙂 = Good 🏆 = Master  
+> **Level** 💀 = Needs Practice 🙂 = Good 🏆 = Master  
 
 
-## Place Value
+## Basics
 
 | Topic | Level | Comments |
 |---|---|---|
@@ -15,8 +15,7 @@ sidebar_position: 0
 | Roman numerals | 🙂 |  |
 | Rounding numbers | 🙂 |  |
 | Negative numbers | 🙂 |  |
-
----
+| BIDMAS |  |  |
 
 ## Operations
 
@@ -35,8 +34,6 @@ sidebar_position: 0
 | Estimating | 🙂 |  |
 | Worded number problems |  |  |
 
----
-
 ## Fractions
 
 | Topic | Level | Comments |
@@ -47,8 +44,6 @@ sidebar_position: 0
 | Mixed numbers and improper fractions | 🙂 |  |
 | Order and compare fractions | 🙂 |  |
 
----
-
 ## Decimals
 
 | Topic | Level | Comments |
@@ -58,8 +53,6 @@ sidebar_position: 0
 | Multiplying and dividing decimals |  |  |
 | Converting decimals and fractions |  |  |
 | Order and compare decimals |  |  |
-
----
 
 ## Measurement
 
@@ -72,8 +65,6 @@ sidebar_position: 0
 | Area |  |  |
 | Volume |  |  |
 | Imperial units |  |  |
-
----
 
 ## Data
 
@@ -88,8 +79,6 @@ sidebar_position: 0
 | Mean |  |  |
 | Mode, median & range |  |  |
 
----
-
 ## Algebra
 
 | Topic | Level | Comments |
@@ -98,8 +87,6 @@ sidebar_position: 0
 | Substitution |  |  |
 | Solving equations |  |  |
 | Forming expressions |  |  |
-
----
 
 ## Geometry
 
@@ -112,8 +99,6 @@ sidebar_position: 0
 | Angles |  |  |
 | Position |  |  |
 | Transformations |  |  |
-
----
 
 ## Ratio and Proportion
 
