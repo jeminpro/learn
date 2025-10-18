@@ -16,7 +16,7 @@
 - [ ] Comprehension → Drill Packs
 
 ### Punctuation
-- [ ] Sentence Endings 
+- [✔️] Sentence Endings 
 - [ ] Capital Letters 
 - [ ] Apostrophes  
 - [ ] Speech Marks  
@@ -58,10 +58,12 @@
 
 ---
 
-### ✏️ **Punctuation** — 🔴 *Not Started*
+### ✏️ **Punctuation** — 🔴 *In Progress*
 
-> Target start date - Nov 2025  
-
+| Area | Status | Notes / Next Steps |
+|------|:-------:|-------------------|
+| **Sentence Endings** | 🟢Good| Oct 2025: Got almost all correct in drill pack. Will be good to give practise questions in indirect questions |
+| **Capital Letters** | 🟡 In Progress | Oct 2025: Needs revision. Struggles with when to apply for different types of nouns etc |
 
 ---
 
