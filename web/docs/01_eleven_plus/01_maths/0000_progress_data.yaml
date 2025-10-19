@@ -17,7 +17,7 @@ sections:
         level: completed
         notes: ""
       - name: BIDMAS
-        level: 
+        level: completed
         notes: ""
 
   - name: Operations
@@ -152,7 +152,7 @@ sections:
         level: 
         notes: ""
       - name: Substitution
-        level: 
+        level: needs_practice
         notes: ""
       - name: Solving equations
         level: 
