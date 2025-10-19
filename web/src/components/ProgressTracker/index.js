@@ -197,7 +197,7 @@ export const TopicItem = ({
         style={{
           maxHeight: isExpandedState ? '200px' : '0',
           overflow: 'hidden',
-          padding: isExpandedState ? '8px 8px 8px 36px' : '0 8px 0 36px',
+          padding: isExpandedState ? '8px 8px 8px 22px' : '0 8px 0 36px',
           backgroundColor: 'var(--ifm-color-emphasis-50)',
           borderRadius: '0 0 4px 4px',
           fontSize: 'calc(var(--ifm-menu-font-size) * 0.95)',
@@ -211,8 +211,9 @@ export const TopicItem = ({
         <p style={{ margin: '4px 0' }}>
           {topic.notes && (
             <>
-              <br />
-              <strong>Notes:</strong> {topic.notes || "No notes yet"}
+              <strong>Notes:</strong>
+              <br /> 
+              {topic.notes || "No notes yet"}
             </>
           )}
         </p>
@@ -504,15 +505,6 @@ export default function ProgressTracker({ data }) {
               position: 'relative'
             }}
           >
-            <div style={{
-              position: 'absolute',
-              bottom: '-1px',
-              left: '0',
-              width: '60px',
-              height: '3px',
-              backgroundColor: 'var(--ifm-color-primary)',
-              borderRadius: '2px'
-            }}></div>
             {section.name}
           </h3>
           <div className="topics-list">
