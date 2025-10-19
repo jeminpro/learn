@@ -1,0 +1,198 @@
+sections:
+  - name: Basics
+    topics:
+      - name: Place value
+        level: master
+        notes: This is a test notes
+      - name: Order and compare numbers
+        level: master
+        notes: ""
+      - name: Roman numerals
+        level: good
+        notes: ""
+      - name: Rounding numbers
+        level: good
+        notes: ""
+      - name: Negative numbers
+        level: good
+        notes: ""
+      - name: BIDMAS
+        level: 
+        notes: ""
+
+  - name: Operations
+    topics:
+      - name: Written addition
+        level: good
+        notes: ""
+      - name: Written subtraction
+        level: good
+        notes: ""
+      - name: Written multiplication
+        level: good
+        notes: ""
+      - name: Written division
+        level: good
+        notes: ""
+      - name: Mental addition and subtraction
+        level: 
+        notes: ""
+      - name: Mental multiplication and division
+        level: 
+        notes: ""
+      - name: Square and cube numbers
+        level: 
+        notes: ""
+      - name: Multiples
+        level: good
+        notes: ""
+      - name: Factors
+        level: good
+        notes: ""
+      - name: Prime numbers and factor trees
+        level: 
+        notes: ""
+      - name: Estimating
+        level: good
+        notes: ""
+      - name: Worded number problems
+        level: 
+        notes: ""
+
+  - name: Fractions
+    topics:
+      - name: Calculating fractions
+        level: good
+        notes: ""
+      - name: Adding and subtracting fractions
+        level: good
+        notes: ""
+      - name: Equivalent fractions
+        level: good
+        notes: ""
+      - name: Mixed numbers and improper fractions
+        level: good
+        notes: ""
+      - name: Order and compare fractions
+        level: good
+        notes: ""
+
+  - name: Decimals
+    topics:
+      - name: Decimal place value
+        level: 
+        notes: ""
+      - name: Adding and subtracting decimals
+        level: 
+        notes: ""
+      - name: Multiplying and dividing decimals
+        level: 
+        notes: ""
+      - name: Converting decimals and fractions
+        level: 
+        notes: ""
+      - name: Order and compare decimals
+        level: 
+        notes: ""
+
+  - name: Measurement
+    topics:
+      - name: Length & perimeter
+        level: 
+        notes: ""
+      - name: Money
+        level: 
+        notes: ""
+      - name: Time
+        level: 
+        notes: ""
+      - name: Metric units
+        level: 
+        notes: ""
+      - name: Area
+        level: 
+        notes: ""
+      - name: Volume
+        level: 
+        notes: ""
+      - name: Imperial units
+        level: 
+        notes: ""
+
+  - name: Data
+    topics:
+      - name: Pictograms
+        level: 
+        notes: ""
+      - name: Bar charts
+        level: 
+        notes: ""
+      - name: Line graphs
+        level: 
+        notes: ""
+      - name: Pie charts
+        level: 
+        notes: ""
+      - name: Tables
+        level: 
+        notes: ""
+      - name: Venn diagrams
+        level: 
+        notes: ""
+      - name: Mean
+        level: 
+        notes: ""
+      - name: Mode, median & range
+        level: 
+        notes: ""
+
+  - name: Algebra
+    topics:
+      - name: Simple sequences
+        level: 
+        notes: ""
+      - name: Substitution
+        level: 
+        notes: ""
+      - name: Solving equations
+        level: 
+        notes: ""
+      - name: Forming expressions
+        level: 
+        notes: ""
+
+  - name: Geometry
+    topics:
+      - name: 3D shapes
+        level: 
+        notes: ""
+      - name: Triangles
+        level: 
+        notes: ""
+      - name: Quadrilaterals
+        level: 
+        notes: ""
+      - name: Polygons & circles
+        level: 
+        notes: ""
+      - name: Angles
+        level: 
+        notes: ""
+      - name: Position
+        level: 
+        notes: ""
+      - name: Transformations
+        level: 
+        notes: ""
+
+  - name: Ratio and Proportion
+    topics:
+      - name: Order & Compare Percentages
+        level: 
+        notes: ""
+      - name: Calculating percentages
+        level: 
+        notes: ""
+      - name: Relative quantities
+        level: 
+        notes: ""

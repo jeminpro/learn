@@ -45,6 +45,7 @@ const config: Config = {
   },
   
   themes: ['@docusaurus/theme-mermaid'],
+  plugins: [require.resolve('./src/plugins/yaml-loader-plugin.js')],
 
   presets: [
     [
