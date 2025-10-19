@@ -2,19 +2,19 @@ sections:
   - name: Basics
     topics:
       - name: Place value
-        level: master
+        level: mastered
         notes: This is a test notes
       - name: Order and compare numbers
-        level: master
+        level: mastered
         notes: ""
       - name: Roman numerals
-        level: good
+        level: completed
         notes: ""
       - name: Rounding numbers
-        level: good
+        level: completed
         notes: ""
       - name: Negative numbers
-        level: good
+        level: completed
         notes: ""
       - name: BIDMAS
         level: 
@@ -23,16 +23,16 @@ sections:
   - name: Operations
     topics:
       - name: Written addition
-        level: good
+        level: completed
         notes: ""
       - name: Written subtraction
-        level: good
+        level: completed
         notes: ""
       - name: Written multiplication
-        level: good
+        level: completed
         notes: ""
       - name: Written division
-        level: good
+        level: completed
         notes: ""
       - name: Mental addition and subtraction
         level: 
@@ -44,16 +44,16 @@ sections:
         level: 
         notes: ""
       - name: Multiples
-        level: good
+        level: completed
         notes: ""
       - name: Factors
-        level: good
+        level: completed
         notes: ""
       - name: Prime numbers and factor trees
         level: 
         notes: ""
       - name: Estimating
-        level: good
+        level: completed
         notes: ""
       - name: Worded number problems
         level: 
@@ -62,19 +62,19 @@ sections:
   - name: Fractions
     topics:
       - name: Calculating fractions
-        level: good
+        level: completed
         notes: ""
       - name: Adding and subtracting fractions
-        level: good
+        level: completed
         notes: ""
       - name: Equivalent fractions
-        level: good
+        level: completed
         notes: ""
       - name: Mixed numbers and improper fractions
-        level: good
+        level: completed
         notes: ""
       - name: Order and compare fractions
-        level: good
+        level: completed
         notes: ""
 
   - name: Decimals

@@ -50,14 +50,14 @@ export const LevelEmoji = ({ level }) => {
     };
     
     switch (level) {
-      case 'master':
+      case 'mastered':
         return {
           ...baseStyles,
           backgroundColor: 'var(--ifm-color-success-contrast-background)',
           color: 'var(--ifm-color-success-contrast-foreground)',
           borderColor: 'var(--ifm-color-success)',
         };
-      case 'good':
+      case 'completed':
         return {
           ...baseStyles,
           backgroundColor: 'var(--ifm-color-info-contrast-background)',
@@ -82,10 +82,10 @@ export const LevelEmoji = ({ level }) => {
   };
   
   switch (level) {
-    case 'master':
-      return <span style={getStyles()} title="Master">🏆 Master</span>;
-    case 'good':
-      return <span style={getStyles()} title="Good">🙂 Good</span>;
+    case 'mastered':
+      return <span style={getStyles()} title="Mastered">🏆 Mastered</span>;
+    case 'completed':
+      return <span style={getStyles()} title="Completed">🙂 Completed</span>;
     case 'needs_practice':
       return <span style={getStyles()} title="Needs Practice">💀 Needs Practice</span>;
     default:
@@ -241,8 +241,8 @@ export default function ProgressTracker({ data }) {
       section.topics.forEach(topic => {
         totalTopics++;
         switch(topic.level) {
-          case 'master': mastered++; break;
-          case 'good': good++; break;
+          case 'mastered': mastered++; break;
+          case 'completed': good++; break;
           case 'needs_practice': needsPractice++; break;
           default: notStarted++;
         }
@@ -453,7 +453,7 @@ export default function ProgressTracker({ data }) {
               backgroundColor: 'var(--ifm-color-info)',
               borderRadius: '50%' 
             }}></div>
-            <span>Good</span>
+            <span>Completed</span>
           </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
             <div style={{ 
