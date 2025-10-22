@@ -3,196 +3,199 @@ sections:
     topics:
       - name: Place value
         level: mastered
-        notes: This is a test notes
+        notes: |
+            ### Heading
+            * Bullet
+            * Points
       - name: Order and compare numbers
         level: mastered
-        notes: ""
+        notes: 
       - name: Roman numerals
         level: completed
-        notes: ""
+        notes: 
       - name: Rounding numbers
         level: completed
-        notes: ""
+        notes: 
       - name: Negative numbers
         level: completed
-        notes: ""
+        notes: 
       - name: BIDMAS
         level: 
-        notes: ""
+        notes: 
 
   - name: Operations
     topics:
       - name: Written addition
         level: completed
-        notes: ""
+        notes: To improve in accuracy and speed
       - name: Written subtraction
         level: completed
-        notes: ""
+        notes: To improve in accuracy and speed 
       - name: Written multiplication
         level: completed
-        notes: ""
+        notes: Need to imprvoe in accuracy and speed
       - name: Written division
         level: completed
-        notes: ""
+        notes: 
       - name: Mental addition and subtraction
         level: 
-        notes: ""
+        notes: 
       - name: Mental multiplication and division
         level: 
-        notes: ""
+        notes: 
       - name: Square and cube numbers
         level: 
-        notes: ""
+        notes: 
       - name: Multiples
         level: completed
-        notes: ""
+        notes: 
       - name: Factors
         level: completed
-        notes: ""
+        notes: 
       - name: Prime numbers and factor trees
         level: 
-        notes: ""
+        notes: 
       - name: Estimating
         level: completed
-        notes: ""
+        notes: 
       - name: Worded number problems
         level: 
-        notes: ""
+        notes: Weak in understanding the problem and identifying the key information.
 
   - name: Fractions
     topics:
       - name: Calculating fractions
         level: completed
-        notes: ""
+        notes: Need to improve in simplifying fractions and converting them to decimals.
       - name: Adding and subtracting fractions
         level: completed
-        notes: ""
+        notes: Need to improve in finding common denominators.
       - name: Equivalent fractions
         level: completed
-        notes: ""
+        notes: Need to improve in identifying and generating equivalent fractions.
       - name: Mixed numbers and improper fractions
         level: completed
-        notes: ""
+        notes: 
       - name: Order and compare fractions
         level: completed
-        notes: ""
+        notes: 
 
   - name: Decimals
     topics:
       - name: Decimal place value
         level: 
-        notes: ""
+        notes: 
       - name: Adding and subtracting decimals
         level: 
-        notes: ""
+        notes: 
       - name: Multiplying and dividing decimals
         level: 
-        notes: ""
+        notes: 
       - name: Converting decimals and fractions
         level: 
-        notes: ""
+        notes: 
       - name: Order and compare decimals
         level: 
-        notes: ""
+        notes: 
 
   - name: Measurement
     topics:
       - name: Length & perimeter
         level: 
-        notes: ""
+        notes: 
       - name: Money
         level: 
-        notes: ""
+        notes: 
       - name: Time
         level: 
-        notes: ""
+        notes: 
       - name: Metric units
         level: 
-        notes: ""
+        notes: 
       - name: Area
         level: 
-        notes: ""
+        notes: 
       - name: Volume
         level: 
-        notes: ""
+        notes: 
       - name: Imperial units
         level: 
-        notes: ""
+        notes: 
 
   - name: Data
     topics:
       - name: Pictograms
         level: 
-        notes: ""
+        notes: 
       - name: Bar charts
         level: 
-        notes: ""
+        notes: 
       - name: Line graphs
         level: 
-        notes: ""
+        notes: 
       - name: Pie charts
         level: 
-        notes: ""
+        notes: 
       - name: Tables
         level: 
-        notes: ""
+        notes: 
       - name: Venn diagrams
         level: 
-        notes: ""
+        notes: 
       - name: Mean
         level: 
-        notes: ""
+        notes: 
       - name: Mode, median & range
         level: 
-        notes: ""
+        notes: 
 
   - name: Algebra
     topics:
       - name: Simple sequences
         level: 
-        notes: ""
+        notes: 
       - name: Substitution
         level: 
-        notes: ""
+        notes: 
       - name: Solving equations
         level: 
-        notes: ""
+        notes: 
       - name: Forming expressions
         level: 
-        notes: ""
+        notes: 
 
   - name: Geometry
     topics:
       - name: 3D shapes
         level: 
-        notes: ""
+        notes: 
       - name: Triangles
         level: 
-        notes: ""
+        notes: 
       - name: Quadrilaterals
         level: 
-        notes: ""
+        notes: 
       - name: Polygons & circles
         level: 
-        notes: ""
+        notes: 
       - name: Angles
         level: 
-        notes: ""
+        notes: 
       - name: Position
         level: 
-        notes: ""
+        notes: 
       - name: Transformations
         level: 
-        notes: ""
+        notes: 
 
   - name: Ratio and Proportion
     topics:
       - name: Order & Compare Percentages
         level: 
-        notes: ""
+        notes: 
       - name: Calculating percentages
         level: 
-        notes: ""
+        notes: 
       - name: Relative quantities
         level: 
-        notes: ""
+        notes: 
