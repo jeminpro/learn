@@ -20,8 +20,8 @@ sections:
         level: completed
         notes: 
       - name: BIDMAS
-        level: 
-        notes: 
+        level: completed
+        notes: ""
 
   - name: Operations
     topics:
@@ -155,7 +155,7 @@ sections:
         level: 
         notes: 
       - name: Substitution
-        level: 
+        level: needs_practice
         notes: 
       - name: Solving equations
         level: 
@@ -198,4 +198,4 @@ sections:
         notes: 
       - name: Relative quantities
         level: 
-        notes: 
+        notes: ""
