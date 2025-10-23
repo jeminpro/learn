@@ -1,5 +1,10 @@
 import React from 'react';
 import useIsBrowser from '@docusaurus/useIsBrowser';
+import Markdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
+import rehypeHighlight from 'rehype-highlight';
+import './styles.css';
 
 // Reusable button component with hover effects
 const ButtonWithHover = ({ onClick, children, style = {} }) => {
@@ -106,8 +111,14 @@ export const TopicItem = ({
   const [isExpandedState, setIsExpandedState] = React.useState(false);
   const [isHovered, setIsHovered] = React.useState(false);
   
+  // Check if the topic has notes
+  const hasNotes = topic.notes && topic.notes.trim() !== '';
+  
   // Handle expand all/collapse all effects
   React.useEffect(() => {
+    // Only process expand/collapse events if there are notes
+    if (!hasNotes) return;
+    
     if (expandAll && !isExpandedState) {
       setIsExpandedState(true);
       onExpand(topic.name);
@@ -115,11 +126,11 @@ export const TopicItem = ({
       setIsExpandedState(false);
       onCollapse(topic.name);
     }
-  }, [expandAll, collapseAll, topic.name, isExpandedState, onExpand, onCollapse]);
+  }, [expandAll, collapseAll, topic.name, isExpandedState, onExpand, onCollapse, hasNotes]);
   
   // Only allow expanding/collapsing on the client
   const toggleExpand = () => {
-    if (isBrowser) {
+    if (isBrowser && hasNotes) {
       const newState = !isExpandedState;
       setIsExpandedState(newState);
       if (newState) {
@@ -131,25 +142,31 @@ export const TopicItem = ({
   };
   
   return (
-    <div className="topic-item" style={{ marginBottom: '6px' }}>
+    <div className="topic-item" style={{ 
+      marginBottom: '10px',
+      border: hasNotes ? `1px solid ${isExpandedState ? 'var(--ifm-color-emphasis-300)' : 'transparent'}` : 'none',
+      borderRadius: '5px',
+      transition: 'border-color 0.3s ease',
+      overflow: 'hidden'
+    }}>
       <div
         onClick={toggleExpand}
-        role="button"
-        tabIndex={0}
+        role={hasNotes ? "button" : undefined}
+        tabIndex={hasNotes ? 0 : undefined}
         onMouseEnter={() => setIsHovered(true)}
         onMouseLeave={() => setIsHovered(false)}
         onKeyDown={(e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
+          if (hasNotes && (e.key === 'Enter' || e.key === ' ')) {
             e.preventDefault();
             toggleExpand();
           }
         }}
         style={{
-          cursor: 'pointer',
+          cursor: hasNotes ? 'pointer' : 'default',
           display: 'flex',
           alignItems: 'center',
-          padding: '6px 10px',
-          borderRadius: '4px',
+          padding: '8px 12px',
+          borderRadius: isExpandedState && hasNotes ? '5px 5px 0 0' : '5px',
           backgroundColor: isHovered 
             ? 'var(--ifm-menu-color-background-hover)' 
             : isExpandedState 
@@ -158,7 +175,8 @@ export const TopicItem = ({
           fontSize: 'var(--ifm-menu-font-size)',
           fontWeight: 'normal',
           color: 'var(--ifm-font-color-base)',
-          transition: 'all 0.2s ease-in-out'
+          transition: 'all 0.2s ease-in-out',
+          borderBottom: isExpandedState && hasNotes ? '1px solid var(--ifm-color-emphasis-200)' : 'none',
         }}
       >
         <span 
@@ -170,7 +188,8 @@ export const TopicItem = ({
             alignItems: 'center',
             justifyContent: 'center',
             transform: isExpandedState ? 'rotate(90deg)' : 'rotate(0)',
-            transition: 'transform 0.2s ease-in-out'
+            transition: 'transform 0.2s ease-in-out',
+            visibility: hasNotes ? 'visible' : 'hidden'
           }}
         >
           <svg
@@ -193,31 +212,38 @@ export const TopicItem = ({
         <LevelEmoji level={topic.level} />
       </div>
 
-      <div 
-        style={{
-          maxHeight: isExpandedState ? '200px' : '0',
-          overflow: 'hidden',
-          padding: isExpandedState ? '8px 8px 8px 22px' : '0 8px 0 36px',
-          backgroundColor: 'var(--ifm-color-emphasis-50)',
-          borderRadius: '0 0 4px 4px',
-          fontSize: 'calc(var(--ifm-menu-font-size) * 0.95)',
-          color: 'var(--ifm-color-emphasis-800)',
-          marginLeft: '10px',
-          transition: 'max-height 0.3s ease, padding 0.3s ease',
-          boxSizing: 'border-box',
-          opacity: isExpandedState ? 1 : 0,
-        }}
-      >
-        <p style={{ margin: '4px 0' }}>
-          {topic.notes && (
-            <>
-              <strong>Notes:</strong>
-              <br /> 
-              {topic.notes || "No notes yet"}
-            </>
-          )}
-        </p>
-      </div>
+      {hasNotes && (
+        <div 
+          style={{
+            maxHeight: isExpandedState ? '1000px' : '0',
+            overflow: 'hidden',
+            padding: isExpandedState ? '12px 15px 12px 36px' : '0 15px 0 36px',
+            backgroundColor: 'var(--ifm-color-emphasis-50)',
+            borderRadius: '0',
+            fontSize: 'calc(var(--ifm-menu-font-size) * 0.95)',
+            color: 'var(--ifm-color-emphasis-800)',
+            transition: 'max-height 0.3s ease, padding 0.3s ease',
+            boxSizing: 'border-box',
+            opacity: isExpandedState ? 1 : 0,
+            marginTop: '0',
+          }}
+        >
+          <div className="topic-notes" style={{ margin: '4px 0' }}>
+            <div className="markdown-notes">
+              <Markdown
+                remarkPlugins={[remarkGfm]} // Supports tables, strikethrough, etc.
+                rehypePlugins={[rehypeRaw, rehypeHighlight]} // Supports HTML in markdown and code highlighting
+                components={{
+                  // Define custom renderers for markdown elements
+                  a: ({node, ...props}) => <a {...props} target="_blank" rel="noopener noreferrer" />,                  
+                }}
+              >
+                {topic.notes}
+              </Markdown>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 };
@@ -228,12 +254,13 @@ export default function ProgressTracker({ data }) {
   const [expandAllTrigger, setExpandAllTrigger] = React.useState(false);
   const [collapseAllTrigger, setCollapseAllTrigger] = React.useState(false);
   const [expandedTopics, setExpandedTopics] = React.useState(new Set());
+  const [allExpanded, setAllExpanded] = React.useState(false);
   
   // Calculate statistics about progress
   const stats = React.useMemo(() => {
     let totalTopics = 0;
     let mastered = 0;
-    let good = 0;
+    let completed = 0;
     let needsPractice = 0;
     let notStarted = 0;
     
@@ -242,19 +269,19 @@ export default function ProgressTracker({ data }) {
         totalTopics++;
         switch(topic.level) {
           case 'mastered': mastered++; break;
-          case 'completed': good++; break;
+          case 'completed': completed++; break;
           case 'needs_practice': needsPractice++; break;
           default: notStarted++;
         }
       });
     });
     
-    const completionPercentage = Math.round((mastered + good) / totalTopics * 100) || 0;
+    const completionPercentage = Math.round((mastered + completed) / totalTopics * 100) || 0;
     
     return {
       totalTopics,
       mastered,
-      good,
+      completed,
       needsPractice,
       notStarted,
       completionPercentage
@@ -271,15 +298,40 @@ export default function ProgressTracker({ data }) {
     }
   }, [expandAllTrigger, collapseAllTrigger]);
   
-  const handleExpandAll = () => {
-    if (isBrowser) {
-      setExpandAllTrigger(true);
+  // Update the toggle state when topics are manually expanded/collapsed
+  React.useEffect(() => {
+    // If there are no expandable topics, don't try to track state
+    const hasExpandableTopics = data.sections.some(section => 
+      section.topics.some(topic => topic.notes && topic.notes.trim() !== '')
+    );
+    
+    if (!hasExpandableTopics) return;
+    
+    // Count total expandable topics and compare to expanded count
+    let totalExpandableTopics = 0;
+    data.sections.forEach(section => {
+      section.topics.forEach(topic => {
+        if (topic.notes && topic.notes.trim() !== '') {
+          totalExpandableTopics++;
+        }
+      });
+    });
+    
+    // Only update when we have a real difference in state (avoid loops)
+    const shouldBeExpanded = expandedTopics.size === totalExpandableTopics && totalExpandableTopics > 0;
+    if (shouldBeExpanded !== allExpanded) {
+      setAllExpanded(shouldBeExpanded);
     }
-  };
+  }, [expandedTopics, data, allExpanded]);
   
-  const handleCollapseAll = () => {
+  const handleToggleAll = () => {
     if (isBrowser) {
-      setCollapseAllTrigger(true);
+      if (allExpanded) {
+        setCollapseAllTrigger(true);
+      } else {
+        setExpandAllTrigger(true);
+      }
+      setAllExpanded(!allExpanded);
     }
   };
   
@@ -345,6 +397,32 @@ export default function ProgressTracker({ data }) {
               {stats.totalTopics}
             </div>
           </div>
+                    
+          <div>
+            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
+              Not Started
+            </div>
+            <div style={{ 
+              fontSize: '1.2rem', 
+              fontWeight: 'bold', 
+              color: 'var(--ifm-color-content-secondary)'
+            }}>
+              {stats.notStarted}
+            </div>
+          </div>
+
+          <div>
+            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
+              Completed
+            </div>
+            <div style={{ 
+              fontSize: '1.2rem', 
+              fontWeight: 'bold', 
+              color: 'var(--ifm-color-info)'
+            }}>
+              {stats.completed}
+            </div>
+          </div>
           
           <div>
             <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
@@ -358,20 +436,7 @@ export default function ProgressTracker({ data }) {
               {stats.mastered}
             </div>
           </div>
-          
-          <div>
-            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
-              Good
-            </div>
-            <div style={{ 
-              fontSize: '1.2rem', 
-              fontWeight: 'bold', 
-              color: 'var(--ifm-color-info)'
-            }}>
-              {stats.good}
-            </div>
-          </div>
-          
+
           <div>
             <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
               Needs Practice
@@ -382,19 +447,6 @@ export default function ProgressTracker({ data }) {
               color: 'var(--ifm-color-warning)'
             }}>
               {stats.needsPractice}
-            </div>
-          </div>
-          
-          <div>
-            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
-              Not Started
-            </div>
-            <div style={{ 
-              fontSize: '1.2rem', 
-              fontWeight: 'bold', 
-              color: 'var(--ifm-color-content-secondary)'
-            }}>
-              {stats.notStarted}
             </div>
           </div>
         </div>
@@ -416,7 +468,7 @@ export default function ProgressTracker({ data }) {
             transition: 'width 0.5s ease-in-out'
           }}></div>
           <div style={{ 
-            width: `${(stats.good / stats.totalTopics) * 100}%`,
+            width: `${(stats.completed / stats.totalTopics) * 100}%`,
             backgroundColor: 'var(--ifm-color-info)',
             height: '100%',
             transition: 'width 0.5s ease-in-out'
@@ -478,11 +530,25 @@ export default function ProgressTracker({ data }) {
           display: 'flex',
           gap: '8px',
         }}>
-          <ButtonWithHover onClick={handleExpandAll}>
-            Expand All
-          </ButtonWithHover>
-          <ButtonWithHover onClick={handleCollapseAll}>
-            Collapse All
+          <ButtonWithHover 
+            onClick={handleToggleAll}
+            style={{
+              minWidth: '110px',
+              display: 'flex',
+              justifyContent: 'center',
+              alignItems: 'center',
+              gap: '4px',
+            }}
+          >
+            {allExpanded ? (
+              <>
+                Collapse All
+              </>
+            ) : (
+              <>
+                Expand All
+              </>
+            )}
           </ButtonWithHover>
         </div>
       </div>

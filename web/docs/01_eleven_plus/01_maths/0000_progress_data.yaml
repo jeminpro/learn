@@ -4,24 +4,39 @@ sections:
       - name: Place value
         level: mastered
         notes: |
-            ### Heading
+            ### Demo markdown notes
             * Bullet
             * Points
+
+            [jeminpro link](https://jeminpro.com/)
+
+            And some `inline code`
+
+            > Some important quote
+
+            | Column 1 | Column 2 |
+            |----------|----------|
+            | Row 1    | Data 1   |
+            | Row 2    | Data 2   |
+
+            ```sql
+            SELECT * FROM table;
+            ```            
       - name: Order and compare numbers
         level: mastered
-        notes: 
+        notes: | 
       - name: Roman numerals
         level: completed
-        notes: 
+        notes: |
       - name: Rounding numbers
         level: completed
-        notes: 
+        notes: |
       - name: Negative numbers
         level: completed
-        notes: 
+        notes: |
       - name: BIDMAS
         level: completed
-        notes: ""
+        notes: |
 
   - name: Operations
     topics:
@@ -36,28 +51,28 @@ sections:
         notes: Need to imprvoe in accuracy and speed
       - name: Written division
         level: completed
-        notes: 
+        notes: |
       - name: Mental addition and subtraction
         level: 
-        notes: 
+        notes: |
       - name: Mental multiplication and division
         level: 
-        notes: 
+        notes: |
       - name: Square and cube numbers
         level: 
-        notes: 
+        notes: |
       - name: Multiples
         level: completed
         notes: 
       - name: Factors
         level: completed
-        notes: 
+        notes: |
       - name: Prime numbers and factor trees
         level: 
-        notes: 
+        notes: |
       - name: Estimating
         level: completed
-        notes: 
+        notes: |
       - name: Worded number problems
         level: 
         notes: Weak in understanding the problem and identifying the key information.
@@ -75,127 +90,127 @@ sections:
         notes: Need to improve in identifying and generating equivalent fractions.
       - name: Mixed numbers and improper fractions
         level: completed
-        notes: 
+        notes: |
       - name: Order and compare fractions
         level: completed
-        notes: 
+        notes: |
 
   - name: Decimals
     topics:
       - name: Decimal place value
         level: 
-        notes: 
+        notes: |
       - name: Adding and subtracting decimals
         level: 
-        notes: 
+        notes: |
       - name: Multiplying and dividing decimals
         level: 
         notes: 
       - name: Converting decimals and fractions
         level: 
-        notes: 
+        notes: |
       - name: Order and compare decimals
         level: 
-        notes: 
+        notes: |
 
   - name: Measurement
     topics:
       - name: Length & perimeter
         level: 
-        notes: 
+        notes: | 
       - name: Money
         level: 
-        notes: 
+        notes: | 
       - name: Time
         level: 
-        notes: 
+        notes: | 
       - name: Metric units
         level: 
-        notes: 
+        notes: | 
       - name: Area
         level: 
-        notes: 
+        notes: | 
       - name: Volume
         level: 
-        notes: 
+        notes: | 
       - name: Imperial units
         level: 
-        notes: 
+        notes: | 
 
   - name: Data
     topics:
       - name: Pictograms
         level: 
-        notes: 
+        notes: | 
       - name: Bar charts
         level: 
-        notes: 
+        notes: | 
       - name: Line graphs
         level: 
-        notes: 
+        notes: | 
       - name: Pie charts
         level: 
-        notes: 
+        notes: | 
       - name: Tables
         level: 
-        notes: 
+        notes: | 
       - name: Venn diagrams
         level: 
-        notes: 
+        notes: | 
       - name: Mean
         level: 
-        notes: 
+        notes: | 
       - name: Mode, median & range
         level: 
-        notes: 
+        notes: | 
 
   - name: Algebra
     topics:
       - name: Simple sequences
         level: 
-        notes: 
+        notes: | 
       - name: Substitution
         level: needs_practice
-        notes: 
+        notes: | 
       - name: Solving equations
         level: 
-        notes: 
+        notes: | 
       - name: Forming expressions
         level: 
-        notes: 
+        notes: | 
 
   - name: Geometry
     topics:
       - name: 3D shapes
         level: 
-        notes: 
+        notes: | 
       - name: Triangles
         level: 
-        notes: 
+        notes: | 
       - name: Quadrilaterals
         level: 
-        notes: 
+        notes: | 
       - name: Polygons & circles
         level: 
-        notes: 
+        notes: | 
       - name: Angles
         level: 
-        notes: 
+        notes: | 
       - name: Position
         level: 
-        notes: 
+        notes: | 
       - name: Transformations
         level: 
-        notes: 
+        notes: | 
 
   - name: Ratio and Proportion
     topics:
       - name: Order & Compare Percentages
         level: 
-        notes: 
+        notes: | 
       - name: Calculating percentages
         level: 
-        notes: 
+        notes: | 
       - name: Relative quantities
         level: 
-        notes: 
+        notes: | 

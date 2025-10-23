@@ -1,0 +1,29 @@
+/* Style for markdown notes in the progress tracker */
+.markdown-notes {
+  font-size: var(--ifm-font-size-base);
+  line-height: 1.5;
+  margin-top: 8px;
+  overflow-wrap: break-word;
+}
+
+.markdown-notes p {
+  margin-bottom: 0.8em;
+}
+
+.markdown-notes p:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-notes a:hover {
+  color: var(--ifm-link-hover-color);
+  text-decoration: var(--ifm-link-hover-decoration);
+}
+
+.markdown-notes ul, .markdown-notes ol {
+  padding-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+.markdown-notes li {
+  margin-bottom: 0.5em;
+}

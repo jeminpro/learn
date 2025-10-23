@@ -3,91 +3,119 @@ sections:
     topics:
       - name: Types of questions and text
         level: completed
-        notes: ""
+        notes: |
       - name: Inference
         level: completed
-        notes: "Oct 2025: Good. Needs more variety of questions"
+        notes: |
+          Oct 2025: Good. Needs more variety of questions
       - name: Main Idea/Summary
         level: completed
-        notes: "Oct 2025: Good grasp of the concept. Hard drills pending"
+        notes: |
+          Oct 2025: Good grasp of the concept. Hard drills pending
       - name: True/False/NG
         level: completed
-        notes: "Oct 2025: Good grasp of the concept"
+        notes: |
+          Oct 2025: Good grasp of the concept
       - name: Writer's purpose and viewpoint
         level: completed
-        notes: "Oct 2025: Practise Part C: Author's Viewpoint and Part D: Bias/Neutral questions."
+        notes: |
+          Oct 2025: Practise Part C: Author's Viewpoint and Part D: Bias/Neutral questions.
       - name: Vocabulary Context
         level: completed
-        notes: "Oct 2025: Struggles with meaning of difficult words → Focus on daily vocabulary building and contextual clues."
+        notes: |
+          Oct 2025: Struggles with meaning of difficult words → Focus on daily vocabulary building and contextual clues.
       - name: Figure of speech
         level: completed
-        notes: "Oct 2025: Difficulty remembering devices. Focus on difference between Metaphor vs Simile, and practise Personification, Rule of Three, Imagery. Needs more reinforcement drills."
+        notes: |
+          ## Oct 2025 Progress
+
+          **Areas for focus:**
+
+          * Difficulty remembering literary devices
+          * Need to distinguish between **Metaphor** vs **Simile**
+          * Practice with:
+            1. Personification
+            2. Rule of Three
+            3. Imagery
+
+          > Needs more reinforcement drills with varied examples.
+
+          ```
+          Example Metaphor: The classroom was a zoo.
+          Example Simile: The classroom was like a zoo.
+          ```
+
+          [Useful resource](https://literarydevices.net/)
       - name: Tips and Tricks
         level: completed
-        notes: ""
+        notes: |
       - name: Easy 11+ Videos
         level: 
-        notes: ""
+        notes: |
       - name: Masterclass
         level: completed
-        notes: ""
+        notes: |
       - name: Drill Packs
         level: 
-        notes: ""
+        notes: |
 
   - name: Punctuation
     topics:
       - name: Sentence Endings
         level: completed
-        notes: "Oct 2025: Got almost all correct in drill pack. Will be good to give practise questions in indirect questions"
+        notes: |
+          Oct 2025: Got almost all correct in drill pack. Will be good to give practise questions in indirect questions
       - name: Capital Letters
         level: 
-        notes: "Oct 2025: Needs revision. Struggles with when to apply for different types of nouns etc"
+        notes: |
+          Oct 2025: Needs revision. Struggles with when to apply for different types of nouns etc
       - name: Apostrophes
         level: 
-        notes: ""
+        notes: |
       - name: Speech Marks
         level: 
-        notes: ""
+        notes: |
       - name: Colons & Semicolons
         level: 
-        notes: ""
+        notes: |
       - name: Commas
         level: 
-        notes: ""
+        notes: |
       - name: Dashes, Brackets & Hyphens
         level: 
-        notes: ""
+        notes: |
       - name: Advanced Punctuation
         level: 
-        notes: ""
+        notes: |
 
   - name: Grammar
     topics:
       - name: Subject-Verb Agreement
         level: 
-        notes: ""
+        notes: |
       - name: Tenses (past, present, future)
         level: 
-        notes: ""
+        notes: |
       - name: Clauses (main & subordinate)
         level: 
-        notes: ""
+        notes: |
       - name: Pronouns
         level: 
-        notes: ""
+        notes: |
       - name: Prepositions
         level: 
-        notes: ""
+        notes: |
       - name: Sentence Types
         level: 
-        notes: ""
+        notes: |
 
   - name: Vocabulary
     topics:
       - name: General Vocabulary Building
         level: needs_practice
-        notes: "Needs broader exposure to high-level and contextual vocabulary."
+        notes: |
+          Needs broader exposure to high-level and contextual vocabulary.
       - name: Synonyms and Antonyms
         level: needs_practice
-        notes: "Continue weekly synonym/antonym practice and reading comprehension-based word study."
+        notes: |
+          Continue weekly synonym/antonym practice and reading comprehension-based word study.
