@@ -351,115 +351,62 @@ export default function ProgressTracker({ data }) {
     <div className="progress-tracker">
       <div style={{
         marginBottom: '20px',
-        padding: '16px',
-        backgroundColor: 'rgb(76, 175, 153, 0.15)', // Mint green with opacity
+        backgroundColor: 'var(--ifm-background-surface-color)',
         borderRadius: '8px',
-        boxShadow: '0 2px 8px rgba(0, 0, 0, 0.1)',
-        border: '1px solid rgba(76, 175, 153, 0.3)',
+        boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)',
+        border: '1px solid var(--ifm-color-emphasis-200)',
+        overflow: 'hidden',
       }}>
-        <h2 style={{ 
-          fontSize: '1.3rem',
-          fontWeight: '600',
-          marginBottom: '12px',
-          color: 'var(--ifm-heading-color)'
-        }}>
-          Progress Summary
-        </h2>
-        
+        {/* Header */}
         <div style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))',
-          gap: '16px',
-          marginBottom: '16px'
+          padding: '12px 16px',
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          borderBottom: '1px solid var(--ifm-color-emphasis-200)',
         }}>
-          <div>
-            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
-              Overall Completion
-            </div>
-            <div style={{ 
-              fontSize: '1.8rem', 
-              fontWeight: 'bold',
-              color: stats.completionPercentage >= 70 
+          <h2 style={{ 
+            fontSize: '1.1rem',
+            fontWeight: '600',
+            margin: 0,
+            color: 'var(--ifm-heading-color)'
+          }}>
+            Progress Summary
+          </h2>
+          
+          {/* Percentage badge */}
+          <div style={{
+            fontSize: '0.9rem',
+            fontWeight: 'bold',
+            padding: '4px 10px',
+            borderRadius: '20px',
+            backgroundColor: stats.completionPercentage >= 70 
+              ? 'var(--ifm-color-success-contrast-background)' 
+              : stats.completionPercentage >= 40 
+                ? 'var(--ifm-color-info-contrast-background)' 
+                : 'var(--ifm-color-warning-contrast-background)',
+            color: stats.completionPercentage >= 70 
+              ? 'var(--ifm-color-success)' 
+              : stats.completionPercentage >= 40 
+                ? 'var(--ifm-color-info)' 
+                : 'var(--ifm-color-warning)',
+            border: `1px solid ${
+              stats.completionPercentage >= 70 
                 ? 'var(--ifm-color-success)' 
                 : stats.completionPercentage >= 40 
                   ? 'var(--ifm-color-info)' 
                   : 'var(--ifm-color-warning)'
-            }}>
-              {stats.completionPercentage}%
-            </div>
-          </div>
-          
-          <div>
-            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
-              Topics
-            </div>
-            <div style={{ fontSize: '1.2rem', fontWeight: 'bold', color: 'var(--ifm-heading-color)' }}>
-              {stats.totalTopics}
-            </div>
-          </div>
-                    
-          <div>
-            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
-              Not Started
-            </div>
-            <div style={{ 
-              fontSize: '1.2rem', 
-              fontWeight: 'bold', 
-              color: 'var(--ifm-color-content-secondary)'
-            }}>
-              {stats.notStarted}
-            </div>
-          </div>
-
-          <div>
-            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
-              Completed
-            </div>
-            <div style={{ 
-              fontSize: '1.2rem', 
-              fontWeight: 'bold', 
-              color: 'var(--ifm-color-info)'
-            }}>
-              {stats.completed}
-            </div>
-          </div>
-          
-          <div>
-            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
-              Mastered
-            </div>
-            <div style={{ 
-              fontSize: '1.2rem', 
-              fontWeight: 'bold', 
-              color: 'var(--ifm-color-success)'
-            }}>
-              {stats.mastered}
-            </div>
-          </div>
-
-          <div>
-            <div style={{ fontSize: '0.9rem', color: 'var(--ifm-color-content)' }}>
-              Needs Practice
-            </div>
-            <div style={{ 
-              fontSize: '1.2rem', 
-              fontWeight: 'bold', 
-              color: 'var(--ifm-color-warning)'
-            }}>
-              {stats.needsPractice}
-            </div>
+            }`,
+          }}>
+            {stats.completionPercentage}% Complete
           </div>
         </div>
         
         {/* Progress bar */}
         <div style={{ 
-          height: '8px', 
-          backgroundColor: 'rgba(255, 255, 255, 0.2)', // Semi-transparent white works in both modes
-          borderRadius: '4px',
-          overflow: 'hidden',
+          height: '3px',
+          backgroundColor: 'var(--ifm-color-emphasis-200)',
           display: 'flex',
-          marginBottom: '8px',
-          border: '1px solid rgba(76, 175, 153, 0.3)',
         }}>
           <div style={{ 
             width: `${(stats.mastered / stats.totalTopics) * 100}%`,
@@ -481,13 +428,179 @@ export default function ProgressTracker({ data }) {
           }}></div>
         </div>
         
-        {/* Legend for progress bar */}
+        {/* Stats grid - more compressed layout */}
         <div style={{
+          padding: '12px',
+          display: 'flex',
+          flexWrap: 'wrap',
+          gap: '8px',
+          justifyContent: 'center',
+        }}>
+          {/* Topics */}
+          <div style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            padding: '8px 12px',
+            backgroundColor: 'var(--ifm-color-emphasis-100)',
+            borderRadius: '5px',
+            minWidth: '80px',
+            flex: '1 0 auto',
+            maxWidth: '120px',
+            border: '1px solid var(--ifm-color-emphasis-200)',
+          }}>
+            <span style={{ 
+              fontSize: '1.6rem', 
+              fontWeight: 'bold',
+              color: 'var(--ifm-heading-color)',
+              lineHeight: '1.2',
+            }}>
+              {stats.totalTopics}
+            </span>
+            <span style={{ 
+              fontSize: '0.75rem',
+              color: 'var(--ifm-color-emphasis-700)',
+              marginTop: '2px',
+            }}>
+              Topics
+            </span>
+          </div>
+          
+          {/* Not Started */}
+          <div style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            padding: '8px 12px',
+            backgroundColor: 'var(--ifm-color-emphasis-100)',
+            borderRadius: '5px',
+            minWidth: '80px',
+            flex: '1 0 auto',
+            maxWidth: '120px',
+            border: '1px solid var(--ifm-color-emphasis-200)',
+          }}>
+            <span style={{ 
+              fontSize: '1.6rem', 
+              fontWeight: 'bold',
+              color: 'var(--ifm-color-emphasis-600)',
+              lineHeight: '1.2',
+            }}>
+              {stats.notStarted}
+            </span>
+            <span style={{ 
+              fontSize: '0.75rem',
+              color: 'var(--ifm-color-emphasis-700)',
+              marginTop: '2px',
+            }}>
+              Not Started
+            </span>
+          </div>
+          
+          {/* Completed */}
+          <div style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            padding: '8px 12px',
+            backgroundColor: 'var(--ifm-color-info-contrast-background)',
+            borderRadius: '5px',
+            minWidth: '80px',
+            flex: '1 0 auto',
+            maxWidth: '120px',
+            border: '1px solid var(--ifm-color-info)',
+          }}>
+            <span style={{ 
+              fontSize: '1.6rem', 
+              fontWeight: 'bold',
+              color: 'var(--ifm-color-info)',
+              lineHeight: '1.2',
+            }}>
+              {stats.completed}
+            </span>
+            <span style={{ 
+              fontSize: '0.75rem',
+              color: 'var(--ifm-color-emphasis-700)',
+              marginTop: '2px',
+            }}>
+              Completed
+            </span>
+          </div>
+          
+          {/* Mastered */}
+          <div style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            padding: '8px 12px',
+            backgroundColor: 'var(--ifm-color-success-contrast-background)',
+            borderRadius: '5px',
+            minWidth: '80px',
+            flex: '1 0 auto',
+            maxWidth: '120px',
+            border: '1px solid var(--ifm-color-success)',
+          }}>
+            <span style={{ 
+              fontSize: '1.6rem', 
+              fontWeight: 'bold',
+              color: 'var(--ifm-color-success)',
+              lineHeight: '1.2',
+            }}>
+              {stats.mastered}
+            </span>
+            <span style={{ 
+              fontSize: '0.75rem',
+              color: 'var(--ifm-color-emphasis-700)',
+              marginTop: '2px',
+            }}>
+              Mastered
+            </span>
+          </div>
+          
+          {/* Needs Practice */}
+          <div style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            padding: '8px 12px',
+            backgroundColor: 'var(--ifm-color-warning-contrast-background)',
+            borderRadius: '5px',
+            minWidth: '80px',
+            flex: '1 0 auto',
+            maxWidth: '120px',
+            border: '1px solid var(--ifm-color-warning)',
+          }}>
+            <span style={{ 
+              fontSize: '1.6rem', 
+              fontWeight: 'bold',
+              color: 'var(--ifm-color-warning)',
+              lineHeight: '1.2',
+            }}>
+              {stats.needsPractice}
+            </span>
+            <span style={{ 
+              fontSize: '0.75rem',
+              color: 'var(--ifm-color-emphasis-700)',
+              marginTop: '2px',
+            }}>
+              Needs Practice
+            </span>
+          </div>
+        </div>
+        
+        {/* Legend */}
+        <div style={{
+          padding: '8px 16px 12px',
           display: 'flex',
           justifyContent: 'center',
-          gap: '16px',
+          gap: '12px',
           fontSize: '0.7rem',
-          color: 'var(--ifm-color-content)',
+          color: 'var(--ifm-color-emphasis-600)',
+          flexWrap: 'wrap',
         }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
             <div style={{ 
