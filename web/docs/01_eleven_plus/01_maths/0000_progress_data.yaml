@@ -75,7 +75,9 @@ sections:
         notes: |
       - name: Worded number problems
         level: 
-        notes: Weak in understanding the problem and identifying the key information.
+        notes: |
+          - Weak in understanding the problem and identifying the key information.
+          - Need to improve on writing the solution neatly
 
   - name: Fractions
     topics:
