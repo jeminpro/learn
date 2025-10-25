@@ -66,9 +66,10 @@ sections:
         url: Comprehension/masterclass
         notes: |
       - name: Drill Packs
-        level: 
+        level: in_progress
         url: 
         notes: |
+          Drill Pack 1 completed. Week 1, 2 completed in Drill Pack 2
 
   - name: Punctuation
     topics:
@@ -91,7 +92,7 @@ sections:
         url: 
         notes: |
       - name: Colons & Semicolons
-        level: 
+        level: completed
         url: 
         notes: |
           Oct 2025: Struggles to identify where to put colon when it introduces or explains things. Can identify lists.
