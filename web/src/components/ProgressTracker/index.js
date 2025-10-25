@@ -55,19 +55,19 @@ export const LevelEmoji = ({ level }) => {
     };
     
     switch (level) {
-      case 'mastered':
-        return {
-          ...baseStyles,
-          backgroundColor: 'var(--ifm-color-success-contrast-background)',
-          color: 'var(--ifm-color-success-contrast-foreground)',
-          borderColor: 'var(--ifm-color-success)',
-        };
-      case 'completed':
+      case 'in_progress':
         return {
           ...baseStyles,
           backgroundColor: 'var(--ifm-color-info-contrast-background)',
           color: 'var(--ifm-color-info-contrast-foreground)',
           borderColor: 'var(--ifm-color-info)',
+        };
+      case 'completed':
+        return {
+          ...baseStyles,
+          backgroundColor: 'var(--ifm-color-success-contrast-background)',
+          color: 'var(--ifm-color-success-contrast-foreground)',
+          borderColor: 'var(--ifm-color-success)',
         };
       case 'needs_practice':
         return {
@@ -87,8 +87,8 @@ export const LevelEmoji = ({ level }) => {
   };
   
   switch (level) {
-    case 'mastered':
-      return <span style={getStyles()} title="Mastered">🏆 Mastered</span>;
+    case 'in_progress':
+      return <span style={getStyles()} title="In Progress">🚀 In Progress</span>;
     case 'completed':
       return <span style={getStyles()} title="Completed">🙂 Completed</span>;
     case 'needs_practice':
@@ -255,11 +255,12 @@ export default function ProgressTracker({ data }) {
   const [collapseAllTrigger, setCollapseAllTrigger] = React.useState(false);
   const [expandedTopics, setExpandedTopics] = React.useState(new Set());
   const [allExpanded, setAllExpanded] = React.useState(false);
+  const [filterLevel, setFilterLevel] = React.useState(null);
   
   // Calculate statistics about progress
   const stats = React.useMemo(() => {
     let totalTopics = 0;
-    let mastered = 0;
+    let inProgress = 0;
     let completed = 0;
     let needsPractice = 0;
     let notStarted = 0;
@@ -268,7 +269,7 @@ export default function ProgressTracker({ data }) {
       section.topics.forEach(topic => {
         totalTopics++;
         switch(topic.level) {
-          case 'mastered': mastered++; break;
+          case 'in_progress': inProgress++; break;
           case 'completed': completed++; break;
           case 'needs_practice': needsPractice++; break;
           default: notStarted++;
@@ -276,11 +277,11 @@ export default function ProgressTracker({ data }) {
       });
     });
     
-    const completionPercentage = Math.round((mastered + completed) / totalTopics * 100) || 0;
+    const completionPercentage = Math.round((completed) / totalTopics * 100) || 0;
     
     return {
       totalTopics,
-      mastered,
+      inProgress,
       completed,
       needsPractice,
       notStarted,
@@ -346,6 +347,36 @@ export default function ProgressTracker({ data }) {
       return newSet;
     });
   };
+
+  const handleFilterClick = (level) => {
+    if (filterLevel === level) {
+      setFilterLevel(null); // Clear filter if clicking the same tile
+    } else {
+      setFilterLevel(level);
+    }
+  };
+
+  const clearFilter = () => {
+    setFilterLevel(null);
+  };
+
+  // Filter sections based on selected level
+  const filteredData = React.useMemo(() => {
+    if (!filterLevel || filterLevel === 'all') return data;
+
+    return {
+      ...data,
+      sections: data.sections.map(section => ({
+        ...section,
+        topics: section.topics.filter(topic => {
+          if (filterLevel === 'not_started') {
+            return !topic.level || topic.level === 'not_started';
+          }
+          return topic.level === filterLevel;
+        })
+      })).filter(section => section.topics.length > 0) // Remove empty sections
+    };
+  }, [data, filterLevel]);
   
   return (
     <div className="progress-tracker">
@@ -409,14 +440,14 @@ export default function ProgressTracker({ data }) {
           display: 'flex',
         }}>
           <div style={{ 
-            width: `${(stats.mastered / stats.totalTopics) * 100}%`,
-            backgroundColor: 'var(--ifm-color-success)',
+            width: `${(stats.inProgress / stats.totalTopics) * 100}%`,
+            backgroundColor: 'var(--ifm-color-info)',
             height: '100%',
             transition: 'width 0.5s ease-in-out'
           }}></div>
           <div style={{ 
             width: `${(stats.completed / stats.totalTopics) * 100}%`,
-            backgroundColor: 'var(--ifm-color-info)',
+            backgroundColor: 'var(--ifm-color-success)',
             height: '100%',
             transition: 'width 0.5s ease-in-out'
           }}></div>
@@ -437,19 +468,35 @@ export default function ProgressTracker({ data }) {
           justifyContent: 'center',
         }}>
           {/* Topics */}
-          <div style={{
+          <div 
+            onClick={() => handleFilterClick('all')}
+            style={{
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
             padding: '8px 12px',
-            backgroundColor: 'var(--ifm-color-emphasis-100)',
+            backgroundColor: filterLevel === 'all' ? 'var(--ifm-color-primary-lighter)' : 'var(--ifm-color-emphasis-100)',
             borderRadius: '5px',
             minWidth: '80px',
             flex: '1 0 auto',
             maxWidth: '120px',
-            border: '1px solid var(--ifm-color-emphasis-200)',
-          }}>
+            border: filterLevel === 'all' ? '2px solid var(--ifm-color-primary)' : '1px solid var(--ifm-color-emphasis-200)',
+            cursor: 'pointer',
+            transition: 'all 0.2s ease',
+            transform: 'scale(1)',
+          }}
+          onMouseEnter={(e) => {
+            if (filterLevel !== 'all') {
+              e.currentTarget.style.transform = 'scale(1.05)';
+              e.currentTarget.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.15)';
+            }
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.transform = 'scale(1)';
+            e.currentTarget.style.boxShadow = 'none';
+          }}
+          >
             <span style={{ 
               fontSize: '1.6rem', 
               fontWeight: 'bold',
@@ -468,19 +515,35 @@ export default function ProgressTracker({ data }) {
           </div>
           
           {/* Not Started */}
-          <div style={{
+          <div 
+            onClick={() => handleFilterClick('not_started')}
+            style={{
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
             padding: '8px 12px',
-            backgroundColor: 'var(--ifm-color-emphasis-100)',
+            backgroundColor: filterLevel === 'not_started' ? 'var(--ifm-color-emphasis-300)' : 'var(--ifm-color-emphasis-100)',
             borderRadius: '5px',
             minWidth: '80px',
             flex: '1 0 auto',
             maxWidth: '120px',
-            border: '1px solid var(--ifm-color-emphasis-200)',
-          }}>
+            border: filterLevel === 'not_started' ? '2px solid var(--ifm-color-emphasis-600)' : '1px solid var(--ifm-color-emphasis-200)',
+            cursor: 'pointer',
+            transition: 'all 0.2s ease',
+            transform: 'scale(1)',
+          }}
+          onMouseEnter={(e) => {
+            if (filterLevel !== 'not_started') {
+              e.currentTarget.style.transform = 'scale(1.05)';
+              e.currentTarget.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.15)';
+            }
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.transform = 'scale(1)';
+            e.currentTarget.style.boxShadow = 'none';
+          }}
+          >
             <span style={{ 
               fontSize: '1.6rem', 
               fontWeight: 'bold',
@@ -498,24 +561,87 @@ export default function ProgressTracker({ data }) {
             </span>
           </div>
           
-          {/* Completed */}
-          <div style={{
+          {/* In Progress */}
+          <div 
+            onClick={() => handleFilterClick('in_progress')}
+            style={{
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
             padding: '8px 12px',
-            backgroundColor: 'var(--ifm-color-info-contrast-background)',
+            backgroundColor: filterLevel === 'in_progress' ? 'var(--ifm-color-info-dark)' : 'var(--ifm-color-info-contrast-background)',
             borderRadius: '5px',
             minWidth: '80px',
             flex: '1 0 auto',
             maxWidth: '120px',
-            border: '1px solid var(--ifm-color-info)',
-          }}>
+            border: filterLevel === 'in_progress' ? '2px solid var(--ifm-color-info)' : '1px solid var(--ifm-color-info)',
+            cursor: 'pointer',
+            transition: 'all 0.2s ease',
+            transform: 'scale(1)',
+          }}
+          onMouseEnter={(e) => {
+            if (filterLevel !== 'in_progress') {
+              e.currentTarget.style.transform = 'scale(1.05)';
+              e.currentTarget.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.15)';
+            }
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.transform = 'scale(1)';
+            e.currentTarget.style.boxShadow = 'none';
+          }}
+          >
             <span style={{ 
               fontSize: '1.6rem', 
               fontWeight: 'bold',
               color: 'var(--ifm-color-info)',
+              lineHeight: '1.2',
+            }}>
+              {stats.inProgress}
+            </span>
+            <span style={{ 
+              fontSize: '0.75rem',
+              color: 'var(--ifm-color-emphasis-700)',
+              marginTop: '2px',
+            }}>
+              In Progress
+            </span>
+          </div>
+          
+          {/* Completed */}
+          <div 
+            onClick={() => handleFilterClick('completed')}
+            style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            padding: '8px 12px',
+            backgroundColor: filterLevel === 'completed' ? 'var(--ifm-color-success-dark)' : 'var(--ifm-color-success-contrast-background)',
+            borderRadius: '5px',
+            minWidth: '80px',
+            flex: '1 0 auto',
+            maxWidth: '120px',
+            border: filterLevel === 'completed' ? '2px solid var(--ifm-color-success)' : '1px solid var(--ifm-color-success)',
+            cursor: 'pointer',
+            transition: 'all 0.2s ease',
+            transform: 'scale(1)',
+          }}
+          onMouseEnter={(e) => {
+            if (filterLevel !== 'completed') {
+              e.currentTarget.style.transform = 'scale(1.05)';
+              e.currentTarget.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.15)';
+            }
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.transform = 'scale(1)';
+            e.currentTarget.style.boxShadow = 'none';
+          }}
+          >
+            <span style={{ 
+              fontSize: '1.6rem', 
+              fontWeight: 'bold',
+              color: 'var(--ifm-color-success)',
               lineHeight: '1.2',
             }}>
               {stats.completed}
@@ -529,51 +655,36 @@ export default function ProgressTracker({ data }) {
             </span>
           </div>
           
-          {/* Mastered */}
-          <div style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            justifyContent: 'center',
-            padding: '8px 12px',
-            backgroundColor: 'var(--ifm-color-success-contrast-background)',
-            borderRadius: '5px',
-            minWidth: '80px',
-            flex: '1 0 auto',
-            maxWidth: '120px',
-            border: '1px solid var(--ifm-color-success)',
-          }}>
-            <span style={{ 
-              fontSize: '1.6rem', 
-              fontWeight: 'bold',
-              color: 'var(--ifm-color-success)',
-              lineHeight: '1.2',
-            }}>
-              {stats.mastered}
-            </span>
-            <span style={{ 
-              fontSize: '0.75rem',
-              color: 'var(--ifm-color-emphasis-700)',
-              marginTop: '2px',
-            }}>
-              Mastered
-            </span>
-          </div>
-          
           {/* Needs Practice */}
-          <div style={{
+          <div 
+            onClick={() => handleFilterClick('needs_practice')}
+            style={{
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
             padding: '8px 12px',
-            backgroundColor: 'var(--ifm-color-warning-contrast-background)',
+            backgroundColor: filterLevel === 'needs_practice' ? 'var(--ifm-color-warning-dark)' : 'var(--ifm-color-warning-contrast-background)',
             borderRadius: '5px',
             minWidth: '80px',
             flex: '1 0 auto',
             maxWidth: '120px',
-            border: '1px solid var(--ifm-color-warning)',
-          }}>
+            border: filterLevel === 'needs_practice' ? '2px solid var(--ifm-color-warning)' : '1px solid var(--ifm-color-warning)',
+            cursor: 'pointer',
+            transition: 'all 0.2s ease',
+            transform: 'scale(1)',
+          }}
+          onMouseEnter={(e) => {
+            if (filterLevel !== 'needs_practice') {
+              e.currentTarget.style.transform = 'scale(1.05)';
+              e.currentTarget.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.15)';
+            }
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.transform = 'scale(1)';
+            e.currentTarget.style.boxShadow = 'none';
+          }}
+          >
             <span style={{ 
               fontSize: '1.6rem', 
               fontWeight: 'bold',
@@ -606,16 +717,16 @@ export default function ProgressTracker({ data }) {
             <div style={{ 
               width: '8px', 
               height: '8px', 
-              backgroundColor: 'var(--ifm-color-success)',
+              backgroundColor: 'var(--ifm-color-info)',
               borderRadius: '50%' 
             }}></div>
-            <span>Mastered</span>
+            <span>In Progress</span>
           </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
             <div style={{ 
               width: '8px', 
               height: '8px', 
-              backgroundColor: 'var(--ifm-color-info)',
+              backgroundColor: 'var(--ifm-color-success)',
               borderRadius: '50%' 
             }}></div>
             <span>Completed</span>
@@ -638,7 +749,32 @@ export default function ProgressTracker({ data }) {
         alignItems: 'center',
         marginBottom: '16px',
       }}>
-        <div></div>
+        {filterLevel && filterLevel !== 'all' ? (
+          <div style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: '8px',
+            padding: '6px 12px',
+            backgroundColor: 'var(--ifm-color-emphasis-100)',
+            borderRadius: '5px',
+            fontSize: '0.85rem',
+            color: 'var(--ifm-color-emphasis-800)',
+          }}>
+            <span>Filtered by: <strong>{filterLevel === 'not_started' ? 'Not Started' : filterLevel === 'in_progress' ? 'In Progress' : filterLevel === 'needs_practice' ? 'Needs Practice' : filterLevel.charAt(0).toUpperCase() + filterLevel.slice(1)}</strong></span>
+            <ButtonWithHover 
+              onClick={clearFilter}
+              style={{
+                fontSize: '0.75rem',
+                padding: '2px 8px',
+                minWidth: 'auto',
+              }}
+            >
+              Clear Filter
+            </ButtonWithHover>
+          </div>
+        ) : (
+          <div></div>
+        )}
         <div style={{
           display: 'flex',
           gap: '8px',
@@ -666,7 +802,7 @@ export default function ProgressTracker({ data }) {
         </div>
       </div>
 
-      {data.sections.map((section, idx) => (
+      {filteredData.sections.map((section, idx) => (
         <div key={idx} className="section" style={{ 
           marginBottom: '24px',
           paddingLeft: '8px'

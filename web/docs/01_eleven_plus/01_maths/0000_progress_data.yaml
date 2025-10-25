@@ -2,7 +2,7 @@ sections:
   - name: Basics
     topics:
       - name: Place value
-        level: mastered
+        level: in_progress
         notes: |
             ### Demo markdown notes
             * Bullet
@@ -23,7 +23,7 @@ sections:
             SELECT * FROM table;
             ```            
       - name: Order and compare numbers
-        level: mastered
+        level: completed
         notes: | 
       - name: Roman numerals
         level: completed
@@ -169,16 +169,16 @@ sections:
   - name: Algebra
     topics:
       - name: Simple sequences
-        level: 
+        level: in_progress
         notes: | 
       - name: Substitution
-        level: needs_practice
+        level: completed
         notes: | 
       - name: Solving equations
-        level: 
+        level: completed
         notes: | 
       - name: Forming expressions
-        level: 
+        level: in_progress
         notes: | 
 
   - name: Geometry
