@@ -114,6 +114,17 @@ export const TopicItem = ({
   // Check if the topic has notes
   const hasNotes = topic.notes && topic.notes.trim() !== '';
   
+  // Check if the topic has a URL
+  const hasUrl = topic.url && topic.url.trim() !== '';
+  
+  // Handle URL navigation
+  const handleUrlClick = (e) => {
+    e.stopPropagation(); // Prevent triggering the expand/collapse
+    if (hasUrl) {
+      window.open(topic.url, '_blank', 'noopener,noreferrer');
+    }
+  };
+  
   // Handle expand all/collapse all effects
   React.useEffect(() => {
     // Only process expand/collapse events if there are notes
@@ -208,7 +219,50 @@ export const TopicItem = ({
             />
           </svg>
         </span>
-        <span style={{ flex: 1 }}>{topic.name}</span>
+        <span style={{ flex: 1, display: 'flex', alignItems: 'center', gap: '6px' }}>
+          {topic.name}
+          {hasUrl && (
+            <a
+              href={topic.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={handleUrlClick}
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                padding: '2px',
+                color: 'var(--ifm-color-primary)',
+                textDecoration: 'none',
+                transition: 'transform 0.2s ease, color 0.2s ease',
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.transform = 'scale(1.2)';
+                e.currentTarget.style.color = 'var(--ifm-color-primary-dark)';
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.transform = 'scale(1)';
+                e.currentTarget.style.color = 'var(--ifm-color-primary)';
+              }}
+              title="Open topic page"
+            >
+              <svg
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                <polyline points="15 3 21 3 21 9"></polyline>
+                <line x1="10" y1="14" x2="21" y2="3"></line>
+              </svg>
+            </a>
+          )}
+        </span>
         <LevelEmoji level={topic.level} />
       </div>
 

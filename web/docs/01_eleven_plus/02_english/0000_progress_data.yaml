@@ -3,29 +3,36 @@ sections:
     topics:
       - name: Types of questions and text
         level: completed
+        url: 
         notes: |
       - name: Inference
         level: completed
+        url: 
         notes: |
           Oct 2025: Good. Needs more variety of questions
       - name: Main Idea/Summary
         level: completed
+        url: 
         notes: |
           Oct 2025: Good grasp of the concept. Hard drills pending
       - name: True/False/NG
         level: completed
+        url: 
         notes: |
           Oct 2025: Good grasp of the concept
       - name: Writer's purpose and viewpoint
         level: needs_practice
+        url: 
         notes: |
           Oct 2025: Practise Part C: Author's Viewpoint and Part D: Bias/Neutral questions.
       - name: Vocabulary Context
         level: completed
+        url: 
         notes: |
           Oct 2025: Struggles with meaning of difficult words → Focus on daily vocabulary building and contextual clues.
       - name: Figure of speech
         level: needs_practice
+        url: 
         notes: |
           ## Oct 2025 Progress
 
@@ -48,75 +55,95 @@ sections:
           [Useful resource](https://literarydevices.net/)
       - name: Tips and Tricks
         level: completed
+        url: 
         notes: |
       - name: Easy 11+ Videos
         level: 
+        url: 
         notes: |
       - name: Masterclass
         level: completed
+        url: Comprehension/masterclass
         notes: |
       - name: Drill Packs
         level: 
+        url: 
         notes: |
 
   - name: Punctuation
     topics:
       - name: Sentence Endings
         level: completed
+        url: 
         notes: |
           Oct 2025: Got almost all correct in drill pack. Will be good to give practise questions in indirect questions
       - name: Capital Letters
         level: completed
+        url: 
         notes: |
           Oct 2025: Needs revision. Struggles with when to apply for different types of nouns etc
       - name: Apostrophes
         level: 
+        url: 
         notes: |
       - name: Speech Marks
         level: 
+        url: 
         notes: |
       - name: Colons & Semicolons
         level: 
+        url: 
         notes: |
           Oct 2025: Struggles to identify where to put colon when it introduces or explains things. Can identify lists.
       - name: Commas
         level: 
+        url: 
         notes: |
       - name: Dashes, Brackets & Hyphens
         level: 
+        url: 
         notes: |
       - name: Advanced Punctuation
         level: 
+        url: 
         notes: |
 
   - name: Grammar
     topics:
       - name: Subject-Verb Agreement
         level: 
+        url: Grammar/noun_pronoun_agreement
         notes: |
       - name: Tenses (past, present, future)
         level: 
+        url: Grammar/verbs_forms_tenses
         notes: |
       - name: Clauses (main & subordinate)
         level: 
+        url: Grammar/main_subordinate_clause
         notes: |
       - name: Pronouns
         level: 
+        url: Grammar/noun_pronoun_agreement
         notes: |
       - name: Prepositions
         level: 
+        url: Grammar/parts_of_speech
         notes: |
       - name: Sentence Types
         level: 
+        url: Grammar/sentence_structure
         notes: |
 
   - name: Vocabulary
     topics:
       - name: General Vocabulary Building
         level: needs_practice
+        url: Vocabulary/topics_explanation
         notes: |
           Needs broader exposure to high-level and contextual vocabulary.
       - name: Synonyms and Antonyms
         level: needs_practice
+        url: Vocabulary/topics_explanation
         notes: |
           Continue weekly synonym/antonym practice and reading comprehension-based word study.

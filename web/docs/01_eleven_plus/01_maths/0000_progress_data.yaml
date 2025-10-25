@@ -3,6 +3,7 @@ sections:
     topics:
       - name: Place value
         level: in_progress
+        url: basics/place_value
         notes: |
             ### Demo markdown notes
             * Bullet
@@ -24,57 +25,74 @@ sections:
             ```            
       - name: Order and compare numbers
         level: completed
+        url: basics/order_and_compare_numbers
         notes: | 
       - name: Roman numerals
         level: completed
+        url: basics/roman_numerals
         notes: |
       - name: Rounding numbers
         level: completed
+        url: basics/rounding_numbers
         notes: |
       - name: Negative numbers
         level: completed
+        url: basics/negative_numbers
         notes: |
       - name: BIDMAS
         level: completed
+        url: basics/bidmas
         notes: |
 
   - name: Operations
     topics:
       - name: Written addition
         level: completed
+        url: 
         notes: To improve in accuracy and speed
       - name: Written subtraction
         level: completed
+        url: 
         notes: To improve in accuracy and speed 
       - name: Written multiplication
         level: completed
+        url: 
         notes: Need to imprvoe in accuracy and speed
       - name: Written division
         level: completed
+        url: 
         notes: |
       - name: Mental addition and subtraction
         level: 
+        url: 
         notes: |
       - name: Mental multiplication and division
         level: 
+        url: 
         notes: |
       - name: Square and cube numbers
         level: 
+        url: 
         notes: |
       - name: Multiples
         level: completed
+        url: 
         notes: 
       - name: Factors
         level: completed
+        url: 
         notes: |
       - name: Prime numbers and factor trees
         level: 
+        url: 
         notes: |
       - name: Estimating
         level: completed
+        url: 
         notes: |
       - name: Worded number problems
         level: 
+        url: 
         notes: |
           - Weak in understanding the problem and identifying the key information.
           - Need to improve on writing the solution neatly
@@ -83,136 +101,175 @@ sections:
     topics:
       - name: Calculating fractions
         level: completed
+        url: 
         notes: Need to improve in simplifying fractions and converting them to decimals.
       - name: Adding and subtracting fractions
         level: completed
+        url: 
         notes: Need to improve in finding common denominators.
       - name: Equivalent fractions
         level: completed
+        url: 
         notes: Need to improve in identifying and generating equivalent fractions.
       - name: Mixed numbers and improper fractions
         level: completed
+        url: 
         notes: |
       - name: Order and compare fractions
         level: completed
+        url: 
         notes: |
 
   - name: Decimals
     topics:
       - name: Decimal place value
         level: 
+        url: 
         notes: |
       - name: Adding and subtracting decimals
         level: 
+        url: 
         notes: |
       - name: Multiplying and dividing decimals
         level: 
+        url: 
         notes: 
       - name: Converting decimals and fractions
         level: 
+        url: 
         notes: |
       - name: Order and compare decimals
         level: 
+        url: 
         notes: |
 
   - name: Measurement
     topics:
       - name: Length & perimeter
         level: 
+        url: 
         notes: | 
       - name: Money
         level: 
+        url: 
         notes: | 
       - name: Time
         level: 
+        url: 
         notes: | 
       - name: Metric units
         level: 
+        url: 
         notes: | 
       - name: Area
         level: 
+        url: 
         notes: | 
       - name: Volume
         level: 
+        url: 
         notes: | 
       - name: Imperial units
         level: 
+        url: 
         notes: | 
 
   - name: Data
     topics:
       - name: Pictograms
         level: 
+        url: 
         notes: | 
       - name: Bar charts
         level: 
+        url: 
         notes: | 
       - name: Line graphs
         level: 
+        url: 
         notes: | 
       - name: Pie charts
         level: 
+        url: 
         notes: | 
       - name: Tables
         level: 
+        url: 
         notes: | 
       - name: Venn diagrams
         level: 
+        url: 
         notes: | 
       - name: Mean
         level: 
+        url: 
         notes: | 
       - name: Mode, median & range
         level: 
+        url: 
         notes: | 
 
   - name: Algebra
     topics:
       - name: Simple sequences
         level: in_progress
+        url: algebra/simple_sequences
         notes: | 
       - name: Substitution
         level: completed
+        url: algebra/substitution
         notes: | 
       - name: Solving equations
         level: completed
+        url: algebra/solving_equations
         notes: | 
       - name: Forming expressions
         level: in_progress
+        url: algebra/forming_expressions
         notes: | 
 
   - name: Geometry
     topics:
       - name: 3D shapes
         level: 
+        url: 
         notes: | 
       - name: Triangles
         level: 
+        url: 
         notes: | 
       - name: Quadrilaterals
         level: 
+        url: 
         notes: | 
       - name: Polygons & circles
         level: 
+        url: 
         notes: | 
       - name: Angles
         level: 
+        url: 
         notes: | 
       - name: Position
         level: 
+        url: 
         notes: | 
       - name: Transformations
         level: 
+        url: 
         notes: | 
 
   - name: Ratio and Proportion
     topics:
       - name: Order & Compare Percentages
         level: 
+        url: 
         notes: | 
       - name: Calculating percentages
         level: 
+        url: 
         notes: | 
       - name: Relative quantities
         level: 
+        url: 
         notes: | 
