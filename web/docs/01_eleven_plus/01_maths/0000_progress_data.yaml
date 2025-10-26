@@ -224,13 +224,13 @@ sections:
         url: algebra/solving_equations
         notes: | 
       - name: Forming expressions
-        level: needs_practive
+        level: needs_practice
         url: algebra/forming_expressions
-        notes: | 
-        Problem understanding word problems like below
-        - more than a number (doing times instead of addition)
-        - 3 lesstan a number (writing 3-n instead of n-3)
-        - Order of expression needs to improve (5 less than triple a number h-5x3 instead of 3h-5)
+        notes: |
+          Problem understanding word problems like below
+          - more than a number (doing times instead of addition)
+          - 3 lesstan a number (writing 3-n instead of n-3)
+          - Order of expression needs to improve (5 less than triple a number h-5x3 instead of 3h-5)
 
   - name: Geometry
     topics:
