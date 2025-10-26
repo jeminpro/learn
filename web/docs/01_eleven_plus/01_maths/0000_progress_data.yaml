@@ -225,43 +225,52 @@ sections:
         url: algebra/solving_equations
         notes: | 
       - name: Forming expressions
-        level: needs_practice
+        level: completed
         url: algebra/forming_expressions
         notes: |
+          26/10/2025
+          Now he got a bit better in forming expressions, needs more practice.
+
+          He forgets to simplifying the problem need to revise on x+x = 2x, 2(x+5), x*x etc
+
+          Revise some medium and hard questions again (13, 14, 21, 22, 24, 25?, 28).
+          25/10/2025
           Problem understanding word problems like below
           - more than a number (doing times instead of addition)
-          - 3 lesstan a number (writing 3-n instead of n-3)
+          - 3 less than a number (writing 3-n instead of n-3)
           - Order of expression needs to improve (5 less than triple a number h-5x3 instead of 3h-5)
+
+          
 
   - name: Geometry
     topics:
       - name: 3D shapes
         level: 
-        url: 
+        url: geometry/001_3d_shapes
         notes: | 
       - name: Triangles
         level: 
-        url: 
+        url: geometry/triangles
         notes: | 
       - name: Quadrilaterals
         level: 
-        url: 
+        url: geometry/quadrilaterals
         notes: | 
       - name: Polygons & circles
         level: 
-        url: 
+        url: geometry/polygons_and_circles
         notes: | 
       - name: Angles
         level: 
-        url: 
+        url: geometry/angles
         notes: | 
       - name: Position
         level: 
-        url: 
+        url: geometry/position
         notes: | 
       - name: Transformations
         level: 
-        url: 
+        url: geometry/transformations
         notes: | 
 
   - name: Ratio and Proportion

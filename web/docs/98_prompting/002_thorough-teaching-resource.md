@@ -8,6 +8,16 @@ For each of the listed topics below, I want you to perform the following:
 
 ---
 
+### 📚 TOPICS TO COVER:
+
+1. Decimal place value
+2. Adding and subtracting decimals
+3. Multiplying and dividing decimals
+4. Converting decimals and fractions
+5. Order and compare decimals
+
+---
+
 ### 🔹 FOR EACH TOPIC, DO THE FOLLOWING:
 
 1. **Explain the Concept Clearly**
@@ -44,16 +54,6 @@ For each of the listed topics below, I want you to perform the following:
 
 ---
 
-### 📚 TOPICS TO COVER:
-
-1. Decimal place value	
-2. Adding and subtracting decimals	
-3. Multiplying and dividing decimals	
-4. Converting decimals and fractions	
-5. Order and compare decimals		
-
----
-
 ### 🧠 Notes to the AI:
 
 * Stay consistent in notation and avoid using LaTeX math blocks in the markdown
@@ -63,6 +63,7 @@ For each of the listed topics below, I want you to perform the following:
 * Do not repeat templates or values excessively — prioritize variety and creativity
 * Use familiar UK-style measurements (pounds, litres, cm, etc.)
 * Avoid calculator-required values (stick to manageable mental math numbers)
+* Please do one topic at a time
 
 ---
 
@@ -104,6 +105,5 @@ Use this format for each topic:
 ...
 
 ---
-
 
 ```
