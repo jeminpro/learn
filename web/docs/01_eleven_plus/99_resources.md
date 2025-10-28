@@ -4,6 +4,7 @@
 ### 11+ Topics List
 
 [📕 Atom learning (PDF)](/pdf/11plus-topics-list.pdf)
+[📕 Maths syllabus and formulas (PDF)](/pdf/11plus_maths_syllabus_and_formulas.pdf)
 
 ### Exam Happy - Every topic that could come up in a GL 11 Plus
 
