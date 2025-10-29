@@ -70,6 +70,154 @@ All quadrilaterals share these basic facts:
 
 ---
 
+
+## 🪞 **What Are Lines of Symmetry?**
+
+A **line of symmetry** (also called a **mirror line**) is an **imaginary line** that divides a shape into **two identical halves** — like a mirror reflection.
+
+👉 If you **fold the shape along that line**, both sides will **match exactly**.
+
+---
+
+## ✳️ **Lines of Symmetry in Common Quadrilaterals**
+
+Let’s look at each type of quadrilateral.
+
+| **Shape**                   | **Description**                          | **Number of Lines of Symmetry** | **Where the Lines Are**                                                        | **Quick Visual Tip 🧠**                             |
+| --------------------------- | ---------------------------------------- | ------------------------------: | ------------------------------------------------------------------------------ | --------------------------------------------------- |
+| **Square**                  | All sides and angles equal               |                           **4** | 2 along the diagonals + 2 through midpoints of opposite sides                  | Looks the same if you fold across middle or corners |
+| **Rectangle**               | Opposite sides equal, all angles 90°     |                           **2** | Vertical and horizontal midlines                                               | Diagonals aren’t lines of symmetry                  |
+| **Rhombus**                 | All sides equal, opposite angles equal   |                           **2** | Along the two diagonals                                                        | Only diagonals, not sides                           |
+| **Parallelogram**           | Opposite sides parallel and equal        |                           **0** | None                                                                           | Slanted → folds don’t match                         |
+| **Trapezium (Trapezoid)**   | Only one pair of sides parallel          |                   Usually **0** | Unless it’s **isosceles trapezium**, then **1** (vertical line through middle) | Check if non-parallel sides are equal               |
+| **Kite**                    | Two pairs of equal-length adjacent sides |                           **1** | Along the line joining the unequal angles (diagonal)                           | Looks like a real kite folded in half               |
+| **Irregular Quadrilateral** | No sides or angles equal                 |                           **0** | —                                                                              | No symmetry at all                                  |
+
+---
+
+### ✏️ **Quick Memory Trick**
+
+> “More regular → more symmetry.”
+
+| Shape                      | Regularity        | Lines of Symmetry |
+| -------------------------- | ----------------- | ----------------- |
+| Square                     | Most regular      | 4                 |
+| Rectangle / Rhombus        | Semi-regular      | 2                 |
+| Kite / Isosceles Trapezium | Partially regular | 1                 |
+| Parallelogram / Irregular  | Not regular       | 0                 |
+
+
+---
+
+Below are **simple inline SVG diagrams** you can copy into any Markdown doc. Each shows the **shape outline** and its **line(s) of symmetry** as **dashed mint lines**.
+
+---
+
+### 1) Square — **4 lines of symmetry**
+
+
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <rect x="60" y="30" width="100" height="100" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Vertical -->
+  <line x1="110" y1="25" x2="110" y2="135" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+  <!-- Horizontal -->
+  <line x1="55" y1="80" x2="165" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+  <!-- Diagonals -->
+  <line x1="60" y1="30" x2="160" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+  <line x1="160" y1="30" x2="60" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+</svg>
+
+
+---
+
+### 2) Rectangle — **2 lines of symmetry**
+
+```html
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <rect x="40" y="40" width="140" height="80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Vertical -->
+  <line x1="110" y1="35" x2="110" y2="125" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+  <!-- Horizontal -->
+  <line x1="35" y1="80" x2="185" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+</svg>
+```
+
+---
+
+### 3) Rhombus — **2 lines of symmetry (diagonals)**
+
+```html
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <polygon points="110,20 180,80 110,140 40,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Diagonals -->
+  <line x1="110" y1="20" x2="110" y2="140" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+  <line x1="40" y1="80" x2="180" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+</svg>
+```
+
+---
+
+### 4) Parallelogram — **0 lines of symmetry**
+
+```html
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <polygon points="60,40 180,40 140,120 20,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Note: No symmetry lines -->
+</svg>
+```
+
+---
+
+### 5) Trapezium (Isosceles) — **1 line of symmetry**
+
+```html
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <!-- Isosceles trapezium -->
+  <polygon points="70,40 150,40 180,120 40,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Vertical symmetry -->
+  <line x1="110" y1="30" x2="110" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+</svg>
+```
+
+---
+
+### 6) Trapezium (General / non-isosceles) — **usually 0**
+
+```html
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <!-- Non-isosceles trapezium -->
+  <polygon points="60,45 170,45 150,120 30,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- No symmetry -->
+</svg>
+```
+
+---
+
+### 7) Kite — **1 line of symmetry**
+
+```html
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <polygon points="110,20 150,80 110,140 70,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Vertical symmetry -->
+  <line x1="110" y1="15" x2="110" y2="145" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
+</svg>
+```
+
+---
+
+### 8) Irregular Quadrilateral — **0 lines of symmetry**
+
+```html
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <polygon points="40,50 170,40 150,120 60,130" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- No symmetry -->
+</svg>
+```
+
+---
+
+
+
 ### 🧩 Word Problems:
 
 #### 🔹 Easy
