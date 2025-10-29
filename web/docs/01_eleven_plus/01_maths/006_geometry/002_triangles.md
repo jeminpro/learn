@@ -6,29 +6,76 @@ A **triangle** is a 2D shape with **3 sides** and **3 angles**. Triangles are ev
 
 #### 🔹 Types by Sides:
 
-1. **Equilateral triangle** – all sides and angles equal (each angle = 60°).
-   *Example: A slice of pizza cut into 3 equal parts.*
-2. **Isosceles triangle** – 2 sides and 2 angles equal.
-   *Example: A kite’s top half.*
-3. **Scalene triangle** – all sides and angles different.
-   *Example: A random triangular sign.*
+| Type | Description | Visual | Example |
+|------|-------------|--------|---------|
+| **Equilateral triangle** | All sides and angles equal (each angle = 60°) | <svg width="120" height="110" viewBox="0 0 140 130"><polygon points="70,20 20,110 120,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><text x="70" y="75" font-size="14" fill="#2a7" text-anchor="middle" font-weight="bold">60°</text><text x="30" y="105" font-size="14" fill="#2a7" text-anchor="middle" font-weight="bold">60°</text><text x="110" y="105" font-size="14" fill="#2a7" text-anchor="middle" font-weight="bold">60°</text></svg> | A slice of pizza cut into 3 equal parts |
+| **Isosceles triangle** | 2 sides and 2 angles equal | <svg width="120" height="110" viewBox="0 0 140 130"><polygon points="70,20 30,110 110,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="30" y1="110" x2="70" y2="20" stroke="#ff6b6b" stroke-width="2.5"/><line x1="110" y1="110" x2="70" y2="20" stroke="#ff6b6b" stroke-width="2.5"/><text x="40" y="105" font-size="14" fill="#2a7" text-anchor="middle" font-weight="bold">70°</text><text x="100" y="105" font-size="14" fill="#2a7" text-anchor="middle" font-weight="bold">70°</text></svg> | A kite's top half |
+| **Scalene triangle** | All sides and angles different | <svg width="120" height="110" viewBox="0 0 140 130"><polygon points="40,20 20,110 120,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><text x="30" y="60" font-size="12" fill="#555" text-anchor="middle">7cm</text><text x="70" y="120" font-size="12" fill="#555" text-anchor="middle">10cm</text><text x="90" y="60" font-size="12" fill="#555" text-anchor="middle">8cm</text></svg> | A random triangular sign |
 
 #### 🔹 Types by Angles:
 
-1. **Acute-angled** – all angles less than 90°.
-2. **Right-angled** – one angle exactly 90°.
-3. **Obtuse-angled** – one angle greater than 90°.
+| Type | Description | Visual | Key Feature |
+|------|-------------|--------|-------------|
+| **Acute-angled** | All angles less than 90° | <svg width="120" height="110" viewBox="0 0 140 130"><polygon points="70,25 25,110 115,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><text x="70" y="70" font-size="14" fill="#2a7" text-anchor="middle" font-weight="bold">70°</text><text x="35" y="105" font-size="14" fill="#2a7" text-anchor="middle" font-weight="bold">60°</text><text x="105" y="105" font-size="14" fill="#2a7" text-anchor="middle" font-weight="bold">50°</text></svg> | All angles sharp |
+| **Right-angled** | One angle exactly 90° | <svg width="120" height="110" viewBox="0 0 140 130"><polygon points="30,30 30,110 110,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><rect x="30" y="100" width="10" height="10" fill="none" stroke="#ff6b6b" stroke-width="2.5"/><text x="35" y="60" font-size="14" fill="#ff6b6b" text-anchor="middle" font-weight="bold">90°</text></svg> | Has a square corner |
+| **Obtuse-angled** | One angle greater than 90° | <svg width="120" height="110" viewBox="0 0 140 130"><polygon points="30,40 30,110 120,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><path d="M 30 50 Q 40 45 45 55" fill="none" stroke="#ff6b6b" stroke-width="2"/><text x="50" y="55" font-size="14" fill="#ff6b6b" text-anchor="start" font-weight="bold">120°</text></svg> | One angle very wide |
 
 #### 🔹 Key Facts:
 
 * The **sum of angles** in every triangle = **180°**.
+
+**Angle Sum Property Visualized:**
+
+<svg width="200" height="140" viewBox="0 0 200 140">
+  <!-- Triangle -->
+  <polygon points="100,20 30,120 170,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Angle labels -->
+  <text x="100" y="50" font-size="16" fill="#2a7" text-anchor="middle" font-weight="bold">a</text>
+  <text x="40" y="110" font-size="16" fill="#2a7" text-anchor="middle" font-weight="bold">b</text>
+  <text x="160" y="110" font-size="16" fill="#2a7" text-anchor="middle" font-weight="bold">c</text>
+  <!-- Formula -->
+  <text x="100" y="135" font-size="14" fill="#ff6b6b" text-anchor="middle" font-weight="bold">a + b + c = 180°</text>
+</svg>
+
 * **Longest side** is always opposite the **largest angle**.
-* A triangle with one 90° angle is a **right triangle**; Pythagoras’ theorem applies:
+* A triangle with one 90° angle is a **right triangle**; Pythagoras' theorem applies:
   *In a right triangle, (hypotenuse)² = (side1)² + (side2)².*
   (e.g., 3-4-5 triangle).
+
+**Pythagoras' Theorem Visualized:**
+
+<svg width="250" height="200" viewBox="0 0 250 200">
+  <!-- Right triangle -->
+  <polygon points="40,150 40,50 180,150" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Right angle marker -->
+  <rect x="40" y="140" width="10" height="10" fill="none" stroke="#ff6b6b" stroke-width="2.5"/>
+  <!-- Labels -->
+  <text x="20" y="100" font-size="16" fill="#2a7" font-weight="bold">a</text>
+  <text x="110" y="170" font-size="16" fill="#2a7" font-weight="bold">b</text>
+  <text x="110" y="90" font-size="16" fill="#ff6b6b" font-weight="bold">c (hypotenuse)</text>
+  <!-- Formula -->
+  <text x="10" y="190" font-size="14" fill="#333" font-weight="bold">c² = a² + b²</text>
+</svg>
+
 * **Perimeter** = sum of all sides.
 * **Area** = ½ × base × height.
   (Height is perpendicular from the base to the opposite vertex.)
+
+**Area Formula Visualized:**
+
+<svg width="220" height="160" viewBox="0 0 220 160">
+  <!-- Triangle -->
+  <polygon points="40,130 40,40 180,130" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Height line -->
+  <line x1="40" y1="40" x2="40" y2="130" stroke="#ff6b6b" stroke-width="2.5" stroke-dasharray="5 3"/>
+  <!-- Base line -->
+  <line x1="40" y1="130" x2="180" y2="130" stroke="#4a9eff" stroke-width="2.5"/>
+  <!-- Labels -->
+  <text x="20" y="85" font-size="14" fill="#ff6b6b" font-weight="bold">height</text>
+  <text x="100" y="145" font-size="14" fill="#4a9eff" font-weight="bold">base</text>
+  <!-- Formula -->
+  <text x="50" y="20" font-size="14" fill="#333" font-weight="bold">Area = ½ × base × height</text>
+</svg>
 
 #### 🧭 Common Mistakes to Avoid:
 

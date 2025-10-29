@@ -7,24 +7,24 @@ Angles tell us **how much something turns or opens** — like the hands of a clo
 
 #### 🔹 Types of Angles
 
-| Type          | Measure               | Example                      |
-| ------------- | --------------------- | ---------------------------- |
-| **Acute**     | less than 90°         | Tip of a slice of pizza      |
-| **Right**     | exactly 90°           | Corner of a square           |
-| **Obtuse**    | between 90° and 180°  | Open book                    |
-| **Straight**  | exactly 180°          | Flat line                    |
-| **Reflex**    | between 180° and 360° | Clock hand showing 7 o’clock |
-| **Full turn** | 360°                  | One complete circle          |
+| Type          | Measure               | Visual | Example                      |
+| ------------- | --------------------- | ------ | ---------------------------- |
+| **Acute**     | less than 90°         | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="10" y1="70" x2="90" y2="70" stroke="#2a7" stroke-width="3"/><line x1="10" y1="70" x2="60" y2="20" stroke="#2a7" stroke-width="3"/><path d="M 30,70 A 20,20 0 0,1 20,55" fill="none" stroke="#ff6b6b" stroke-width="2"/><text x="40" y="60" font-size="14" fill="#ff6b6b" font-weight="bold">45°</text></svg> | Tip of a slice of pizza      |
+| **Right**     | exactly 90°           | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="10" y1="70" x2="90" y2="70" stroke="#2a7" stroke-width="3"/><line x1="10" y1="70" x2="10" y2="10" stroke="#2a7" stroke-width="3"/><rect x="10" y="60" width="10" height="10" fill="none" stroke="#ff6b6b" stroke-width="2.5"/><text x="25" y="50" font-size="14" fill="#ff6b6b" font-weight="bold">90°</text></svg> | Corner of a square           |
+| **Obtuse**    | between 90° and 180°  | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="10" y1="70" x2="90" y2="70" stroke="#2a7" stroke-width="3"/><line x1="10" y1="70" x2="30" y2="15" stroke="#2a7" stroke-width="3"/><path d="M 30,70 A 20,20 0 0,1 15,50" fill="none" stroke="#ff6b6b" stroke-width="2"/><text x="35" y="55" font-size="14" fill="#ff6b6b" font-weight="bold">130°</text></svg> | Open book                    |
+| **Straight**  | exactly 180°          | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="10" y1="50" x2="110" y2="50" stroke="#2a7" stroke-width="3"/><path d="M 30,50 A 20,20 0 0,1 70,50" fill="none" stroke="#ff6b6b" stroke-width="2" stroke-dasharray="4 2"/><text x="50" y="45" font-size="14" fill="#ff6b6b" font-weight="bold">180°</text></svg> | Flat line                    |
+| **Reflex**    | between 180° and 360° | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="60" y1="50" x2="100" y2="50" stroke="#2a7" stroke-width="3"/><line x1="60" y1="50" x2="80" y2="20" stroke="#2a7" stroke-width="3"/><path d="M 80,50 A 25,25 0 1,1 70,28" fill="none" stroke="#ff6b6b" stroke-width="2"/><text x="70" y="60" font-size="14" fill="#ff6b6b" font-weight="bold">270°</text></svg> | Clock hand showing 7 o'clock |
+| **Full turn** | 360°                  | <svg width="100" height="80" viewBox="0 0 120 100"><circle cx="60" cy="45" r="25" fill="none" stroke="#ff6b6b" stroke-width="2" stroke-dasharray="4 2"/><line x1="60" y1="45" x2="85" y2="45" stroke="#2a7" stroke-width="2.5"/><text x="60" y="80" font-size="14" fill="#ff6b6b" font-weight="bold" text-anchor="middle">360°</text></svg> | One complete circle          |
 
 #### 🔹 Angle Relationships
 
-| Relationship                  | Rule                           | Diagram idea    |
-| ----------------------------- | ------------------------------ | --------------- |
-| **Complementary**             | Two angles that add up to 90°  | L-shaped corner |
-| **Supplementary**             | Two angles that add up to 180° | Straight line   |
-| **Vertically opposite**       | Equal when lines cross         | X shape         |
-| **Angles on a straight line** | Add up to 180°                 | Road junction   |
-| **Angles around a point**     | Add up to 360°                 | Spinner centre  |
+| Relationship                  | Rule                           | Visual | Diagram idea    |
+| ----------------------------- | ------------------------------ | ------ | --------------- |
+| **Complementary**             | Two angles that add up to 90°  | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="20" y1="70" x2="80" y2="70" stroke="#2a7" stroke-width="3"/><line x1="20" y1="70" x2="20" y2="20" stroke="#2a7" stroke-width="3"/><line x1="20" y1="70" x2="50" y2="40" stroke="#4a9eff" stroke-width="2.5"/><text x="30" y="50" font-size="11" fill="#ff6b6b" font-weight="bold">60°</text><text x="35" y="65" font-size="11" fill="#4a9eff" font-weight="bold">30°</text></svg> | L-shaped corner |
+| **Supplementary**             | Two angles that add up to 180° | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="10" y1="50" x2="110" y2="50" stroke="#2a7" stroke-width="3"/><line x1="50" y1="50" x2="30" y2="20" stroke="#4a9eff" stroke-width="2.5"/><text x="35" y="40" font-size="11" fill="#ff6b6b" font-weight="bold">120°</text><text x="65" y="45" font-size="11" fill="#4a9eff" font-weight="bold">60°</text></svg> | Straight line   |
+| **Vertically opposite**       | Equal when lines cross         | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="20" y1="20" x2="100" y2="80" stroke="#2a7" stroke-width="3"/><line x1="20" y1="80" x2="100" y2="20" stroke="#2a7" stroke-width="3"/><text x="25" y="45" font-size="11" fill="#ff6b6b" font-weight="bold">a</text><text x="80" y="60" font-size="11" fill="#ff6b6b" font-weight="bold">a</text><text x="25" y="60" font-size="11" fill="#4a9eff" font-weight="bold">b</text><text x="80" y="45" font-size="11" fill="#4a9eff" font-weight="bold">b</text></svg> | X shape         |
+| **Angles on a straight line** | Add up to 180°                 | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="10" y1="50" x2="110" y2="50" stroke="#2a7" stroke-width="3"/><line x1="40" y1="50" x2="30" y2="20" stroke="#4a9eff" stroke-width="2.5"/><line x1="60" y1="50" x2="70" y2="20" stroke="#9b59b6" stroke-width="2.5"/><text x="30" y="40" font-size="10" fill="#ff6b6b" font-weight="bold">a+b+c</text><text x="30" y="70" font-size="10" fill="#ff6b6b" font-weight="bold">=180°</text></svg> | Road junction   |
+| **Angles around a point**     | Add up to 360°                 | <svg width="100" height="80" viewBox="0 0 120 100"><line x1="60" y1="50" x2="90" y2="50" stroke="#2a7" stroke-width="2.5"/><line x1="60" y1="50" x2="70" y2="25" stroke="#2a7" stroke-width="2.5"/><line x1="60" y1="50" x2="40" y2="35" stroke="#2a7" stroke-width="2.5"/><line x1="60" y1="50" x2="45" y2="70" stroke="#2a7" stroke-width="2.5"/><circle cx="60" cy="50" r="3" fill="#ff6b6b"/><text x="60" y="85" font-size="10" fill="#ff6b6b" font-weight="bold" text-anchor="middle">360°</text></svg> | Spinner centre  |
 
 #### 🔹 Key Geometric Rules:
 
@@ -33,9 +33,52 @@ Angles tell us **how much something turns or opens** — like the hands of a clo
 * **Exterior angle of a polygon** = 360° ÷ number of sides.
 * **Parallel lines** create special angles:
 
-  * **Corresponding angles** – equal (“F” shape)
-  * **Alternate angles** – equal (“Z” shape)
-  * **Co-interior angles** – add to 180° (“C” shape)
+  * **Corresponding angles** – equal ("F" shape)
+  * **Alternate angles** – equal ("Z" shape)
+  * **Co-interior angles** – add to 180° ("C" shape)
+
+**Parallel Lines Diagrams:**
+
+<svg width="700" height="200" viewBox="0 0 700 200">
+  <!-- Corresponding Angles (F shape) -->
+  <g>
+    <line x1="20" y1="40" x2="180" y2="40" stroke="#2a7" stroke-width="3"/>
+    <line x1="20" y1="120" x2="180" y2="120" stroke="#2a7" stroke-width="3"/>
+    <line x1="60" y1="10" x2="100" y2="150" stroke="#4a9eff" stroke-width="3"/>
+    <path d="M 70,40 A 15,15 0 0,1 75,55" fill="none" stroke="#ff6b6b" stroke-width="2.5"/>
+    <path d="M 90,120 A 15,15 0 0,1 95,135" fill="none" stroke="#ff6b6b" stroke-width="2.5"/>
+    <text x="85" y="35" font-size="13" fill="#ff6b6b" font-weight="bold">a</text>
+    <text x="105" y="115" font-size="13" fill="#ff6b6b" font-weight="bold">a</text>
+    <text x="100" y="180" font-size="14" fill="#333" font-weight="bold" text-anchor="middle">Corresponding</text>
+    <text x="100" y="195" font-size="12" fill="#555" text-anchor="middle">(F shape)</text>
+  </g>
+  
+  <!-- Alternate Angles (Z shape) -->
+  <g transform="translate(230, 0)">
+    <line x1="20" y1="40" x2="180" y2="40" stroke="#2a7" stroke-width="3"/>
+    <line x1="20" y1="120" x2="180" y2="120" stroke="#2a7" stroke-width="3"/>
+    <line x1="60" y1="10" x2="100" y2="150" stroke="#4a9eff" stroke-width="3"/>
+    <path d="M 75,40 A 15,15 0 0,0 70,55" fill="none" stroke="#9b59b6" stroke-width="2.5"/>
+    <path d="M 85,120 A 15,15 0 0,0 80,105" fill="none" stroke="#9b59b6" stroke-width="2.5"/>
+    <text x="60" y="50" font-size="13" fill="#9b59b6" font-weight="bold">b</text>
+    <text x="90" y="110" font-size="13" fill="#9b59b6" font-weight="bold">b</text>
+    <text x="100" y="180" font-size="14" fill="#333" font-weight="bold" text-anchor="middle">Alternate</text>
+    <text x="100" y="195" font-size="12" fill="#555" text-anchor="middle">(Z shape)</text>
+  </g>
+  
+  <!-- Co-interior Angles (C shape) -->
+  <g transform="translate(460, 0)">
+    <line x1="20" y1="40" x2="180" y2="40" stroke="#2a7" stroke-width="3"/>
+    <line x1="20" y1="120" x2="180" y2="120" stroke="#2a7" stroke-width="3"/>
+    <line x1="60" y1="10" x2="100" y2="150" stroke="#4a9eff" stroke-width="3"/>
+    <path d="M 75,40 A 15,15 0 0,0 70,55" fill="none" stroke="#e74c3c" stroke-width="2.5"/>
+    <path d="M 90,120 A 15,15 0 0,1 95,135" fill="none" stroke="#e74c3c" stroke-width="2.5"/>
+    <text x="60" y="50" font-size="13" fill="#e74c3c" font-weight="bold">c</text>
+    <text x="105" y="115" font-size="13" fill="#e74c3c" font-weight="bold">d</text>
+    <text x="100" y="180" font-size="14" fill="#333" font-weight="bold" text-anchor="middle">Co-interior</text>
+    <text x="100" y="195" font-size="12" fill="#555" text-anchor="middle">c + d = 180°</text>
+  </g>
+</svg>
 
 #### 🧭 Common Mistakes to Avoid:
 

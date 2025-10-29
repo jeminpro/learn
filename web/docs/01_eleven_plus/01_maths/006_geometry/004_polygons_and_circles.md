@@ -6,22 +6,53 @@
 
 #### 🔹 Common Polygons:
 
-| Name          | Number of Sides | Example           |
-| ------------- | --------------- | ----------------- |
-| Triangle      | 3               | Roof truss        |
-| Quadrilateral | 4               | Window            |
-| Pentagon      | 5               | House roof sign   |
-| Hexagon       | 6               | Honeycomb cell    |
-| Heptagon      | 7               | Rare in real life |
-| Octagon       | 8               | Stop sign         |
-| Nonagon       | 9               | Fancy tile design |
-| Decagon       | 10              | Coin edge pattern |
+| Name          | Number of Sides | Visual | Example           |
+| ------------- | --------------- | ------ | ----------------- |
+| Triangle      | 3               | <svg width="80" height="80" viewBox="0 0 100 100"><polygon points="50,20 20,80 80,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> | Roof truss        |
+| Quadrilateral | 4               | <svg width="80" height="80" viewBox="0 0 100 100"><polygon points="25,35 75,30 80,70 20,75" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> | Window            |
+| Pentagon      | 5               | <svg width="80" height="80" viewBox="0 0 100 100"><polygon points="50,20 85,42 70,80 30,80 15,42" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> | House roof sign   |
+| Hexagon       | 6               | <svg width="80" height="80" viewBox="0 0 100 100"><polygon points="50,20 78,35 78,65 50,80 22,65 22,35" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> | Honeycomb cell    |
+| Heptagon      | 7               | <svg width="80" height="80" viewBox="0 0 100 100"><polygon points="50,20 68,27 80,45 72,68 28,68 20,45 32,27" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> | Rare in real life |
+| Octagon       | 8               | <svg width="80" height="80" viewBox="0 0 100 100"><polygon points="61,24 76,39 76,61 61,76 39,76 24,61 24,39 39,24" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> | Stop sign         |
+| Nonagon       | 9               | <svg width="80" height="80" viewBox="0 0 100 100"><polygon points="50,22 68,29 78,45 74,64 60,76 40,76 26,64 22,45 32,29" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> | Fancy tile design |
+| Decagon       | 10              | <svg width="80" height="80" viewBox="0 0 100 100"><polygon points="50,22 66,27 77,41 77,59 66,73 50,78 34,73 23,59 23,41 34,27" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> | Coin edge pattern |
 
 #### 🔹 Key Polygon Facts:
 
 * The **sum of interior angles** = (number of sides − 2) × 180°.
   Example: Pentagon → (5 − 2) × 180 = 540°.
+
+**Interior Angles Visualization:**
+
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <!-- Pentagon -->
+  <polygon points="110,30 180,70 155,140 65,140 40,70" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Interior angles marked -->
+  <circle cx="110" cy="30" r="3" fill="#ff6b6b"/>
+  <circle cx="180" cy="70" r="3" fill="#ff6b6b"/>
+  <circle cx="155" cy="140" r="3" fill="#ff6b6b"/>
+  <circle cx="65" cy="140" r="3" fill="#ff6b6b"/>
+  <circle cx="40" cy="70" r="3" fill="#ff6b6b"/>
+  <text x="110" y="165" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">Pentagon: (5 − 2) × 180° = 540°</text>
+</svg>
+
 * The **exterior angles** always add up to **360°** (one full turn).
+
+**Exterior Angles Visualization:**
+
+<svg width="220" height="180" viewBox="0 0 220 180">
+  <!-- Hexagon with exterior angles -->
+  <polygon points="110,30 160,50 160,100 110,120 60,100 60,50" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Exterior angle lines -->
+  <line x1="110" y1="30" x2="110" y2="5" stroke="#ff6b6b" stroke-width="2.5"/>
+  <line x1="160" y1="50" x2="185" y2="40" stroke="#ff6b6b" stroke-width="2.5"/>
+  <line x1="160" y1="100" x2="185" y2="110" stroke="#ff6b6b" stroke-width="2.5"/>
+  <line x1="110" y1="120" x2="110" y2="145" stroke="#ff6b6b" stroke-width="2.5"/>
+  <line x1="60" y1="100" x2="35" y2="110" stroke="#ff6b6b" stroke-width="2.5"/>
+  <line x1="60" y1="50" x2="35" y2="40" stroke="#ff6b6b" stroke-width="2.5"/>
+  <text x="110" y="170" font-size="14" fill="#333" text-anchor="middle" font-weight="bold">All exterior angles = 360°</text>
+</svg>
+
 * A **regular polygon** has all sides and angles equal.
 * In a regular polygon:
 
@@ -34,6 +65,50 @@
 
 A **circle** is a special curved 2D shape where all points are **the same distance** from a centre.
 
+**Circle Parts Diagram:**
+
+<svg width="300" height="260" viewBox="0 0 300 260">
+  <!-- Base circle -->
+  <circle cx="150" cy="120" r="80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+
+  <!-- Centre -->
+  <circle cx="150" cy="120" r="3.5" fill="#2a7"/>
+  <text x="156" y="132" font-size="12" fill="#2a7" font-weight="bold">Centre</text>
+
+  <!-- Radius (with endpoint dot) -->
+  <line x1="150" y1="120" x2="150" y2="40" stroke="#ff6b6b" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="150" cy="40" r="3.5" fill="#ff6b6b"/>
+  <text x="162" y="78" font-size="13" fill="#ff6b6b" font-weight="bold">Radius (r)</text>
+
+  <!-- Diameter -->
+  <line x1="70" y1="120" x2="230" y2="120" stroke="#4a9eff" stroke-width="3" stroke-linecap="round"/>
+  <text x="150" y="138" font-size="13" fill="#4a9eff" font-weight="bold" text-anchor="middle">Diameter (d = 2r)</text>
+
+  <!-- Chord (not through centre) -->
+  <line x1="95" y1="78" x2="206" y2="150" stroke="#9b59b6" stroke-width="3" stroke-linecap="round"/>
+  <text x="208" y="148" font-size="12" fill="#9b59b6" font-weight="bold">Chord</text>
+
+  <!-- Sector (shaded) -->
+  <path d="M 150,120 L 150,40 A 80,80 0 0,1 210,86 Z" fill="#ffeaa7" opacity="0.6" stroke="#f39c12" stroke-width="2"/>
+  <text x="178" y="64" font-size="12" fill="#f39c12" font-weight="bold">Sector</text>
+
+  <!-- Arc (thicker, with endpoints) -->
+  <path d="M 210,86 A 80,80 0 0,1 210,154" fill="none" stroke="#e74c3c" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="210" cy="86" r="3" fill="#e74c3c"/>
+  <circle cx="210" cy="154" r="3" fill="#e74c3c"/>
+  <text x="235" y="122" font-size="12" fill="#e74c3c" font-weight="bold">Arc</text>
+
+  <!-- Tangent at top (perpendicular to radius) -->
+  <line x1="115" y1="40" x2="185" y2="40" stroke="#27ae60" stroke-width="3" stroke-linecap="round"/>
+  <!-- Right angle marker between radius and tangent -->
+  <path d="M 150,44 l 10,0 l 0,-10" fill="none" stroke="#27ae60" stroke-width="2"/>
+  <text x="150" y="28" font-size="12" fill="#27ae60" font-weight="bold" text-anchor="middle">Tangent</text>
+
+  <!-- Circumference label around outside -->
+  <text x="150" y="222" font-size="13" fill="#2a7" font-weight="bold" text-anchor="middle">Circumference (C)</text>
+  <path d="M 70,120 A 80,80 0 1,1 230,120 A 80,80 0 1,1 70,120" fill="none" stroke="#2a7" stroke-width="2" stroke-dasharray="8 4"/>
+</svg>
+
 | Term                  | Meaning                                            | Example               |
 | --------------------- | -------------------------------------------------- | --------------------- |
 | **Radius (r)**        | Distance from centre to edge                       | Half a pizza slice    |
@@ -45,6 +120,24 @@ A **circle** is a special curved 2D shape where all points are **the same distan
 | **Tangent**           | Line that touches the circle at one point only     |                       |
 
 **Important Formulas:**
+
+<svg width="260" height="180" viewBox="0 0 260 180">
+  <!-- Circle for circumference -->
+  <circle cx="70" cy="60" r="40" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <line x1="70" y1="60" x2="110" y2="60" stroke="#ff6b6b" stroke-width="2.5"/>
+  <text x="90" y="55" font-size="11" fill="#ff6b6b" font-weight="bold">r</text>
+  <text x="70" y="115" font-size="12" fill="#333" font-weight="bold" text-anchor="middle">C = 2πr</text>
+  <text x="70" y="130" font-size="11" fill="#555" text-anchor="middle">or πd</text>
+  
+  <!-- Circle for area -->
+  <circle cx="180" cy="60" r="40" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <line x1="180" y1="60" x2="180" y2="20" stroke="#ff6b6b" stroke-width="2.5"/>
+  <text x="185" y="40" font-size="11" fill="#ff6b6b" font-weight="bold">r</text>
+  <text x="180" y="115" font-size="12" fill="#333" font-weight="bold" text-anchor="middle">A = πr²</text>
+  
+  <!-- Note -->
+  <text x="130" y="160" font-size="13" fill="#2a7" font-weight="bold" text-anchor="middle">For 11+ exams: π ≈ 3.14 or 22/7</text>
+</svg>
 
 * Circumference = π × diameter = 2 × π × radius
 * Area = π × r²

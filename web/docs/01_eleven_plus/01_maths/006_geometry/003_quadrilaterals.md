@@ -10,27 +10,95 @@ All quadrilaterals share these basic facts:
 * The **sum of all interior angles = 360°**.
 * They can be **regular** (all sides/angles equal) or **irregular**.
 
+**Angle Sum Property:**
+
+<svg width="220" height="160" viewBox="0 0 220 160">
+  <!-- Quadrilateral -->
+  <polygon points="50,40 170,35 180,120 40,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <!-- Diagonals shown as dashed -->
+  <line x1="50" y1="40" x2="180" y2="120" stroke="#999" stroke-width="2" stroke-dasharray="5 3" opacity="0.5"/>
+  <line x1="170" y1="35" x2="40" y2="110" stroke="#999" stroke-width="2" stroke-dasharray="5 3" opacity="0.5"/>
+  <!-- Angle labels -->
+  <text x="50" y="35" font-size="15" fill="#2a7" text-anchor="middle" font-weight="bold">a</text>
+  <text x="175" y="35" font-size="15" fill="#2a7" text-anchor="middle" font-weight="bold">b</text>
+  <text x="185" y="120" font-size="15" fill="#2a7" text-anchor="middle" font-weight="bold">c</text>
+  <text x="35" y="115" font-size="15" fill="#2a7" text-anchor="middle" font-weight="bold">d</text>
+  <!-- Formula -->
+  <text x="110" y="150" font-size="14" fill="#ff6b6b" text-anchor="middle" font-weight="bold">a + b + c + d = 360°</text>
+</svg>
+
 #### 🔹 Common Types of Quadrilaterals
 
-| Type              | Properties                                                                      | Real-life example                  |
-| ----------------- | ------------------------------------------------------------------------------- | ---------------------------------- |
-| **Square**        | 4 equal sides, 4 right angles, opposite sides parallel                          | Floor tiles                        |
-| **Rectangle**     | Opposite sides equal, 4 right angles                                            | Door, book                         |
-| **Parallelogram** | Opposite sides equal & parallel, opposite angles equal, no right angles usually | Slanted book stand                 |
-| **Rhombus**       | 4 equal sides, opposite angles equal, no right angles necessarily               | Diamond shape on cards             |
-| **Trapezium**     | One pair of opposite sides parallel                                             | Bridge support, table leg crossbar |
-| **Kite**          | Two pairs of equal adjacent sides, one line of symmetry                         | Flying kite                        |
+| Type              | Properties                                                                      | Visual | Real-life example                  |
+| ----------------- | ------------------------------------------------------------------------------- | ------ | ---------------------------------- |
+| **Square**        | 4 equal sides, 4 right angles, opposite sides parallel                          | <svg width="100" height="100" viewBox="0 0 120 120"><rect x="20" y="20" width="80" height="80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><rect x="20" y="90" width="10" height="10" fill="none" stroke="#ff6b6b" stroke-width="2"/><text x="60" y="110" font-size="12" fill="#2a7" text-anchor="middle" font-weight="bold">90°</text></svg> | Floor tiles                        |
+| **Rectangle**     | Opposite sides equal, 4 right angles                                            | <svg width="100" height="100" viewBox="0 0 140 100"><rect x="20" y="25" width="100" height="60" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><rect x="20" y="75" width="10" height="10" fill="none" stroke="#ff6b6b" stroke-width="2"/><line x1="20" y1="25" x2="120" y2="25" stroke="#4a9eff" stroke-width="2.5"/><line x1="120" y1="25" x2="120" y2="85" stroke="#ff6b6b" stroke-width="2.5"/></svg> | Door, book                         |
+| **Parallelogram** | Opposite sides equal & parallel, opposite angles equal, no right angles usually | <svg width="100" height="100" viewBox="0 0 140 100"><polygon points="30,30 110,30 90,80 10,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="30" y1="30" x2="110" y2="30" stroke="#4a9eff" stroke-width="2.5"/><line x1="10" y1="80" x2="90" y2="80" stroke="#4a9eff" stroke-width="2.5"/></svg> | Slanted book stand                 |
+| **Rhombus**       | 4 equal sides, opposite angles equal, no right angles necessarily               | <svg width="100" height="100" viewBox="0 0 120 120"><polygon points="60,15 110,60 60,105 10,60" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="60" y1="15" x2="10" y2="60" stroke="#ff6b6b" stroke-width="2.5"/><line x1="110" y1="60" x2="60" y2="105" stroke="#ff6b6b" stroke-width="2.5"/></svg> | Diamond shape on cards             |
+| **Trapezium**     | One pair of opposite sides parallel                                             | <svg width="100" height="100" viewBox="0 0 120 100"><polygon points="35,25 85,25 100,75 20,75" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="35" y1="25" x2="85" y2="25" stroke="#4a9eff" stroke-width="2.5"/><line x1="20" y1="75" x2="100" y2="75" stroke="#4a9eff" stroke-width="2.5"/></svg> | Bridge support, table leg crossbar |
+| **Kite**          | Two pairs of equal adjacent sides, one line of symmetry                         | <svg width="100" height="100" viewBox="0 0 120 120"><polygon points="60,15 85,60 60,105 35,60" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="60" y1="15" x2="85" y2="60" stroke="#ff6b6b" stroke-width="2.5"/><line x1="60" y1="15" x2="35" y2="60" stroke="#ff6b6b" stroke-width="2.5"/></svg> | Flying kite                        |
 
 #### 🔹 Key Formulas:
 
 * **Perimeter** = sum of all sides.
 * **Area (by type)**:
 
-  * Square: side × side
-  * Rectangle: length × width
-  * Parallelogram: base × height
-  * Rhombus: ½ × diagonal₁ × diagonal₂
-  * Trapezium: ½ × (sum of parallel sides) × height
+**Square: side × side**
+
+<svg width="200" height="150" viewBox="0 0 200 150">
+  <rect x="40" y="30" width="80" height="80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <line x1="40" y1="30" x2="120" y2="30" stroke="#ff6b6b" stroke-width="2.5"/>
+  <text x="80" y="20" font-size="14" fill="#ff6b6b" text-anchor="middle" font-weight="bold">side</text>
+  <line x1="120" y1="30" x2="120" y2="110" stroke="#ff6b6b" stroke-width="2.5"/>
+  <text x="135" y="70" font-size="14" fill="#ff6b6b" text-anchor="start" font-weight="bold">side</text>
+  <text x="80" y="140" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">Area = side × side</text>
+</svg>
+
+**Rectangle: length × width**
+
+<svg width="200" height="150" viewBox="0 0 220 150">
+  <rect x="30" y="40" width="120" height="70" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <line x1="30" y1="40" x2="150" y2="40" stroke="#4a9eff" stroke-width="2.5"/>
+  <text x="90" y="30" font-size="14" fill="#4a9eff" text-anchor="middle" font-weight="bold">length</text>
+  <line x1="150" y1="40" x2="150" y2="110" stroke="#ff6b6b" stroke-width="2.5"/>
+  <text x="170" y="75" font-size="14" fill="#ff6b6b" text-anchor="start" font-weight="bold">width</text>
+  <text x="90" y="135" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">Area = length × width</text>
+</svg>
+
+**Parallelogram: base × height**
+
+<svg width="220" height="150" viewBox="0 0 220 150">
+  <polygon points="40,40 140,40 120,100 20,100" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <line x1="40" y1="40" x2="40" y2="100" stroke="#ff6b6b" stroke-width="2.5" stroke-dasharray="5 3"/>
+  <text x="25" y="70" font-size="14" fill="#ff6b6b" text-anchor="middle" font-weight="bold">h</text>
+  <line x1="20" y1="100" x2="120" y2="100" stroke="#4a9eff" stroke-width="2.5"/>
+  <text x="70" y="120" font-size="14" fill="#4a9eff" text-anchor="middle" font-weight="bold">base</text>
+  <text x="80" y="140" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">Area = base × height</text>
+</svg>
+
+**Rhombus: ½ × diagonal₁ × diagonal₂**
+
+<svg width="200" height="160" viewBox="0 0 200 160">
+  <polygon points="100,20 160,80 100,140 40,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <line x1="100" y1="20" x2="100" y2="140" stroke="#ff6b6b" stroke-width="2.5" stroke-dasharray="5 3"/>
+  <text x="115" y="80" font-size="14" fill="#ff6b6b" text-anchor="start" font-weight="bold">d₁</text>
+  <line x1="40" y1="80" x2="160" y2="80" stroke="#4a9eff" stroke-width="2.5" stroke-dasharray="5 3"/>
+  <text x="100" y="95" font-size="14" fill="#4a9eff" text-anchor="middle" font-weight="bold">d₂</text>
+  <text x="100" y="155" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">Area = ½ × d₁ × d₂</text>
+</svg>
+
+**Trapezium: ½ × (sum of parallel sides) × height**
+
+<svg width="220" height="160" viewBox="0 0 220 160">
+  <polygon points="60,30 140,30 170,110 30,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+  <line x1="60" y1="30" x2="140" y2="30" stroke="#4a9eff" stroke-width="2.5"/>
+  <text x="100" y="20" font-size="14" fill="#4a9eff" text-anchor="middle" font-weight="bold">a</text>
+  <line x1="30" y1="110" x2="170" y2="110" stroke="#4a9eff" stroke-width="2.5"/>
+  <text x="100" y="130" font-size="14" fill="#4a9eff" text-anchor="middle" font-weight="bold">b</text>
+  <line x1="100" y1="30" x2="100" y2="110" stroke="#ff6b6b" stroke-width="2.5" stroke-dasharray="5 3"/>
+  <text x="115" y="70" font-size="14" fill="#ff6b6b" text-anchor="start" font-weight="bold">h</text>
+  <text x="100" y="150" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">Area = ½ × (a + b) × h</text>
+</svg>
 
 #### 🧭 Common Mistakes to Avoid:
 
@@ -83,15 +151,16 @@ A **line of symmetry** (also called a **mirror line**) is an **imaginary line** 
 
 Let’s look at each type of quadrilateral.
 
-| **Shape**                   | **Description**                          | **Number of Lines of Symmetry** | **Where the Lines Are**                                                        | **Quick Visual Tip 🧠**                             |
-| --------------------------- | ---------------------------------------- | ------------------------------: | ------------------------------------------------------------------------------ | --------------------------------------------------- |
-| **Square**                  | All sides and angles equal               |                           **4** | 2 along the diagonals + 2 through midpoints of opposite sides                  | Looks the same if you fold across middle or corners |
-| **Rectangle**               | Opposite sides equal, all angles 90°     |                           **2** | Vertical and horizontal midlines                                               | Diagonals aren’t lines of symmetry                  |
-| **Rhombus**                 | All sides equal, opposite angles equal   |                           **2** | Along the two diagonals                                                        | Only diagonals, not sides                           |
-| **Parallelogram**           | Opposite sides parallel and equal        |                           **0** | None                                                                           | Slanted → folds don’t match                         |
-| **Trapezium (Trapezoid)**   | Only one pair of sides parallel          |                   Usually **0** | Unless it’s **isosceles trapezium**, then **1** (vertical line through middle) | Check if non-parallel sides are equal               |
-| **Kite**                    | Two pairs of equal-length adjacent sides |                           **1** | Along the line joining the unequal angles (diagonal)                           | Looks like a real kite folded in half               |
-| **Irregular Quadrilateral** | No sides or angles equal                 |                           **0** | —                                                                              | No symmetry at all                                  |
+| **Shape**                   | **Description**                          | **Number of Lines of Symmetry** | **Where the Lines Are**                                                        | **Quick Visual Tip**                                | **Shapes**                       |
+| --------------------------- | ---------------------------------------- | ------------------------------: | ------------------------------------------------------------------------------ | --------------------------------------------------- |--------------------------------- |
+| **Square**                  | All sides and angles equal               |                           **4** | 2 along the diagonals + 2 through midpoints of opposite sides                  | Looks the same if you fold across middle or corners | <svg width="120" height="120" viewBox="0 0 220 180"><rect x="60" y="30" width="100" height="100" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="110" y1="25" x2="110" y2="135" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/><line x1="55" y1="80" x2="165" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/><line x1="60" y1="30" x2="160" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/><line x1="160" y1="30" x2="60" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/></svg> |
+| **Rectangle**               | Opposite sides equal, all angles 90°     |                           **2** | Vertical and horizontal midlines                                               | Diagonals aren't lines of symmetry                  | <svg width="120" height="120" viewBox="0 0 220 180"><rect x="40" y="40" width="140" height="80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="110" y1="35" x2="110" y2="125" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/><line x1="35" y1="80" x2="185" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/></svg> |
+| **Rhombus**                 | All sides equal, opposite angles equal   |                           **2** | Along the two diagonals                                                        | Only diagonals, not sides                           | <svg width="120" height="120" viewBox="0 0 220 180"><polygon points="110,20 180,80 110,140 40,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="110" y1="20" x2="110" y2="140" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/><line x1="40" y1="80" x2="180" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/></svg> |
+| **Parallelogram**           | Opposite sides parallel and equal        |                           **0** | None                                                                           | Slanted → folds don't match                         | <svg width="120" height="120" viewBox="0 0 220 180"><polygon points="60,40 180,40 140,120 20,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> |
+| **Trapezium (Isosceles)**   | Only one pair of sides parallel (equal non-parallel sides) |                           **1** | Vertical line through middle | Isosceles = equal non-parallel sides               | <svg width="120" height="120" viewBox="0 0 220 180"><polygon points="70,40 150,40 180,120 40,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="110" y1="30" x2="110" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/></svg> |
+| **Trapezium (General)**     | Only one pair of sides parallel          |                           **0** | None | Unequal non-parallel sides               | <svg width="120" height="120" viewBox="0 0 220 180"><polygon points="60,45 170,45 150,120 30,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> |
+| **Kite**                    | Two pairs of equal-length adjacent sides |                           **1** | Along the line joining the unequal angles (diagonal)                           | Looks like a real kite folded in half               | <svg width="120" height="120" viewBox="0 0 220 180"><polygon points="110,20 150,80 110,140 70,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/><line x1="110" y1="15" x2="110" y2="145" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/></svg> |
+| **Irregular Quadrilateral** | No sides or angles equal                 |                           **0** | —                                                                              | No symmetry at all                                  | <svg width="120" height="120" viewBox="0 0 220 180"><polygon points="40,50 170,40 150,120 60,130" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/></svg> |
 
 ---
 
@@ -108,115 +177,6 @@ Let’s look at each type of quadrilateral.
 
 
 ---
-
-Below are **simple inline SVG diagrams** you can copy into any Markdown doc. Each shows the **shape outline** and its **line(s) of symmetry** as **dashed mint lines**.
-
----
-
-### 1) Square — **4 lines of symmetry**
-
-
-<svg width="220" height="180" viewBox="0 0 220 180">
-  <rect x="60" y="30" width="100" height="100" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Vertical -->
-  <line x1="110" y1="25" x2="110" y2="135" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-  <!-- Horizontal -->
-  <line x1="55" y1="80" x2="165" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-  <!-- Diagonals -->
-  <line x1="60" y1="30" x2="160" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-  <line x1="160" y1="30" x2="60" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-</svg>
-
-
----
-
-### 2) Rectangle — **2 lines of symmetry**
-
-```html
-<svg width="220" height="180" viewBox="0 0 220 180">
-  <rect x="40" y="40" width="140" height="80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Vertical -->
-  <line x1="110" y1="35" x2="110" y2="125" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-  <!-- Horizontal -->
-  <line x1="35" y1="80" x2="185" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-</svg>
-```
-
----
-
-### 3) Rhombus — **2 lines of symmetry (diagonals)**
-
-```html
-<svg width="220" height="180" viewBox="0 0 220 180">
-  <polygon points="110,20 180,80 110,140 40,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Diagonals -->
-  <line x1="110" y1="20" x2="110" y2="140" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-  <line x1="40" y1="80" x2="180" y2="80" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-</svg>
-```
-
----
-
-### 4) Parallelogram — **0 lines of symmetry**
-
-```html
-<svg width="220" height="180" viewBox="0 0 220 180">
-  <polygon points="60,40 180,40 140,120 20,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Note: No symmetry lines -->
-</svg>
-```
-
----
-
-### 5) Trapezium (Isosceles) — **1 line of symmetry**
-
-```html
-<svg width="220" height="180" viewBox="0 0 220 180">
-  <!-- Isosceles trapezium -->
-  <polygon points="70,40 150,40 180,120 40,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Vertical symmetry -->
-  <line x1="110" y1="30" x2="110" y2="130" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-</svg>
-```
-
----
-
-### 6) Trapezium (General / non-isosceles) — **usually 0**
-
-```html
-<svg width="220" height="180" viewBox="0 0 220 180">
-  <!-- Non-isosceles trapezium -->
-  <polygon points="60,45 170,45 150,120 30,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- No symmetry -->
-</svg>
-```
-
----
-
-### 7) Kite — **1 line of symmetry**
-
-```html
-<svg width="220" height="180" viewBox="0 0 220 180">
-  <polygon points="110,20 150,80 110,140 70,80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Vertical symmetry -->
-  <line x1="110" y1="15" x2="110" y2="145" stroke="#2a7" stroke-width="3" stroke-dasharray="8 6"/>
-</svg>
-```
-
----
-
-### 8) Irregular Quadrilateral — **0 lines of symmetry**
-
-```html
-<svg width="220" height="180" viewBox="0 0 220 180">
-  <polygon points="40,50 170,40 150,120 60,130" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- No symmetry -->
-</svg>
-```
-
----
-
-
 
 ### 🧩 Word Problems:
 

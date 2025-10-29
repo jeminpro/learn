@@ -19,12 +19,47 @@ The main types are:
 ### 🔹 1. Translation (Slide)
 
 A **translation** moves every point by the same distance in the same direction.
-Described as **“x right/left, y up/down.”**
+Described as **"x right/left, y up/down."**
 Example:
 
 * Moving A(2, 3) **right 4, up 2** → new A′(6, 5).
 
 **Rule notation:** (x, y) → (x + 4, y + 2)
+
+**Translation Visual:**
+
+<svg width="350" height="250" viewBox="0 0 350 250">
+  <!-- Grid -->
+  <defs>
+    <pattern id="grid-trans" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="350" height="250" fill="url(#grid-trans)"/>
+  
+  <!-- Axes -->
+  <line x1="0" y1="180" x2="350" y2="180" stroke="#2a7" stroke-width="2"/>
+  <line x1="30" y1="0" x2="30" y2="250" stroke="#2a7" stroke-width="2"/>
+  
+  <!-- Original triangle -->
+  <polygon points="60,150 90,150 75,120" fill="#ff6b6b" opacity="0.6" stroke="#ff6b6b" stroke-width="2"/>
+  <text x="70" y="170" font-size="13" fill="#ff6b6b" font-weight="bold">Original</text>
+  
+  <!-- Translated triangle -->
+  <polygon points="180,90 210,90 195,60" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
+  <text x="185" y="110" font-size="13" fill="#4a9eff" font-weight="bold">A′B′C′</text>
+  
+  <!-- Arrow showing translation -->
+  <line x1="90" y1="130" x2="180" y2="80" stroke="#27ae60" stroke-width="2.5" stroke-dasharray="5 3" marker-end="url(#arrowgreen)"/>
+  <defs>
+    <marker id="arrowgreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#27ae60"/>
+    </marker>
+  </defs>
+  <text x="120" y="100" font-size="13" fill="#27ae60" font-weight="bold">+4 right, +2 up</text>
+  
+  <text x="175" y="230" font-size="14" fill="#333" font-weight="bold">Translation: Same shape, different position</text>
+</svg>
 
 ✅ *Shape, size, and orientation stay identical.*
 
@@ -39,6 +74,46 @@ A **reflection** produces a mirror image across a **line of reflection** — oft
 * Reflecting across the **y-axis** → change sign of x.
   (x, y) → (–x, y)
 
+**Reflection Visuals:**
+
+<svg width="700" height="280" viewBox="0 0 700 280">
+  <!-- Reflection in x-axis -->
+  <g>
+    <rect width="340" height="280" fill="url(#grid-trans)"/>
+    <line x1="0" y1="140" x2="340" y2="140" stroke="#ff6b6b" stroke-width="3"/>
+    <line x1="170" y1="0" x2="170" y2="280" stroke="#2a7" stroke-width="2"/>
+    <text x="300" y="135" font-size="12" fill="#ff6b6b" font-weight="bold">x-axis</text>
+    
+    <!-- Original shape above -->
+    <polygon points="210,80 250,80 230,40" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
+    <text x="220" y="105" font-size="12" fill="#4a9eff" font-weight="bold">ABC</text>
+    
+    <!-- Reflected shape below -->
+    <polygon points="210,200 250,200 230,240" fill="#9b59b6" opacity="0.6" stroke="#9b59b6" stroke-width="2"/>
+    <text x="220" y="190" font-size="12" fill="#9b59b6" font-weight="bold">A′B′C′</text>
+    
+    <text x="170" y="270" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">Reflect in x-axis</text>
+  </g>
+  
+  <!-- Reflection in y-axis -->
+  <g transform="translate(360, 0)">
+    <rect width="340" height="280" fill="url(#grid-trans)"/>
+    <line x1="0" y1="140" x2="340" y2="140" stroke="#2a7" stroke-width="2"/>
+    <line x1="170" y1="0" x2="170" y2="280" stroke="#ff6b6b" stroke-width="3"/>
+    <text x="180" y="20" font-size="12" fill="#ff6b6b" font-weight="bold">y-axis</text>
+    
+    <!-- Original shape right -->
+    <polygon points="230,100 270,100 250,60" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
+    <text x="240" y="125" font-size="12" fill="#4a9eff" font-weight="bold">ABC</text>
+    
+    <!-- Reflected shape left -->
+    <polygon points="110,100 70,100 90,60" fill="#27ae60" opacity="0.6" stroke="#27ae60" stroke-width="2"/>
+    <text x="75" y="125" font-size="12" fill="#27ae60" font-weight="bold">A′B′C′</text>
+    
+    <text x="170" y="270" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">Reflect in y-axis</text>
+  </g>
+</svg>
+
 ✅ *Shape and size same, orientation reversed.*
 
 ---
@@ -48,6 +123,70 @@ A **reflection** produces a mirror image across a **line of reflection** — oft
 A **rotation** turns a shape around a **fixed point**, often the origin (0, 0).
 
 * Common angles: 90°, 180°, 270°, clockwise (CW) or anticlockwise (ACW).
+
+**Rotation Visuals:**
+
+<svg width="700" height="320" viewBox="0 0 700 320">
+  <!-- 90° Clockwise -->
+  <g>
+    <rect width="340" height="320" fill="url(#grid-trans)"/>
+    <line x1="0" y1="160" x2="340" y2="160" stroke="#2a7" stroke-width="2"/>
+    <line x1="170" y1="0" x2="170" y2="320" stroke="#2a7" stroke-width="2"/>
+    
+    <!-- Center point -->
+    <circle cx="170" cy="160" r="4" fill="#ff6b6b"/>
+    <text x="175" y="175" font-size="11" fill="#ff6b6b" font-weight="bold">(0,0)</text>
+    
+    <!-- Original shape -->
+    <polygon points="210,120 240,120 225,90" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
+    <text x="215" y="145" font-size="12" fill="#4a9eff" font-weight="bold">ABC</text>
+    
+    <!-- Rotated 90° CW -->
+    <polygon points="200,160 200,190 230,175" fill="#9b59b6" opacity="0.6" stroke="#9b59b6" stroke-width="2"/>
+    <text x="175" y="200" font-size="12" fill="#9b59b6" font-weight="bold">A′B′C′</text>
+    
+    <!-- Rotation arrow -->
+    <path d="M 210,140 A 40,40 0 0,1 190,160" fill="none" stroke="#27ae60" stroke-width="2.5" marker-end="url(#arrowgreen2)"/>
+    <defs>
+      <marker id="arrowgreen2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L9,3 z" fill="#27ae60"/>
+      </marker>
+    </defs>
+    <text x="200" y="135" font-size="11" fill="#27ae60" font-weight="bold">90° CW</text>
+    
+    <text x="170" y="305" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">90° Clockwise</text>
+  </g>
+  
+  <!-- 180° Rotation -->
+  <g transform="translate(360, 0)">
+    <rect width="340" height="320" fill="url(#grid-trans)"/>
+    <line x1="0" y1="160" x2="340" y2="160" stroke="#2a7" stroke-width="2"/>
+    <line x1="170" y1="0" x2="170" y2="320" stroke="#2a7" stroke-width="2"/>
+    
+    <!-- Center point -->
+    <circle cx="170" cy="160" r="4" fill="#ff6b6b"/>
+    <text x="175" y="175" font-size="11" fill="#ff6b6b" font-weight="bold">(0,0)</text>
+    
+    <!-- Original shape top-right -->
+    <polygon points="210,120 240,120 225,90" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
+    <text x="215" y="145" font-size="12" fill="#4a9eff" font-weight="bold">ABC</text>
+    
+    <!-- Rotated 180° bottom-left -->
+    <polygon points="130,200 100,200 115,230" fill="#e74c3c" opacity="0.6" stroke="#e74c3c" stroke-width="2"/>
+    <text x="100" y="215" font-size="12" fill="#e74c3c" font-weight="bold">A′B′C′</text>
+    
+    <!-- Rotation arrow -->
+    <path d="M 210,140 A 60,60 0 1,1 130,180" fill="none" stroke="#27ae60" stroke-width="2.5" marker-end="url(#arrowgreen3)"/>
+    <defs>
+      <marker id="arrowgreen3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L9,3 z" fill="#27ae60"/>
+      </marker>
+    </defs>
+    <text x="155" y="125" font-size="11" fill="#27ae60" font-weight="bold">180°</text>
+    
+    <text x="170" y="305" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">180° Rotation</text>
+  </g>
+</svg>
 
 | Rotation about origin | Transformation rule |
 | --------------------- | ------------------- |
@@ -69,6 +208,42 @@ An **enlargement** changes the **size** of the shape, but not its shape.
 
 If k > 1 → shape grows.
 If 0 < k < 1 → shape shrinks.
+
+**Enlargement Visual:**
+
+<svg width="400" height="350" viewBox="0 0 400 350">
+  <!-- Grid -->
+  <rect width="400" height="350" fill="url(#grid-trans)"/>
+  
+  <!-- Axes -->
+  <line x1="0" y1="280" x2="400" y2="280" stroke="#2a7" stroke-width="2"/>
+  <line x1="40" y1="0" x2="40" y2="350" stroke="#2a7" stroke-width="2"/>
+  
+  <!-- Center of enlargement (origin) -->
+  <circle cx="40" cy="280" r="5" fill="#ff6b6b"/>
+  <text x="45" y="295" font-size="12" fill="#ff6b6b" font-weight="bold">Centre (0,0)</text>
+  
+  <!-- Original small triangle -->
+  <polygon points="100,250 130,250 115,220" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
+  <text x="105" y="270" font-size="13" fill="#4a9eff" font-weight="bold">Original</text>
+  
+  <!-- Enlarged triangle (scale factor 2) -->
+  <polygon points="160,190 220,190 190,130" fill="#27ae60" opacity="0.5" stroke="#27ae60" stroke-width="2.5"/>
+  <text x="175" y="210" font-size="13" fill="#27ae60" font-weight="bold">Enlarged ×2</text>
+  
+  <!-- Lines from center to show enlargement -->
+  <line x1="40" y1="280" x2="100" y2="250" stroke="#9b59b6" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <line x1="40" y1="280" x2="160" y2="190" stroke="#9b59b6" stroke-width="1.5" stroke-dasharray="3 2"/>
+  
+  <line x1="40" y1="280" x2="130" y2="250" stroke="#9b59b6" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <line x1="40" y1="280" x2="220" y2="190" stroke="#9b59b6" stroke-width="1.5" stroke-dasharray="3 2"/>
+  
+  <line x1="40" y1="280" x2="115" y2="220" stroke="#9b59b6" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <line x1="40" y1="280" x2="190" y2="130" stroke="#9b59b6" stroke-width="1.5" stroke-dasharray="3 2"/>
+  
+  <text x="200" y="330" font-size="14" fill="#333" font-weight="bold" text-anchor="middle">Scale factor = 2</text>
+  <text x="200" y="345" font-size="12" fill="#555" text-anchor="middle">(All distances from centre doubled)</text>
+</svg>
 
 ✅ *Angles stay same; sides scale proportionally.*
 

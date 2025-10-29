@@ -4,6 +4,135 @@
 
 3D shapes are solids that take up space. You can hold them in your hand. Each 3D shape is made from flat parts called faces, joined by edges (straight lines) and vertices (corners).
 
+**Common 3D Shapes:**
+
+<svg width="800" height="500" viewBox="0 0 800 500">
+  <!-- Cube -->
+  <g>
+    <text x="70" y="20" font-size="16" fill="#333" font-weight="bold" text-anchor="middle">Cube</text>
+    <!-- Front face -->
+    <rect x="30" y="45" width="70" height="70" fill="#eaf7ff" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Back face (offset) -->
+    <rect x="50" y="25" width="70" height="70" fill="none" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Connecting edges -->
+    <line x1="30" y1="45" x2="50" y2="25" stroke="#2a7" stroke-width="2.5"/>
+    <line x1="100" y1="45" x2="120" y2="25" stroke="#2a7" stroke-width="2.5"/>
+    <line x1="30" y1="115" x2="50" y2="95" stroke="#2a7" stroke-width="2.5"/>
+    <line x1="100" y1="115" x2="120" y2="95" stroke="#2a7" stroke-width="2.5"/>
+    <text x="70" y="145" font-size="11" fill="#555" text-anchor="middle">6 faces, 12 edges</text>
+    <text x="70" y="160" font-size="11" fill="#555" text-anchor="middle">8 vertices</text>
+  </g>
+  
+  <!-- Cuboid -->
+  <g transform="translate(150, 0)">
+    <text x="70" y="20" font-size="16" fill="#333" font-weight="bold" text-anchor="middle">Cuboid</text>
+    <!-- Front face -->
+    <rect x="25" y="50" width="90" height="55" fill="#eaf7ff" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Back face -->
+    <rect x="45" y="30" width="90" height="55" fill="none" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Connecting edges -->
+    <line x1="25" y1="50" x2="45" y2="30" stroke="#2a7" stroke-width="2.5"/>
+    <line x1="115" y1="50" x2="135" y2="30" stroke="#2a7" stroke-width="2.5"/>
+    <line x1="25" y1="105" x2="45" y2="85" stroke="#2a7" stroke-width="2.5"/>
+    <line x1="115" y1="105" x2="135" y2="85" stroke="#2a7" stroke-width="2.5"/>
+    <text x="70" y="130" font-size="11" fill="#555" text-anchor="middle">6 rectangular faces</text>
+    <text x="70" y="145" font-size="11" fill="#555" text-anchor="middle">(like a cereal box)</text>
+  </g>
+  
+  <!-- Cylinder -->
+  <g transform="translate(320, 0)">
+    <text x="60" y="20" font-size="16" fill="#333" font-weight="bold" text-anchor="middle">Cylinder</text>
+    <!-- Top ellipse -->
+    <ellipse cx="60" cy="45" rx="35" ry="10" fill="none" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Sides -->
+    <line x1="25" y1="45" x2="25" y2="105" stroke="#2a7" stroke-width="2.5"/>
+    <line x1="95" y1="45" x2="95" y2="105" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Bottom ellipse -->
+    <ellipse cx="60" cy="105" rx="35" ry="10" fill="#eaf7ff" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Fill body -->
+    <path d="M 25 45 L 25 105 A 35 10 0 0 0 95 105 L 95 45" fill="#eaf7ff" stroke="none"/>
+    <!-- Redraw top -->
+    <ellipse cx="60" cy="45" rx="35" ry="10" fill="none" stroke="#2a7" stroke-width="2.5"/>
+    <text x="60" y="135" font-size="11" fill="#555" text-anchor="middle">2 circular faces</text>
+    <text x="60" y="150" font-size="11" fill="#555" text-anchor="middle">1 curved surface</text>
+  </g>
+  
+  <!-- Sphere -->
+  <g transform="translate(460, 0)">
+    <text x="60" y="20" font-size="16" fill="#333" font-weight="bold" text-anchor="middle">Sphere</text>
+    <circle cx="60" cy="75" r="40" fill="#eaf7ff" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Horizontal ellipse (equator) -->
+    <ellipse cx="60" cy="75" rx="40" ry="10" fill="none" stroke="#4a9eff" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <!-- Vertical ellipse (meridian) -->
+    <ellipse cx="60" cy="75" rx="10" ry="40" fill="none" stroke="#4a9eff" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="60" y="135" font-size="11" fill="#555" text-anchor="middle">No flat faces</text>
+    <text x="60" y="150" font-size="11" fill="#555" text-anchor="middle">Perfectly round</text>
+  </g>
+  
+  <!-- Cone -->
+  <g transform="translate(610, 0)">
+    <text x="60" y="20" font-size="16" fill="#333" font-weight="bold" text-anchor="middle">Cone</text>
+    <!-- Cone body (triangle outline) -->
+    <path d="M 60 40 L 25 105 A 35 10 0 0 0 95 105 Z" fill="#eaf7ff" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Base ellipse -->
+    <ellipse cx="60" cy="105" rx="35" ry="10" fill="#eaf7ff" stroke="#2a7" stroke-width="2.5"/>
+    <text x="60" y="135" font-size="11" fill="#555" text-anchor="middle">1 circular face</text>
+    <text x="60" y="150" font-size="11" fill="#555" text-anchor="middle">1 curved surface</text>
+  </g>
+  
+  <!-- Square Pyramid -->
+  <g transform="translate(60, 200)">
+    <text x="65" y="20" font-size="16" fill="#333" font-weight="bold" text-anchor="middle">Square Pyramid</text>
+    <!-- Base square (in perspective) -->
+    <polygon points="35,110 95,110 105,100 45,100" fill="#eaf7ff" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Back triangular face -->
+    <polygon points="65,45 45,100 105,100" fill="#d4ebff" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Right triangular face -->
+    <polygon points="65,45 95,110 105,100" fill="#bde0ff" stroke="#2a7" stroke-width="2.5"/>
+    <!-- Front left triangular face -->
+    <polygon points="65,45 35,110 95,110" fill="#eaf7ff" stroke="#2a7" stroke-width="2.5"/>
+    <text x="65" y="140" font-size="11" fill="#555" text-anchor="middle">1 square base</text>
+    <text x="65" y="155" font-size="11" fill="#555" text-anchor="middle">4 triangular faces</text>
+  </g>
+  
+  <!-- Net of a Cube -->
+  <g transform="translate(240, 210)">
+    <text x="100" y="10" font-size="16" fill="#333" font-weight="bold" text-anchor="middle">Net of a Cube</text>
+    <!-- Cross-shaped net -->
+    <rect x="70" y="30" width="35" height="35" fill="#ffcccc" stroke="#ff6b6b" stroke-width="2"/>
+    <rect x="35" y="65" width="35" height="35" fill="#ffe6e6" stroke="#ff6b6b" stroke-width="2"/>
+    <rect x="70" y="65" width="35" height="35" fill="#ffe6e6" stroke="#ff6b6b" stroke-width="2"/>
+    <rect x="105" y="65" width="35" height="35" fill="#ffe6e6" stroke="#ff6b6b" stroke-width="2"/>
+    <rect x="140" y="65" width="35" height="35" fill="#ffe6e6" stroke="#ff6b6b" stroke-width="2"/>
+    <rect x="70" y="100" width="35" height="35" fill="#ffe6e6" stroke="#ff6b6b" stroke-width="2"/>
+    <text x="100" y="155" font-size="11" fill="#555" text-anchor="middle">2D pattern that</text>
+    <text x="100" y="170" font-size="11" fill="#555" text-anchor="middle">folds into 3D shape</text>
+  </g>
+  
+  <!-- Key Concepts -->
+  <g transform="translate(470, 210)">
+    <text x="130" y="10" font-size="16" fill="#333" font-weight="bold" text-anchor="middle">Key Concepts</text>
+    
+    <!-- Volume box -->
+    <rect x="30" y="30" width="85" height="50" fill="#e8f5e9" stroke="#27ae60" stroke-width="2.5"/>
+    <text x="72" y="55" font-size="13" fill="#27ae60" font-weight="bold" text-anchor="middle">Volume</text>
+    <text x="72" y="70" font-size="10" fill="#555" text-anchor="middle">(inside space)</text>
+    <text x="72" y="95" font-size="9" fill="#555" text-anchor="middle">cubic units (cm³)</text>
+    
+    <!-- Surface Area box -->
+    <rect x="145" y="30" width="85" height="50" fill="#fff3e0" stroke="#f39c12" stroke-width="2.5"/>
+    <text x="187" y="50" font-size="13" fill="#f39c12" font-weight="bold" text-anchor="middle">Surface</text>
+    <text x="187" y="65" font-size="13" fill="#f39c12" font-weight="bold" text-anchor="middle">Area</text>
+    <text x="187" y="95" font-size="9" fill="#555" text-anchor="middle">square units (cm²)</text>
+    
+    <!-- Euler's Formula -->
+    <text x="130" y="120" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">Euler's Formula:</text>
+    <text x="130" y="140" font-size="14" fill="#9b59b6" font-weight="bold" text-anchor="middle">F + V = E + 2</text>
+    <text x="130" y="157" font-size="10" fill="#555" text-anchor="middle">Faces + Vertices</text>
+    <text x="130" y="170" font-size="10" fill="#555" text-anchor="middle">= Edges + 2</text>
+  </g>
+</svg>
+
 * Cube: 6 square faces, all sides equal (like an ice cube).
 * Cuboid (rectangular prism): 6 rectangular faces (like a cereal box).
 * Cylinder: 2 circular faces and a curved surface (like a tin of soup).
