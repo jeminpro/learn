@@ -67,10 +67,9 @@ sections:
         url: Comprehension/masterclass
         notes: |
       - name: Drill Packs
-        level: in_progress
+        level: completed
         url: 
         notes: |
-          Drill Pack 1 completed. Week 1, 2 completed in Drill Pack 2
 
   - name: Punctuation
     topics:
@@ -85,9 +84,10 @@ sections:
         notes: |
           Oct 2025: Needs revision. Struggles with when to apply for different types of nouns etc
       - name: Apostrophes
-        level: 
+        level: needs_practice
         url: 
         notes: |
+          Oct 2025: Confused between singular/plural in possessive apostrophes
       - name: Speech Marks
         level: 
         url: 
