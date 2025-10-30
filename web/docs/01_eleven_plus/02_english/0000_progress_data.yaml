@@ -108,32 +108,72 @@ sections:
         level: 
         url: 
         notes: |
+      - name: Tips and Drill Pack
+        level: 
+        url: 
+        notes: |
 
   - name: Grammar
     topics:
-      - name: Subject-Verb Agreement
+      - name: Sentence Structure
         level: 
-        url: Grammar/noun_pronoun_agreement
-        notes: |
-      - name: Tenses (past, present, future)
-        level: 
-        url: Grammar/verbs_forms_tenses
+        url: 
         notes: |
       - name: Clauses (main & subordinate)
         level: 
-        url: Grammar/main_subordinate_clause
+        url:
         notes: |
-      - name: Pronouns
+      - name: Word Order and Syntax
         level: 
-        url: Grammar/noun_pronoun_agreement
+        url: 
         notes: |
-      - name: Prepositions
+      - name: Parts of Speech
         level: 
-        url: Grammar/parts_of_speech
+        url: 
         notes: |
-      - name: Sentence Types
+      - name: Verb forms and tenses
         level: 
-        url: Grammar/sentence_structure
+        url: 
+        notes: |
+      - name: Noun and Pronoun Agreement
+        level: 
+        url:
+        notes: |
+      - name: Adjectives and Adverbs
+        level: 
+        url: 
+        notes: |
+      - name: Voice and Mood
+        level: 
+        url: 
+        notes: |
+      - name: Direct and Reported Speech
+        level: 
+        url: 
+        notes: |
+      - name: Word Forms and Families
+        level: 
+        url: 
+        notes: |
+      - name: Sentence Combination and Transformation
+        level: 
+        url: 
+        notes: |
+      - name: Errors and Proofreading
+        level: 
+        url: 
+        notes: |
+      - name: Grammar mastery Summary
+        level: 
+        url: 
+        notes: |
+      - name: Tips and Tricks
+        level: 
+        url: 
+        notes: |
+      - name: Drill Pack
+        level: 
+        url: 
         notes: |
 
   - name: Vocabulary
