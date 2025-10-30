@@ -65,11 +65,9 @@
 
 A **circle** is a special curved 2D shape where all points are **the same distance** from a centre.
 
-![Small alphabets](./img/PartsOfCircle.png)
-
 [Video explanation](https://www.youtube.com/watch?v=WdFacLv-h3o&source_ve_path=MTc4NDI0)
 
-
+![Parts of circle](./img/PartsOfCircle.png)
 
 | Term                  | Meaning                                            | Example               |
 | --------------------- | -------------------------------------------------- | --------------------- |
