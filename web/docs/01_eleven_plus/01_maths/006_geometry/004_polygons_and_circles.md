@@ -65,49 +65,11 @@
 
 A **circle** is a special curved 2D shape where all points are **the same distance** from a centre.
 
-**Circle Parts Diagram:**
+![Small alphabets](./img/PartsOfCircle.png)
 
-<svg width="300" height="260" viewBox="0 0 300 260">
-  <!-- Base circle -->
-  <circle cx="150" cy="120" r="80" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
+[Video explanation](https://www.youtube.com/watch?v=WdFacLv-h3o&source_ve_path=MTc4NDI0)
 
-  <!-- Centre -->
-  <circle cx="150" cy="120" r="3.5" fill="#2a7"/>
-  <text x="156" y="132" font-size="12" fill="#2a7" font-weight="bold">Centre</text>
 
-  <!-- Radius (with endpoint dot) -->
-  <line x1="150" y1="120" x2="150" y2="40" stroke="#ff6b6b" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="150" cy="40" r="3.5" fill="#ff6b6b"/>
-  <text x="162" y="78" font-size="13" fill="#ff6b6b" font-weight="bold">Radius (r)</text>
-
-  <!-- Diameter -->
-  <line x1="70" y1="120" x2="230" y2="120" stroke="#4a9eff" stroke-width="3" stroke-linecap="round"/>
-  <text x="150" y="138" font-size="13" fill="#4a9eff" font-weight="bold" text-anchor="middle">Diameter (d = 2r)</text>
-
-  <!-- Chord (not through centre) -->
-  <line x1="95" y1="78" x2="206" y2="150" stroke="#9b59b6" stroke-width="3" stroke-linecap="round"/>
-  <text x="208" y="148" font-size="12" fill="#9b59b6" font-weight="bold">Chord</text>
-
-  <!-- Sector (shaded) -->
-  <path d="M 150,120 L 150,40 A 80,80 0 0,1 210,86 Z" fill="#ffeaa7" opacity="0.6" stroke="#f39c12" stroke-width="2"/>
-  <text x="178" y="64" font-size="12" fill="#f39c12" font-weight="bold">Sector</text>
-
-  <!-- Arc (thicker, with endpoints) -->
-  <path d="M 210,86 A 80,80 0 0,1 210,154" fill="none" stroke="#e74c3c" stroke-width="4" stroke-linecap="round"/>
-  <circle cx="210" cy="86" r="3" fill="#e74c3c"/>
-  <circle cx="210" cy="154" r="3" fill="#e74c3c"/>
-  <text x="235" y="122" font-size="12" fill="#e74c3c" font-weight="bold">Arc</text>
-
-  <!-- Tangent at top (perpendicular to radius) -->
-  <line x1="115" y1="40" x2="185" y2="40" stroke="#27ae60" stroke-width="3" stroke-linecap="round"/>
-  <!-- Right angle marker between radius and tangent -->
-  <path d="M 150,44 l 10,0 l 0,-10" fill="none" stroke="#27ae60" stroke-width="2"/>
-  <text x="150" y="28" font-size="12" fill="#27ae60" font-weight="bold" text-anchor="middle">Tangent</text>
-
-  <!-- Circumference label around outside -->
-  <text x="150" y="222" font-size="13" fill="#2a7" font-weight="bold" text-anchor="middle">Circumference (C)</text>
-  <path d="M 70,120 A 80,80 0 1,1 230,120 A 80,80 0 1,1 70,120" fill="none" stroke="#2a7" stroke-width="2" stroke-dasharray="8 4"/>
-</svg>
 
 | Term                  | Meaning                                            | Example               |
 | --------------------- | -------------------------------------------------- | --------------------- |
