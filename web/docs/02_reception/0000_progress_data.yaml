@@ -2,12 +2,12 @@ sections:
   - name: IXL Maths
     topics:
       - name: Count to 3
-        level: mastered
+        level: completed
         notes: |
       - name: Count to 5
-        level: in progress
+        level: needs_practice
         notes: |
-          Oct 2025: To learn: One more, one less and ordinal numbers
+          Oct 2025: To learn: ordinal numbers
       - name: Count to 10
         level: 
         notes: |
