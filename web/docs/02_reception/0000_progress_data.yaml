@@ -33,13 +33,14 @@ sections:
         level: 
         notes: |
       - name: Positions
-        level: 
+        level: completed
         notes: |
+          Needs practise on above/below, left/right
       - name: Classify
-        level: 
+        level: completed
         notes: |
       - name: Patterns
-        level: 
+        level: completed
         notes: |
       - name: Size
         level: 
