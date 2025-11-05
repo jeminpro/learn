@@ -189,6 +189,65 @@ A **rotation** turns a shape around a **fixed point**, often the origin (0, 0).
 </svg>
 
 
+<!-- 90° clockwise rotation: (x, y) → (y, –x) -->
+<svg width="320" height="320" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="200" height="200" fill="white" />
+
+  <!-- Axes -->
+  <!-- x-axis -->
+  <line x1="10" y1="100" x2="190" y2="100" stroke="#444" stroke-width="1.5" />
+  <!-- arrow on +x -->
+  <polygon points="188,95 190,100 188,105" fill="#444" />
+
+  <!-- y-axis -->
+  <line x1="100" y1="10" x2="100" y2="190" stroke="#444" stroke-width="1.5" />
+  <!-- arrow on +y -->
+  <polygon points="95,12 100,10 105,12" fill="#444" />
+
+  <!-- Axis labels -->
+  <text x="185" y="92" font-size="10" fill="#444">x</text>
+  <text x="108" y="18" font-size="10" fill="#444">y</text>
+  <text x="105" y="112" font-size="10" fill="#444">(0, 0)</text>
+
+  <!-- Helper: we’re using scale 1 unit = 20px, origin at (100,100)
+       Original point: (2, 3) → (140, 40)
+       Rotated 90° clockwise: (3, –2) → (160, 140)
+  -->
+
+  <!-- Original point P = (2, 3) -->
+  <circle cx="140" cy="40" r="4" fill="#2563eb" />
+  <text x="145" y="35" font-size="10" fill="#2563eb">P (2, 3)</text>
+
+  <!-- Rotated point P' = (3, –2) -->
+  <circle cx="160" cy="140" r="4" fill="#f97316" />
+  <text x="165" y="150" font-size="10" fill="#f97316">P' (3, −2)</text>
+
+  <!-- Line from origin to original point -->
+  <line x1="100" y1="100" x2="140" y2="40" stroke="#2563eb" stroke-width="1.2" stroke-dasharray="4 3" />
+
+  <!-- Line from origin to rotated point -->
+  <line x1="100" y1="100" x2="160" y2="140" stroke="#f97316" stroke-width="1.2" stroke-dasharray="4 3" />
+
+  <!-- Curved arrow showing 90° clockwise rotation -->
+  <path d="
+    M 135 55
+    A 50 50 0 0 1 150 105
+  " fill="none" stroke="#16a34a" stroke-width="1.2" marker-end="url(#arrowhead)" />
+
+  <!-- Arrowhead definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <polygon points="0,0 6,3 0,6" fill="#16a34a" />
+    </marker>
+  </defs>
+
+  <!-- Angle label -->
+  <text x="145" y="80" font-size="10" fill="#16a34a">90° clockwise</text>
+</svg>
+
+
 | Rotation                               | Transformation Rule | Example           |
 | -------------------------------------- | ------------------- | ----------------- |
 | 90° **Clockwise**                      | (x, y) → ( y, −x )  | (2, 3) → (3, −2)  |
