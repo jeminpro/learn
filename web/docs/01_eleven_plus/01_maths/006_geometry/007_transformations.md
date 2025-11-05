@@ -188,11 +188,14 @@ A **rotation** turns a shape around a **fixed point**, often the origin (0, 0).
   </g>
 </svg>
 
-| Rotation about origin | Transformation rule |
-| --------------------- | ------------------- |
-| 90° clockwise         | (x, y) → (y, –x)    |
-| 90° anticlockwise     | (x, y) → (–y, x)    |
-| 180° (either way)     | (x, y) → (–x, –y)   |
+
+| Rotation                               | Transformation Rule | Example           |
+| -------------------------------------- | ------------------- | ----------------- |
+| 90° **Clockwise**                      | (x, y) → ( y, −x )  | (2, 3) → (3, −2)  |
+| 90° **Counterclockwise**               | (x, y) → ( −y, x )  | (2, 3) → (−3, 2)  |
+| 180° (either direction)                | (x, y) → ( −x, −y ) | (2, 3) → (−2, −3) |
+| 270° **Clockwise** *(same as 90° CCW)* | (x, y) → ( −y, x )  | (2, 3) → (−3, 2)  |
+| 360°                                   | (x, y) → ( x, y )   | (2, 3) → (2, 3)   |
 
 ✅ *Shape and size same, orientation changes depending on rotation direction.*
 
