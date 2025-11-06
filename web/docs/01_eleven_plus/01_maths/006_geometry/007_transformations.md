@@ -122,72 +122,12 @@ A **reflection** produces a mirror image across a **line of reflection** — oft
 
 A **rotation** turns a shape around a **fixed point**, often the origin (0, 0).
 
-* Common angles: 90°, 180°, 270°, clockwise (CW) or anticlockwise (ACW).
+* Common angles: 90°, 180°, 270°, 360°
+* Direction
+  * Clockwise (CW) 
+  * Aniclockwise (ACW) or Counterclockwise
 
 **Rotation Visuals:**
-
-<svg width="700" height="320" viewBox="0 0 700 320">
-  <!-- 90° Clockwise -->
-  <g>
-    <rect width="340" height="320" fill="url(#grid-trans)"/>
-    <line x1="0" y1="160" x2="340" y2="160" stroke="#2a7" stroke-width="2"/>
-    <line x1="170" y1="0" x2="170" y2="320" stroke="#2a7" stroke-width="2"/>
-    
-    <!-- Center point -->
-    <circle cx="170" cy="160" r="4" fill="#ff6b6b"/>
-    <text x="175" y="175" font-size="11" fill="#ff6b6b" font-weight="bold">(0,0)</text>
-    
-    <!-- Original shape -->
-    <polygon points="210,120 240,120 225,90" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
-    <text x="215" y="145" font-size="12" fill="#4a9eff" font-weight="bold">ABC</text>
-    
-    <!-- Rotated 90° CW -->
-    <polygon points="200,160 200,190 230,175" fill="#9b59b6" opacity="0.6" stroke="#9b59b6" stroke-width="2"/>
-    <text x="175" y="200" font-size="12" fill="#9b59b6" font-weight="bold">A′B′C′</text>
-    
-    <!-- Rotation arrow -->
-    <path d="M 210,140 A 40,40 0 0,1 190,160" fill="none" stroke="#27ae60" stroke-width="2.5" marker-end="url(#arrowgreen2)"/>
-    <defs>
-      <marker id="arrowgreen2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-        <path d="M0,0 L0,6 L9,3 z" fill="#27ae60"/>
-      </marker>
-    </defs>
-    <text x="200" y="135" font-size="11" fill="#27ae60" font-weight="bold">90° CW</text>
-    
-    <text x="170" y="305" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">90° Clockwise</text>
-  </g>
-  
-  <!-- 180° Rotation -->
-  <g transform="translate(360, 0)">
-    <rect width="340" height="320" fill="url(#grid-trans)"/>
-    <line x1="0" y1="160" x2="340" y2="160" stroke="#2a7" stroke-width="2"/>
-    <line x1="170" y1="0" x2="170" y2="320" stroke="#2a7" stroke-width="2"/>
-    
-    <!-- Center point -->
-    <circle cx="170" cy="160" r="4" fill="#ff6b6b"/>
-    <text x="175" y="175" font-size="11" fill="#ff6b6b" font-weight="bold">(0,0)</text>
-    
-    <!-- Original shape top-right -->
-    <polygon points="210,120 240,120 225,90" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
-    <text x="215" y="145" font-size="12" fill="#4a9eff" font-weight="bold">ABC</text>
-    
-    <!-- Rotated 180° bottom-left -->
-    <polygon points="130,200 100,200 115,230" fill="#e74c3c" opacity="0.6" stroke="#e74c3c" stroke-width="2"/>
-    <text x="100" y="215" font-size="12" fill="#e74c3c" font-weight="bold">A′B′C′</text>
-    
-    <!-- Rotation arrow -->
-    <path d="M 210,140 A 60,60 0 1,1 130,180" fill="none" stroke="#27ae60" stroke-width="2.5" marker-end="url(#arrowgreen3)"/>
-    <defs>
-      <marker id="arrowgreen3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
-        <path d="M0,0 L0,6 L9,3 z" fill="#27ae60"/>
-      </marker>
-    </defs>
-    <text x="155" y="125" font-size="11" fill="#27ae60" font-weight="bold">180°</text>
-    
-    <text x="170" y="305" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">180° Rotation</text>
-  </g>
-</svg>
-
 
 <!-- 90° clockwise rotation: (x, y) → (y, –x) -->
 <svg width="320" height="320" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
@@ -209,7 +149,7 @@ A **rotation** turns a shape around a **fixed point**, often the origin (0, 0).
   <!-- Axis labels -->
   <text x="185" y="92" font-size="10" fill="#444">x</text>
   <text x="108" y="18" font-size="10" fill="#444">y</text>
-  <text x="105" y="112" font-size="10" fill="#444">(0, 0)</text>
+  <text x="75" y="112" font-size="10" fill="#444">(0, 0)</text>
 
   <!-- Helper: we’re using scale 1 unit = 20px, origin at (100,100)
        Original point: (2, 3) → (140, 40)
@@ -222,7 +162,7 @@ A **rotation** turns a shape around a **fixed point**, often the origin (0, 0).
 
   <!-- Rotated point P' = (3, –2) -->
   <circle cx="160" cy="140" r="4" fill="#f97316" />
-  <text x="165" y="150" font-size="10" fill="#f97316">P' (3, −2)</text>
+  <text x="150" y="155" font-size="10" fill="#f97316">P' (3, −2)</text>
 
   <!-- Line from origin to original point -->
   <line x1="100" y1="100" x2="140" y2="40" stroke="#2563eb" stroke-width="1.2" stroke-dasharray="4 3" />
@@ -244,17 +184,16 @@ A **rotation** turns a shape around a **fixed point**, often the origin (0, 0).
   </defs>
 
   <!-- Angle label -->
-  <text x="145" y="80" font-size="10" fill="#16a34a">90° clockwise</text>
+  <text x="134" y="85" font-size="10" fill="#16a34a">90° clockwise</text>
 </svg>
 
 
 | Rotation                               | Transformation Rule | Example           |
 | -------------------------------------- | ------------------- | ----------------- |
-| 90° **Clockwise**                      | (x, y) → ( y, −x )  | (2, 3) → (3, −2)  |
-| 90° **Counterclockwise**               | (x, y) → ( −y, x )  | (2, 3) → (−3, 2)  |
+| 90° Clockwise  (or 270° ACW)           | (x, y) → ( y, −x )  | (2, 3) → (3, −2)  |
 | 180° (either direction)                | (x, y) → ( −x, −y ) | (2, 3) → (−2, −3) |
-| 270° **Clockwise** *(same as 90° CCW)* | (x, y) → ( −y, x )  | (2, 3) → (−3, 2)  |
-| 360°                                   | (x, y) → ( x, y )   | (2, 3) → (2, 3)   |
+| 270° Clockwise (or 90° ACW)            | (x, y) → ( −y, x )  | (2, 3) → (−3, 2)  |
+| 360°  (either direction)               | (x, y) → ( x, y )   | (2, 3) → (2, 3)   |
 
 ✅ *Shape and size same, orientation changes depending on rotation direction.*
 
