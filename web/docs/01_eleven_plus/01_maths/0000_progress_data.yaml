@@ -102,46 +102,46 @@ sections:
     topics:
       - name: Calculating fractions
         level: completed
-        url: 
+        url: fraction/understanding-fractions
         notes: Need to improve in simplifying fractions and converting them to decimals.
       - name: Adding and subtracting fractions
         level: completed
-        url: 
+        url: fraction/simplifying-fractions
         notes: Need to improve in finding common denominators.
       - name: Equivalent fractions
         level: completed
-        url: 
+        url: fraction/equivalent-fractions
         notes: Need to improve in identifying and generating equivalent fractions.
       - name: Mixed numbers and improper fractions
         level: completed
-        url: 
+        url: fraction/simplifying-fractions
         notes: |
       - name: Order and compare fractions
         level: completed
-        url: 
+        url: fraction/ordering-fractions
         notes: |
 
   - name: Decimals
     topics:
       - name: Decimal place value
         level: 
-        url: 
+        url: decimals/decimal_place_value
         notes: |
       - name: Adding and subtracting decimals
         level: 
-        url: 
+        url: decimals/adding_and_subtracting_decimals
         notes: |
       - name: Multiplying and dividing decimals
         level: 
-        url: 
+        url: decimals/multiplying_and_dividing_decimals
         notes: 
       - name: Converting decimals and fractions
         level: 
-        url: 
+        url: decimals/converting_decimals_and_fractions
         notes: |
       - name: Order and compare decimals
         level: 
-        url: 
+        url: decimals/order_and_compare_decimals
         notes: |
 
   - name: Measurement
@@ -243,11 +243,7 @@ sections:
           
 
   - name: Geometry
-    topics:
-      - name: 3D shapes
-        level: 
-        url: geometry/001_3d_shapes
-        notes: | 
+    topics:      
       - name: Triangles
         level: 
         url: geometry/triangles
@@ -272,18 +268,22 @@ sections:
         level: 
         url: geometry/transformations
         notes: | 
+      - name: 3D shapes
+        level: 
+        url: geometry/001_3d_shapes
+        notes: | 
 
   - name: Ratio and Proportion
     topics:
       - name: Order & Compare Percentages
         level: 
-        url: 
+        url: ratio_and_proportion/order_and_compare_percentages
         notes: | 
       - name: Calculating percentages
         level: 
-        url: 
+        url: ratio_and_proportion/calculating_percentage
         notes: | 
       - name: Relative quantities
         level: 
-        url: 
+        url: ratio_and_proportion/relative_quantities
         notes: | 
