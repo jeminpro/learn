@@ -49,51 +49,51 @@ sections:
     topics:
       - name: Written addition
         level: completed
-        url: 
+        url: operations/written_addition
         notes: To improve in accuracy and speed
       - name: Written subtraction
         level: completed
-        url: 
+        url: operations/written_subtraction
         notes: To improve in accuracy and speed 
       - name: Written multiplication
         level: completed
-        url: 
+        url: operations/written_multiplication
         notes: Need to imprvoe in accuracy and speed
       - name: Written division
         level: completed
-        url: 
+        url: operations/written_division
         notes: |
       - name: Mental addition and subtraction
         level: 
-        url: 
+        url: operations/mental_addition_subtraction
         notes: |
       - name: Mental multiplication and division
         level: 
-        url: 
+        url: operations/mental_multiplication_division
         notes: |
       - name: Square and cube numbers
         level: 
-        url: 
+        url: operations/square_and_cube_numbers
         notes: |
       - name: Multiples
         level: completed
-        url: 
+        url: operations/multiples
         notes: 
       - name: Factors
         level: completed
-        url: 
+        url: operations/factors
         notes: |
       - name: Prime numbers and factor trees
         level: 
-        url: 
+        url: operations/prime_numbers_and_factor_trees
         notes: |
       - name: Estimating
         level: completed
-        url: 
+        url: operations/estimating
         notes: |
       - name: Worded number problems
         level: 
-        url: 
+        url: operations/worded_number_problems
         notes: |
           - Weak in understanding the problem and identifying the key information.
           - Need to improve on writing the solution neatly
@@ -148,66 +148,66 @@ sections:
     topics:
       - name: Length & perimeter
         level: 
-        url: 
+        url: measurement/length_and_perimeter
         notes: | 
       - name: Money
         level: 
-        url: 
+        url: measurement/money
         notes: | 
       - name: Time
         level: 
-        url: 
+        url: measurement/time
         notes: | 
       - name: Metric units
         level: 
-        url: 
+        url: measurement/metric_units
         notes: | 
       - name: Area
         level: 
-        url: 
+        url: measurement/area
         notes: | 
       - name: Volume
         level: 
-        url: 
+        url: measurement/volume
         notes: | 
       - name: Imperial units
         level: 
-        url: 
+        url: measurement/imperial_units
         notes: | 
 
   - name: Data
     topics:
       - name: Pictograms
         level: 
-        url: 
+        url: data/pictograms
         notes: | 
       - name: Bar charts
         level: 
-        url: 
+        url: data/bar_charts
         notes: | 
       - name: Line graphs
         level: 
-        url: 
+        url: data/line_graphs
         notes: | 
       - name: Pie charts
         level: 
-        url: 
+        url: data/pie_charts
         notes: | 
       - name: Tables
         level: 
-        url: 
+        url: data/tables
         notes: | 
       - name: Venn diagrams
         level: 
-        url: 
+        url: data/venn_diagrams
         notes: | 
       - name: Mean
         level: 
-        url: 
+        url: data/mean
         notes: | 
       - name: Mode, median & range
         level: 
-        url: 
+        url: data/mode_median_range
         notes: | 
 
   - name: Algebra
