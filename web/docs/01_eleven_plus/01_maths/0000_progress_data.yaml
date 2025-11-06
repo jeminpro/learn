@@ -3,7 +3,7 @@ sections:
   - name: Basics
     topics:
       - name: Place value
-        level: in_progress
+        level: completed
         url: basics/place_value
         notes: |
             ### Demo markdown notes
@@ -239,33 +239,32 @@ sections:
           - more than a number (doing times instead of addition)
           - 3 less than a number (writing 3-n instead of n-3)
           - Order of expression needs to improve (5 less than triple a number h-5x3 instead of 3h-5)
-
           
 
   - name: Geometry
     topics:      
       - name: Triangles
-        level: 
+        level: completed
         url: geometry/triangles
         notes: | 
       - name: Quadrilaterals
-        level: 
+        level: completed
         url: geometry/quadrilaterals
         notes: | 
       - name: Polygons & circles
-        level: 
+        level: completed
         url: geometry/polygons_and_circles
         notes: | 
       - name: Angles
-        level: 
+        level: in_progress
         url: geometry/angles
         notes: | 
       - name: Position
-        level: 
+        level: completed
         url: geometry/position
         notes: | 
       - name: Transformations
-        level: 
+        level: in_progress
         url: geometry/transformations
         notes: | 
       - name: 3D shapes
