@@ -10,7 +10,7 @@ These puzzles blend **fraction skills** with logical thinking and are grouped by
 
 ### Puzzle 1:
 
-Fill in missing fractions (use only 1/6, 1/3, 1/2):
+Fill in missing fractions (use only $\tfrac{1}{6}$, $\tfrac{1}{3}$, $\tfrac{1}{2}$):
 
 |   | A | B | C | Sum |
 | - | - | - | - | --- |
@@ -36,9 +36,9 @@ You have:
 
 Match these statements:
 
-A) 3/4 of the \_\_\_\_\_\_ were eaten = 15
-B) 2/3 of the \_\_\_\_\_\_ were given away = 12
-C) 5/6 of the \_\_\_\_\_\_ were left = 10
+A) $\tfrac{3}{4}$ of the \_\_\_\_\_\_ were eaten = 15
+B) $\tfrac{2}{3}$ of the \_\_\_\_\_\_ were given away = 12
+C) $\tfrac{5}{6}$ of the \_\_\_\_\_\_ were left = 10
 
 Which fruit matches each clue?
 
@@ -51,13 +51,13 @@ Which fruit matches each clue?
 ### Puzzle 3:
 
 Children: Amy, Ben, Chloe
-Fractions: 1/2, 1/3, 1/6
+Fractions: $\tfrac{1}{2}$, $\tfrac{1}{3}$, $\tfrac{1}{6}$
 
 Clues:
 
 1. Amy got more than Chloe
 2. Ben didn’t get the most
-3. Chloe didn’t get 1/3
+3. Chloe didn’t get $\tfrac{1}{3}$
 
 Who got which fraction?
 
@@ -69,14 +69,14 @@ Mark each statement as **True or False**:
 
 ### Puzzle 4:
 
-1. 3/6 = 1/2
-2. 2/3 + 1/3 = 1
-3. 1/4 + 1/8 = 2/8
-4. 3/5 − 1/10 = 2/10
-5. 3/4 × 1/2 = 3/8
-6. 1/5 ÷ 2 = 1/10
-7. 3/4 of 32 = 20
-8. 0.25 = 1/5
+1. $\tfrac{3}{6}$ = $\tfrac{1}{2}$
+2. $\tfrac{2}{3}$ + $\tfrac{1}{3}$ = 1
+3. $\tfrac{1}{4}$ + $\tfrac{1}{8}$ = $\tfrac{2}{8}$
+4. $\tfrac{3}{5}$ − $\tfrac{1}{10}$ = $\tfrac{2}{10}$
+5. $\tfrac{3}{4}$ × $\tfrac{1}{2}$ = $\tfrac{3}{8}$
+6. $\tfrac{1}{5}$ ÷ 2 = $\tfrac{1}{10}$
+7. $\tfrac{3}{4}$ of 32 = 20
+8. 0.25 = $\tfrac{1}{5}$
 
 ---
 
@@ -100,48 +100,48 @@ What fraction am I?"
 
 |   | A   | B   | C   | Sum |
 | - | --- | --- | --- | --- |
-| 1 | 1/2 | 1/3 | 1/6 | 1   |
-| 2 | 1/3 | 1/6 | 1/2 | 1   |
-| 3 | 1/6 | 1/2 | 1/3 | 1   |
+| 1 | $\tfrac{1}{2}$ | $\tfrac{1}{3}$ | $\tfrac{1}{6}$ | 1   |
+| 2 | $\tfrac{1}{3}$ | $\tfrac{1}{6}$ | $\tfrac{1}{2}$ | 1   |
+| 3 | $\tfrac{1}{6}$ | $\tfrac{1}{2}$ | $\tfrac{1}{3}$ | 1   |
 
 ### Puzzle 2:
 
-* 🍌 Bananas → 2/3 of 18 = 12 → B
-* 🍊 Oranges → 3/4 of 20 = 15 → A
-* 🍎 Apples → 5/6 of 12 = 10 → C
+* 🍌 Bananas → $\tfrac{2}{3}$ of 18 = 12 → B
+* 🍊 Oranges → $\tfrac{3}{4}$ of 20 = 15 → A
+* 🍎 Apples → $\tfrac{5}{6}$ of 12 = 10 → C
 
 ### Puzzle 3:
 
-* Amy: 1/2 (more than Chloe)
-* Ben: 1/3
-* Chloe: 1/6
+* Amy: $\tfrac{1}{2}$ (more than Chloe)
+* Ben: $\tfrac{1}{3}$
+* Chloe: $\tfrac{1}{6}$
 
 ### Puzzle 4:
 
 1. ✅ True
 2. ✅ True
-3. ❌ (1/4 + 1/8 = 3/8)
-4. ❌ (3/5 − 1/10 = 5/10 = 1/2)
+3. ❌ ($\tfrac{1}{4}$ + $\tfrac{1}{8}$ = $\tfrac{3}{8}$)
+4. ❌ ($\tfrac{3}{5}$ − $\tfrac{1}{10}$ = $\tfrac{5}{10}$ = $\tfrac{1}{2}$)
 5. ✅ True
 6. ✅ True
-7. ✅ 3/4 × 32 = 24
-8. ❌ 0.25 = 1/4
+7. ✅ $\tfrac{3}{4}$ × 32 = 24
+8. ❌ 0.25 = $\tfrac{1}{4}$
 
 ### Puzzle 5:
 
 * Denominator: Multiple of 6, not 12 → 6 or 18
-* Numerator = 1/2 of denominator
-* So: **3/6 = 1/2 (not in simplest form)** ❌
-* Try 9/18 → not simplest ❌
-* Try **4/8 = 1/2** ❌
-* **Final answer: 5/10 = 1/2** ❌ (10 is not multiple of 6)
+* Numerator = $\tfrac{1}{2}$ of denominator
+* So: **$\tfrac{3}{6}$ = $\tfrac{1}{2}$ (not in simplest form)** ❌
+* Try $\tfrac{9}{18}$ → not simplest ❌
+* Try **$\tfrac{4}{8}$ = $\tfrac{1}{2}$** ❌
+* **Final answer: $\tfrac{5}{10}$ = $\tfrac{1}{2}$** ❌ (10 is not multiple of 6)
 
-✅ Correct answer: **3/6**, but not in simplest form → **None**
-Let’s adjust: Try **2/4 → no**,
-**1/2 is simplest, but 2/4 = 1/2**
+✅ Correct answer: **$\tfrac{3}{6}$**, but not in simplest form → **None**
+Let’s adjust: Try **$\tfrac{2}{4}$ → no**,
+**$\tfrac{1}{2}$ is simplest, but $\tfrac{2}{4}$ = $\tfrac{1}{2}$**
 
-Let’s go with: **3/6 → not simplest**
-Better: **Answer is 2/4, but simplified → 1/2**
+Let’s go with: **$\tfrac{3}{6}$ → not simplest**
+Better: **Answer is $\tfrac{2}{4}$, but simplified → $\tfrac{1}{2}$**
 
-🟢 Final valid answer: **1/2**
+🟢 Final valid answer: **$\tfrac{1}{2}$**
 

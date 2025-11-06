@@ -11,10 +11,10 @@ Instead, it’s one of the most straightforward fraction operations:
 
 ### 🍕 Real-Life Analogy:
 
-You eat **1/2 of a pizza**, but you only want to eat **1/3** of that half.
+You eat **$\tfrac{1}{2}$ of a pizza**, but you only want to eat **$\tfrac{1}{3}$** of that half.
 
 That’s:
-**1/3 × 1/2** = "One third of one half" = **1/6** of the whole pizza.
+**$\tfrac{1}{3}$ × $\tfrac{1}{2}$** = "One third of one half" = **$\tfrac{1}{6}$** of the whole pizza.
 
 ---
 
@@ -25,14 +25,14 @@ That’s:
 Multiply top × top, bottom × bottom.
 
 > Example:
-> 2/3 × 4/5 = (2×4)/(3×5) = **8/15**
+> $\tfrac{2}{3}$ × $\tfrac{4}{5}$ = (2×4)/(3×5) = **$\tfrac{8}{15}$**
 
 #### ✅ Fraction × Whole Number
 
 Turn the whole number into a fraction by writing it over 1.
 
 > Example:
-> 3 × 2/5 = 3/1 × 2/5 = 6/5 = **1 1/5**
+> 3 × $\tfrac{2}{5}$ = $\tfrac{3}{1}$ × $\tfrac{2}{5}$ = $\tfrac{6}{5}$ = **1 $\tfrac{1}{5}$**
 
 ---
 
@@ -40,17 +40,17 @@ Turn the whole number into a fraction by writing it over 1.
 
 Before multiplying, you can **cancel any common factors diagonally** to make life easier.
 
-> 2/3 × 9/10 → cancel 3 & 9 → 2/1 × 3/10 = **6/10 = 3/5**
+> $\tfrac{2}{3}$ × $\tfrac{9}{10}$ → cancel 3 & 9 → $\tfrac{2}{1}$ × $\tfrac{3}{10}$ = **$\tfrac{6}{10}$ = $\tfrac{3}{5}$**
 
 ---
 
 ### 🧮 Examples:
 
-1. 1/2 × 1/4 = 1/8
-2. 3/5 × 2/3 = 6/15 = **2/5**
-3. 4/7 × 1/2 = 4/14 = **2/7**
-4. 3 × 2/5 = 6/5 = **1 1/5**
-5. 5/6 × 3/4 = 15/24 = **5/8**
+1. $\tfrac{1}{2}$ × $\tfrac{1}{4}$ = $\tfrac{1}{8}$
+2. $\tfrac{3}{5}$ × $\tfrac{2}{3}$ = $\tfrac{6}{15}$ = **$\tfrac{2}{5}$**
+3. $\tfrac{4}{7}$ × $\tfrac{1}{2}$ = $\tfrac{4}{14}$ = **$\tfrac{2}{7}$**
+4. 3 × $\tfrac{2}{5}$ = $\tfrac{6}{5}$ = **1 $\tfrac{1}{5}$**
+5. $\tfrac{5}{6}$ × $\tfrac{3}{4}$ = $\tfrac{15}{24}$ = **$\tfrac{5}{8}$**
 
 ---
 
@@ -58,104 +58,104 @@ Before multiplying, you can **cancel any common factors diagonally** to make lif
 
 #### 🔹 Easy
 
-1. What is 1/2 × 1/3?
-2. Multiply: 2/5 × 3/4
-3. What is 1/3 of 1/6?
-4. Find: 3/4 × 2/3
-5. What is 2/3 of 1/2?
-6. Multiply: 1/5 × 4/7
-7. What is 3 × 1/4?
-8. Multiply: 5 × 1/3
-9. 1/2 × 4 = ?
-10. What is 2/3 of 6?
+1. What is $\tfrac{1}{2}$ × $\tfrac{1}{3}$?
+2. Multiply: $\tfrac{2}{5}$ × $\tfrac{3}{4}$
+3. What is $\tfrac{1}{3}$ of $\tfrac{1}{6}$?
+4. Find: $\tfrac{3}{4}$ × $\tfrac{2}{3}$
+5. What is $\tfrac{2}{3}$ of $\tfrac{1}{2}$?
+6. Multiply: $\tfrac{1}{5}$ × $\tfrac{4}{7}$
+7. What is 3 × $\tfrac{1}{4}$?
+8. Multiply: 5 × $\tfrac{1}{3}$
+9. $\tfrac{1}{2}$ × 4 = ?
+10. What is $\tfrac{2}{3}$ of 6?
 
 #### 🔸 Medium
 
-11. 2/3 × 5/7
-12. Multiply: 4/5 × 3/10
-13. What is 3/8 of 24?
-14. A recipe needs 2/5 of a 500g pack. How much is that?
-15. 3/4 × 16 = ?
-16. Multiply: 6/7 × 7/9
-17. Find: 5/6 of 18
-18. A car travels 2/3 of a 150 km route. How far did it go?
-19. 2/3 × 9/10
-20. Multiply: 5/8 × 4/6
+11. $\tfrac{2}{3}$ × $\tfrac{5}{7}$
+12. Multiply: $\tfrac{4}{5}$ × $\tfrac{3}{10}$
+13. What is $\tfrac{3}{8}$ of 24?
+14. A recipe needs $\tfrac{2}{5}$ of a 500g pack. How much is that?
+15. $\tfrac{3}{4}$ × 16 = ?
+16. Multiply: $\tfrac{6}{7}$ × $\tfrac{7}{9}$
+17. Find: $\tfrac{5}{6}$ of 18
+18. A car travels $\tfrac{2}{3}$ of a 150 km route. How far did it go?
+19. $\tfrac{2}{3}$ × $\tfrac{9}{10}$
+20. Multiply: $\tfrac{5}{8}$ × $\tfrac{4}{6}$
 
 #### 🔺 Hard
 
-21. What is 4/5 of 2/3?
-22. A school has 480 students. 3/5 are boys. How many boys?
-23. Multiply: 7/9 × 2/5
-24. A baker uses 3/4 of 2/3 kg of flour. How much did he use?
-25. A rectangle has area 4/7 × 3/5. What is the area?
-26. 8/9 × 9/16
-27. A bag contains 2/3 of 3/4 kg of rice. What’s inside?
-28. 11/12 × 6/11
-29. 3/10 × 2/3 × 5/6
-30. A child drinks 3/4 of a 2/3 litre bottle. How much did he drink?
+21. What is $\tfrac{4}{5}$ of $\tfrac{2}{3}$?
+22. A school has 480 students. $\tfrac{3}{5}$ are boys. How many boys?
+23. Multiply: $\tfrac{7}{9}$ × $\tfrac{2}{5}$
+24. A baker uses $\tfrac{3}{4}$ of $\tfrac{2}{3}$ kg of flour. How much did he use?
+25. A rectangle has area $\tfrac{4}{7}$ × $\tfrac{3}{5}$. What is the area?
+26. $\tfrac{8}{9}$ × $\tfrac{9}{16}$
+27. A bag contains $\tfrac{2}{3}$ of $\tfrac{3}{4}$ kg of rice. What’s inside?
+28. $\tfrac{11}{12}$ × $\tfrac{6}{11}$
+29. $\tfrac{3}{10}$ × $\tfrac{2}{3}$ × $\tfrac{5}{6}$
+30. A child drinks $\tfrac{3}{4}$ of a $\tfrac{2}{3}$ litre bottle. How much did he drink?
 
 ---
 
 ### ✅ Answers:
 
-1. 1/6
+1. $\tfrac{1}{6}$
 
-2. 6/20 = 3/10
+2. $\tfrac{6}{20}$ = $\tfrac{3}{10}$
 
-3. 1/18
+3. $\tfrac{1}{18}$
 
-4. 6/12 = 1/2
+4. $\tfrac{6}{12}$ = $\tfrac{1}{2}$
 
-5. 2/6 = 1/3
+5. $\tfrac{2}{6}$ = $\tfrac{1}{3}$
 
-6. 4/35
+6. $\tfrac{4}{35}$
 
-7. 3/4
+7. $\tfrac{3}{4}$
 
-8. 5/3 = 1 2/3
+8. $\tfrac{5}{3}$ = 1 $\tfrac{2}{3}$
 
-9. 4/2 = 2
+9. $\tfrac{4}{2}$ = 2
 
-10. 12/3 = 4
+10. $\tfrac{12}{3}$ = 4
 
-11. 10/21
+11. $\tfrac{10}{21}$
 
-12. 12/50 = 6/25
+12. $\tfrac{12}{50}$ = $\tfrac{6}{25}$
 
-13. 72/8 = 9
+13. $\tfrac{72}{8}$ = 9
 
-14. 2/5 × 500 = 200g
+14. $\tfrac{2}{5}$ × 500 = 200g
 
 15. 12
 
-16. 42/63 = 2/3
+16. $\tfrac{42}{63}$ = $\tfrac{2}{3}$
 
-17. 90/6 = 15
+17. $\tfrac{90}{6}$ = 15
 
 18. 100 km
 
-19. 18/30 = 3/5
+19. $\tfrac{18}{30}$ = $\tfrac{3}{5}$
 
-20. 20/48 = 5/12
+20. $\tfrac{20}{48}$ = $\tfrac{5}{12}$
 
-21. 8/15
+21. $\tfrac{8}{15}$
 
 22. 288
 
-23. 14/45
+23. $\tfrac{14}{45}$
 
-24. 6/12 = 1/2
+24. $\tfrac{6}{12}$ = $\tfrac{1}{2}$
 
-25. 12/35
+25. $\tfrac{12}{35}$
 
-26. 72/144 = 1/2
+26. $\tfrac{72}{144}$ = $\tfrac{1}{2}$
 
-27. 6/12 = 1/2
+27. $\tfrac{6}{12}$ = $\tfrac{1}{2}$
 
-28. 66/132 = 1/2
+28. $\tfrac{66}{132}$ = $\tfrac{1}{2}$
 
-29. 30/180 = 1/6
+29. $\tfrac{30}{180}$ = $\tfrac{1}{6}$
 
-30. 6/12 = 1/2
+30. $\tfrac{6}{12}$ = $\tfrac{1}{2}$
 

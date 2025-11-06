@@ -10,37 +10,37 @@ But fractions often have **different denominators**, which makes comparing trick
 
 Convert all fractions to have a **common denominator**, then compare.
 
-> Example: Order 1/2, 2/3, 3/4
+> Example: Order $\tfrac{1}{2}$, $\tfrac{2}{3}$, $\tfrac{3}{4}$
 > Convert to twelfths:
-> 1/2 = 6/12, 2/3 = 8/12, 3/4 = 9/12 →
-> Order = 1/2 < 2/3 < 3/4
+> $\tfrac{1}{2}$ = $\tfrac{6}{12}$, $\tfrac{2}{3}$ = $\tfrac{8}{12}$, $\tfrac{3}{4}$ = $\tfrac{9}{12}$ →
+> Order = $\tfrac{1}{2}$ < $\tfrac{2}{3}$ < $\tfrac{3}{4}$
 
 #### ✖️ 2. **Convert to Decimals**
 
 Useful when numbers get large or irregular:
 
-> 3/5 = 0.6, 5/8 = 0.625, 2/3 ≈ 0.667
-> → So: 3/5 < 5/8 < 2/3
+> $\tfrac{3}{5}$ = 0.6, $\tfrac{5}{8}$ = 0.625, $\tfrac{2}{3}$ ≈ 0.667
+> → So: $\tfrac{3}{5}$ < $\tfrac{5}{8}$ < $\tfrac{2}{3}$
 
-#### 🧠 3. **Use Benchmarks (½, 1, etc.)**
+#### 🧠 3. **Use Benchmarks ($\tfrac{1}{2}$, 1, etc.)**
 
-Estimate where the fraction lies relative to ½ or 1 to quickly rule things out.
+Estimate where the fraction lies relative to $\tfrac{1}{2}$ or 1 to quickly rule things out.
 
 ---
 
 ### 🧮 Examples:
 
-1. Order: 1/4, 1/2, 3/4 → → 1/4 < 1/2 < 3/4
+1. Order: $\tfrac{1}{4}$, $\tfrac{1}{2}$, $\tfrac{3}{4}$ → → $\tfrac{1}{4}$ < $\tfrac{1}{2}$ < $\tfrac{3}{4}$
 
-2. Order: 5/6, 4/6, 2/6 → → 2/6 < 4/6 < 5/6
+2. Order: $\tfrac{5}{6}$, $\tfrac{4}{6}$, $\tfrac{2}{6}$ → → $\tfrac{2}{6}$ < $\tfrac{4}{6}$ < $\tfrac{5}{6}$
 
-3. Arrange: 3/5, 1/2, 2/3
-   → Convert to 30ths: 18/30, 15/30, 20/30
-   → Order = 1/2 < 3/5 < 2/3
+3. Arrange: $\tfrac{3}{5}$, $\tfrac{1}{2}$, $\tfrac{2}{3}$
+   → Convert to 30ths: $\tfrac{18}{30}$, $\tfrac{15}{30}$, $\tfrac{20}{30}$
+   → Order = $\tfrac{1}{2}$ < $\tfrac{3}{5}$ < $\tfrac{2}{3}$
 
-4. Order: 0.4, 3/8, 2/5
+4. Order: 0.4, $\tfrac{3}{8}$, $\tfrac{2}{5}$
    → Decimals: 0.4, 0.375, 0.4
-   → So 3/8 < 2/5 = 0.4
+   → So $\tfrac{3}{8}$ < $\tfrac{2}{5}$ = 0.4
 
 ---
 
@@ -48,104 +48,104 @@ Estimate where the fraction lies relative to ½ or 1 to quickly rule things out.
 
 #### 🔹 Easy
 
-1. Order from smallest to largest: 1/4, 1/2, 3/4
-2. Put in descending order: 2/3, 1/3, 1/2
-3. Which is the smallest: 1/3, 1/5, 1/2?
-4. Arrange: 2/6, 3/6, 5/6
-5. Order: 1/5, 3/5, 2/5
-6. Order from largest to smallest: 7/8, 1/2, 5/8
-7. Arrange: 1/10, 1/2, 1/4
-8. Order from smallest to largest: 3/8, 2/8, 5/8
-9. Put in order: 3/10, 3/5, 3/4
-10. Arrange: 4/6, 2/3, 3/6
+1. Order from smallest to largest: $\tfrac{1}{4}$, $\tfrac{1}{2}$, $\tfrac{3}{4}$
+2. Put in descending order: $\tfrac{2}{3}$, $\tfrac{1}{3}$, $\tfrac{1}{2}$
+3. Which is the smallest: $\tfrac{1}{3}$, $\tfrac{1}{5}$, $\tfrac{1}{2}$?
+4. Arrange: $\tfrac{2}{6}$, $\tfrac{3}{6}$, $\tfrac{5}{6}$
+5. Order: $\tfrac{1}{5}$, $\tfrac{3}{5}$, $\tfrac{2}{5}$
+6. Order from largest to smallest: $\tfrac{7}{8}$, $\tfrac{1}{2}$, $\tfrac{5}{8}$
+7. Arrange: $\tfrac{1}{10}$, $\tfrac{1}{2}$, $\tfrac{1}{4}$
+8. Order from smallest to largest: $\tfrac{3}{8}$, $\tfrac{2}{8}$, $\tfrac{5}{8}$
+9. Put in order: $\tfrac{3}{10}$, $\tfrac{3}{5}$, $\tfrac{3}{4}$
+10. Arrange: $\tfrac{4}{6}$, $\tfrac{2}{3}$, $\tfrac{3}{6}$
 
 #### 🔸 Medium
 
-11. Order from smallest to largest: 1/2, 3/5, 5/6
-12. Which is the greatest: 7/10, 4/5, 2/3?
-13. Arrange: 5/8, 2/3, 3/4, 7/10
-14. Put in increasing order: 6/10, 3/5, 1/2
-15. Arrange: 11/12, 5/6, 7/8
-16. Order: 2/5, 3/10, 1/2, 4/5
-17. Put in decreasing order: 9/10, 3/4, 7/8, 2/3
-18. Which is the smallest: 8/9, 5/6, 6/7
-19. Arrange: 4/9, 3/8, 1/2
-20. Order from largest to smallest: 2/3, 4/7, 1/2
+11. Order from smallest to largest: $\tfrac{1}{2}$, $\tfrac{3}{5}$, $\tfrac{5}{6}$
+12. Which is the greatest: $\tfrac{7}{10}$, $\tfrac{4}{5}$, $\tfrac{2}{3}$?
+13. Arrange: $\tfrac{5}{8}$, $\tfrac{2}{3}$, $\tfrac{3}{4}$, $\tfrac{7}{10}$
+14. Put in increasing order: $\tfrac{6}{10}$, $\tfrac{3}{5}$, $\tfrac{1}{2}$
+15. Arrange: $\tfrac{11}{12}$, $\tfrac{5}{6}$, $\tfrac{7}{8}$
+16. Order: $\tfrac{2}{5}$, $\tfrac{3}{10}$, $\tfrac{1}{2}$, $\tfrac{4}{5}$
+17. Put in decreasing order: $\tfrac{9}{10}$, $\tfrac{3}{4}$, $\tfrac{7}{8}$, $\tfrac{2}{3}$
+18. Which is the smallest: $\tfrac{8}{9}$, $\tfrac{5}{6}$, $\tfrac{6}{7}$
+19. Arrange: $\tfrac{4}{9}$, $\tfrac{3}{8}$, $\tfrac{1}{2}$
+20. Order from largest to smallest: $\tfrac{2}{3}$, $\tfrac{4}{7}$, $\tfrac{1}{2}$
 
 #### 🔺 Hard
 
-21. Arrange in increasing order: 3/8, 7/12, 5/9, 2/3
-22. Order these: 5/6, 8/9, 11/12, 7/8
-23. Put in ascending order: 5/7, 3/4, 6/8, 2/3
-24. A recipe uses 3/10, 1/3, 2/5, 1/2 of ingredients. Arrange from smallest to largest.
-25. Order these times: ¾ hour, 2/3 hour, 5/6 hour
-26. Arrange: 6/11, 4/7, 5/8
-27. Order in increasing size: 3/5, 5/9, 7/12
-28. Which is largest: 13/15, 8/9, 11/12
-29. Put these volumes in ascending order: 9/10 L, 6/7 L, 5/6 L
-30. Sort these exam scores: 16/20, 12/15, 18/25, 14/16
+21. Arrange in increasing order: $\tfrac{3}{8}$, $\tfrac{7}{12}$, $\tfrac{5}{9}$, $\tfrac{2}{3}$
+22. Order these: $\tfrac{5}{6}$, $\tfrac{8}{9}$, $\tfrac{11}{12}$, $\tfrac{7}{8}$
+23. Put in ascending order: $\tfrac{5}{7}$, $\tfrac{3}{4}$, $\tfrac{6}{8}$, $\tfrac{2}{3}$
+24. A recipe uses $\tfrac{3}{10}$, $\tfrac{1}{3}$, $\tfrac{2}{5}$, $\tfrac{1}{2}$ of ingredients. Arrange from smallest to largest.
+25. Order these times: $\tfrac{3}{4}$ hour, $\tfrac{2}{3}$ hour, $\tfrac{5}{6}$ hour
+26. Arrange: $\tfrac{6}{11}$, $\tfrac{4}{7}$, $\tfrac{5}{8}$
+27. Order in increasing size: $\tfrac{3}{5}$, $\tfrac{5}{9}$, $\tfrac{7}{12}$
+28. Which is largest: $\tfrac{13}{15}$, $\tfrac{8}{9}$, $\tfrac{11}{12}$
+29. Put these volumes in ascending order: $\tfrac{9}{10}$ L, $\tfrac{6}{7}$ L, $\tfrac{5}{6}$ L
+30. Sort these exam scores: $\tfrac{16}{20}$, $\tfrac{12}{15}$, $\tfrac{18}{25}$, $\tfrac{14}{16}$
 
 ---
 
 ### ✅ Answers:
 
-1. 1/4 < 1/2 < 3/4
+1. $\tfrac{1}{4}$ < $\tfrac{1}{2}$ < $\tfrac{3}{4}$
 
-2. 2/3 > 1/2 > 1/3
+2. $\tfrac{2}{3}$ > $\tfrac{1}{2}$ > $\tfrac{1}{3}$
 
-3. 1/5
+3. $\tfrac{1}{5}$
 
-4. 2/6 < 3/6 < 5/6
+4. $\tfrac{2}{6}$ < $\tfrac{3}{6}$ < $\tfrac{5}{6}$
 
-5. 1/5 < 2/5 < 3/5
+5. $\tfrac{1}{5}$ < $\tfrac{2}{5}$ < $\tfrac{3}{5}$
 
-6. 7/8 > 5/8 > 1/2
+6. $\tfrac{7}{8}$ > $\tfrac{5}{8}$ > $\tfrac{1}{2}$
 
-7. 1/10 < 1/4 < 1/2
+7. $\tfrac{1}{10}$ < $\tfrac{1}{4}$ < $\tfrac{1}{2}$
 
-8. 2/8 < 3/8 < 5/8
+8. $\tfrac{2}{8}$ < $\tfrac{3}{8}$ < $\tfrac{5}{8}$
 
-9. 3/10 < 3/5 < 3/4
+9. $\tfrac{3}{10}$ < $\tfrac{3}{5}$ < $\tfrac{3}{4}$
 
-10. 2/3 = 4/6 > 3/6
+10. $\tfrac{2}{3}$ = $\tfrac{4}{6}$ > $\tfrac{3}{6}$
 
-11. 1/2 < 3/5 < 5/6
+11. $\tfrac{1}{2}$ < $\tfrac{3}{5}$ < $\tfrac{5}{6}$
 
-12. 4/5
+12. $\tfrac{4}{5}$
 
-13. 5/8 < 2/3 < 7/10 < 3/4
+13. $\tfrac{5}{8}$ < $\tfrac{2}{3}$ < $\tfrac{7}{10}$ < $\tfrac{3}{4}$
 
-14. 1/2 < 3/5 = 6/10
+14. $\tfrac{1}{2}$ < $\tfrac{3}{5}$ = $\tfrac{6}{10}$
 
-15. 5/6 < 7/8 < 11/12
+15. $\tfrac{5}{6}$ < $\tfrac{7}{8}$ < $\tfrac{11}{12}$
 
-16. 3/10 < 2/5 < 1/2 < 4/5
+16. $\tfrac{3}{10}$ < $\tfrac{2}{5}$ < $\tfrac{1}{2}$ < $\tfrac{4}{5}$
 
-17. 9/10 > 7/8 > 3/4 > 2/3
+17. $\tfrac{9}{10}$ > $\tfrac{7}{8}$ > $\tfrac{3}{4}$ > $\tfrac{2}{3}$
 
-18. 5/6
+18. $\tfrac{5}{6}$
 
-19. 3/8 < 4/9 < 1/2
+19. $\tfrac{3}{8}$ < $\tfrac{4}{9}$ < $\tfrac{1}{2}$
 
-20. 2/3 > 4/7 > 1/2
+20. $\tfrac{2}{3}$ > $\tfrac{4}{7}$ > $\tfrac{1}{2}$
 
-21. 3/8 < 5/9 < 7/12 < 2/3
+21. $\tfrac{3}{8}$ < $\tfrac{5}{9}$ < $\tfrac{7}{12}$ < $\tfrac{2}{3}$
 
-22. 5/6 < 7/8 < 8/9 < 11/12
+22. $\tfrac{5}{6}$ < $\tfrac{7}{8}$ < $\tfrac{8}{9}$ < $\tfrac{11}{12}$
 
-23. 2/3 < 3/4 < 6/8 < 5/7
+23. $\tfrac{2}{3}$ < $\tfrac{3}{4}$ < $\tfrac{6}{8}$ < $\tfrac{5}{7}$
 
-24. 3/10 < 1/3 < 2/5 < 1/2
+24. $\tfrac{3}{10}$ < $\tfrac{1}{3}$ < $\tfrac{2}{5}$ < $\tfrac{1}{2}$
 
-25. 2/3 < 3/4 < 5/6
+25. $\tfrac{2}{3}$ < $\tfrac{3}{4}$ < $\tfrac{5}{6}$
 
-26. 6/11 < 4/7 < 5/8
+26. $\tfrac{6}{11}$ < $\tfrac{4}{7}$ < $\tfrac{5}{8}$
 
-27. 7/12 < 5/9 < 3/5
+27. $\tfrac{7}{12}$ < $\tfrac{5}{9}$ < $\tfrac{3}{5}$
 
-28. 11/12
+28. $\tfrac{11}{12}$
 
-29. 5/6 < 6/7 < 9/10
+29. $\tfrac{5}{6}$ < $\tfrac{6}{7}$ < $\tfrac{9}{10}$
 
-30. 18/25 < 12/15 < 16/20 < 14/16
+30. $\tfrac{18}{25}$ < $\tfrac{12}{15}$ < $\tfrac{16}{20}$ < $\tfrac{14}{16}$
 

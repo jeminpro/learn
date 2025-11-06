@@ -56,7 +56,7 @@ For each of the listed topics below, I want you to perform the following:
 
 ### 🧠 Notes to the AI:
 
-* Stay consistent in notation and avoid using LaTeX math blocks in the markdown
+* Stay consistent in notation and use KaTeX math blocks where applicable in the markdown
 * Keep the markdown neater and compatabale for docusaurus docs
 * Word problems must be **age-appropriate but challenging**, reflecting 11 Plus expectations
 * Encourage **reasoning and logic**, not just rote calculation
