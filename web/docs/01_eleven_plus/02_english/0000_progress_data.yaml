@@ -87,25 +87,27 @@ sections:
         level: needs_practice
         url: 
         notes: |
-          Oct 2025: Confused between singular/plural in possessive apostrophes
+          Oct 2025: Confused between singular/plural in possessive apostrophes. 
       - name: Speech Marks
-        level: 
+        level: needs_practice
         url: 
         notes: |
+          Oct 2025: Only 50% correct in drill test
       - name: Colons & Semicolons
         level: completed
         url: 
         notes: |
       - name: Commas
-        level: 
+        level: completed
         url: 
         notes: |
+          Nov 2025: Did not go through the Punctuation book
       - name: Dashes, Brackets & Hyphens
-        level: 
+        level: completed
         url: 
         notes: |
       - name: Advanced Punctuation
-        level: 
+        level: completed
         url: 
         notes: |
       - name: Tips and Drill Pack
