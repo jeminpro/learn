@@ -98,3 +98,64 @@
 
 ### 🧠 GL Exam Tip
 Grammar is often **blended with vocabulary** in GL questions — e.g., a question might test both **meaning** and **grammar accuracy**. Always read the entire sentence for context.
+
+Excellent — this is a **GL-style 11+ English grammar and vocabulary cloze test**, where the child chooses the *best fitting word or phrase* to complete sentences.
+
+To perform well in these, your child needs a **solid command of grammar, vocabulary, and sentence structure**.
+
+---
+
+## 🧭 Key Topics to Cover (Grouped by Skill)
+
+### 🟩 **1. Grammar & Sentence Structure**
+
+These build the foundation for choosing the *grammatically correct* option.
+
+| Subtopic                    | What to Teach                                                                     | Example                                                  |
+| --------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| **Subject–Verb Agreement**  | Singular/plural consistency                                                       | “The class **is** ready” vs “The students **are** ready” |
+| **Active vs Passive Voice** | Recognising how meaning changes                                                   | “Jamie opened the box” vs “The box was opened”           |
+| **Prepositions**            | at, on, by, for, to, with                                                         | Choosing the correct relational word                     |
+| **Articles**                | a / an / the / no article                                                         | “a whisper” vs “the whispers”                            |
+
+---
+
+### 🟦 **2. Vocabulary & Word Choice**
+
+These questions test *meaning* rather than grammar.
+
+| Subtopic                 | What to Teach                            | Example                                                      |
+| ------------------------ | ---------------------------------------- | ------------------------------------------------------------ |
+| **Word Families**        | excite → excited → excitement → exciting | “listened to the excitement whispers” ❌ “excited whispers” ✅ |
+| **Contextual Meaning**   | Choose the word that fits the situation  | “whispers from the audience” needs an adjective, not a noun  |
+| **Homophones**           | there / their / they’re                  | Classic confusion set                                        |
+| **Collocations**         | Words that naturally go together         | “strong wind” (not “powerful wind”)                          |
+
+---
+
+### 🟨 **3. Comprehension & Context Awareness**
+
+Understanding what sounds “right” in context is vital.
+
+| Subtopic              | What to Teach                      | Example                                                   |
+| --------------------- | ---------------------------------- | --------------------------------------------------------- |
+| **Logical flow**      | Which word makes sense in sequence | “as they listened to the excited whispers” fits logically |
+| **Tone and register** | Formal/informal style              | “would consider” fits tone better than “are considering”  |
+| **Inference**         | Use clues to predict missing words | What would normally happen “behind the curtain”?          |
+
+---
+
+### 🟥 **4. Exam Technique**
+
+Train the child to use *elimination* and *grammar checks*.
+
+| Tip                                       | How to Apply                               |
+| ----------------------------------------- | ------------------------------------------ |
+| Read full sentence aloud                  | Helps hear what sounds natural             |
+| Identify the word type needed             | Noun? Verb? Adjective?                     |
+| Eliminate grammatically wrong forms first | “Excite whispers” ❌ (verb + noun mismatch) |
+| Use context clues                         | Emotional words for “nerves soared” scene  |
+| Recheck tense consistency                 | Keep the same tense within the passage     |
+
+---
+
