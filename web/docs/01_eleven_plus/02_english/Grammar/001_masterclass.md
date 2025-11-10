@@ -23,7 +23,6 @@
 | **Present, past, future** | Simple, continuous, perfect | *I walk, I walked, I have walked* |
 | **Consistent tense use** | Avoid tense shifts | *He ran and **won** (not “runs”)* |
 | **Irregular verbs** | Non-standard past forms | *go → went, buy → bought* |
-| **Auxiliary & modal verbs** | Helping verbs expressing possibility, ability | *can, may, should, must* |
 | **Active and Passive voice** | Identify and convert | *The cake **was eaten** by Tom.* |
 | **Subject–verb agreement** | Singular/plural match | *The boy runs / The boys run* |
 

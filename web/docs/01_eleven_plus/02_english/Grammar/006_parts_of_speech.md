@@ -47,25 +47,6 @@ There are **8 main parts of speech**.
 
 ---
 
-## ⚠️ Tricky Bits
-
-- **Adjectives vs Adverbs:**  
-  - Adjectives describe *nouns* → *The quick fox.*  
-  - Adverbs describe *verbs* → *The fox ran quickly.*  
-  ❌ *He ran quick.* → ✅ *He ran quickly.*
-
-- **Prepositions** can look small but matter a lot!  
-  - *in, on, under, by, between, after, during, before, with*
-
-- **Conjunctions** change sentence structure:  
-  - *I wanted to go, but it was raining.*  
-  - *Although it was raining, I wanted to go.*
-
----
-Perfect — let’s create a **complete 11+ teaching resource** for **Parts of Speech**, designed for your child (9–11 yrs, GL style), with **clear explanations, relatable examples, and exam-type practice**.
-
----
-
 ### 🎯 **Learning Goal**
 
 To understand how every word in a sentence has a *job* — that “job” is called its **part of speech**.
@@ -247,6 +228,21 @@ Wow! Oh no! Hooray! Ouch!
 **Mini Test:**
 👉 Which is an interjection? *Wow! That was amazing.*
 ✅ **Wow!**
+
+---
+## ⚠️ Tricky Bits
+
+- **Adjectives vs Adverbs:**  
+  - Adjectives describe *nouns* → *The quick fox.*  
+  - Adverbs describe *verbs* → *The fox ran quickly.*  
+  ❌ *He ran quick.* → ✅ *He ran quickly.*
+
+- **Prepositions** can look small but matter a lot!  
+  - *in, on, under, by, between, after, during, before, with*
+
+- **Conjunctions** change sentence structure:  
+  - *I wanted to go, but it was raining.*  
+  - *Although it was raining, I wanted to go.*
 
 ---
 

@@ -111,29 +111,33 @@ sections:
         url: 
         notes: |
       - name: Tips and Drill Pack
-        level: 
+        level: completed 
         url: 
         notes: |
 
   - name: Grammar
     topics:
-      - name: Sentence Structure
-        level: 
-        url: 
-        notes: |
-      - name: Clauses (main & subordinate)
-        level: 
-        url:
-        notes: |
-      - name: Word Order and Syntax
-        level: 
-        url: 
-        notes: |
       - name: Parts of Speech
         level: 
         url: 
         notes: |
-      - name: Verb forms and tenses
+      - name: Verb forms and tenses(Past, Present and Future)
+        level: 
+        url:
+        notes: |
+      - name: Verb forms and tenses(Consistent Tense Use)
+        level: 
+        url: 
+        notes: |
+      - name: Verb forms and tenses(Irregular Verbs)
+        level: 
+        url: 
+        notes: |
+      - name: Verb forms and tenses(Active and Passive voice)
+        level: 
+        url: 
+        notes: |
+      - name: Verb forms and tenses(Subject Verb Agreement)
         level: 
         url: 
         notes: |
@@ -162,10 +166,6 @@ sections:
         url: 
         notes: |
       - name: Errors and Proofreading
-        level: 
-        url: 
-        notes: |
-      - name: Grammar mastery Summary
         level: 
         url: 
         notes: |
