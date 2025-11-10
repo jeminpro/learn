@@ -1,16 +1,7 @@
 # Topic Checklist 
 ---
 
-## 🟩 1. Sentence Structure
-| Concept | What to Practise | Example |
-|----------|------------------|----------|
-| **Simple, compound, and complex sentences** | Recognising how clauses link (using conjunctions, relative pronouns) | *I went home **because** it was raining.* |
-| **Main and subordinate clauses** | Identify which part depends on another | *The cat, **which was hungry**, meowed loudly.* |
-| **Word order and syntax** | Correct placement of words in a sentence | *Quickly ran the boy → The boy ran quickly.* |
-
----
-
-## 🟩 2. Parts of Speech
+## 🟩 1. Parts of Speech
 | Concept | What to Practise | Example |
 |----------|------------------|----------|
 | **Nouns** | Common, proper, collective, abstract | *London, team, courage* |
@@ -22,17 +13,18 @@
 | **Conjunctions** | Coordinating (and, but, or), subordinating (because, although) | *He came **although** he was tired.* |
 | **Determiners** | Articles, quantifiers, demonstratives | *the, some, those* |
 | **Interjections** | Emotion words | *Oh! Wow! Hurray!* |
+| **Articles**     | a / an / the / no article  | “a whisper” vs “the whispers”  |
 
 ---
 
-## 🟩 3. Verb Forms and Tenses
+## 🟩 2. Verb Forms and Tenses
 | Concept | What to Practise | Example |
 |----------|------------------|----------|
 | **Present, past, future** | Simple, continuous, perfect | *I walk, I walked, I have walked* |
 | **Consistent tense use** | Avoid tense shifts | *He ran and **won** (not “runs”)* |
 | **Irregular verbs** | Non-standard past forms | *go → went, buy → bought* |
 | **Auxiliary & modal verbs** | Helping verbs expressing possibility, ability | *can, may, should, must* |
-| **Passive voice** | Identify and convert | *The cake **was eaten** by Tom.* |
+| **Active and Passive voice** | Identify and convert | *The cake **was eaten** by Tom.* |
 | **Subject–verb agreement** | Singular/plural match | *The boy runs / The boys run* |
 
 ---
@@ -77,6 +69,10 @@
 | **Root words and derivations** | Form nouns, adjectives, verbs | *happy → happiness, teach → teacher* |
 | **Prefixes and suffixes** | Meaning changes | *un-, dis-, pre-, -ful, -less, -able* |
 | **Homophones** | Grammar in context (their/there/they’re) | *They’re going to their house over there.* |
+| **Word Families**        | excite → excited → excitement → exciting | “listened to the excitement whispers” ❌ “excited whispers” ✅ |
+| **Contextual Meaning**   | Choose the word that fits the situation  | “whispers from the audience” needs an adjective, not a noun  |
+| **Homophones**           | there / their / they’re                  | Classic confusion set                                        |
+| **Collocations**         | Words that naturally go together         | “strong wind” (not “powerful wind”)                          |
 
 ---
 
@@ -93,59 +89,15 @@
 |----------|------------------|----------|
 | **Finding grammatical errors** | One word or phrase wrong in a sentence | *She have a cat → She has a cat* |
 | **Choosing the best correction** | Multiple-choice improvement | *Each of the boys were → Each of the boys was* |
-
+| **Logical flow**      | Which word makes sense in sequence | “as they listened to the excited whispers” fits logically |
+| **Tone and register** | Formal/informal style              | “would consider” fits tone better than “are considering”  |
+| **Inference**         | Use clues to predict missing words | What would normally happen “behind the curtain”?          |
 ---
 
 ### 🧠 GL Exam Tip
 Grammar is often **blended with vocabulary** in GL questions — e.g., a question might test both **meaning** and **grammar accuracy**. Always read the entire sentence for context.
 
-Excellent — this is a **GL-style 11+ English grammar and vocabulary cloze test**, where the child chooses the *best fitting word or phrase* to complete sentences.
-
 To perform well in these, your child needs a **solid command of grammar, vocabulary, and sentence structure**.
-
----
-
-## 🧭 Key Topics to Cover (Grouped by Skill)
-
-### 🟩 **1. Grammar & Sentence Structure**
-
-These build the foundation for choosing the *grammatically correct* option.
-
-| Subtopic                    | What to Teach                                                                     | Example                                                  |
-| --------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **Subject–Verb Agreement**  | Singular/plural consistency                                                       | “The class **is** ready” vs “The students **are** ready” |
-| **Active vs Passive Voice** | Recognising how meaning changes                                                   | “Jamie opened the box” vs “The box was opened”           |
-| **Prepositions**            | at, on, by, for, to, with                                                         | Choosing the correct relational word                     |
-| **Articles**                | a / an / the / no article                                                         | “a whisper” vs “the whispers”                            |
-
----
-
-### 🟦 **2. Vocabulary & Word Choice**
-
-These questions test *meaning* rather than grammar.
-
-| Subtopic                 | What to Teach                            | Example                                                      |
-| ------------------------ | ---------------------------------------- | ------------------------------------------------------------ |
-| **Word Families**        | excite → excited → excitement → exciting | “listened to the excitement whispers” ❌ “excited whispers” ✅ |
-| **Contextual Meaning**   | Choose the word that fits the situation  | “whispers from the audience” needs an adjective, not a noun  |
-| **Homophones**           | there / their / they’re                  | Classic confusion set                                        |
-| **Collocations**         | Words that naturally go together         | “strong wind” (not “powerful wind”)                          |
-
----
-
-### 🟨 **3. Comprehension & Context Awareness**
-
-Understanding what sounds “right” in context is vital.
-
-| Subtopic              | What to Teach                      | Example                                                   |
-| --------------------- | ---------------------------------- | --------------------------------------------------------- |
-| **Logical flow**      | Which word makes sense in sequence | “as they listened to the excited whispers” fits logically |
-| **Tone and register** | Formal/informal style              | “would consider” fits tone better than “are considering”  |
-| **Inference**         | Use clues to predict missing words | What would normally happen “behind the curtain”?          |
-
----
-
-### 🟥 **4. Exam Technique**
 
 Train the child to use *elimination* and *grammar checks*.
 
