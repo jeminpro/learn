@@ -87,51 +87,57 @@ sections:
         level: needs_practice
         url: 
         notes: |
-          Oct 2025: Confused between singular/plural in possessive apostrophes
+          Oct 2025: Confused between singular/plural in possessive apostrophes. 
       - name: Speech Marks
-        level: 
+        level: needs_practice
         url: 
         notes: |
+          Oct 2025: Only 50% correct in drill test
       - name: Colons & Semicolons
         level: completed
         url: 
         notes: |
       - name: Commas
-        level: 
+        level: completed
         url: 
         notes: |
+          Nov 2025: Did not go through the Punctuation book
       - name: Dashes, Brackets & Hyphens
-        level: 
+        level: completed
         url: 
         notes: |
       - name: Advanced Punctuation
-        level: 
+        level: completed
         url: 
         notes: |
       - name: Tips and Drill Pack
-        level: 
+        level: completed 
         url: 
         notes: |
 
   - name: Grammar
     topics:
-      - name: Sentence Structure
-        level: 
-        url: 
-        notes: |
-      - name: Clauses (main & subordinate)
-        level: 
-        url:
-        notes: |
-      - name: Word Order and Syntax
-        level: 
-        url: 
-        notes: |
       - name: Parts of Speech
         level: 
         url: 
         notes: |
-      - name: Verb forms and tenses
+      - name: Verb forms and tenses(Past, Present and Future)
+        level: 
+        url:
+        notes: |
+      - name: Verb forms and tenses(Consistent Tense Use)
+        level: 
+        url: 
+        notes: |
+      - name: Verb forms and tenses(Irregular Verbs)
+        level: 
+        url: 
+        notes: |
+      - name: Verb forms and tenses(Active and Passive voice)
+        level: 
+        url: 
+        notes: |
+      - name: Verb forms and tenses(Subject Verb Agreement)
         level: 
         url: 
         notes: |
@@ -160,10 +166,6 @@ sections:
         url: 
         notes: |
       - name: Errors and Proofreading
-        level: 
-        url: 
-        notes: |
-      - name: Grammar mastery Summary
         level: 
         url: 
         notes: |
