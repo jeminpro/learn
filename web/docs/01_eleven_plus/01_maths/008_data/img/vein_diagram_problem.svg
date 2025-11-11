@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 360 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,61.338837,5.814788)">
+        <g transform="matrix(0,-1,1,0,-16.338837,290.786073)">
+            <circle cx="120" cy="135" r="70" style="fill:none;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-156.338837,-12.41565)">
+            <circle cx="230" cy="90" r="70" style="fill:none;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(0,-1,1,0,-16.338837,307.58435)">
+            <circle cx="230" cy="180" r="70" style="fill:none;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,83.66374,134.966309)">
+            <text x="-3.893px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;">3</text>
+        </g>
+        <g transform="matrix(1,0,0,1,149.327068,132.58435)">
+            <text x="-3.893px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;">4</text>
+        </g>
+        <g transform="matrix(1,0,0,1,118.787686,82.773374)">
+            <text x="-3.893px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;">2</text>
+        </g>
+        <g transform="matrix(1,0,0,1,119.184112,120.891601)">
+            <text x="-3.893px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:14px;">1</text>
+        </g>
+        <g transform="matrix(1,0,0,1,48.608429,74.537046)">
+            <text x="-32.01px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">Chess club</text>
+        </g>
+        <g transform="matrix(1,0,0,1,48.608429,89.537046)">
+            <text x="-22.849px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">T<tspan x="-16.849px -10.175px " y="0px 0px ">ot</tspan>al = 8</text>
+        </g>
+        <g transform="matrix(1,0,0,1,185.055295,74.537046)">
+            <text x="-36.683px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">Science club</text>
+        </g>
+        <g transform="matrix(1,0,0,1,185.055295,89.537046)">
+            <text x="-22.849px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">T<tspan x="-16.849px -10.175px " y="0px 0px ">ot</tspan>al = 9</text>
+        </g>
+        <g transform="matrix(1,0,0,1,118.415069,184.382202)">
+            <text x="-41.007px" y="0px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;">Cross-country</text>
+        </g>
+        <g transform="matrix(1,0,0,1,118.415069,199.382202)">
+            <text x="-26.186px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:12px;">T<tspan x="-20.186px -13.512px " y="0px 0px ">ot</tspan>al = 12</text>
+        </g>
+    </g>
+</svg>
