@@ -118,28 +118,12 @@ sections:
   - name: Grammar
     topics:
       - name: Parts of Speech
-        level: 
+        level: in_progress
         url: 
         notes: |
-      - name: Verb forms and tenses(Past, Present and Future)
+      - name: Verb forms and tenses
         level: 
         url:
-        notes: |
-      - name: Verb forms and tenses(Consistent Tense Use)
-        level: 
-        url: 
-        notes: |
-      - name: Verb forms and tenses(Irregular Verbs)
-        level: 
-        url: 
-        notes: |
-      - name: Verb forms and tenses(Active and Passive voice)
-        level: 
-        url: 
-        notes: |
-      - name: Verb forms and tenses(Subject Verb Agreement)
-        level: 
-        url: 
         notes: |
       - name: Noun and Pronoun Agreement
         level: 
