@@ -18,7 +18,7 @@ There are **8 main parts of speech**.
 | **Pronoun** | Replaces a noun | *Sarah is kind. **She** helps others.* |
 | **Preposition** | Shows relationship (place, time, direction) | *The cat sat **on** the mat.* |
 | **Conjunction** | Joins words, phrases, or clauses | *I wanted to play, **but** it rained.* |
-| **Determiner** | Comes before a noun to show which one or how many | *I saw **the** dog.* |
+| **Determiner/Article** | Comes before a noun to show which one or how many | *I saw **the** dog.* |
 | **Interjection** | Shows emotion or reaction | *Wow! That’s amazing!* |
 
 ---
@@ -42,7 +42,7 @@ There are **8 main parts of speech**.
 | Sentence | Explanation |
 |-----------|--------------|
 | *The boy (noun) ran (verb) quickly (adverb) to the red (adjective) car (noun).* | Shows how parts of speech work together. |
-| *Because (conjunction) it (pronoun) was (verb) raining, we (pronoun) stayed (verb) inside (adverb).* | Subordinating conjunction joins clauses. |
+| *Because (conjunction) it (pronoun) was raining (verb), we (pronoun) stayed (verb) inside (adverb).* | Subordinating conjunction joins clauses. |
 | *Wow (interjection)! The (determiner) cake (noun) looks (verb) delicious (adjective)!* | Includes emotion + description. |
 
 ---
@@ -67,9 +67,6 @@ A **noun** names a *person, place, thing, or idea.*
 | Place  | park, London       | We went to the **park**.    |
 | Thing  | chair, pencil      | The **pencil** broke.       |
 | Idea   | courage, happiness | **Happiness** is important. |
-
-**Tip for 11+:**
-If you can put **“a”**, **“an”**, or **“the”** before it → it’s probably a noun.
 
 **Mini Test:**
 👉 Choose the noun: *The excited crowd clapped loudly.*
