@@ -120,6 +120,11 @@ sections:
         level: completed
         url: fraction/ordering-fractions
         notes: |
+          Need to improve on word problems involving multiple operations example below
+
+          - Sarah has 3/4 of a chocolate bar. She gives 1/3 of what she has to her friend. How much of the chocolate bar does she have left?
+          - There are 200 pupils at a school. 2/5 of them run in the relay race. How many pupils run in the race?
+          - Iva plants 216 sedlings. 3/8 of them are killed by frost. How many seedlings survive?
 
   - name: Decimals
     topics:
