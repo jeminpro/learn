@@ -118,9 +118,10 @@ sections:
   - name: Grammar
     topics:
       - name: Parts of Speech
-        level: in_progress
+        level: completed
         url: 
         notes: |
+          Nov 2025: Forgets the words - Determiners/Articles and Interjection
       - name: Verb forms and tenses
         level: 
         url:
@@ -157,9 +158,9 @@ sections:
         level: 
         url: 
         notes: |
-      - name: Drill Pack
-        level: 
-        url: 
+      - name: Parts of Speech Drill Pack
+        level: in_progress
+        url: Section A completed
         notes: |
 
   - name: Vocabulary
