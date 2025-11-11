@@ -38,3 +38,52 @@ code[class*="language-md"] {
     overflow: auto;
     word-break: break-word;
 }
+
+/***************************************
+  Two Column Layout Styles
+****************************************/
+
+/* Root container: two-column flex layout */
+.two-col {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;                /* allow wrapping when needed */
+  /* margin: 2rem 0; */
+}
+
+/* Individual columns */
+.two-col__col {
+  flex: 1 1 320px;                /* grow, shrink, min-width */
+}
+
+/* Optional: column-specific styling */
+.two-col__col--left,
+.two-col__col--right {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+/* Reverse layout on desktop (image-text / text-image alternating) */
+.two-col--reverse {
+  flex-direction: row-reverse;
+}
+
+/* RESPONSIVE: stack on small screens */
+@media (max-width: 768px) {
+  .two-col {
+    flex-direction: column;       /* stack vertically */
+  }
+
+  .two-col--reverse {
+    flex-direction: column;       /* still stacked on mobile */
+  }
+
+  .two-col__col {
+    width: 100%;
+  }
+}
+
+
