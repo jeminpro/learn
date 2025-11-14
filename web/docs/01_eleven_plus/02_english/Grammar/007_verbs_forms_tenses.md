@@ -9,208 +9,361 @@ or a **state of being** (*is, seem, become*).
 
 Verbs change their form depending on **when** something happens — this is called **tense**.
 
-There are three main tenses:
-| Tense | Time | Example |
-|--------|------|----------|
-| **Present** | Happening now | *I walk to school.* |
-| **Past** | Happened before | *I walked to school.* |
-| **Future** | Will happen later | *I will walk to school.* |
+---
 
-Each tense can appear in a **simple**, **progressive (continuous)**, or **perfect** form.
+# PART 1 — **What Are Verb Tenses?**
+
+Verb tenses tell us **when** an action happens.
+
+There are **three main time frames**:
+
+1. **Present** – happening now / regularly
+2. **Past** – already happened
+3. **Future** – will happen
+
+Each of these has **four forms**:
+
+* **Simple**
+* **Progressive (Continuous)**
+* **Perfect**
+* **Perfect Progressive**
+
+This gives **12 tenses** in total.
 
 ---
 
-### 🕰️ Verb Forms Table
+# 📚 **PART 2 — SIMPLE TENSES**
 
-| Tense | Simple | Progressive (Continuous) | Perfect |
-|--------|----------|---------------------------|----------|
-| **Present** | *I play football.* | *I am playing football.* | *I have played football.* |
-| **Past** | *I played football.* | *I was playing football.* | *I had played football.* |
-| **Future** | *I will play football.* | *I will be playing football.* | *I will have played football.* |
+## 1️⃣ **Simple Present**
 
----
+### 💡 Use it for:
 
-## 🔑 Key Words to Know
+* Habits
+* Facts
+* General truths
+* Timetables
 
-| Term | Meaning | Example |
-|------|----------|----------|
-| **Tense** | Shows the time of the action. | *She eats / She ate / She will eat* |
-| **Auxiliary Verb** | “Helper” verb used with main verb (*be, have, do, will*). | *He **is** running.* |
-| **Modal Verb** | Expresses possibility or necessity (*can, may, must, should, will, might*). | *You **should** listen.* |
-| **Irregular Verb** | Doesn’t follow the normal “-ed” pattern. | *go → went, eat → ate, run → ran* |
-| **Subject–Verb Agreement** | Verb matches the subject in number and tense. | *He runs / They run* |
+### ✔️ Structure:
 
----
+* **I/you/we/they** → verb
+* **He/she/it** → verb + **s**
 
-## ✏️ Examples
+### ✔️ Examples:
 
-| Sentence | Explanation |
-|-----------|--------------|
-| *She walks to school every day.* | Present simple (habit). |
-| *She is walking to school right now.* | Present progressive (happening now). |
-| *She has walked to school today.* | Present perfect (finished action with effect now). |
-| *She was walking when it rained.* | Past progressive (ongoing past action). |
-| *She will walk tomorrow.* | Future simple. |
+* I **walk** to school.
+* She **walks** to school.
+* The sun **rises** in the east.
+* Trains **leave** at 6 pm.
 
 ---
 
-## ⚠️ Tricky Bits
+## 2️⃣ **Simple Past**
 
-- **Irregular verbs** don’t add “-ed”:  
-  *go → went, buy → bought, take → took, eat → ate, run → ran.*
-- **Perfect tenses** use “have / had / will have” + *past participle*.  
-  *I have eaten, I had eaten, I will have eaten.*
-- **Progressive tenses** use “be” + *-ing* form.  
-  *I am running, I was running, I will be running.*
-- **Avoid mixing tenses** in one sentence.  
-  ❌ *I eat breakfast and went to school.*  
-  ✅ *I ate breakfast and went to school.*
+### 💡 Use it for:
 
----
+Completed actions in the past.
 
-## 💡 How This Appears in the GL 11+ Exam
+### ✔️ Structure:
 
-GL may ask you to:
-- choose the correct verb form:  
-  *She (is/was/were) going to school.*
-- identify the tense of a given sentence.
-- correct a sentence where tenses don’t agree.
-- spot an error in subject–verb agreement.
+verb → + **-ed** (regular)
+OR irregular form
+(e.g., ate, went, saw)
 
-These appear in the **grammar correction** and **proofreading** sections.
+### ✔️ Examples:
+
+* He **played** football yesterday.
+* They **went** to Dubai last year.
 
 ---
 
-## 🔥 Hard Drill Pack (10 Questions)
+## 3️⃣ **Simple Future**
 
-Choose the correct answer for each question.  
-Answers are at the end — try them all first!
+### 💡 Use it for:
 
----
+Actions that will happen.
 
-### 1️⃣  
-Which sentence is in the **present progressive** tense?  
-A) I swim every day.  
-B) I am swimming right now.  
-C) I swam yesterday.  
-D) I will swim tomorrow.  
+### ✔️ Structure:
 
----
+will + verb
 
-### 2️⃣  
-Which sentence is in the **past perfect** tense?  
-A) I had finished my homework before dinner.  
-B) I finished my homework before dinner.  
-C) I have finished my homework.  
-D) I will finish my homework.  
+### ✔️ Examples:
+
+* I **will visit** my friend.
+* They **will study** later.
 
 ---
 
-### 3️⃣  
-Choose the **correct verb form**.  
-*She ___ to the shop yesterday.*  
-A) goes  
-B) go  
-C) gone  
-D) went  
+# 📚 **PART 3 — PROGRESSIVE / CONTINUOUS TENSES**
+
+These show **actions in progress**.
+
+## 4️⃣ **Present Progressive (Continuous)**
+
+### 💡 Use it for:
+
+* Actions happening **right now**
+* Actions happening **around this time**
+
+### ✔️ Structure:
+
+am / is / are + verb-ing
+
+### ✔️ Examples:
+
+* She **is reading**.
+* They **are playing** outside.
 
 ---
 
-### 4️⃣  
-Which sentence is **future perfect**?  
-A) I will walk to school.  
-B) I will be walking to school.  
-C) I will have walked to school by 9am.  
-D) I will walking to school.  
+## 5️⃣ **Past Progressive**
+
+### 💡 Use it for:
+
+Actions that were in progress at a time in the past.
+
+### ✔️ Structure:
+
+was / were + verb-ing
+
+### ✔️ Examples:
+
+* He **was cooking** when the phone rang.
+* We **were watching** TV at 8 pm.
 
 ---
 
-### 5️⃣  
-Find the **incorrect sentence**.  
-A) She was reading a book.  
-B) She read the book yesterday.  
-C) She has read the book.  
-D) She reading the book now.  
+## 6️⃣ **Future Progressive**
+
+### 💡 Use it for:
+
+Actions that will be in progress at a future time.
+
+### ✔️ Structure:
+
+will be + verb-ing
+
+### ✔️ Examples:
+
+* I **will be travelling** next week.
+* They **will be studying** at 7 pm.
 
 ---
 
-### 6️⃣  
-Which sentence uses a **modal verb** correctly?  
-A) I must finish my homework now.  
-B) I finished my homework now.  
-C) I finish my homework now.  
-D) I finishing my homework now.  
+# 📚 **PART 4 — PERFECT TENSES**
+
+These show **a completed action** connected to another time.
+
+## 7️⃣ **Present Perfect**
+
+### 💡 Use it for:
+
+* Action completed **before now**
+* Experience
+* Ongoing situation
+
+### ✔️ Structure:
+
+have/has + **past participle** (V3)
+
+### ✔️ Examples:
+
+* She **has finished** her homework.
+* I **have lived** here for 5 years.
 
 ---
 
-### 7️⃣  
-Choose the sentence with **consistent tense**.  
-A) I was tired, so I sleep early.  
-B) I was tired, so I slept early.  
-C) I am tired, so I slept early.  
-D) I was tired, so I sleep early now.  
+## 8️⃣ **Past Perfect**
+
+### 💡 Use it for:
+
+* Action completed **before another past action**
+
+### ✔️ Structure:
+
+had + past participle
+
+### ✔️ Examples:
+
+* They **had left** when I arrived.
+* She **had eaten** before the guests came.
 
 ---
 
-### 8️⃣  
-Which sentence uses the **correct subject–verb agreement**?  
-A) The dogs runs fast.  
-B) The dog run fast.  
-C) The dog runs fast.  
-D) The dogs runs fastly.  
+## 9️⃣ **Future Perfect**
+
+### 💡 Use it for:
+
+* Action that **will be complete** before a future time
+
+### ✔️ Structure:
+
+will have + past participle
+
+### ✔️ Examples:
+
+* She **will have finished** by 5 pm.
+* We **will have reached** London by noon.
 
 ---
 
-### 9️⃣  
-Which verb is **irregular**?  
-A) walked  
-B) jumped  
-C) laughed  
-D) ate  
+# 📚 **PART 5 — PERFECT PROGRESSIVE TENSES**
+
+These show **ongoing** actions that continue **up to a certain point**.
+
+## 🔟 **Present Perfect Progressive**
+
+have/has + been + verb-ing
+
+* She **has been studying** for two hours.
+
+## 1️⃣1️⃣ **Past Perfect Progressive**
+
+had + been + verb-ing
+
+* They **had been waiting** for an hour.
+
+## 1️⃣2️⃣ **Future Perfect Progressive**
+
+will have been + verb-ing
+
+* I **will have been working** for 10 years next month.
 
 ---
 
-### 🔟  
-Which sentence is in the **present perfect** tense?  
-A) I was eating my lunch.  
-B) I eat my lunch.  
-C) I have eaten my lunch.  
-D) I will eat my lunch.  
+# 🧠 **SUMMARY TABLE — ALL 12 TENSES**
+
+| Tense                      | Structure              | Example                     |
+| -------------------------- | ---------------------- | --------------------------- |
+| Simple Present             | run / runs             | She runs.                   |
+| Simple Past                | ran                    | She ran.                    |
+| Simple Future              | will run               | She will run.               |
+| Present Continuous         | am/is/are running      | She is running.             |
+| Past Continuous            | was/were running       | She was running.            |
+| Future Continuous          | will be running        | She will be running.        |
+| Present Perfect            | have/has run           | She has run.                |
+| Past Perfect               | had run                | She had run.                |
+| Future Perfect             | will have run          | She will have run.          |
+| Present Perfect Continuous | have/has been running  | She has been running.       |
+| Past Perfect Continuous    | had been running       | She had been running.       |
+| Future Perfect Continuous  | will have been running | She will have been running. |
 
 ---
 
-## ✅ Answers
+# 🌟 **PART 6 — SUBJECT–VERB AGREEMENT (SVA)**
 
-| Q | Answer | Explanation |
-|---|---------|-------------|
-| 1 | **B** | “am swimming” = present progressive. |
-| 2 | **A** | “had finished” = past perfect. |
-| 3 | **D** | “went” = simple past of “go.” |
-| 4 | **C** | “will have walked” = future perfect. |
-| 5 | **D** | Missing “is” → should be “She is reading.” |
-| 6 | **A** | “must” = modal verb showing necessity. |
-| 7 | **B** | Both verbs in past tense. |
-| 8 | **C** | Singular subject “dog” → “runs.” |
-| 9 | **D** | “ate” is irregular (not “eated”). |
-| 10 | **C** | “have eaten” = present perfect. |
+## ⭐ What is it?
+
+The verb must **agree** with the subject in number (singular/plural).
+
+### 🔹 Singular subject → singular verb (usually +s)
+
+### 🔹 Plural subject → plural verb (no -s)
 
 ---
 
-### 🏁 Mastery Check
-✅ Knows present / past / future tenses  
-✅ Can identify perfect and progressive forms  
-✅ Understands irregular verbs  
-✅ Can maintain tense consistency  
-✅ Recognises modal and auxiliary verbs  
+# 🧩 **RULES WITH EXAMPLES**
+
+## 1️⃣ Singular Subjects → Verb + **s**
+
+* The dog **barks**.
+* She **likes** ice cream.
+
+## 2️⃣ Plural Subjects → Verb (no s)
+
+* The dogs **bark**.
+* They **like** ice cream.
 
 ---
 
-### 💬 Teaching Tip
-Play a **“Tense Transformer” Game**:
-1. Write simple present sentences on cards (e.g., *I walk to school.*).  
-2. Ask your child to *transform* each into past, future, progressive, and perfect forms.  
-3. Use colour codes or visuals for time shifts (green = now, blue = past, orange = future).  
+## 3️⃣ Words That Are Singular
 
-This helps them *see* how verbs change form — far more engaging than rote memorisation.
+even if they look plural:
+
+* Everyone **is** happy.
+* Nobody **likes** rain.
 
 ---
+
+## 4️⃣ Ignore Prepositional Phrases
+
+(“of…”, “with…”, “along with…”)
+
+* The bouquet **of flowers** **is** lovely.
+* The boys **with the bikes** **are** noisy.
+
+---
+
+## 5️⃣ Either / Neither → Singular
+
+* Neither of the answers **is** correct.
+* Either of the plans **works**.
+
+---
+
+## 6️⃣ “And” Usually Makes Subjects Plural
+
+* Tom and Jerry **are** friends.
+
+**EXCEPT WHEN IT’S ONE THING:**
+
+* Bread and butter **is** my favourite.
+
+---
+
+## 7️⃣ Or / Nor → Verb Matches Closer Subject
+
+* Either the teacher **or** the students **are** coming.
+* Either the students **or** the teacher **is** coming.
+
+---
+
+# 🧠 **SVA QUICK TRICK**
+
+**He / She / It → Verb gets an S**
+**I / You / We / They → No S**
+
+---
+
+# 🎯 PART 7 — COMBINED PRACTICE (TENSE + SVA)
+
+### 1. (Present)
+
+The cat **chases** the ball.
+NOT: chase
+
+### 2. (Past)
+
+They **were running** when it rained.
+NOT: was running
+
+### 3. (Perfect)
+
+She **has eaten** her lunch.
+NOT: have eaten
+
+### 4. (Future)
+
+The boys **will be playing** soon.
+
+---
+
+# 📝 PART 8 —  PRACTICE QUESTIONS
+
+### **A. Subject–Verb Agreement (10 questions)**
+
+Choose the correct verb.
+
+1. The boy (run / **runs**) fast.
+2. The children (is / **are**) tired.
+3. Everyone (love / **loves**) chocolate.
+4. The basket of apples (**is** / are) full.
+5. Neither of the girls (**was** / were) ready.
+6. Tom and his brother (**are** / is) here.
+7. Either the teacher or the students (is / **are**) wrong.
+8. The dog (bark / **barks**) loudly.
+9. They (has / **have**) finished.
+10. My family (**is** / are) travelling today.
+
+---
+
+

@@ -1,4 +1,4 @@
-# 🧩 Spot the Part of Speech (30 Questions)
+# Drill - Parts of Speech
 
 > 🔹 Choose from:
 > **noun**, **verb**, **adjective**, **adverb**, **pronoun**, **preposition**, **conjunction**, **article**, **interjection**
