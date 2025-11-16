@@ -183,27 +183,27 @@ sections:
   - name: Data
     topics:
       - name: Pictograms
-        level: 
+        level: completed
         url: data/pictograms
         notes: | 
       - name: Bar charts
-        level: 
+        level: completed
         url: data/bar_charts
         notes: | 
       - name: Line graphs
-        level: 
+        level: completed
         url: data/line_graphs
         notes: | 
       - name: Pie charts
-        level: 
+        level: completed
         url: data/pie_charts
         notes: | 
       - name: Tables
-        level: 
+        level: completed
         url: data/tables
         notes: | 
       - name: Venn diagrams
-        level: 
+        level: in_progress
         url: data/venn_diagrams
         notes: | 
       - name: Mean
@@ -218,7 +218,7 @@ sections:
   - name: Algebra
     topics:
       - name: Simple sequences
-        level: in_progress
+        level: completed
         url: algebra/simple_sequences
         notes: | 
       - name: Substitution
