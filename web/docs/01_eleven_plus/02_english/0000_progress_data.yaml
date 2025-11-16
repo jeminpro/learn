@@ -123,7 +123,7 @@ sections:
         notes: |
           Nov 2025: Forgets the words - Determiners/Articles and Interjection
       - name: Verb forms and tenses
-        level: in_progress
+        level: completed
         url:
         notes: |
       - name: Drill - Verb forms and tenses
@@ -132,6 +132,10 @@ sections:
         notes: |
       - name: Subject Verb Agreement
         level: in_progress
+        url:
+        notes: |
+      - name: Irregular Verbs
+        level: 
         url:
         notes: |
       - name: Drill - Subject Verb Agreement
