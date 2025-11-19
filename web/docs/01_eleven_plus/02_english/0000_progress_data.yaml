@@ -118,12 +118,17 @@ sections:
   - name: Grammar
     topics:
       - name: Parts of Speech
-        level: completed
+        level: needs_practice
         url: 
         notes: |
           Nov 2025: Forgets the words - Determiners/Articles and Interjection
-      - name: Verb forms and tenses
+          During drill did not remember some of it.
+      - name: Parts of Speech Drill Pack
         level: completed
+        url: 
+        notes: |
+      - name: Verb forms and tenses
+        level: needs_practice
         url:
         notes: |
       - name: Drill - Verb forms and tenses
@@ -131,15 +136,17 @@ sections:
         url:
         notes: |
       - name: Subject Verb Agreement
-        level: in_progress
+        level: needs_practice
         url:
         notes: |
+          Nov 2025: Need to give him the list of rules and memorise it so he can apply it.
+          Forgets most of the rules
       - name: Irregular Verbs
         level: 
         url:
         notes: |
       - name: Drill - Subject Verb Agreement
-        level: 
+        level: in_progress
         url:
         notes: |
       - name: Noun and Pronoun Agreement
@@ -172,10 +179,6 @@ sections:
         notes: |
       - name: Tips and Tricks
         level: 
-        url: 
-        notes: |
-      - name: Parts of Speech Drill Pack
-        level: completed
         url: 
         notes: |
 

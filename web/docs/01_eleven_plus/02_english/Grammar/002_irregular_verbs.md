@@ -9,7 +9,40 @@ To understand what **irregular verbs** are, how they **change differently in the
 > 🧠 Regular verbs add **–ed** in the past (walk → walked),
 > but **irregular verbs** *do not follow this pattern* (go → went → gone).
 
+What Is the Past Participle?
+
+A past participle is the verb form used mostly after:
+
+**have / has / had**
+(I have eaten, she has gone, they had written)
+
 ---
+🧠 Key rule
+
+If you see have / has / had → you MUST use the past participle, not the simple past.
+
+✔ Past vs Past Participle Examples
+|Base|	Past (Simple Past)|	Past Participle|
+|--------|------------|--------------|
+|go|	went|	gone|
+|eat|	ate|	eaten|
+|write|	wrote|	written|
+|see|	saw|	seen|
+|take|	took|	taken|
+
+Example sentences:
+
+Past:
+✔ I went to school yesterday.
+✔ She ate her lunch.
+✔ He wrote a story.
+
+Past participle (with have/has/had):
+✔ I have gone to school already.
+✔ She has eaten her lunch.
+✔ He has written a story.
+
+
 
 ## 🟦 1. What Is an Irregular Verb?
 
@@ -61,7 +94,7 @@ Let’s look at patterns to help remember them 👇
 | hurt | hurt | hurt            | He **hurt** his leg.           |
 | shut | shut | shut            | They **shut** the door.        |
 
-🧠 **Tip:** These are easiest — they never change!
+🧠 **Tip:** These are easiest — they never change! So you cannot tell the tense from the verb alone — you must look at the rest of the sentence (yesterday / has / had / will etc.).
 
 ---
 
@@ -76,8 +109,11 @@ Let’s look at patterns to help remember them 👇
 | leave | left  | left            | She **left** early.          |
 
 🧠 **Tip:** You’ll often find *-t* endings here instead of *-ed.*
+In these verbs:
+Base form is different, but past and past participle are identical.
+These usually end in –t instead of –ed (left, felt, kept).
+This group often appears in 11+ “choose the correct verb form” questions because students confuse felt vs feel, kept vs keep.
 
----
 
 ### 🔹 **Group 3 – Vowel Changes**
 
@@ -90,8 +126,19 @@ Let’s look at patterns to help remember them 👇
 | swim  | swam  | swum            | She **has swum** across the pool. |
 
 🧠 **Tip:** The middle vowel changes (i → a → u).
+These verbs follow a sound pattern:
 
----
+Base: usually with i
+Past: vowel changes to a
+Past participle: vowel changes to u
+
+Examples:
+drink → drank → drunk
+sing → sang → sung
+begin → began → begun
+
+This is the most helpful group because the pattern is predictable.
+
 
 ### 🔹 **Group 4 – Mixed Changes**
 
@@ -239,7 +286,4 @@ Fill the blanks with the **correct irregular form**:
 
 ---
 
-Would you like me to continue next with
-📘 **“Word Families & Forms”** (*excite → excited → exciting → excitement*) —
-this is the **next GL hotspot** and directly linked to your “Performance Time” example (Q47)?
-I can make it in the same format (teaching, examples, traps, and practice).
+
