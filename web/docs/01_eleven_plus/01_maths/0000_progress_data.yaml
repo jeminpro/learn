@@ -1,4 +1,4 @@
-# levels: not_started, in_progress, completed, needs_practice
+# levels: not_started, in_progress, completed, needs_practice, expert
 sections:
   - name: Basics
     topics:

@@ -76,6 +76,13 @@ export const LevelEmoji = ({ level }) => {
           color: 'var(--ifm-color-warning-contrast-foreground)',
           borderColor: 'var(--ifm-color-warning)',
         };
+      case 'expert':
+        return {
+          ...baseStyles,
+          backgroundColor: '#f0e6ff',
+          color: '#6f42c1',
+          borderColor: '#6f42c1',
+        };
       default:
         return {
           ...baseStyles,
@@ -93,6 +100,8 @@ export const LevelEmoji = ({ level }) => {
       return <span style={getStyles()} title="Completed">🙂 Completed</span>;
     case 'needs_practice':
       return <span style={getStyles()} title="Needs Practice">💀 Needs Practice</span>;
+    case 'expert':
+      return <span style={getStyles()} title="Expert">🏆 Expert</span>;
     default:
       return <span style={getStyles()} title="Not Started">❔ Not Started</span>;
   }
@@ -317,6 +326,7 @@ export default function ProgressTracker({ data }) {
     let inProgress = 0;
     let completed = 0;
     let needsPractice = 0;
+    let expert = 0;
     let notStarted = 0;
     
     data.sections.forEach(section => {
@@ -326,18 +336,20 @@ export default function ProgressTracker({ data }) {
           case 'in_progress': inProgress++; break;
           case 'completed': completed++; break;
           case 'needs_practice': needsPractice++; break;
+          case 'expert': expert++; break;
           default: notStarted++;
         }
       });
     });
     
-    const completionPercentage = Math.round((completed) / totalTopics * 100) || 0;
+    const completionPercentage = Math.round((completed + expert) / totalTopics * 100) || 0;
     
     return {
       totalTopics,
       inProgress,
       completed,
       needsPractice,
+      expert,
       notStarted,
       completionPercentage
     };
@@ -506,6 +518,12 @@ export default function ProgressTracker({ data }) {
             transition: 'width 0.5s ease-in-out'
           }}></div>
           <div style={{ 
+            width: `${(stats.expert / stats.totalTopics) * 100}%`,
+            backgroundColor: '#6f42c1',
+            height: '100%',
+            transition: 'width 0.5s ease-in-out'
+          }}></div>
+          <div style={{ 
             width: `${(stats.needsPractice / stats.totalTopics) * 100}%`,
             backgroundColor: 'var(--ifm-color-warning)',
             height: '100%',
@@ -614,6 +632,55 @@ export default function ProgressTracker({ data }) {
               Not Started
             </span>
           </div>
+
+          
+          
+          {/* Needs Practice */}
+          <div 
+            onClick={() => handleFilterClick('needs_practice')}
+            style={{
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            padding: '8px 12px',
+            backgroundColor: filterLevel === 'needs_practice' ? 'var(--ifm-color-warning-dark)' : 'var(--ifm-color-warning-contrast-background)',
+            borderRadius: '5px',
+            minWidth: '80px',
+            flex: '1 0 auto',
+            maxWidth: '120px',
+            border: filterLevel === 'needs_practice' ? '2px solid var(--ifm-color-warning)' : '1px solid var(--ifm-color-warning)',
+            cursor: 'pointer',
+            transition: 'all 0.2s ease',
+            transform: 'scale(1)',
+          }}
+          onMouseEnter={(e) => {
+            if (filterLevel !== 'needs_practice') {
+              e.currentTarget.style.transform = 'scale(1.05)';
+              e.currentTarget.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.15)';
+            }
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.transform = 'scale(1)';
+            e.currentTarget.style.boxShadow = 'none';
+          }}
+          >
+            <span style={{ 
+              fontSize: '1.6rem', 
+              fontWeight: 'bold',
+              color: 'var(--ifm-color-warning)',
+              lineHeight: '1.2',
+            }}>
+              {stats.needsPractice}
+            </span>
+            <span style={{ 
+              fontSize: '0.75rem',
+              color: 'var(--ifm-color-emphasis-700)',
+              marginTop: '2px',
+            }}>
+              Needs Practice
+            </span>
+          </div>
           
           {/* In Progress */}
           <div 
@@ -709,27 +776,27 @@ export default function ProgressTracker({ data }) {
             </span>
           </div>
           
-          {/* Needs Practice */}
+          {/* Expert */}
           <div 
-            onClick={() => handleFilterClick('needs_practice')}
+            onClick={() => handleFilterClick('expert')}
             style={{
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
             padding: '8px 12px',
-            backgroundColor: filterLevel === 'needs_practice' ? 'var(--ifm-color-warning-dark)' : 'var(--ifm-color-warning-contrast-background)',
+            backgroundColor: filterLevel === 'expert' ? '#5a2d91' : '#f0e6ff',
             borderRadius: '5px',
             minWidth: '80px',
             flex: '1 0 auto',
             maxWidth: '120px',
-            border: filterLevel === 'needs_practice' ? '2px solid var(--ifm-color-warning)' : '1px solid var(--ifm-color-warning)',
+            border: filterLevel === 'expert' ? '2px solid #6f42c1' : '1px solid #6f42c1',
             cursor: 'pointer',
             transition: 'all 0.2s ease',
             transform: 'scale(1)',
           }}
           onMouseEnter={(e) => {
-            if (filterLevel !== 'needs_practice') {
+            if (filterLevel !== 'expert') {
               e.currentTarget.style.transform = 'scale(1.05)';
               e.currentTarget.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.15)';
             }
@@ -742,17 +809,17 @@ export default function ProgressTracker({ data }) {
             <span style={{ 
               fontSize: '1.6rem', 
               fontWeight: 'bold',
-              color: 'var(--ifm-color-warning)',
+              color: '#6f42c1',
               lineHeight: '1.2',
             }}>
-              {stats.needsPractice}
+              {stats.expert}
             </span>
             <span style={{ 
               fontSize: '0.75rem',
               color: 'var(--ifm-color-emphasis-700)',
               marginTop: '2px',
             }}>
-              Needs Practice
+              Expert
             </span>
           </div>
         </div>
@@ -767,6 +834,15 @@ export default function ProgressTracker({ data }) {
           color: 'var(--ifm-color-emphasis-600)',
           flexWrap: 'wrap',
         }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+            <div style={{ 
+              width: '8px', 
+              height: '8px', 
+              backgroundColor: 'var(--ifm-color-warning)',
+              borderRadius: '50%' 
+            }}></div>
+            <span>Needs Practice</span>
+          </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
             <div style={{ 
               width: '8px', 
@@ -789,11 +865,11 @@ export default function ProgressTracker({ data }) {
             <div style={{ 
               width: '8px', 
               height: '8px', 
-              backgroundColor: 'var(--ifm-color-warning)',
+              backgroundColor: '#6f42c1',
               borderRadius: '50%' 
             }}></div>
-            <span>Needs Practice</span>
-          </div>
+            <span>Expert</span>
+          </div>          
         </div>
       </div>
             
@@ -814,7 +890,7 @@ export default function ProgressTracker({ data }) {
             fontSize: '0.85rem',
             color: 'var(--ifm-color-emphasis-800)',
           }}>
-            <span>Filtered by: <strong>{filterLevel === 'not_started' ? 'Not Started' : filterLevel === 'in_progress' ? 'In Progress' : filterLevel === 'needs_practice' ? 'Needs Practice' : filterLevel.charAt(0).toUpperCase() + filterLevel.slice(1)}</strong></span>
+            <span>Filtered by: <strong>{filterLevel === 'not_started' ? 'Not Started' : filterLevel === 'in_progress' ? 'In Progress' : filterLevel === 'needs_practice' ? 'Needs Practice' : filterLevel === 'expert' ? 'Expert' : filterLevel.charAt(0).toUpperCase() + filterLevel.slice(1)}</strong></span>
             <ButtonWithHover 
               onClick={clearFilter}
               style={{
