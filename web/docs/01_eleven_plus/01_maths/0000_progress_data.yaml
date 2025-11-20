@@ -152,7 +152,7 @@ sections:
   - name: Measurement
     topics:
       - name: Length & perimeter
-        level: 
+        level: completed
         url: measurement/length_and_perimeter
         notes: | 
       - name: Money
@@ -203,15 +203,15 @@ sections:
         url: data/tables
         notes: | 
       - name: Venn diagrams
-        level: in_progress
+        level: needs_practice
         url: data/venn_diagrams
         notes: | 
       - name: Mean
-        level: 
+        level: completed
         url: data/mean
         notes: | 
       - name: Mode, median & range
-        level: 
+        level: completed
         url: data/mode_median_range
         notes: | 
 
