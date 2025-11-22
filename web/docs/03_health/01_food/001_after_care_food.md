@@ -1,15 +1,4 @@
-# 2-week post-abdominoplasty meal plan
-
-Excellent — planning your **2-week post-abdominoplasty meal plan** ahead makes a *huge* difference in recovery, energy, and healing.
-The goals after surgery are:
-✅ support wound healing,
-✅ reduce inflammation and bloating,
-✅ prevent constipation (from pain meds), and
-✅ keep energy steady while you rest.
-
-Below is a **simple, real-life 14-day plan** (breakfast, lunch, dinner + snack ideas) with foods that freeze or prep well.
-I’ve grouped it by week for clarity 👇
-
+# 2-week healthy eating meal plan
 ---
 
 ## 🥣 WEEK 1: Healing & Gentle Digestion (Days 1–7)
