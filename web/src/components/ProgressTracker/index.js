@@ -342,7 +342,7 @@ export default function ProgressTracker({ data }) {
       });
     });
     
-    const completionPercentage = Math.round((completed + expert) / totalTopics * 100) || 0;
+    const completionPercentage = Math.round((totalTopics - notStarted) / totalTopics * 100) || 0;
     
     return {
       totalTopics,

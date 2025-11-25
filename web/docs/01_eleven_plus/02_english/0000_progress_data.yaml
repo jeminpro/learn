@@ -160,27 +160,27 @@ sections:
         url: 
         notes: |
       - name: Voice and Mood
-        level: in_progress
+        level: completed
         url: 
         notes: |
       - name: Direct and Reported Speech
-        level: in_progress
+        level: needs_practice
         url: 
         notes: |
       - name: Word Forms and Families
-        level: 
+        level: completed
         url: 
         notes: |
       - name: Sentence Combination and Transformation
-        level: 
+        level: completed
         url: 
         notes: |
       - name: Errors and Proofreading
-        level: 
+        level: completed
         url: 
         notes: |
       - name: Tips and Tricks
-        level: 
+        level: needs_practice
         url: 
         notes: |
 
