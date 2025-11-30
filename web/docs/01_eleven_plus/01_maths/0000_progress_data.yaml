@@ -129,23 +129,23 @@ sections:
   - name: Decimals
     topics:
       - name: Decimal place value
-        level: 
+        level: completed
         url: decimals/decimal_place_value
         notes: |
       - name: Adding and subtracting decimals
-        level: 
+        level: completed
         url: decimals/adding_and_subtracting_decimals
         notes: |
       - name: Multiplying and dividing decimals
-        level: 
+        level: completed
         url: decimals/multiplying_and_dividing_decimals
         notes: 
       - name: Converting decimals and fractions
-        level: 
+        level: completed
         url: decimals/converting_decimals_and_fractions
         notes: |
       - name: Order and compare decimals
-        level: 
+        level: completed
         url: decimals/order_and_compare_decimals
         notes: |
 
@@ -156,27 +156,27 @@ sections:
         url: measurement/length_and_perimeter
         notes: | 
       - name: Money
-        level: 
+        level: completed
         url: measurement/money
         notes: | 
       - name: Time
-        level: 
+        level: completed
         url: measurement/time
         notes: | 
       - name: Metric units
-        level: 
+        level: completed
         url: measurement/metric_units
         notes: | 
       - name: Area
-        level: 
+        level: completed
         url: measurement/area
         notes: | 
       - name: Volume
-        level: 
+        level: completed
         url: measurement/volume
         notes: | 
       - name: Imperial units
-        level: 
+        level: completed
         url: measurement/imperial_units
         notes: | 
 
@@ -206,6 +206,10 @@ sections:
         level: needs_practice
         url: data/venn_diagrams
         notes: | 
+          Still not confident in Venn diagrams, need more practice.
+          Go through videos
+          - [Art of Problem Solving: Venn Diagrams with Two Categories](https://www.youtube.com/watch?v=c8VHzEFVmLA)
+          - [Art of Problem Solving: Venn Diagrams with Three Categories](https://www.youtube.com/watch?v=LIzIhmKlYPk)
       - name: Mean
         level: completed
         url: data/mean
@@ -280,11 +284,11 @@ sections:
   - name: Ratio and Proportion
     topics:
       - name: Order & Compare Percentages
-        level: 
+        level: completed
         url: ratio_and_proportion/order_and_compare_percentages
         notes: | 
       - name: Calculating percentages
-        level: 
+        level: completed
         url: ratio_and_proportion/calculating_percentage
         notes: | 
       - name: Relative quantities
