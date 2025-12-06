@@ -1,8 +1,4 @@
-Perfect 👍 Here’s **Topic 3 – Relative Quantities** again, with all **LaTeX math blocks removed** and formatted for your 11+ teaching notes or Docusaurus content.
-
----
-
-## Topic 3 — Relative Quantities
+# Relative Quantities
 
 *(Linking Ratios and Proportions to Percentages)*
 
