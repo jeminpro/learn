@@ -22,6 +22,9 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/learn/',
 
+  // Prevent search engines from indexing this site
+  noIndex: true,
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jeminpro', // Usually your GitHub org/user name.
