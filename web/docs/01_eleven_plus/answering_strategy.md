@@ -1,5 +1,5 @@
 
-# ⭐ **11+ Answering Strategy **
+# 11+ Answering Strategy
 
 ## **A. How to Mark Answers Safely in the Question Booklet**
 
