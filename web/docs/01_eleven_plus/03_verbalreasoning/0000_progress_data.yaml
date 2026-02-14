@@ -1,0 +1,88 @@
+# levels: not_started, in_progress, completed, needs_practice
+sections:
+  - name: Verbal Reasoning
+    topics:
+      - name: Insert a Letter
+        level: 
+        url: 
+        notes: |
+      - name: Two Odd Ones Out
+        level: 
+        url: 
+        notes: |
+      - name: Related Words
+        level: 
+        url: 
+        notes: |
+      - name: Closest Meaning
+        level: 
+        url: 
+        notes: |
+      - name: Hidden Word
+        level: 
+        url: 
+        notes: |
+      - name: Missing Word
+        level: 
+        url: 
+        notes: |
+      - name: Letters for Numbers
+        level: 
+        url: 
+        notes: |
+      - name: Move a Letter
+        level: 
+        url: 
+        notes: |
+      - name: Letter Series
+        level: 
+        url: 
+        notes: |
+      - name: Word Connections
+        level: 
+        url: 
+        notes: |
+      - name: Number Series
+        level: 
+        url: 
+        notes: |
+      - name: Compound Words
+        level: 
+        url: 
+        notes: |
+      - name: Make a Word
+        level: 
+        url: 
+        notes: |
+      - name: Letter Connections
+        level: 
+        url: 
+        notes: |
+      - name: Reading Information
+        level: in_progress
+        url: 
+        notes: |
+      - name: Opposite Meaning
+        level: 
+        url: 
+        notes: |
+      - name: Complete the Sum
+        level: 
+        url: 
+        notes: |
+      - name: Related Numbers
+        level: 
+        url: 
+        notes: |
+      - name: Word-Number Code
+        level: 
+        url: 
+        notes: |
+      - name: Complete the Word
+        level: 
+        url: 
+        notes: |
+      - name: Same Meaning
+        level: 
+        url: 
+        notes: |
