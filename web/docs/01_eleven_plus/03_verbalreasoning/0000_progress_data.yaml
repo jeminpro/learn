@@ -19,7 +19,7 @@ sections:
         url: 
         notes: |
       - name: Hidden Word
-        level: 
+        level: in_progress
         url: 
         notes: |
       - name: Missing Word
@@ -47,7 +47,7 @@ sections:
         url: 
         notes: |
       - name: Compound Words
-        level: 
+        level: in_progress
         url: 
         notes: |
       - name: Make a Word
