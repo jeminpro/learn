@@ -1,5 +1,7 @@
 # Closest Meaning
 
+## **TYPE 4: Synonyms (IPS Type D)**
+
 ## **What you are asked to do**
 
 You are given **two groups of words** (usually 2–3 words in each group).

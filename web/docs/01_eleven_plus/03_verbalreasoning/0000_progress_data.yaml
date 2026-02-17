@@ -2,20 +2,20 @@
 sections:
   - name: Verbal Reasoning
     topics:
-      - name: Insert a Letter
-        level: 
-        url: 
-        notes: |
-      - name: Two Odd Ones Out
+      - name: Type A - Insert a Letter
         level: in_progress
         url: 
         notes: |
-      - name: Related Words
-        level: 
+      - name: Type B - Two Odd Ones Out
+        level: in_progress
         url: 
         notes: |
-      - name: Closest Meaning
-        level: 
+      - name: Type C - Alphabet Codes/ Code Word
+        level: in_progress
+        url: 
+        notes: |
+      - name: Type D - Synonyms
+        level: in_progress
         url: 
         notes: |
       - name: Hidden Word

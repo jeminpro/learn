@@ -1,4 +1,6 @@
-# Related words
+# Alphabet codes/Code Words
+
+## **TYPE 3: Alphabet Codes (IPS Type C)**
 
 ### **What you are asked to do**
 
@@ -48,6 +50,212 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 * ✏️ Lightly mark letter jumps if needed
 
 ---
+
+# 11 Plus Verbal Reasoning  
+## Type C – Alphabet Codes / Code Words
+
+With this type of question you are required to work out the code that has been used and to encode or decode a word.
+
+You will be given a word and the coded version of this word. From this information you will need to work out the relationships between the letters of the word and the letters of the code. You will then either be asked to encode another word using the same method or decode a coded word to find the original.
+
+You are normally given an Alphabet Line to assist with these type of questions, but ensure that your child can write one from memory.
+
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+---
+
+## Example
+
+**The code for PLUM is QMVN. What is the code for DATE?**
+
+### Step 1: Compare the word and the code
+
+Write the code directly below the word, leaving space in between to add the rule.
+
+```
+
+P  L  U  M
+Q  M  V  N
+
+```
+
+Using the alphabet, you can see:
+
+- P → Q (+1)
+- L → M (+1)
+- U → V (+1)
+- M → N (+1)
+
+### The rule for encoding is:
+
+```
+
++1 +1 +1 +1
+
+```
+
+(You must check each letter position.)
+
+---
+
+### Step 2: Apply the rule to a new word
+
+Now encode **DATE** using the rule +1 +1 +1 +1.
+
+Write the word with the rules directly below:
+
+```
+
+D  A  T  E
++1 +1 +1 +1
+
+```
+
+Now encode each letter:
+
+- D +1 = E  
+- A +1 = B  
+- T +1 = U  
+- E +1 = F  
+
+So the code for **DATE** is:
+
+```
+
+E B U F
+
+```
+
+---
+
+## Decoding Example
+
+**What does QFBS mean?**
+
+Write out the code:
+
+```
+
+Q  F  B  S
+
+```
+
+Decoding is the opposite of encoding.
+
+If the encoding rule was +1, then the decoding rule is -1.
+
+Write the rules above the code:
+
+```
+
+-1 -1 -1 -1
+Q  F  B  S
+
+```
+
+Now decode each letter (working upwards):
+
+- Q -1 = P  
+- F -1 = E  
+- B -1 = A  
+- S -1 = R  
+
+So the word is:
+
+```
+
+P E A R
+
+```
+
+---
+
+## Helpful Strategy
+
+I find it easier to:
+- Always have the **word above the code**
+- Work **downwards to encode**
+- Work **upwards to decode**
+
+Be very careful to reverse the direction of the rules when decoding, especially when the rules include both + and - changes.
+
+Writing everything clearly in the same format helps avoid mistakes.
+
+---
+
+## Types of Coding Rules
+
+The rules can follow patterns similar to other VR sequences.
+
+### 1. Constant
+- +1 +1 +1 +1  
+- +2 +2 +2 +2  
+- +3 +3 +3 +3  
+
+### 2. Increasing or Decreasing
+- +1 +2 +3 +4  
+- -5 -4 -3 -2  
+
+### 3. Changing Sign
+- +1 -1 +1 -1  
+- +3 -3 +3 -3  
+
+### 4. Mixed Pattern
+- +1 -2 +3 -4  
+
+Always check **each letter position carefully**.
+
+---
+
+# Mirror Image Codes (Another Form of Type C)
+
+In these questions, the alphabet is mirrored.
+
+Any letter is encoded (or decoded) into its corresponding mirror letter.
+
+Examples:
+- A ↔ Z  
+- B ↔ Y  
+- C ↔ X  
+- D ↔ W  
+
+You can visualise it like this:
+
+```
+
+A B C D E F G H I J K L M | N O P Q R S T U V W X Y Z
+
+```
+
+You can think of it in two ways:
+
+### Method 1 (Quicker)
+Write the alphabet backwards underneath the normal alphabet.
+
+### Method 2
+Divide the alphabet between M and N and count the same distance from the centre.
+
+Examples:
+- L is 2 letters left of the centre → it codes to O (2 letters right of centre)  
+- D is 4 letters from the left → it codes to W (4 letters from the right)
+
+---
+
+## Important Tip
+
+Mirror image questions can be difficult to identify.
+
+If you cannot find a rule using the normal + / - method, it may be a mirror image type.
+
+It helps students to memorise:
+- A–Z  
+- B–Y  
+- C–X  
+- D–W  
+
+These pairs often appear in mirror image coding questions.
+```
 
 ## **Practice Questions (30)**
 
