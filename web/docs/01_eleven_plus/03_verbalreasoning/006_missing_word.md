@@ -152,3 +152,212 @@ Answer: **HER**
 30. **OUT** → **OUT**LINE
 
 
+## Drill
+---
+
+1. The detective carefully INESTIGATED the unusual noise in the attic.
+
+2. She DEATED the old letters before throwing them away.
+
+3. The athlete was DETERINED to win despite the injury.
+
+4. The teacher EXPLAED the concept clearly to the class.
+
+5. He ADITED making the mistake.
+
+6. The company EXPANDED into new markets and became very PROFITABE.
+
+7. She RESED to comment on the matter.
+
+8. The castle was SROUNDED by a deep moat.
+
+9. The scientist OBSED the reaction carefully.
+
+10. The child was BEAING badly all afternoon.
+
+11. The witness RECOLTED the events in detail.
+
+12. The weather gradually IMPROED over the weekend.
+
+13. The painting was VANDALID during the night.
+
+14. He PERSEERED despite many setbacks.
+
+15. The crowd APPLDED loudly after the performance.
+
+16. The evidence was INSUFICIENT to convict him.
+
+17. She CONCEAED her disappointment.
+
+18. The explorers ENCOUNERED fierce storms at sea.
+
+19. The building was DEMOLIED last year.
+
+20. The child was TERRIFED of the dark.
+
+21. The manager APPROED the proposal immediately.
+
+22. She CALCLATED the total incorrectly.
+
+23. The garden was OVEGROWN with weeds.
+
+24. He REVEED the truth at last.
+
+25. The company is CONSIDERNG several options.
+
+26. The novel CAPTRED the reader’s imagination.
+
+27. She NEGOTATED skilfully and ACHIEED a good result.
+
+28. The artist PORTRAYD the character vividly.
+
+29. The road was TEMPORAILY closed.
+
+30. The lawyer DEFENDD his client strongly.
+
+31. The ship DISAPEARED into the fog.
+
+32. The patient RECOVERD surprisingly quickly.
+
+33. She MISINTRPRETED the instructions.
+
+34. The team COOPERATED effectively.
+
+35. The glass SHATERED on impact.
+
+36. The workers DEMANDED fair treatment.
+
+37. The speaker ARTICULTED his ideas clearly.
+
+38. The plan was ULTIMATELY ABANDED.
+
+39. She ENTHUSIASTICLY accepted the offer.
+
+40. The judge CONCLUDD the trial swiftly.
+
+41. The hikers ASCENED the steep mountain path.
+
+42. The story UNFOLDED gradually.
+
+43. He ANTICIPTED the results eagerly.
+
+44. The scientist FORMULATED a new theory.
+
+45. The storm INTENSFIED overnight.
+
+46. She PERFORMD beautifully on stage.
+
+47. The rebels OVERTHRW the regime.
+
+48. The child COMPLAND about the noise.
+
+49. The bridge COLAPSED without warning.
+
+50. The students COLLABORTED on the project.
+
+---
+
+# Answers
+
+1. VES → INVESTIGATED
+
+2. LET → DELETED
+
+3. ERM → DETERMINED
+
+4. AIN → EXPLAINED
+
+5. MIT → ADMITTED
+
+6. IAB → PROFITABLE
+
+7. FUS → REFUSED
+
+8. URR → SURROUNDED
+
+9. ERV → OBSERVED
+
+10. HAV → BEHAVING
+
+11. LEC → RECOLLECTED
+
+12. VED → IMPROVED
+
+13. ISE → VANDALISED
+
+14. VER → PERSEVERED
+
+15. AUD → APPLAUDED
+
+16. FFI → INSUFFICIENT
+
+17. LED → CONCEALED
+
+18. TER → ENCOUNTERED
+
+19. LIS → DEMOLISED
+
+20. IEF → TERRIFIED
+
+21. VED → APPROVED
+
+22. ULA → CALCULATED
+
+23. RGR → OVERGROWN
+
+24. ALA → REVEALED
+
+25. ING → CONSIDERING
+
+26. URE → CAPTURED
+
+27. VED → ACHIEVED
+
+28. AYE → PORTRAYED
+
+29. RAR → TEMPORARILY
+
+30. ENE → DEFENDED
+
+31. PEA → DISAPPEARED
+
+32. ERE → RECOVERED
+
+33. TER → MISINTERPRETED
+
+34. OPE → COOPERATED
+
+35. TTE → SHATTERED
+
+36. AND → DEMANDED
+
+37. ATE → ARTICULATED
+
+38. DON → ABANDONED
+
+39. ALL → ENTHUSIASTICALLY
+
+40. DED → CONCLUDED
+
+41. END → ASCENDED
+
+42. FOL → UNFOLDED
+
+43. IPA → ANTICIPATED
+
+44. ULA → FORMULATED
+
+45. IEF → INTENSIFIED
+
+46. ORT → PERFORMED
+
+47. REW → OVERTHREW
+
+48. AIN → COMPLAINED
+
+49. LAP → COLLAPSED
+
+50. ATE → COLLABORATED
+
+---
+
