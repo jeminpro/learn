@@ -1,5 +1,7 @@
 # Related Numbers
 
+## **TYPE K: Related Numbers (IPS Type K)**
+
 ### What you are asked to do
 
 You are given **groups of three numbers** like this:

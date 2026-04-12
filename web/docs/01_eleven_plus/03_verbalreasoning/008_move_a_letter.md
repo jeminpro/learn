@@ -1,5 +1,7 @@
 # Move a letter
 
+## **TYPE 8: Move a letter (IPS Type J)**
+
 ### Short how-to
 
 Move **one letter** from the **left word** into the **right word** to make **two new real words**.

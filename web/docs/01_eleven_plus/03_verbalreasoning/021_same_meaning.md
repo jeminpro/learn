@@ -1,5 +1,7 @@
 # Same meaning
 
+## **TYPE 21: Same Meaning (IPS Type S)**
+
 ### What you are asked to do
 
 You’re given **two pairs of words**.

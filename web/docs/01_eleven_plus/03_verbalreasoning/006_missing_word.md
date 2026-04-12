@@ -1,5 +1,7 @@
 # Missing word
 
+## **TYPE 6: Missing Word (IPS Type F)**
+
 ### What you are asked to do
 
 A word in **CAPITALS** has had **3 consecutive letters removed**.

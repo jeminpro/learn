@@ -1,5 +1,7 @@
 # Hidden word
 
+## **TYPE 5: Hidden Word (IPS Type E)**
+
 ### Short “how to”
 
 A **4-letter word** is hidden **across two words that sit next to each other** in the sentence.

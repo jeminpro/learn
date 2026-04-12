@@ -1,5 +1,8 @@
 # Word Connections
 
+## **TYPE 10: Word Connections (IPS Type M)**
+
+
 ### What you are asked to do
 
 You’ll see a sentence like:

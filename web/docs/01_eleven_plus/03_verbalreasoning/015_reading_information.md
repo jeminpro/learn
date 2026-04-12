@@ -1,5 +1,7 @@
 # Reading Information
 
+## **TYPE 15: Reading Information (IPS Type Z)**
+
 ### Short how to solve
 
 1. **Underline key facts** (times, “more/less”, “longer/shorter”, totals).

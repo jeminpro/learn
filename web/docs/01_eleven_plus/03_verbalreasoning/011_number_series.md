@@ -1,5 +1,7 @@
 # Number Series
 
+## **TYPE 11: Number Series (IPS Type P)**
+
 ### What you are asked to do
 
 You are given a **number sequence**.

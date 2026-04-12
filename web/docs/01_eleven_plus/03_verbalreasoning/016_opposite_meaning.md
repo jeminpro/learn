@@ -1,5 +1,7 @@
 # Opposite Meaning
 
+## **TYPE 16: Opposite Meaning (IPS Type H)**
+
 ### What you are asked to do
 
 You are given **two groups of words**.

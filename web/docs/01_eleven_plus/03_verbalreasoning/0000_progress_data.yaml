@@ -3,86 +3,224 @@ sections:
   - name: Verbal Reasoning
     topics:
       - name: Type A - Insert a Letter
-        level: in_progress
+        level: not_started
         url: 
-        notes: |
+        notes: | 
+          In these questions the same letter must fit into both sets of brackets, to complete the word in front of the brackets and begin the word after the brackets.
+
+          Example: col (?) ram bel (?) oll
+
+          Answer: t [colt, tram, belt, toll]
+
       - name: Type B - Two Odd Ones Out
-        level: in_progress
+        level: not_started
         url: 
-        notes: |
-      - name: Type C - Alphabet Codes/ Code Word
-        level: in_progress
+        notes: | 
+          Three words are related, find the two words that do NOT go with these three.
+          Mark them BOTH on the answer sheet.
+
+          Example: red white flag blue pole
+
+          Answer: flag pole
+
+      - name: Type C - Related Words
+        level: not_started
         url: 
-        notes: |
-      - name: Type D - Synonyms
-        level: in_progress
+        notes: | 
+          The alphabet is here to help you with these questions. You need to work out a different code for each question.
+
+          Choose the correct answer and mark it on the answer sheet.
+
+          A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+          Example: If the code for LUCK is JSAI, what does EMMB mean?
+
+          Answer: GOOD
+
+      - name: Type D - Closest Meaning
+        level: not_started
         url: 
-        notes: |
-      - name: Hidden Word
-        level: completed
+        notes: | 
+          Find TWO words, one from each group that are the CLOSEST in meaning. Mark BOTH words on the answer sheet.
+
+          Example: big small rest mean large
+
+          Answer: big, large
+
+      - name: Type E - Hidden Word
+        level: not_started
         url: 
-        notes: |
-      - name: Missing Word
-        level: in_progress
+        notes: | 
+          In each of the following sentences a FOUR letter word is hidden between two words. The two words will always be next to each other. Find the pair of words and mark them on the answer sheet.
+
+          Example: The dog was frightened by the noise.
+
+          Answer: the noise (then)
+
+      - name: Type F - Missing Word
+        level: not_started
         url: 
-        notes: |
-      - name: Letters for Numbers
+        notes: | 
+          The word in capitals has had THREE consecutive letters removed, without changing the order of these letters they will make one correctly spelt word. The sentence must make sense. Find the three letter word and mark it on the answer sheet.
+
+          Example: The children GATED in the hall.
+
+          Answer: HER (gatHERed)
+
+      - name: Type G - Letters for Numbers
         level: 
         url: 
-        notes: |
-      - name: Move a Letter
+        notes: | 
+          Letters stand for numbers. Work out the correct answer to each sum. Mark the relevant LETTER on the answer sheet.
+
+          Example:
+          A = 5, B = 14, C = 12, D = 13, E = 3
+
+          A + C – E = ?
+
+          Answer: B
+
+      - name: Type J - Move a Letter
         level: 
         url: 
-        notes: |
-      - name: Letter Series
+        notes: | 
+          One letter from the word on the left can be moved to the word on the right, to make TWO new words. The letters must not be rearranged.
+
+          Example: beacon vent
+
+          Answer: e (bacon and event)
+
+      - name: Type L - Letter Series
         level: 
         url: 
-        notes: |
-      - name: Word Connections
+        notes: | 
+          A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+          Find the pair of letters that will continue the series.
+
+          Example: AT BS CR DQ EP
+
+          Answer: FO
+
+      - name: Type M - Word Connections
         level: 
         url: 
-        notes: |
-      - name: Number Series
+        notes: | 
+          Find TWO words, ONE from each set that will complete the sentence.
+
+          Example: Start is to (begin end today) as end is to (less finish send)
+
+          Answer: begin finish
+
+      - name: Type P - Number Series
         level: 
         url: 
-        notes: |
-      - name: Compound Words
-        level: completed
-        url: 
-        notes: |
-      - name: Make a Word
+        notes: | 
+          Find the number that continues the sequence.
+
+          Example: 2 4 6 8 10 ( ? )
+
+          Answer: 12
+
+      - name: Type Q - Compound Words
         level: 
         url: 
-        notes: |
-      - name: Letter Connections
+        notes: | 
+          Find one word from each group that together makes one correctly spelt word.
+
+          Example: (hand finger toe) (sum some sun)
+
+          Answer: handsome
+
+      - name: Type R - Make a Word
         level: 
         url: 
-        notes: |
-      - name: Reading Information
-        level: in_progress
-        url: 
-        notes: |
-      - name: Opposite Meaning
+        notes: | 
+          Find the word that completes the second group in the SAME way.
+
+          Example:
+          rags ( ring ) main
+          line ( ? ) plea
+
+          Answer: lean
+
+      - name: Type U - Letter Connections
         level: 
         url: 
-        notes: |
-      - name: Complete the Sum
+        notes: | 
+          Find the letters that will complete the sentence.
+
+          Example: QQ is to NK
+          as HH is to ( ? )
+
+          Answer: EB
+
+      - name: Type Z - Reading Information
         level: 
         url: 
-        notes: |
-      - name: Related Numbers
+        notes: | 
+          Students must read and process given information.
+
+          Answer: D
+
+      - name: Type H - Opposite Meaning
         level: 
         url: 
-        notes: |
-      - name: Word-Number Code
+        notes: | 
+          Find TWO words that are most OPPOSITE in meaning.
+
+          Example: (good luck today) (wish charm bad)
+
+          Answer: good, bad
+
+      - name: Type I - Complete the Sum
         level: 
         url: 
-        notes: |
-      - name: Complete the Word
+        notes: | 
+          Find the number that completes the sum.
+
+          Example: 26 + 7 = 18 + ?
+
+          Answer: 15
+
+      - name: Type K - Related Numbers
         level: 
         url: 
-        notes: |
-      - name: Same Meaning
+        notes: | 
+          Find the missing number.
+
+          Example: (4 [ 10 ] 6) (13 [ 27 ] 14)
+          (16 [ ? ] 8)
+
+          Answer: 24
+
+      - name: Type N - Word-Number Codes
         level: 
         url: 
-        notes: |
+        notes: | 
+          Work out the correct codes.
+
+          Example:
+          What is the code for LAST?
+
+          Answer: 3914
+
+      - name: Type O - Complete the Word
+        level: 
+        url: 
+        notes: | 
+          Find the missing word.
+
+          Example: timed ( dim ) timer ( rim ) deals ( ? )
+
+          Answer: sea
+
+      - name: Type S - Same Meaning
+        level: 
+        url: 
+        notes: | 
+          One word fits both pairs.
+
+          Example: (globe, planet) (soil, mud)
+
+          Answer: earth

@@ -1,5 +1,8 @@
 # Letters for numbers
 
+## **TYPE 7: Letters for Numbers (IPS Type G)**
+
+
 ### What you are asked to do
 
 Letters represent numbers. You must **do the calculation** and then **write the answer as a letter** (not a number).

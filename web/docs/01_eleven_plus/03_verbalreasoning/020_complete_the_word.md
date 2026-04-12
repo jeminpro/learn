@@ -1,5 +1,7 @@
 # Complete the word
 
+## **TYPE 20: Complete the word (IPS Type O)**
+
 ### What you are asked to do
 
 You’re given **two completed pairs** showing the rule:

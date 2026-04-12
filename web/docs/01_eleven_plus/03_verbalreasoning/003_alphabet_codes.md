@@ -1,4 +1,4 @@
-# Alphabet codes/Code Words
+# Alphabet codes/Code Words/ Related Words
 
 ## **TYPE 3: Alphabet Codes (IPS Type C)**
 

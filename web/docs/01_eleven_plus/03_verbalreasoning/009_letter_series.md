@@ -1,7 +1,6 @@
 # Letter series
-## 11+ GL Verbal Reasoning
 
-# TYPE 9: Letter Series (IPS Type L) — with 1-line explanations
+# TYPE 9: Letter Series (IPS Type L) 
 
 Use the alphabet line to count forwards/backwards:
 

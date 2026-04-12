@@ -1,5 +1,7 @@
 # Compound words
 
+## **TYPE 12: Compound Words (IPS Type Q)**
+
 ### What you are asked to do
 
 Pick **one word from Group 1** and **one word from Group 2**.

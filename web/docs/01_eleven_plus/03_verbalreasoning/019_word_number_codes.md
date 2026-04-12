@@ -1,5 +1,7 @@
 # Word Number Codes
 
+## **TYPE N: Word Number codes (IPS Type N)**
+
 ## What you are asked to do
 
 You are given **four words** and **three number codes**.

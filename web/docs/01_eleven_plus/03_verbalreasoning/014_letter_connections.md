@@ -1,5 +1,6 @@
 # Letter Connections
 
+## **TYPE 14: Letter Connections (IPS Type U)**
 
 ### What you are asked to do
 

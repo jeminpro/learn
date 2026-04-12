@@ -1,5 +1,7 @@
 # Make a Word
 
+## **TYPE 13: Make a Word (IPS Type R)**
+
 Perfect — thanks for the reference image. That clarifies **exactly** what **IPS Type R** expects.
 You’re right: **Type 13 is NOT order-preserving**. It is a **hidden anagram made from the overlap of the two words**.
 
