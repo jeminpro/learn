@@ -3,7 +3,6 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches: [ main ]
-    paths: [ 'web/**' ]  # Only trigger when files in web folder change
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
@@ -23,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0  # Full history for last updated info
 
@@ -44,6 +43,8 @@ jobs:
       - name: Build Docusaurus
         working-directory: ./web
         run: npm run build
+        with:
+          node-version: 24.14.0
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
