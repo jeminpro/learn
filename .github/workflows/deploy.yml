@@ -26,15 +26,18 @@ jobs:
         with:
           fetch-depth: 0  # Full history for last updated info
 
-      - name: Setup Node.js (use latest LTS)
+      - name: Setup Node.js
         uses: actions/setup-node@v5
         with:
-          node-version: 'lts/*'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: web/package-lock.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      - name: Clear npm cache
+        run: npm cache clean --force
 
       - name: Install dependencies
         working-directory: ./web
@@ -43,8 +46,6 @@ jobs:
       - name: Build Docusaurus
         working-directory: ./web
         run: npm run build
-        with:
-          node-version: 24.14.0
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
