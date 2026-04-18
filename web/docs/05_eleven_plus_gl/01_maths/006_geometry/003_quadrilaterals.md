@@ -13,17 +13,17 @@ All quadrilaterals share these basic facts:
 **Angle Sum Property:**
 
 <svg width="220" height="160" viewBox="0 0 220 160">
-  <!-- Quadrilateral -->
+  {/* Quadrilateral */}
   <polygon points="50,40 170,35 180,120 40,110" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Diagonals shown as dashed -->
+  {/* Diagonals shown as dashed */}
   <line x1="50" y1="40" x2="180" y2="120" stroke="#999" stroke-width="2" stroke-dasharray="5 3" opacity="0.5"/>
   <line x1="170" y1="35" x2="40" y2="110" stroke="#999" stroke-width="2" stroke-dasharray="5 3" opacity="0.5"/>
-  <!-- Angle labels -->
+  {/* Angle labels */}
   <text x="50" y="35" font-size="15" fill="#2a7" text-anchor="middle" font-weight="bold">a</text>
   <text x="175" y="35" font-size="15" fill="#2a7" text-anchor="middle" font-weight="bold">b</text>
   <text x="185" y="120" font-size="15" fill="#2a7" text-anchor="middle" font-weight="bold">c</text>
   <text x="35" y="115" font-size="15" fill="#2a7" text-anchor="middle" font-weight="bold">d</text>
-  <!-- Formula -->
+  {/* Formula */}
   <text x="110" y="150" font-size="14" fill="#ff6b6b" text-anchor="middle" font-weight="bold">a + b + c + d = 360°</text>
 </svg>
 

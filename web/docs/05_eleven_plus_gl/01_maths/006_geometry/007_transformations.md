@@ -29,7 +29,7 @@ Example:
 **Translation Visual:**
 
 <svg width="350" height="250" viewBox="0 0 350 250">
-  <!-- Grid -->
+  {/* Grid */}
   <defs>
     <pattern id="grid-trans" width="30" height="30" patternUnits="userSpaceOnUse">
       <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
@@ -37,19 +37,19 @@ Example:
   </defs>
   <rect width="350" height="250" fill="url(#grid-trans)"/>
   
-  <!-- Axes -->
+  {/* Axes */}
   <line x1="0" y1="180" x2="350" y2="180" stroke="#2a7" stroke-width="2"/>
   <line x1="30" y1="0" x2="30" y2="250" stroke="#2a7" stroke-width="2"/>
   
-  <!-- Original triangle -->
+  {/* Original triangle */}
   <polygon points="60,150 90,150 75,120" fill="#ff6b6b" opacity="0.6" stroke="#ff6b6b" stroke-width="2"/>
   <text x="70" y="170" font-size="13" fill="#ff6b6b" font-weight="bold">Original</text>
   
-  <!-- Translated triangle -->
+  {/* Translated triangle */}
   <polygon points="180,90 210,90 195,60" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
   <text x="185" y="110" font-size="13" fill="#4a9eff" font-weight="bold">A′B′C′</text>
   
-  <!-- Arrow showing translation -->
+  {/* Arrow showing translation */}
   <line x1="90" y1="130" x2="180" y2="80" stroke="#27ae60" stroke-width="2.5" stroke-dasharray="5 3" marker-end="url(#arrowgreen)"/>
   <defs>
     <marker id="arrowgreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
@@ -77,36 +77,36 @@ A **reflection** produces a mirror image across a **line of reflection** — oft
 **Reflection Visuals:**
 
 <svg width="700" height="280" viewBox="0 0 700 280">
-  <!-- Reflection in x-axis -->
+  {/* Reflection in x-axis */}
   <g>
     <rect width="340" height="280" fill="url(#grid-trans)"/>
     <line x1="0" y1="140" x2="340" y2="140" stroke="#ff6b6b" stroke-width="3"/>
     <line x1="170" y1="0" x2="170" y2="280" stroke="#2a7" stroke-width="2"/>
     <text x="300" y="135" font-size="12" fill="#ff6b6b" font-weight="bold">x-axis</text>
     
-    <!-- Original shape above -->
+    {/* Original shape above */}
     <polygon points="210,80 250,80 230,40" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
     <text x="220" y="105" font-size="12" fill="#4a9eff" font-weight="bold">ABC</text>
     
-    <!-- Reflected shape below -->
+    {/* Reflected shape below */}
     <polygon points="210,200 250,200 230,240" fill="#9b59b6" opacity="0.6" stroke="#9b59b6" stroke-width="2"/>
     <text x="220" y="190" font-size="12" fill="#9b59b6" font-weight="bold">A′B′C′</text>
     
     <text x="170" y="270" font-size="13" fill="#333" font-weight="bold" text-anchor="middle">Reflect in x-axis</text>
   </g>
   
-  <!-- Reflection in y-axis -->
+  {/* Reflection in y-axis */}
   <g transform="translate(360, 0)">
     <rect width="340" height="280" fill="url(#grid-trans)"/>
     <line x1="0" y1="140" x2="340" y2="140" stroke="#2a7" stroke-width="2"/>
     <line x1="170" y1="0" x2="170" y2="280" stroke="#ff6b6b" stroke-width="3"/>
     <text x="180" y="20" font-size="12" fill="#ff6b6b" font-weight="bold">y-axis</text>
     
-    <!-- Original shape right -->
+    {/* Original shape right */}
     <polygon points="230,100 270,100 250,60" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
     <text x="240" y="125" font-size="12" fill="#4a9eff" font-weight="bold">ABC</text>
     
-    <!-- Reflected shape left -->
+    {/* Reflected shape left */}
     <polygon points="110,100 70,100 90,60" fill="#27ae60" opacity="0.6" stroke="#27ae60" stroke-width="2"/>
     <text x="75" y="125" font-size="12" fill="#27ae60" font-weight="bold">A′B′C′</text>
     
@@ -129,61 +129,61 @@ A **rotation** turns a shape around a **fixed point**, often the origin (0, 0).
 
 **Rotation Visuals:**
 
-<!-- 90° clockwise rotation: (x, y) → (y, –x) -->
+{/* 90° clockwise rotation: (x, y) → (y, –x) */}
 <svg width="320" height="320" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background -->
+  {/* Background */}
   <rect x="0" y="0" width="200" height="200" fill="white" />
 
-  <!-- Axes -->
-  <!-- x-axis -->
+  {/* Axes */}
+  {/* x-axis */}
   <line x1="10" y1="100" x2="190" y2="100" stroke="#444" stroke-width="1.5" />
-  <!-- arrow on +x -->
+  {/* arrow on +x */}
   <polygon points="188,95 190,100 188,105" fill="#444" />
 
-  <!-- y-axis -->
+  {/* y-axis */}
   <line x1="100" y1="10" x2="100" y2="190" stroke="#444" stroke-width="1.5" />
-  <!-- arrow on +y -->
+  {/* arrow on +y */}
   <polygon points="95,12 100,10 105,12" fill="#444" />
 
-  <!-- Axis labels -->
+  {/* Axis labels */}
   <text x="185" y="92" font-size="10" fill="#444">x</text>
   <text x="108" y="18" font-size="10" fill="#444">y</text>
   <text x="75" y="112" font-size="10" fill="#444">(0, 0)</text>
 
-  <!-- Helper: we’re using scale 1 unit = 20px, origin at (100,100)
+  {/* Helper: we’re using scale 1 unit = 20px, origin at (100,100)
        Original point: (2, 3) → (140, 40)
        Rotated 90° clockwise: (3, –2) → (160, 140)
-  -->
+  */}
 
-  <!-- Original point P = (2, 3) -->
+  {/* Original point P = (2, 3) */}
   <circle cx="140" cy="40" r="4" fill="#2563eb" />
   <text x="145" y="35" font-size="10" fill="#2563eb">P (2, 3)</text>
 
-  <!-- Rotated point P' = (3, –2) -->
+  {/* Rotated point P' = (3, –2) */}
   <circle cx="160" cy="140" r="4" fill="#f97316" />
   <text x="150" y="155" font-size="10" fill="#f97316">P' (3, −2)</text>
 
-  <!-- Line from origin to original point -->
+  {/* Line from origin to original point */}
   <line x1="100" y1="100" x2="140" y2="40" stroke="#2563eb" stroke-width="1.2" stroke-dasharray="4 3" />
 
-  <!-- Line from origin to rotated point -->
+  {/* Line from origin to rotated point */}
   <line x1="100" y1="100" x2="160" y2="140" stroke="#f97316" stroke-width="1.2" stroke-dasharray="4 3" />
 
-  <!-- Curved arrow showing 90° clockwise rotation -->
+  {/* Curved arrow showing 90° clockwise rotation */}
   <path d="
     M 135 55
     A 50 50 0 0 1 150 105
   " fill="none" stroke="#16a34a" stroke-width="1.2" marker-end="url(#arrowhead)" />
 
-  <!-- Arrowhead definition -->
+  {/* Arrowhead definition */}
   <defs>
     <marker id="arrowhead" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
       <polygon points="0,0 6,3 0,6" fill="#16a34a" />
     </marker>
   </defs>
 
-  <!-- Angle label -->
+  {/* Angle label */}
   <text x="134" y="85" font-size="10" fill="#16a34a">90° clockwise</text>
 </svg>
 
@@ -213,26 +213,26 @@ If 0 < k < 1 → shape shrinks.
 **Enlargement Visual:**
 
 <svg width="400" height="350" viewBox="0 0 400 350">
-  <!-- Grid -->
+  {/* Grid */}
   <rect width="400" height="350" fill="url(#grid-trans)"/>
   
-  <!-- Axes -->
+  {/* Axes */}
   <line x1="0" y1="280" x2="400" y2="280" stroke="#2a7" stroke-width="2"/>
   <line x1="40" y1="0" x2="40" y2="350" stroke="#2a7" stroke-width="2"/>
   
-  <!-- Center of enlargement (origin) -->
+  {/* Center of enlargement (origin) */}
   <circle cx="40" cy="280" r="5" fill="#ff6b6b"/>
   <text x="45" y="295" font-size="12" fill="#ff6b6b" font-weight="bold">Centre (0,0)</text>
   
-  <!-- Original small triangle -->
+  {/* Original small triangle */}
   <polygon points="100,250 130,250 115,220" fill="#4a9eff" opacity="0.6" stroke="#4a9eff" stroke-width="2"/>
   <text x="105" y="270" font-size="13" fill="#4a9eff" font-weight="bold">Original</text>
   
-  <!-- Enlarged triangle (scale factor 2) -->
+  {/* Enlarged triangle (scale factor 2) */}
   <polygon points="160,190 220,190 190,130" fill="#27ae60" opacity="0.5" stroke="#27ae60" stroke-width="2.5"/>
   <text x="175" y="210" font-size="13" fill="#27ae60" font-weight="bold">Enlarged ×2</text>
   
-  <!-- Lines from center to show enlargement -->
+  {/* Lines from center to show enlargement */}
   <line x1="40" y1="280" x2="100" y2="250" stroke="#9b59b6" stroke-width="1.5" stroke-dasharray="3 2"/>
   <line x1="40" y1="280" x2="160" y2="190" stroke="#9b59b6" stroke-width="1.5" stroke-dasharray="3 2"/>
   

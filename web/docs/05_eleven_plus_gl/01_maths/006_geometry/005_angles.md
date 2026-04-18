@@ -40,7 +40,7 @@ Angles tell us **how much something turns or opens** — like the hands of a clo
 **Parallel Lines Diagrams:**
 
 <svg width="700" height="200" viewBox="0 0 700 200">
-  <!-- Corresponding Angles (F shape) -->
+  {/* Corresponding Angles (F shape) */}
   <g>
     <line x1="20" y1="40" x2="180" y2="40" stroke="#2a7" stroke-width="3"/>
     <line x1="20" y1="120" x2="180" y2="120" stroke="#2a7" stroke-width="3"/>
@@ -53,7 +53,7 @@ Angles tell us **how much something turns or opens** — like the hands of a clo
     <text x="100" y="195" font-size="12" fill="#555" text-anchor="middle">(F shape)</text>
   </g>
   
-  <!-- Alternate Angles (Z shape) -->
+  {/* Alternate Angles (Z shape) */}
   <g transform="translate(230, 0)">
     <line x1="20" y1="40" x2="180" y2="40" stroke="#2a7" stroke-width="3"/>
     <line x1="20" y1="120" x2="180" y2="120" stroke="#2a7" stroke-width="3"/>
@@ -66,7 +66,7 @@ Angles tell us **how much something turns or opens** — like the hands of a clo
     <text x="100" y="195" font-size="12" fill="#555" text-anchor="middle">(Z shape)</text>
   </g>
   
-  <!-- Co-interior Angles (C shape) -->
+  {/* Co-interior Angles (C shape) */}
   <g transform="translate(460, 0)">
     <line x1="20" y1="40" x2="180" y2="40" stroke="#2a7" stroke-width="3"/>
     <line x1="20" y1="120" x2="180" y2="120" stroke="#2a7" stroke-width="3"/>

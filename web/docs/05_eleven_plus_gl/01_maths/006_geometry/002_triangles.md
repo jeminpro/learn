@@ -27,13 +27,13 @@ A **triangle** is a 2D shape with **3 sides** and **3 angles**. Triangles are ev
 **Angle Sum Property Visualized:**
 
 <svg width="200" height="140" viewBox="0 0 200 140">
-  <!-- Triangle -->
+  {/* Triangle */}
   <polygon points="100,20 30,120 170,120" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Angle labels -->
+  {/* Angle labels */}
   <text x="100" y="50" font-size="16" fill="#2a7" text-anchor="middle" font-weight="bold">a</text>
   <text x="40" y="110" font-size="16" fill="#2a7" text-anchor="middle" font-weight="bold">b</text>
   <text x="160" y="110" font-size="16" fill="#2a7" text-anchor="middle" font-weight="bold">c</text>
-  <!-- Formula -->
+  {/* Formula */}
   <text x="100" y="135" font-size="14" fill="#ff6b6b" text-anchor="middle" font-weight="bold">a + b + c = 180°</text>
 </svg>
 
@@ -45,15 +45,15 @@ A **triangle** is a 2D shape with **3 sides** and **3 angles**. Triangles are ev
 **Pythagoras' Theorem Visualized:**
 
 <svg width="250" height="200" viewBox="0 0 250 200">
-  <!-- Right triangle -->
+  {/* Right triangle */}
   <polygon points="40,150 40,50 180,150" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Right angle marker -->
+  {/* Right angle marker */}
   <rect x="40" y="140" width="10" height="10" fill="none" stroke="#ff6b6b" stroke-width="2.5"/>
-  <!-- Labels -->
+  {/* Labels */}
   <text x="20" y="100" font-size="16" fill="#2a7" font-weight="bold">a</text>
   <text x="110" y="170" font-size="16" fill="#2a7" font-weight="bold">b</text>
   <text x="110" y="90" font-size="16" fill="#ff6b6b" font-weight="bold">c (hypotenuse)</text>
-  <!-- Formula -->
+  {/* Formula */}
   <text x="10" y="190" font-size="14" fill="#333" font-weight="bold">c² = a² + b²</text>
 </svg>
 
@@ -64,16 +64,16 @@ A **triangle** is a 2D shape with **3 sides** and **3 angles**. Triangles are ev
 **Area Formula Visualized:**
 
 <svg width="220" height="160" viewBox="0 0 220 160">
-  <!-- Triangle -->
+  {/* Triangle */}
   <polygon points="40,130 40,40 180,130" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Height line -->
+  {/* Height line */}
   <line x1="40" y1="40" x2="40" y2="130" stroke="#ff6b6b" stroke-width="2.5" stroke-dasharray="5 3"/>
-  <!-- Base line -->
+  {/* Base line */}
   <line x1="40" y1="130" x2="180" y2="130" stroke="#4a9eff" stroke-width="2.5"/>
-  <!-- Labels -->
+  {/* Labels */}
   <text x="20" y="85" font-size="14" fill="#ff6b6b" font-weight="bold">height</text>
   <text x="100" y="145" font-size="14" fill="#4a9eff" font-weight="bold">base</text>
-  <!-- Formula -->
+  {/* Formula */}
   <text x="50" y="20" font-size="14" fill="#333" font-weight="bold">Area = ½ × base × height</text>
 </svg>
 

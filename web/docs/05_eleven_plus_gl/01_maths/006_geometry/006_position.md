@@ -13,7 +13,7 @@ We usually use a **coordinate grid** (also called a Cartesian plane) with two ax
 **Coordinate Grid:**
 
 <svg width="300" height="300" viewBox="0 0 300 300">
-  <!-- Grid lines -->
+  {/* Grid lines */}
   <defs>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
       <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
@@ -21,24 +21,24 @@ We usually use a **coordinate grid** (also called a Cartesian plane) with two ax
   </defs>
   <rect width="300" height="300" fill="url(#grid)"/>
   
-  <!-- Axes -->
+  {/* Axes */}
   <line x1="0" y1="150" x2="300" y2="150" stroke="#2a7" stroke-width="3"/>
   <line x1="150" y1="0" x2="150" y2="300" stroke="#2a7" stroke-width="3"/>
   
-  <!-- Arrows -->
+  {/* Arrows */}
   <polygon points="295,150 285,145 285,155" fill="#2a7"/>
   <polygon points="150,5 145,15 155,15" fill="#2a7"/>
   
-  <!-- Axis labels -->
+  {/* Axis labels */}
   <text x="290" y="140" font-size="16" fill="#2a7" font-weight="bold">x</text>
   <text x="160" y="15" font-size="16" fill="#2a7" font-weight="bold">y</text>
   
-  <!-- Origin -->
+  {/* Origin */}
   <circle cx="150" cy="150" r="4" fill="#ff6b6b"/>
   <text x="135" y="165" font-size="14" fill="#ff6b6b" font-weight="bold">(0,0)</text>
   <text x="130" y="180" font-size="12" fill="#555">origin</text>
   
-  <!-- Example points -->
+  {/* Example points */}
   <circle cx="240" cy="90" r="4" fill="#4a9eff"/>
   <text x="245" y="90" font-size="13" fill="#4a9eff" font-weight="bold">A(3,2)</text>
   
@@ -48,7 +48,7 @@ We usually use a **coordinate grid** (also called a Cartesian plane) with two ax
   <circle cx="150" cy="0" r="4" fill="#27ae60"/>
   <text x="160" y="35" font-size="13" fill="#27ae60" font-weight="bold">C(0,5)</text>
   
-  <!-- Direction labels -->
+  {/* Direction labels */}
   <text x="260" y="170" font-size="12" fill="#555">positive x →</text>
   <text x="10" y="170" font-size="12" fill="#555">← negative x</text>
   <text x="160" y="30" font-size="12" fill="#555">↑ positive y</text>
@@ -81,7 +81,7 @@ When both x and y can be positive or negative, the plane divides into **4 quadra
 **Four Quadrants Diagram:**
 
 <svg width="350" height="350" viewBox="0 0 350 350">
-  <!-- Grid lines -->
+  {/* Grid lines */}
   <defs>
     <pattern id="grid2" width="25" height="25" patternUnits="userSpaceOnUse">
       <path d="M 25 0 L 0 0 0 25" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
@@ -89,25 +89,25 @@ When both x and y can be positive or negative, the plane divides into **4 quadra
   </defs>
   <rect width="350" height="350" fill="url(#grid2)"/>
   
-  <!-- Quadrant backgrounds -->
+  {/* Quadrant backgrounds */}
   <rect x="175" y="0" width="175" height="175" fill="#e8f5e9" opacity="0.3"/>
   <rect x="0" y="0" width="175" height="175" fill="#fff3e0" opacity="0.3"/>
   <rect x="0" y="175" width="175" height="175" fill="#f3e5f5" opacity="0.3"/>
   <rect x="175" y="175" width="175" height="175" fill="#e3f2fd" opacity="0.3"/>
   
-  <!-- Axes -->
+  {/* Axes */}
   <line x1="0" y1="175" x2="350" y2="175" stroke="#2a7" stroke-width="3"/>
   <line x1="175" y1="0" x2="175" y2="350" stroke="#2a7" stroke-width="3"/>
   
-  <!-- Arrows -->
+  {/* Arrows */}
   <polygon points="345,175 335,170 335,180" fill="#2a7"/>
   <polygon points="175,5 170,15 180,15" fill="#2a7"/>
   
-  <!-- Origin -->
+  {/* Origin */}
   <circle cx="175" cy="175" r="3" fill="#ff6b6b"/>
   <text x="180" y="195" font-size="12" fill="#ff6b6b" font-weight="bold">(0,0)</text>
   
-  <!-- Quadrant labels -->
+  {/* Quadrant labels */}
   <text x="260" y="80" font-size="20" fill="#27ae60" font-weight="bold">I</text>
   <text x="260" y="100" font-size="13" fill="#555">(+, +)</text>
   <circle cx="250" cy="120" r="3" fill="#27ae60"/>
@@ -128,7 +128,7 @@ When both x and y can be positive or negative, the plane divides into **4 quadra
   <circle cx="250" cy="240" r="3" fill="#4a9eff"/>
   <text x="255" y="235" font-size="11" fill="#4a9eff" font-weight="bold">(4, -3)</text>
   
-  <!-- Axis labels -->
+  {/* Axis labels */}
   <text x="340" y="165" font-size="14" fill="#2a7" font-weight="bold">x</text>
   <text x="185" y="15" font-size="14" fill="#2a7" font-weight="bold">y</text>
 </svg>
@@ -151,7 +151,7 @@ When both x and y can be positive or negative, the plane divides into **4 quadra
 **Distance Example:**
 
 <svg width="300" height="200" viewBox="0 0 300 200">
-  <!-- Grid -->
+  {/* Grid */}
   <defs>
     <pattern id="grid3" width="30" height="30" patternUnits="userSpaceOnUse">
       <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#e0e0e0" stroke-width="0.5"/>
@@ -159,18 +159,18 @@ When both x and y can be positive or negative, the plane divides into **4 quadra
   </defs>
   <rect width="300" height="200" fill="url(#grid3)"/>
   
-  <!-- Axes -->
+  {/* Axes */}
   <line x1="0" y1="100" x2="300" y2="100" stroke="#2a7" stroke-width="2"/>
   <line x1="30" y1="0" x2="30" y2="200" stroke="#2a7" stroke-width="2"/>
   
-  <!-- Points -->
+  {/* Points */}
   <circle cx="90" cy="40" r="5" fill="#ff6b6b"/>
   <text x="95" y="35" font-size="14" fill="#ff6b6b" font-weight="bold">(2, 5)</text>
   
   <circle cx="240" cy="40" r="5" fill="#4a9eff"/>
   <text x="245" y="35" font-size="14" fill="#4a9eff" font-weight="bold">(7, 5)</text>
   
-  <!-- Distance line -->
+  {/* Distance line */}
   <line x1="90" y1="40" x2="240" y2="40" stroke="#9b59b6" stroke-width="3" stroke-dasharray="5 3"/>
   <text x="165" y="30" font-size="15" fill="#9b59b6" font-weight="bold">5 units</text>
   <text x="140" y="65" font-size="13" fill="#555">Distance = 7 - 2 = 5</text>
@@ -183,29 +183,29 @@ When both x and y can be positive or negative, the plane divides into **4 quadra
 **Midpoint Example:**
 
 <svg width="300" height="250" viewBox="0 0 300 250">
-  <!-- Grid -->
+  {/* Grid */}
   <rect width="300" height="250" fill="url(#grid3)"/>
   
-  <!-- Axes -->
+  {/* Axes */}
   <line x1="0" y1="200" x2="300" y2="200" stroke="#2a7" stroke-width="2"/>
   <line x1="30" y1="0" x2="30" y2="250" stroke="#2a7" stroke-width="2"/>
   
-  <!-- Points -->
+  {/* Points */}
   <circle cx="90" cy="80" r="5" fill="#ff6b6b"/>
   <text x="50" y="75" font-size="14" fill="#ff6b6b" font-weight="bold">(2, 4)</text>
   
   <circle cx="210" cy="20" r="5" fill="#4a9eff"/>
   <text x="215" y="15" font-size="14" fill="#4a9eff" font-weight="bold">(6, 8)</text>
   
-  <!-- Line connecting points -->
+  {/* Line connecting points */}
   <line x1="90" y1="80" x2="210" y2="20" stroke="#e0e0e0" stroke-width="2" stroke-dasharray="3 2"/>
   
-  <!-- Midpoint -->
+  {/* Midpoint */}
   <circle cx="150" cy="50" r="6" fill="#27ae60"/>
   <text x="155" y="45" font-size="14" fill="#27ae60" font-weight="bold">M(4, 6)</text>
   <text x="145" y="70" font-size="12" fill="#27ae60" font-weight="bold">Midpoint</text>
   
-  <!-- Formula -->
+  {/* Formula */}
   <text x="60" y="230" font-size="13" fill="#555">Midpoint = ((2+6)/2, (4+8)/2) = (4, 6)</text>
 </svg>
 

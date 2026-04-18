@@ -25,9 +25,9 @@
 **Interior Angles Visualization:**
 
 <svg width="220" height="180" viewBox="0 0 220 180">
-  <!-- Pentagon -->
+  {/* Pentagon */}
   <polygon points="110,30 180,70 155,140 65,140 40,70" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Interior angles marked -->
+  {/* Interior angles marked */}
   <circle cx="110" cy="30" r="3" fill="#ff6b6b"/>
   <circle cx="180" cy="70" r="3" fill="#ff6b6b"/>
   <circle cx="155" cy="140" r="3" fill="#ff6b6b"/>
@@ -41,9 +41,9 @@
 **Exterior Angles Visualization:**
 
 <svg width="220" height="180" viewBox="0 0 220 180">
-  <!-- Hexagon with exterior angles -->
+  {/* Hexagon with exterior angles */}
   <polygon points="110,30 160,50 160,100 110,120 60,100 60,50" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
-  <!-- Exterior angle lines -->
+  {/* Exterior angle lines */}
   <line x1="110" y1="30" x2="110" y2="5" stroke="#ff6b6b" stroke-width="2.5"/>
   <line x1="160" y1="50" x2="185" y2="40" stroke="#ff6b6b" stroke-width="2.5"/>
   <line x1="160" y1="100" x2="185" y2="110" stroke="#ff6b6b" stroke-width="2.5"/>
@@ -82,20 +82,20 @@ A **circle** is a special curved 2D shape where all points are **the same distan
 **Important Formulas:**
 
 <svg width="260" height="180" viewBox="0 0 260 180">
-  <!-- Circle for circumference -->
+  {/* Circle for circumference */}
   <circle cx="70" cy="60" r="40" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
   <line x1="70" y1="60" x2="110" y2="60" stroke="#ff6b6b" stroke-width="2.5"/>
   <text x="90" y="55" font-size="11" fill="#ff6b6b" font-weight="bold">r</text>
   <text x="70" y="115" font-size="12" fill="#333" font-weight="bold" text-anchor="middle">C = 2πr</text>
   <text x="70" y="130" font-size="11" fill="#555" text-anchor="middle">or πd</text>
   
-  <!-- Circle for area -->
+  {/* Circle for area */}
   <circle cx="180" cy="60" r="40" fill="#eaf7ff" stroke="#2a7" stroke-width="3"/>
   <line x1="180" y1="60" x2="180" y2="20" stroke="#ff6b6b" stroke-width="2.5"/>
   <text x="185" y="40" font-size="11" fill="#ff6b6b" font-weight="bold">r</text>
   <text x="180" y="115" font-size="12" fill="#333" font-weight="bold" text-anchor="middle">A = πr²</text>
   
-  <!-- Note -->
+  {/* Note */}
   <text x="130" y="160" font-size="13" fill="#2a7" font-weight="bold" text-anchor="middle">For 11+ exams: π ≈ 3.14 or 22/7</text>
 </svg>
 
