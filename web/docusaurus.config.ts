@@ -48,7 +48,22 @@ const config: Config = {
   },
   
   themes: ['@docusaurus/theme-mermaid'],
-  plugins: [require.resolve('./src/plugins/yaml-loader-plugin.js')],
+  plugins: [
+    function suppressKnownBundlerWarnings() {
+      return {
+        name: 'suppress-known-bundler-warnings',
+        configureWebpack() {
+          return {
+            ignoreWarnings: [
+              /Critical dependency: require function is used in a way in which dependencies cannot be statically extracted/,
+              /vscode-languageserver-types\/lib\/umd\/main\.js/,
+            ],
+          };
+        },
+      };
+    },
+    require.resolve('./src/plugins/yaml-loader-plugin.js'),
+  ],
 
   presets: [
     [
