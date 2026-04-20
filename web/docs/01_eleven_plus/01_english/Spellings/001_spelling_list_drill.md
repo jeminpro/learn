@@ -2,31 +2,51 @@
 
 ### 📘 Section A: Grammar + Sentence Logic
 
-1. The teacher insisted that everyone ______ their work quietly.
-2. Despite the heavy rain, the match was not ______.
-3. He would have succeeded if he ______ more carefully.
-4. The children were told to remain ______ during the assembly.
-5. She acted as if she ______ never seen him before.
-6. I would rather you ______ the truth immediately.
-7. The report must be completed by tomorrow without ______.
-8. If I ______ you, I would reconsider the decision.
-9. The instructions were too complex to be ______ understood.
-10. He behaves as though he ______ the rules.
+1. The teacher insisted that everyone D_ their work quietly.
+2. Despite the heavy rain, the match was not C _ _ _ _ _ L E D.
+3. He would have succeeded if he _ _ _ K E D more carefully.
+4. The children were told to remain S I L _ _ _ during the assembly.
+7. The report must be completed by tomorrow without _ _ _ A Y.
+9. The instructions were too complex to be U N _ _ _ _ _ O O D.
+
+---
+## 📘 Section A: Grammar + Sentence Logic
+
+1. **do** – “insisted that” takes base verb.
+2. **cancelled** – contrast with rain still playing.
+3. **had worked** – third conditional.
+4. **silent** – adjective after “remain”.
+7. **delay** – fixed phrase “without delay”.
+8. **were** – hypothetical advice.
+9. **easily** – adverb modifying understood.
 
 ---
 
 ### 📗 Section B: Vocabulary Precision
 
-11. The explorer described the landscape as ______ and desolate.
-12. Her tone was surprisingly ______ given the situation.
-13. The explanation was so ______ that everyone understood immediately.
-14. The witness gave a ______ account of the incident.
-15. His argument was both ______ and persuasive.
-16. The room had a ______ atmosphere after the argument.
-17. The solution was considered highly ______ by experts.
-18. The speech was both ______ and inspiring.
-19. The results were ______ to those predicted.
-20. The path was ______ due to heavy snow.
+11. The explorer described the landscape as B A _ _ _ N and desolate.
+12. Her tone was surprisingly C _ _ _ given the situation.
+13. The explanation was so _ _ _ A R that everyone understood immediately.
+14. The witness gave a D E T _ _ _ _ D account of the incident.
+15. His argument was both L O G _ _ _ L and persuasive.
+16. The room had a _ _ _ S E atmosphere after the argument.
+17. The solution was considered highly R E L _ _ _ _ E by experts.
+18. The speech was both uplifting and I N _ _ I R _ _ _.
+19. The results were similar to what we P R E _ _ C T _ _.
+
+---
+## 📗 Section B: Vocabulary Precision
+
+11. **barren** – empty/desert-like.
+12. **calm** – unexpected emotional tone.
+13. **clear** – easy understanding.
+14. **detailed** – full account.
+15. **logical** – strong reasoning.
+16. **tense** – emotional atmosphere.
+17. **reliable** – trustworthy solution.
+18. **uplifting** – positive speech.
+19. **similar** – close match.
+20. **impassable** – blocked by snow.
 
 ---
 
@@ -42,21 +62,6 @@
 28. They remained calm despite the ______ circumstances.
 29. The outcome was far from what anyone had ______.
 30. She spoke in a tone that was difficult to ______.
-
----
-
-### 📕 Section D: Grammar Traps (Tense / Agreement)
-
-31. Neither of the answers ______ correct.
-32. Each of the students ______ responsible for their own work.
-33. The committee ______ divided on the issue.
-34. There ______ many reasons for the delay.
-35. Everyone ______ expected to attend the meeting.
-36. The number of applicants ______ increasing.
-37. He ______ to have left early yesterday.
-38. They ______ been informed about the change.
-39. The data ______ conclusive.
-40. She ______ to have forgotten the appointment.
 
 ---
 
@@ -158,33 +163,7 @@ Here is the **answer sheet with explanations** for the FSCE-style missing word s
 
 ---
 
-## 📘 Section A: Grammar + Sentence Logic
 
-1. **do** – “insisted that” takes base verb.
-2. **cancelled** – contrast with rain still playing.
-3. **had worked** – third conditional.
-4. **silent** – adjective after “remain”.
-5. **had** – past perfect for unreal comparison.
-6. **told** – “would rather you + past form” (truth → told).
-7. **delay** – fixed phrase “without delay”.
-8. **were** – hypothetical advice.
-9. **easily** – adverb modifying understood.
-10. **knows** – present tense assumption.
-
----
-
-## 📗 Section B: Vocabulary Precision
-
-11. **barren** – empty/desert-like.
-12. **calm** – unexpected emotional tone.
-13. **clear** – easy understanding.
-14. **detailed** – full account.
-15. **logical** – strong reasoning.
-16. **tense** – emotional atmosphere.
-17. **reliable** – trustworthy solution.
-18. **uplifting** – positive speech.
-19. **similar** – close match.
-20. **impassable** – blocked by snow.
 
 ---
 
