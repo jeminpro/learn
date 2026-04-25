@@ -207,3 +207,85 @@ He wore a W _ _ L _ N jumper to keep warm during winter.
 64. watt  
 65. watertight  
 ---
+1. The abandoned W _ S _ _ L _ _ D looked eerie at night.  
+2. He checked his W _ T _ H before leaving the house.  
+3. The W _ T _ _ M _ N guarded the entrance carefully.  
+4. We admired the beautiful W _ T _ _ F _ L during our hike.  
+5. The ground became W _ T _ _ L _ _ _ E _ after heavy rain.  
+6. The paper had a faint W _ T _ R _ _ _ K visible in the light.  
+7. This jacket is completely W _ T _ R _ _ O _ F.  
+8. The police issued a W _ R _ _ N _ for his arrest.  
+9. The product comes with a one-year W _ R _ _ N _ Y.  
+10. Rabbits lived in a W _ R _ _ _ underground.  
+11. The brave W _ R _ _ _ U _ fought in the battle.  
+12. The navy deployed a powerful W _ R _ _ H _ P.  
+13. He had a small W _ R _ on his finger.  
+14. She felt W _ R _ about walking alone at night.  
+15. He washed his hands in the W _ S _ B _ S _ N.  
+16. The villain showed W _ N _ _ N behaviour.  
+17. The patient was moved to the hospital W _ R _.  
+18. The W _ R _ E _ kept watch over the prisoners.  
+19. She organised her clothes in the W _ R _ R _ B _.  
+20. The goods were stored in a large W _ R _ H _ _ _ _.  
+21. The game featured intense W _ R _ _ _ _.  
+22. The fire gave off a pleasant W _ R _ T _.  
+23. The sign gave a clear W _ R _ _ _ _ about danger.  
+24. The heat caused the plastic to W _ R _.  
+25. He kept his money in a W _ L _ _ _.  
+26. The boxer gave a powerful W _ L _ _ _.  
+27. Pigs love to W _ L _ _ in the mud.  
+28. They danced a graceful W _ L _ _.  
+29. The clown wore a W _ C _ _ costume.  
+30. The duck began to W _ D _ _ _ across the road.  
+31. He had to W _ D _ through the shallow water.  
+32. She earned a good W _ G _ for her work.  
+33. They made a risky W _ G _ _ on the match.  
+34. The farmer loaded goods onto the W _ G _ _.  
+35. The orphan felt like a lonely W _ _ F.  
+36. The baby began to W _ _ L loudly.  
+37. He tied the rope around his W _ _ _ _.  
+38. She decided to W _ _ V _ her right to appeal.  
+
+---
+
+### Answers
+
+1. wasteland  
+2. watch  
+3. watchman  
+4. waterfall  
+5. waterlogged  
+6. watermark  
+7. waterproof  
+8. warrant  
+9. warranty  
+10. warren  
+11. warriour  
+12. warship  
+13. wart  
+14. wary  
+15. washbasin  
+16. wanton  
+17. ward  
+18. warden  
+19. wardrobe  
+20. warehouse  
+21. warface  
+22. warmth  
+23. warning  
+24. warp  
+25. wallet  
+26. wallop  
+27. wallow  
+28. waltz  
+29. wacky  
+30. waddle  
+31. wade  
+32. wage  
+33. wager  
+34. wagon  
+35. waif  
+36. wail  
+37. waist  
+38. waive  
+---
