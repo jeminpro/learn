@@ -200,6 +200,32 @@ Very MCQ-friendly.
 * “Thinking about how to make art better is called?” → **Improve / Evaluate**
 
 ---
+## Art & Design (FSCE)
+
+### 1. Elements of Art
+- line, shape, form
+- colour, texture
+- pattern, space
+
+### 2. Colour Theory
+- primary colours: red, blue, yellow
+- secondary colours: green, orange, purple
+- shade (add black), tint (add white)
+
+### 3. Techniques & Materials
+- drawing, painting, sculpture, collage
+- materials: pencil, paint, clay
+
+### 4. Visual Analysis (VERY IMPORTANT)
+- comparing artworks
+- identifying similarities and differences
+
+**Vocabulary:**
+- style, technique, shade, light, tone, similarity
+
+**Application:**
+- identify why two artworks are similar
+- recognise use of colour, light/shade, technique
 
 # 🎯 What FSCE Will Actually Test
 

@@ -1,4 +1,38 @@
 # What is included?
+## Science (FSCE)
+
+### 1. Living Things
+- organism, respiration, reproduction
+- photosynthesis
+
+### 2. Human Body
+- heart, lungs, brain
+
+### 3. Materials & States
+- solid, liquid, gas
+- melt, freeze, evaporate
+
+### 4. Forces & Energy
+- force, gravity
+- light, heat, sound
+
+### 5. Earth & Space
+- planet, orbit, rotation
+
+### 6. Scientific Skills
+- observe, predict, measure
+
+### 7. Fair Testing (VERY IMPORTANT)
+- controlled experiments
+
+**Vocabulary:**
+- variable, measure, repeat
+- fair test
+
+**Application:**
+- identify good experiment design
+- control variables
+- recognise accurate measurements
 
 # 🟩 1. Living Things & Life Processes (VERY HIGH PRIORITY)
 

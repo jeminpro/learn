@@ -1,4 +1,30 @@
 # What is included?
+## Music (FSCE)
+
+### 1. Elements of Music
+- pitch, tempo, rhythm
+- dynamics (volume), duration
+
+### 2. Rhythm & Beat
+- pulse (steady beat)
+- rhythm (pattern)
+
+### 3. Instruments
+- string, percussion, woodwind, brass
+
+### 4. Mood in Music (VERY IMPORTANT)
+- how music creates feeling
+
+**Vocabulary:**
+- tempo, pitch, rhythm
+- dynamics, duration
+- mood, major, minor
+
+**Application:**
+- identify how to change mood
+- recognise effect of tempo/dynamics
+- understand major vs minor (happy vs sad)
+
 ## 1. 🎶 Elements of Music (VERY HIGH PRIORITY)
 
 This is the **most important section** — extremely testable.

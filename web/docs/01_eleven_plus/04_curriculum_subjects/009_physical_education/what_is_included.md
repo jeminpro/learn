@@ -1,4 +1,29 @@
 # What is included?
+## Physical Education (FSCE)
+
+### 1. Fitness Components
+- strength, stamina, flexibility
+- balance, coordination, agility, speed
+
+### 2. Body & Exercise
+- heart rate, breathing, muscles
+
+### 3. Types of Activities
+- games, gymnastics, dance, athletics
+
+### 4. Teamwork & Rules
+- cooperation, communication, fair play
+
+### 5. Skill Application (VERY IMPORTANT)
+- matching skill to activity
+
+**Vocabulary:**
+- coordination, balance, agility
+- teamwork, rules, performance
+
+**Application:**
+- choose most important skill for an activity
+- understand why a skill is needed
 
 ## 1. 🧠 Core Fitness Components (VERY HIGH PRIORITY)
 

@@ -1,4 +1,36 @@
 # What is included?
+## Geography (FSCE)
+
+### 1. Earth Basics
+- planet, land, water
+
+### 2. Weather & Climate
+- weather (daily), climate (long-term)
+
+### 3. Physical Features
+- mountain, river, valley
+
+### 4. Human Geography
+- city, village, population
+
+### 5. Maps & Directions
+- north, south, east, west
+- symbols, key
+
+### 6. Water Cycle
+- evaporation, condensation, precipitation
+
+### 7. Fieldwork & Data (VERY IMPORTANT)
+- collecting and analysing data
+
+**Vocabulary:**
+- map, direction, environment
+- fieldwork, survey, measurement, data
+
+**Application:**
+- identify useful vs useless data
+- choose correct method for investigation
+- understand relevance of information
 
 # 🟩 1. The Earth & Basic Structure (VERY HIGH PRIORITY)
 

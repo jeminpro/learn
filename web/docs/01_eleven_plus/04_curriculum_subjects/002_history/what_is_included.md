@@ -1,9 +1,32 @@
 # What is included?
-**History for FSCE** needs a *very different approach* from school history.
+## History (FSCE)
 
-You’re absolutely right:
-👉 They **won’t test dates or specific events**
-👉 They **will test understanding + vocabulary + concepts**
+### 1. Time & Chronology
+- past, present, future
+- timeline, chronology
+
+### 2. Cause & Effect
+- cause (why), effect (result)
+
+### 3. Evidence & Sources
+- primary, secondary
+
+### 4. Similarity & Difference
+- compare past and present
+
+### 5. Evaluating Evidence (IMPORTANT)
+- usefulness and reliability
+
+**Vocabulary:**
+- evidence, source
+- primary, secondary
+- reliable, useful, accurate
+
+**Application:**
+- identify most useful evidence
+- recognise unreliable sources
+- compare types of sources
+
 
 # 🏛️ History for 11+ FSCE (MCQ / One-Word Focus)
 
