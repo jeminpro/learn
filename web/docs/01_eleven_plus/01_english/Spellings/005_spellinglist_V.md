@@ -77,3 +77,65 @@
 34. voracious  
 35. vow  
 36. voyage  
+
+---
+
+### Questions
+
+1. There are several V _ R _ _ _ _ of this design available.
+2. The artist used a wide V _ R _ _ _ _ of colours.
+3. She applied V _ R _ _ _ _ to protect the wooden table.
+4. Prices tend to V _ R _ depending on demand.
+5. In medieval times, a V _ S _ _ _ served a lord.
+6. The treasure was locked safely in a V _ _ _ _.
+7. He gave a V _ H _ _ _ _ _ reply during the argument.
+8. She lifted her bridal V _ _ _.
+9. The doctor examined the V _ _ _ in his arm.
+10. The car reached a high V _ L _ _ _ _ _.
+11. The dress was made of soft V _ L _ _ _.
+12. The street V _ N _ _ _ sold fresh fruit.
+13. People still V _ N _ _ _ _ their ancestors in many cultures.
+14. He swore V _ N _ _ _ _ _ after the betrayal.
+15. The room remained empty due to a V _ C _ _ _ _.
+16. We are planning a family V _ C _ _ _ _ _ this summer.
+17. The cleaner used a V _ C _ _ _ to clean the carpet.
+18. His explanation was too V _ G _ _ to understand.
+19. He is too V _ _ _ to admit his mistakes.
+20. The hotel V _ L _ _ parked the car.
+21. The V _ L _ _ _ _ soldier fought bravely.
+22. She showed great V _ L _ _ _ in difficult times.
+23. The statue was damaged by a V _ N _ _ _.
+24. The magician made the coin V _ N _ _ _.
+25. Steam rose as V _ P _ _ _ from the kettle.
+
+---
+
+### Answers
+
+1. VARIANT
+2. VARIETY
+3. VARNISH
+4. VARY
+5. VASSAL
+6. VAULT
+7. VEHEMENT
+8. VEIL
+9. VEIN
+10. VELOCITY
+11. VELVET
+12. VENDOR
+13. VENERATE
+14. VENGEANCE
+15. VACANCY
+16. VACATION
+17. VACUUM
+18. VAGUE
+19. VAIN
+20. VALET
+21. VALIANT
+22. VALOUR
+23. VANDAL
+24. VANISH
+25. VAPOUR
+
+---
