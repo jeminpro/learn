@@ -1,4 +1,4 @@
-# 📘 FSCE 11+ ENGLISH — COMPLETE TEACHING PLAN 
+# Teaching Plan
 ---
 
 # 🎯 1. VOCABULARY (Foundation of everything)
@@ -742,13 +742,4 @@ In exams, kids don’t “spell”—they **recognise quickly**.
 
 ---
 
-# ✅ What to Focus on MOST (priority order)
-
-1. Homophones
-2. Confusables (affect/effect etc.)
-3. Tricky high-frequency words
-4. Prefixes & suffixes
-5. Spelling rules (patterns)
-
----
 
