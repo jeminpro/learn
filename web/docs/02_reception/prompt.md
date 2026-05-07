@@ -1,96 +1,119 @@
+# AutoMapper Test Coverage Expansion Task
+
 You are helping me prepare a large-scale removal of AutoMapper from a C# .NET repository.
 
-IMPORTANT:
+---
 
-* Do NOT remove AutoMapper.
-* Do NOT refactor production code.
-* Only improve and expand automated tests.
-* Goal: create exhaustive regression protection around ALL existing AutoMapper behavior before migration to manual mapping.
+## IMPORTANT
 
-Your task:
+- Do NOT remove AutoMapper.
+- Do NOT refactor production code.
+- Only improve and expand automated tests.
+- The goal is to create exhaustive regression protection around ALL existing AutoMapper behavior before migrating to manual mapping.
 
-1. Scan the entire repository for every AutoMapper usage, including:
+---
 
-   * IMapper.Map<T>()
-   * mapper.Map(...)
-   * ProjectTo<T>()
-   * Mapping profiles
-   * CreateMap<TSource, TDestination>()
-   * custom resolvers
-   * converters
-   * AfterMap / BeforeMap
-   * Include / IncludeBase
-   * ReverseMap
-   * conditional mappings
-   * ignored members
-   * nested object mappings
-   * collection mappings
+## Your Task
 
-2. For EVERY discovered mapping:
+### 1. Scan the entire repository for AutoMapper usage, including:
 
-   * Locate existing tests first.
-   * If coverage is missing or incomplete, create or extend tests.
-   * Ensure EVERY mapped destination property is explicitly asserted.
-   * Ensure unmapped/ignored properties are intentionally verified.
-   * Verify nested object mappings recursively.
-   * Verify collection item mappings.
-   * Verify enum mappings.
-   * Verify nullable handling.
-   * Verify null source behavior.
-   * Verify default values.
-   * Verify custom resolvers and converters.
-   * Verify reverse mappings if configured.
-   * Verify inheritance mappings if used.
-   * Verify flattening/unflattening mappings.
-   * Verify DateTime/decimal/string formatting logic if present.
+- `IMapper.Map<T>()`
+- `mapper.Map(...)`
+- `ProjectTo<T>()`
+- Mapping profiles
+- `CreateMap<TSource, TDestination>()`
+- Custom resolvers
+- Converters
+- `AfterMap` / `BeforeMap`
+- `Include` / `IncludeBase`
+- `ReverseMap`
+- Conditional mappings
+- Ignored members
+- Nested object mappings
+- Collection mappings
 
-3. Add tests for edge cases:
+---
 
-   * null inputs
-   * empty collections
-   * partially populated objects
-   * missing optional values
-   * invalid enum values where relevant
-   * deeply nested graphs
-   * circular-reference-sensitive areas if applicable
+### 2. For EVERY discovered mapping:
 
-4. Add configuration validation tests:
+- Locate existing tests first.
+- If coverage is missing or incomplete, create or extend tests.
+- Ensure EVERY mapped destination property is explicitly asserted.
+- Ensure unmapped/ignored properties are intentionally verified.
+- Verify nested object mappings recursively.
+- Verify collection item mappings.
+- Verify enum mappings.
+- Verify nullable handling.
+- Verify null source behavior.
+- Verify default values.
+- Verify custom resolvers and converters.
+- Verify reverse mappings if configured.
+- Verify inheritance mappings if used.
+- Verify flattening/unflattening mappings.
+- Verify DateTime / decimal / string formatting logic if present.
 
-   * AssertConfigurationIsValid()
-   * profile registration validation
-   * startup/container registration validation if applicable
+---
 
-5. Prefer:
+### 3. Add tests for edge cases:
 
-   * xUnit/NUnit style already used by repository
-   * FluentAssertions if already used
-   * minimal mocking unless necessary
-   * deterministic tests
-   * readable Arrange/Act/Assert structure
+- Null inputs
+- Empty collections
+- Partially populated objects
+- Missing optional values
+- Invalid enum values (where relevant)
+- Deeply nested object graphs
+- Circular-reference-sensitive areas (if applicable)
 
-6. IMPORTANT TEST QUALITY RULES:
+---
 
-   * Avoid shallow tests that only check 1–2 properties.
-   * Every mapping test should fail if ANY mapped field changes unexpectedly.
-   * Explicit assertions are preferred over snapshot tests.
-   * Do not duplicate test helpers unnecessarily.
-   * Reuse builders/fixtures already present in repository.
-   * Keep tests maintainable and production-grade.
+### 4. Add configuration validation tests:
 
-7. Output expectations:
+- `AssertConfigurationIsValid()`
+- Profile registration validation
+- Startup/container registration validation (if applicable)
 
-   * Create or update all required test files.
-   * Show exactly which mappings are still uncovered.
-   * Identify any mappings that are difficult to verify automatically.
-   * Flag dangerous mappings with hidden logic or side effects.
+---
 
-8. Coverage objective:
+### 5. Preferred test style:
 
-   * Achieve near-complete behavioral coverage of all AutoMapper mappings before migration.
-   * Tests should act as a safety net for replacing AutoMapper with manual mapping later.
+- Use existing framework (xUnit or NUnit)
+- Use FluentAssertions if already used in repo
+- Avoid heavy mocking unless necessary
+- Keep tests deterministic
+- Follow Arrange / Act / Assert structure
 
-When generating tests:
+---
 
-* Think like a migration safety auditor.
-* Be exhaustive rather than minimal.
-* Prioritize correctness and regression detection over brevity.
+### 6. IMPORTANT TEST QUALITY RULES:
+
+- Avoid shallow tests that only verify 1–2 properties.
+- Every mapping test must fail if ANY mapped field changes unexpectedly.
+- Prefer explicit assertions over snapshot tests.
+- Do not duplicate test helpers unnecessarily.
+- Reuse existing builders/fixtures where possible.
+- Keep tests maintainable and production-grade.
+
+---
+
+### 7. Output expectations:
+
+- Create or update all required test files.
+- Identify mappings that are still uncovered.
+- Highlight mappings that are difficult to verify automatically.
+- Flag mappings with hidden logic or side effects.
+
+---
+
+### 8. Coverage objective:
+
+- Achieve near-complete behavioral coverage of all AutoMapper mappings before migration.
+- Tests must act as a safety net for replacing AutoMapper with manual mapping later.
+
+---
+
+## When generating tests:
+
+- Think like a migration safety auditor.
+- Be exhaustive rather than minimal.
+- Prioritize correctness and regression detection over brevity.
+```
