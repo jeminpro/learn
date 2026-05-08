@@ -1,6 +1,3 @@
-Here are your sentences with missing letters (60–70% hidden, first letter shown, underscores spaced clearly). Answers are at the end.
-
----
 
 ### Questions
 
