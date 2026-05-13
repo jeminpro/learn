@@ -11,7 +11,6 @@
 7. We walked home during the T _ I _ _ _ _ _.
 8. The flight experienced severe T _ R _ _ _ _ _ _.
 9. The country was in political T _ R _ _ _ _.
-10. The company reported a high staff T _ R _ _ _ _ _.
 11. The puppies had a playful T _ S _ _ _ in the garden.
 12. Give the rope a T _ G to tighten it.
 13. She played a cheerful T _ N _ on the piano.
