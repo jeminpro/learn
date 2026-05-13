@@ -163,6 +163,7 @@ sections:
         level: completed
         url: measurement/time
         notes: | 
+          Need to improve in word problems involving time such as adding and subtracting time and calculating elapsed time.
       - name: Metric units
         level: completed
         url: measurement/metric_units
