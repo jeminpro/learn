@@ -1,0 +1,57 @@
+# levels: not_started, in_progress, completed, needs_practice, expert
+sections:
+  - name: Biology
+    topics:
+      - name: Living things & habitats
+        level: 
+        url: 
+        notes: |
+      - name: Animals including humans
+        level: 
+        url: 
+        notes: |
+      - name: Plants
+        level: 
+        url: 
+        notes: |
+
+  - name: Materials & Forces
+    topics:
+      - name: Materials
+        level: 
+        url: 
+        notes: |
+      - name: Forces
+        level: 
+        url: 
+        notes: |
+
+  - name: Physics & Energy
+    topics:
+      - name: Light
+        level: 
+        url: 
+        notes: |
+      - name: Sound
+        level: 
+        url: 
+        notes: |
+      - name: Electricity
+        level: 
+        url: 
+        notes: |
+
+  - name: Earth & Space
+    topics:
+      - name: Earth & space
+        level: in_progress
+        url: 
+        notes: | 
+          BBC bitesize completed:
+
+  - name: Scientific Method
+    topics:
+      - name: Working scientifically
+        level: 
+        url: 
+        notes: |
