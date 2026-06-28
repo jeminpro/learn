@@ -117,8 +117,9 @@ sections:
       - name: Colour and number words
         level: 
         notes: |
+          Use number words pending
       - name: Noun
-        level: 
+        level: completed
         notes: |
       - name: Verb
         level: completed
@@ -130,7 +131,7 @@ sections:
         level: completed
         notes: |
       - name: Antonym
-        level: 
+        level: completed
         notes: |
       - name: Categories
         level: completed
