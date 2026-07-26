@@ -1,7 +1,7 @@
 # Hair cutting for men
 ---
 
-Reference video on [Learn to Cut Your Own Hair At Home](https://www.youtube.com/watch?v=DSZCH2mlz_M&t=212s)
+Reference video on [Learn to Cut Your Own Hair At Home](https://www.youtube.com/watch?v=DSZCH2mlz_M&t=212s) [Simplified the clipper size]
 
 ![Hair cut template](./img/Hair_cut_template.png)
 
@@ -15,9 +15,9 @@ You must wash your hair first, as this makes the hair much easier to cut.
 **2. Cutting the Sides and Back (Fading)**
 This process is achieved in levels, always remembering to go **"up and out"** when using the clippers,. Applying a lot of pressure is not necessary.
 
-*   **First Level (Shortest):** Start by using the **3-millimeter guide** on the area around the ears and sides. The source recommends retouching the same area three times to ensure all hairs are the same length.
+*   **First Level (Shortest):** Start by using the **4-millimeter guide** on the area around the ears and sides. The source recommends retouching the same area three times to ensure all hairs are the same length.
 *   **Second Level (Longer):** Begin cutting the next level using the **9-millimeter guide**.
-*   **Blending the Fade:** To fix the line between the 3 mm and 9 mm lengths, you must progressively decrease the cut length using guides in the middle range. When decreasing the cut length, you cover the entire area of the guide used previously, but leave out a small band on top. The process described involves fading from 3 to 9 millimeters using guides like the 8-millimeter guide and finally the 4-millimeter guide,.
+*   **Blending the Fade:** To fix the line between the 4 mm and 9 mm lengths, you must progressively decrease the cut length using guides in the middle range. When decreasing the cut length, you cover the entire area of the guide used previously, but leave out a small band on top. The process described involves fading from 4 to 9 millimeters.
 
 **3. Cleaning Edges**
 Before moving to the top, clean out the hair around the ear and the neck. This step is "a bit tricky," and if you are not used to it, you should be very careful or ask someone in your house to help you out,.
@@ -30,15 +30,14 @@ If your hair is dry, you should wash it again.
 *   Move section by section toward the back of your head, using the hair already cut as a guide.
 *   Keep the hair on the back "pretty short".
 
-**6. Final Step**
+**5. Final Step**
 After the cuts are completed, take a shower.
 
 
 ## Necessary Tools
 
-
 1.  **Hair Clipper:** A good hair clipper is required, and it should include a switch for micro-adjusting the cut length.
-2.  **Combs/Guides:** Clipper guides that cover a length range from **3 to 9 millimeters** are necessary.
-3.  **Comb:** A standard comb is needed, especially if you have longer hair,.
+2.  **Combs/Guides:** Clipper guides that cover a length range from **4 to 9 millimeters** are necessary.
+4.  **Comb:** A standard comb is needed, especially if you have longer hair,.
 4.  **Scissors**.
 5.  **Mirrors:** You need **a big mirror** and **a small mirror**. The small mirror is used while viewing your reflection in the big mirror to see the back and sides of your head.
