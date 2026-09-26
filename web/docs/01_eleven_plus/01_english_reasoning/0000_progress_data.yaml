@@ -1,0 +1,195 @@
+# levels: not_started, in_progress, completed, needs_practice
+sections:
+  - name: Grammar & Sentence Structure
+    topics:
+      - name: Sentence Foundations
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Parts of Speech
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Sentence Structure & Clauses
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Noun Phrases & Description
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Verbs & Tense
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Progressive Forms
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Subject–Verb Agreement
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Adverbs & Adverbials
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Conjunctions & Connecting Ideas
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Time, Place & Cause
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Modal Verbs & Possibility
+        level: not_started
+        url: ""
+        notes: ""
+
+  - name: Writing Skills
+    topics:
+      - name: Paragraphs & Cohesion
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Audience & Purpose
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Editing & Language Accuracy
+        level: not_started
+        url: ""
+        notes: ""
+
+  - name: Reading Comprehension
+    topics:
+      - name: Retrieval
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Inference
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Character Feelings & Motivation
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Vocabulary in Context
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Author's Choice
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Mood & Atmosphere
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Prediction
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Summary
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Comparing Texts
+        level: not_started
+        url: ""
+        notes: ""
+
+  - name: Punctuation
+    topics:
+      - name: Sentence Endings
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Capital Letters
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Commas
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Apostrophes
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Speech Marks
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Colons and Semicolons
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Dashes, Brackets and Hyphens
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Advanced Punctuation
+        level: not_started
+        url: ""
+        notes: ""
+
+  - name: Literary Devices
+    topics:
+      - name: Simile
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Metaphor
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Personification
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Imagery
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Sound & Structural Devices
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Pathetic Fallacy
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Additional Literary Devices
+        level: not_started
+        url: ""
+        notes: ""
+
+  - name: Vocabulary & Word Meaning
+    topics:
+      - name: Synonyms
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Antonyms
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Word Families
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Prefixes
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Suffixes
+        level: not_started
+        url: ""
+        notes: ""
+      - name: Homophones and Near-Homophones
+        level: not_started
+        url: ""
+        notes: ""
