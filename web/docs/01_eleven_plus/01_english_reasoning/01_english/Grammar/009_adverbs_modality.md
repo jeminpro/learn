@@ -1,93 +1,13 @@
-# Expanded noun phrases • Adverbs and modality • Connections of time, place and caus
+# Adverbs and Modality • Connections of Time, Place and Cause
 
 ### A quick map
 
 | Topic | Main question | Example |
 |---|---|---|
-| 19. Expanded noun phrases | **Which** person or thing? **What is it like?** | *the small dog with a red collar* |
 | 20. Adverbs | **How, when, where, how often, how certain?** | *She moved carefully.* |
 | 21. Modal verbs | **How possible, likely, necessary or advisable?** | *We might go.* |
 | 22. Adverbs of possibility | **How certain is the speaker?** | *Perhaps we will go.* |
 | 23. Connecting ideas | **What is the relationship between ideas?** | *We stayed in because it rained.* |
-
----
-
-# F. Noun Phrases & Description
-
-## 19. Expanded noun phrases
-
-### Start with the noun
-
-A **noun** names a person, place, thing or idea: *dog, mountain, book, courage*. A **noun phrase** is a group of words built around a noun. In “**the dog** barked,” *dog* is the **head noun**; *the dog* is the noun phrase. The head noun is the main thing being named.
-
-We **expand** the noun phrase by adding words that help a reader identify it or picture it. Compare:
-
-1. **a puppy** — identifies a young dog;
-2. **a fluffy puppy** — adds a quality;
-3. **the small, fluffy puppy** — adds size and quality and identifies a particular puppy;
-4. **the small, fluffy puppy with a red collar** — adds a phrase that tells us which puppy or gives a clearer image.
-
-The whole expression in step 4 is one expanded noun phrase. It is **not** a whole sentence because it has no main verb telling us what the puppy did. In “**The small, fluffy puppy with a red collar** slept,” the whole phrase is the subject; *slept* is the sentence's verb.
-
-### Four ways to add useful information
-
-| Added detail | Example | What it does |
-|---|---|---|
-| **Determiner** | **the** puppy; **those** books | Identifies or specifies the noun. |
-| **Adjective** | the **fluffy** puppy | Describes a quality. |
-| **Noun modifying a noun** | the **school** bus; a **chocolate** cake | Uses one noun to specify the kind of another noun. |
-| **Prepositional phrase** | the puppy **with a red collar** | Adds a relationship, such as possession, position or appearance. |
-
-A **determiner** such as *the, a, my, those* is commonly part of a noun phrase, but merely adding *the* does not supply the rich description meant by an **expanded** noun phrase. The important expansion in “the fluffy puppy with a red collar” comes from *fluffy* and *with a red collar*.
-
-### Adjectives: descriptions before and after the noun
-
-An adjective describes a noun: *the **ancient** tree; a **narrow** lane; **three** bright stars* (here *bright* describes the stars). A noun phrase can contain more than one adjective: “the **tall, crooked** tree.” In a sentence, an adjective can also come after a linking verb: “The tree **was crooked**.” In that sentence *crooked* still describes the tree, but it is **not inside** the subject noun phrase “The tree.” When asked to underline the expanded noun phrase, look at its boundaries, not just all words that describe the subject somewhere in the sentence.
-
-**Worked example:** “**The huge, ancient tree beside the church** fell.” Head noun = **tree**. *Huge* and *ancient* are adjectives. *Beside the church* is a prepositional phrase attached to the tree. The entire bold group names the tree; *fell* is outside it.
-
-### Nouns can modify other nouns
-
-In “a **chocolate** cake,” *cake* is the head noun; *chocolate* specifies the type of cake. In “the **school** bus,” *bus* is the head noun and *school* specifies its use. These first words are nouns doing a modifying job. Do not assume every word before a noun is an adjective. Compare “a **wooden** box” (*wooden* is an adjective) with “a **wood** box” (*wood* is a noun used to specify material).
-
-Try asking **“What is the main thing?”**: in *a garden wall*, the main thing is a **wall**; *garden* tells us which sort of wall. In *a garden flower*, the main thing is a **flower**.
-
-### Prepositional phrases inside the noun phrase
-
-A preposition such as *with, under, beside, near, in* can begin a phrase that adds information about the noun:
-
-- “the girl **with the silver backpack**” — which girl?
-- “the cabin **beside the lake**” — which cabin or where is it?
-- “the letter **in the blue envelope**” — which letter?
-
-The phrase *with a silver backpack* itself contains another noun phrase, *a silver backpack*. This nesting is normal. If the whole sentence is “The girl with the silver backpack **ran quickly**,” *ran quickly* tells what she did and how; it does **not** belong to the noun phrase naming the girl.
-
-### Meaning: identification versus imagery
-
-Expansion can **identify** something: “Give me **the book on the top shelf**” distinguishes it from other books. It can create **imagery**: “A **tiny, shivering bird beneath the dripping leaves**” invites us to picture size, movement and setting. Sometimes it does both. Ask your child which new detail changes the mental picture and which helps choose the right object.
-
-More adjectives do not always make a better phrase. “The big, large, enormous, huge dog” repeats almost the same idea. “The **muddy black dog with a torn lead**” provides different, useful details. In an audience question, the best wording is the wording that helps the intended reader, not simply the longest phrase.
-
-### Do not confuse a phrase with a clause
-
-“The boy **with a blue bag**” has a **prepositional phrase**; it does not contain its own subject–verb idea. “The boy **who carried a blue bag**” has a **relative clause**, because *who carried* introduces another subject–verb idea about the boy. Both add detail to the noun, but their grammar differs. Your A pack teaches relative clauses in depth.
-
-### Common mistakes
-
-- Calling the whole expanded noun phrase an **adjective**. In “the old house by the river,” *old* is an adjective; the entire group is a noun phrase.
-- Underlining the verb as part of the noun phrase: “the cat on the wall **jumped**” ends its noun phrase at *wall*.
-- Assuming every modifier before a noun is an adjective: *chocolate* in *chocolate cake* is a noun modifier.
-- Adding detail that points to the wrong thing: “the puppy with the red collar beside the gate” could leave the reader unsure whether the puppy or collar is beside the gate. Put phrases near the noun they describe or rewrite for clarity.
-
-### Practice 19
-
-**19A.** Underline the whole expanded noun phrase: “The little brown rabbit behind the shed escaped.”  
-**19B.** Name the head noun in “those three dusty library books.”  
-**19C.** In “the school bus with a broken window,” identify the noun modifying *bus* and the prepositional phrase.  
-**19D.** Expand “a boat” with one adjective and one prepositional phrase.  
-**19E.** What changes between “a key” and “the rusty key under the mat”?
-
-**Answers 19:** A. **The little brown rabbit behind the shed**. B. **books**. C. **school**; **with a broken window**. D. For example, **a small boat beside the pier**. E. The latter identifies/describes a particular rusty key and locates it under the mat.
 
 ---
 
