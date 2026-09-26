@@ -1,745 +1,591 @@
-# Teaching Plan
----
+# English Topic List
 
-# 🎯 1. VOCABULARY (Foundation of everything)
+## A. GRAMMAR & SENTENCE STRUCTURE
 
-## 🔍 Sub-skills
+### 1. Present and Past Tense ⭐⭐⭐
 
-### 1.1 Word Meaning
+- [ ] Identify present tense
+- [ ] Identify past tense
+- [ ] Choose the correct tense
+- [ ] Use tense consistently
+- [ ] Recognise incorrect tense changes
+- [ ] Understand how tense shows when an action happened
 
-* Understanding meaning in context (not dictionary memorisation)
+### 2. Progressive Forms ⭐⭐⭐
 
-### 1.2 Synonyms
+- [ ] Understand present progressive
+- [ ] Understand past progressive
+- [ ] Identify progressive forms
+- [ ] Understand action in progress
+- [ ] Distinguish progressive from simple tense
 
-* Words with similar meanings
-  (happy → joyful, cheerful)
+**Example:**
 
-### 1.3 Antonyms
+She ran across the field.
 
-* Opposites
-  (brave → cowardly)
+She was running across the field.
 
-### 1.4 Shades of Meaning
+### 3. Subject–Verb Agreement ⭐⭐
 
-* Intensity differences
-  (big < large  < enormous)
+- [ ] Singular subject → singular verb
+- [ ] Plural subject → plural verb
+- [ ] Identify subject and verb
+- [ ] Deal with extra words between subject and verb
+- [ ] Understand tricky examples such as There is / There are
 
-### 1.5 Multiple-Meaning Words
+### 4. Sentence Structure ⭐⭐⭐
 
-* Same word, different meanings
-  (light, bank)
+- [ ] Understand what makes a complete sentence
+- [ ] Simple sentences
+- [ ] Compound sentences
+- [ ] Complex sentences
+- [ ] Main clauses
+- [ ] Subordinate clauses
+- [ ] Understand how clauses are joined
 
-### 1.6 Idioms & Phrases
+### 5. Relative Clauses ⭐⭐⭐
 
-* “Break the ice”, “under the weather”
+- [ ] Understand what a relative clause is
+- [ ] Identify relative clauses
+- [ ] who
+- [ ] which
+- [ ] where
+- [ ] when
+- [ ] whose
+- [ ] that
+- [ ] Understand what extra information the clause provides
 
----
+## B. VOCABULARY & WORD MEANING
 
-## 🧪 Practice Types
+### 6. Synonyms ⭐⭐⭐
 
-* Choose correct meaning
-* Match synonym
-* Fill in sentence
-* Replace word with better word
+- [ ] Identify synonyms
+- [ ] Choose an appropriate synonym
+- [ ] Understand that synonyms may have slightly different meanings
+- [ ] Understand shades of meaning
 
----
+### 7. Antonyms ⭐⭐⭐
 
-## ⚡ Advanced Skill
+- [ ] Identify opposites
+- [ ] Choose appropriate antonyms
+- [ ] Understand different types of opposites
 
-* Predict meaning from context (very high value)
+### 8. Word Families ⭐⭐⭐
 
----
+- [ ] Identify related words
+- [ ] Recognise common roots
+- [ ] Understand how words are connected
+- [ ] Recognise changes in meaning/word class
 
----
+**Example:**
 
-# 🔤 2. SPELLING SYSTEM 
+create → creation → creative → creatively
 
-## 🔍 Sub-skills
+### 9. Prefixes ⭐⭐⭐
 
-* Homophones (there/their/they’re)
-* Confusables (affect/effect)
-* High-frequency tricky words
-* Prefixes & suffixes
-* Root words
-* Spelling patterns
-* Context-based spelling
+Understand the meaning of:
 
----
+- [ ] dis-
+- [ ] de-
+- [ ] mis-
+- [ ] over-
+- [ ] re-
+- [ ] super-
+- [ ] anti-
+- [ ] auto-
+- [ ] Understand how prefixes change meaning
+- [ ] Recognise opposite/modified meanings
 
-## 🧠 How to Teach
+### 10. Suffixes ⭐⭐
 
-* Always in **sentences**, never isolated lists
-* Mix:
+- **Understand:**
 
-  * recognition (MCQ)
-  * writing
-  * correction
+- [ ] -ate
+- [ ] -ise
+- [ ] -ify
+- [ ] Understand how suffixes can change word class
+- [ ] Understand how suffixes alter meaning
 
----
+**Examples:**
 
-## 🧪 Practice Types
+beauty → beautify
 
-* Choose correct spelling
-* Fill correct word
-* Spot mistake
-* Sentence correction
+simple → simplify
 
----
+### 11. Homophones & Near-Homophones ⭐⭐⭐
 
----
+- [ ] Identify homophones
+- [ ] Distinguish between their meanings
+- [ ] Choose correct spelling from context
+- [ ] Identify near-homophones
+- [ ] Understand confusing word pairs
 
-# 🧩 3. CLOZE 
+**Examples:**
 
-## 🔍 Sub-skills
+there / their / they're
 
-### 3.1 Meaning Fit
+advice / advise
 
-* Word must make sense
+affect / effect
 
-### 3.2 Tone Fit
+## C. PUNCTUATION
 
-* Emotional correctness (happy/sad/tense)
+### 12. Inverted Commas ⭐⭐⭐
 
-### 3.3 Logical Connectors
+- [ ] Identify direct speech
+- [ ] Identify the spoken words
+- [ ] Identify the speaker
+- [ ] Understand how speech punctuation affects meaning
+- [ ] Understand tone and speaker intention
+- [ ] Use speech marks correctly
 
-* cause → effect
-* contrast → although, but
+### 13. Apostrophes ⭐⭐⭐
 
-### 3.4 Vocabulary Precision
+- [ ] Understand possession
+- [ ] Singular possession
+- [ ] Plural possession
+- [ ] Irregular plural possession
+- [ ] Distinguish possession from plural
+- [ ] Understand contractions
 
-* Best word, not just acceptable word
+**Examples:**
 
-### 3.5 Whole Passage Understanding
+girl's / girls'
 
-* Especially in paragraph cloze
+children's
 
----
+don't / can't
 
-## 🧠 How to Teach (VERY IMPORTANT)
+### 14. Commas & Fronted Adverbials ⭐⭐⭐
 
-Teach this exact method:
+- [ ] Identify a fronted adverbial
+- [ ] Identify time adverbials
+- [ ] Identify place adverbials
+- [ ] Identify manner adverbials
+- [ ] Know when a comma is required
+- [ ] Understand how the comma helps clarity
 
-1. Read full sentence
-2. Predict answer
-3. Look at options
-4. Eliminate wrong ones
-5. Pick best fit
+**Example:**
 
----
+Before lunch, we went outside.
 
-## 🧪 Practice Types
+#### Supporting punctuation
 
-* Single sentence cloze
-* MCQ cloze
-* Paragraph cloze (hardest)
+- [ ] Capital letters
+- [ ] Full stops
+- [ ] Question marks
+- [ ] Exclamation marks
 
----
+## D. PARAGRAPHS & COHESION
 
-## ⚡ Advanced Skill
+### 15. Paragraph Organisation ⭐⭐
 
-* Solve without reading options first
+- [ ] Understand why paragraphs are used
+- [ ] Identify the main idea of a paragraph
+- [ ] Group related ideas
+- [ ] Recognise a change of idea
+- [ ] Recognise changes in time/place/topic
 
----
+### 16. Cohesion ⭐⭐⭐
 
----
+- [ ] Understand how sentences connect
+- [ ] Understand how paragraphs connect
+- [ ] Use linking words
+- [ ] Use pronouns to avoid repetition
+- [ ] Use nouns appropriately
+- [ ] Follow a logical sequence
 
-# 📖 4. READING COMPREHENSION 
+### 17. Linking Ideas ⭐⭐⭐
 
-Expand beyond inference.
+#### Time
 
----
+- [ ] first
+- [ ] next
+- [ ] then
+- [ ] afterwards
+- [ ] finally
 
-## 🔍 Sub-skills
+#### Place
 
-### 4.1 Retrieval
+- [ ] nearby
+- [ ] above
+- [ ] beyond
 
-* Find exact answer from text
+#### Number/order
 
-### 4.2 Vocabulary in Context
+- [ ] firstly
+- [ ] secondly
+- [ ] finally
 
-* Meaning of word in passage
+#### Cause/effect
 
-### 4.3 Inference 
+- [ ] because
+- [ ] therefore
+- [ ] as a result
+- [ ] Choose the linking word that makes the most logical sense
 
-* Feelings, hidden meaning
+## E. PRONOUNS & REFERENCE
 
-### 4.4 Author Intent
+### 18. Pronouns ⭐⭐⭐
 
-* Why a word/phrase is used
+- [ ] Understand what a pronoun is
+- [ ] Identify pronouns
+- [ ] Choose an appropriate pronoun
+- [ ] Avoid unnecessary repetition
+- [ ] Identify what a pronoun refers to
+- [ ] Recognise unclear/ambiguous pronoun references
 
-### 4.5 Tone Detection
+**Example:**
 
-* happy / tense / mysterious
+Lucy was tired. She went to bed.
 
-### 4.6 Prediction
+## F. NOUN PHRASES & DESCRIPTION
 
-* What happens next
+### 19. Expanded Noun Phrases ⭐⭐⭐
 
----
+- [ ] Identify a noun
+- [ ] Identify adjectives
+- [ ] Understand what adjectives do
+- [ ] Use adjectives to add detail
+- [ ] Use multiple adjectives
+- [ ] Understand nouns modifying nouns
+- [ ] Understand prepositional phrases
+- [ ] Identify an expanded noun phrase
+- [ ] Understand how added information changes meaning/imagery
 
-## 🧠 How to Teach
+**Example:**
 
-* Ask:
+the small, fluffy puppy with a red collar
 
-  * “How do you know?”
-  * “Which word tells you that?”
+## G. ADVERBS & MODALITY
 
-👉 Force evidence-based answers
+### 20. Adverbs ⭐⭐⭐
 
----
+- [ ] Understand what an adverb is
+- [ ] Adverbs of time
+- [ ] Adverbs of place
+- [ ] Adverbs of manner
+- [ ] Adverbs of frequency
+- [ ] Adverbs showing possibility/certainty
 
-## 🧪 Practice Types
+### 21. Modal Verbs ⭐⭐⭐
 
-* Short passages
-* Timed comprehension
-* Explain reasoning
+- [ ] Understand possibility
+- [ ] Understand probability
+- [ ] Understand certainty
+- [ ] Understand obligation
+- [ ] Understand different degrees of strength
 
----
+**Examples:**
 
-## ⚡ Advanced Skill
+might → less certain
 
-* Answer without re-reading full passage
+should → expected/probable
 
----
+must → strong obligation/certainty
 
----
+### 22. Adverbs of Possibility ⭐⭐⭐
 
-# 🔍 5. WORD RELATIONSHIPS
+- [ ] possibly
+- [ ] perhaps
+- [ ] probably
+- [ ] certainly
+- [ ] definitely
+- [ ] Understand the degree of certainty each expresses
 
-## 🔍 Sub-skills
+## H. TIME, PLACE & CAUSE
 
-### 5.1 Synonym pairs
+### 23. Connecting Time, Place & Cause ⭐⭐⭐
 
-### 5.2 Antonym pairs
+Understand how ideas are connected using:
 
-### 5.3 Analogies
+#### Conjunctions
 
-* bird : fly :: fish : swim
+- [ ] because
+- [ ] when
+- [ ] while
+- [ ] although
+- [ ] if
+- [ ] unless
 
-### 5.4 Classification
+#### Adverbs
 
-* odd one out
+- [ ] then
+- [ ] therefore
+- [ ] afterwards
+- [ ] meanwhile
 
----
+#### Prepositions
 
-## 🧠 How to Teach
+- [ ] before
+- [ ] after
+- [ ] during
+- [ ] beside
+- [ ] Identify the relationship between two ideas
+- [ ] Select the appropriate connector
 
-* Focus on **relationship**, not just meaning
+## I. READING COMPREHENSION
 
-👉 Ask: “What is the connection?”
+### 24. Retrieval ⭐⭐⭐
 
----
+- [ ] Find explicitly stated information
+- [ ] Locate evidence in the text
+- [ ] Distinguish relevant from irrelevant information
 
-## 🧪 Practice Types
+### 25. Inference ⭐⭐⭐
 
-* MCQs
-* Matching
-* Odd-one-out
+- [ ] Work out information that isn't directly stated
+- [ ] Infer feelings
+- [ ] Infer thoughts
+- [ ] Infer motives
+- [ ] Infer meaning
+- [ ] Support an answer with evidence
 
----
+### 26. Vocabulary in Context ⭐⭐⭐
 
----
+- [ ] Work out meaning from context
+- [ ] Use surrounding words as clues
+- [ ] Recognise multiple meanings
+- [ ] Choose the meaning appropriate to the passage
 
-# 🧠 6. INFERENCE & THINKING SKILLS (High-level)
+### 27. Author's Choice ⭐⭐⭐
 
-## 🔍 Sub-skills
+- [ ] Understand why an author chose a particular word
+- [ ] Understand the effect of an adjective
+- [ ] Understand the effect of a verb
+- [ ] Understand the effect of a phrase
+- [ ] Explain how language affects the reader
 
-* Reading between the lines
-* Understanding emotions
-* Cause & effect
-* Drawing conclusions
+### 28. Mood & Atmosphere ⭐⭐⭐
 
----
+- [ ] Identify mood
+- [ ] Identify atmosphere
+- [ ] Recognise words that create mood
+- [ ] Explain how the author creates atmosphere
 
-## 🧠 How to Teach
+#### Possible moods:
 
-* Ask “why” repeatedly
-* Don’t accept one-word answers
+- [ ] Happy
+- [ ] Sad
+- [ ] Frightening
+- [ ] Exciting
+- [ ] Mysterious
+- [ ] Calm
+- [ ] Tense
 
----
+### 29. Character Feelings & Motivation ⭐⭐⭐
 
-## 🧪 Practice Types
+- [ ] Identify feelings
+- [ ] Identify emotions from actions
+- [ ] Explain why a character feels a certain way
+- [ ] Infer motivation
+- [ ] Find supporting evidence
 
-* Scenario-based questions
-* “What does this suggest?”
+### 30. Prediction ⭐⭐
 
----
+- [ ] Predict what might happen next
+- [ ] Use evidence to support predictions
+- [ ] Distinguish sensible predictions from guesses
 
----
+### 31. Summary ⭐⭐⭐
 
-# ⚡ 7. SPEED & EXAM TECHNIQUE
+- [ ] Identify the main idea
+- [ ] Select key information
+- [ ] Remove unnecessary detail
+- [ ] Summarise a paragraph
+- [ ] Summarise a passage
 
-## 🔍 Sub-skills
+### 32. Comparing Texts ⭐⭐
 
-### 7.1 Fast Recognition
+- [ ] Identify similarities
+- [ ] Identify differences
+- [ ] Compare characters
+- [ ] Compare events
+- [ ] Compare viewpoints
+- [ ] Compare language
 
-* Spot correct answer instantly
+## J. LITERARY DEVICES
 
-### 7.2 Elimination Strategy
+The child should be able to identify → explain meaning → explain effect.
 
-* Remove wrong options quickly
+#### Essential
 
-### 7.3 Time Awareness
+### 33. Simile ⭐⭐⭐
 
-* Don’t get stuck
+- [ ] Recognise like/as comparisons
+- [ ] Explain the comparison
+- [ ] Explain its effect
 
+### 34. Metaphor ⭐⭐⭐
 
----
+- [ ] Recognise non-literal comparison
+- [ ] Explain what is being compared
+- [ ] Explain its effect
 
-# 🚨 COMMON MISTAKES (Avoid these)
+### 35. Personification ⭐⭐⭐
 
-* Too much reading, not enough targeted practice
-* Ignoring cloze
-* Memorising without usage
-* No timed practice
-* Not revising vocabulary
+- [ ] Recognise human qualities given to non-human things
+- [ ] Explain the effect
 
----
+### 36. Alliteration ⭐⭐⭐
 
----
+- [ ] Recognise repeated starting sounds
+- [ ] Explain the effect
 
-# 🎯 PRIORITY ORDER (if time is limited)
+### 37. Onomatopoeia ⭐⭐⭐
 
-1. Vocabulary
-2. Cloze
-3. Spelling
-4. Comprehension (inference + context)
-5. Word relationships
+- [ ] Recognise sound-imitating words
+- [ ] Explain the effect
 
----
-Cloze questions in FSCE are where **vocabulary + spelling + logic + reading** all come together. I’ll show you a range from easy → exam level so you can train progressively.
+### 38. Imagery ⭐⭐⭐
 
----
+- [ ] Recognise language creating a mental picture
+- [ ] Identify sensory imagery
+- [ ] Explain the image created
 
-# 🟢 1. Basic Cloze (Single missing word, obvious choice)
+### 39. Repetition ⭐⭐⭐
 
-### Example 1:
+- [ ] Identify repeated words/phrases
+- [ ] Explain why they are repeated
+- [ ] Understand emphasis/emotion/effect
 
-The sun was shining, and the children played happily in the ______.
+### 40. Rhyme ⭐⭐
 
-**Answer:** park
+- [ ] Recognise rhyming words
+- [ ] Understand rhyme patterns
+- [ ] Explain its effect
 
-👉 Tests simple vocabulary + meaning
+### 41. Rhythm ⭐⭐
 
----
+- [ ] Understand rhythm/beat
+- [ ] Recognise changes in rhythm
+- [ ] Understand how rhythm affects mood/pace
 
-### Example 2:
+### 42. Pathetic Fallacy ⭐⭐
 
-She wore a coat because it was very ______ outside.
+- [ ] Recognise emotions given to nature/weather
+- [ ] Distinguish it from general personification
+- [ ] Explain how it creates atmosphere
 
-**Answer:** cold
+#### Additional literary/vocabulary concepts
 
-👉 Straightforward context clue
+- [ ] Hyperbole
+- [ ] Idioms
+- [ ] Rule of three
+- [ ] Oxymoron
+- [ ] Assonance
 
----
+## K. EDITING & LANGUAGE ACCURACY
 
-# 🟡 2. Multiple Choice Cloze (Most common FSCE type)
+### 43. Spotting Errors ⭐⭐⭐
 
-### Example 3:
+- [ ] Tense errors
+- [ ] Progressive-form errors
+- [ ] Subject–verb agreement errors
+- [ ] Pronoun errors
+- [ ] Apostrophe errors
+- [ ] Comma errors
+- [ ] Speech punctuation errors
+- [ ] Homophone errors
+- [ ] Spelling errors
+- [ ] Word-choice errors
+- [ ] Sentence-structure errors
 
-He was very ______ when he lost his favourite toy.
-(a) happy
-(b) excited
-(c) upset
-(d) proud
+### 44. Sentence Improvement ⭐⭐
 
-**Answer:** upset
+- [ ] Improve clarity
+- [ ] Remove repetition
+- [ ] Choose more precise vocabulary
+- [ ] Add appropriate detail
+- [ ] Improve sentence structure
+- [ ] Connect ideas logically
 
-👉 Eliminating wrong emotional tone is key
+## L. AUDIENCE, PURPOSE & READING
 
----
+### 45. Audience and Purpose ⭐⭐⭐
 
-### Example 4:
+- [ ] Identify who a text is written for
+- [ ] Identify its purpose, such as telling a story, explaining or informing
+- [ ] Choose vocabulary and tone that suit the reader
+- [ ] Compare different ways of expressing the same idea
+- [ ] Choose the most suitable wording for a young child, an older reader or an informative text
+- [ ] Explain why one choice suits its audience better
 
-She spoke so ______ that everyone could hear her clearly.
-(a) quietly
-(b) loudly
-(c) softly
-(d) gently
+### 46. Reading Range and Fluency ⭐⭐⭐
 
-**Answer:** loudly
+- [ ] Read stories, nonfiction and poetry regularly
+- [ ] Read accurately and with good understanding
+- [ ] Discuss unfamiliar words using clues from the text
+- [ ] Discuss the main ideas and important details
+- [ ] Notice how an author’s choice of words, style or grammar affects meaning
+- [ ] Explain why an author may have made a particular choice
 
-👉 Tests meaning + subtle differences
+## FSCE Master Priority
 
----
+### 🔴 Core — Master These
 
-# 🟠 3. Sentence Flow Cloze (Grammar feel, but really logic)
+- [ ] Present/past tense
+- [ ] Progressive forms
+- [ ] Synonyms
+- [ ] Antonyms
+- [ ] Word families
+- [ ] Homophones/near-homophones
+- [ ] Inverted commas
+- [ ] Apostrophes
+- [ ] Commas/fronted adverbials
+- [ ] Cohesion
+- [ ] Pronouns/reference
+- [ ] Expanded noun phrases
+- [ ] Relative clauses
+- [ ] Modal verbs/adverbs of possibility
+- [ ] Time/place/cause connections
+- [ ] Inference
+- [ ] Vocabulary in context
+- [ ] Author's choice
+- [ ] Mood/atmosphere
+- [ ] Literary devices
 
-### Example 5:
+### 🟠 Supporting — Make Sure They Understand
 
-Although it was raining, they decided to ______ playing outside.
+- [ ] Sentence structure
+- [ ] Main/subordinate clauses
+- [ ] Paragraph organisation
+- [ ] Prefixes
+- [ ] Suffixes
+- [ ] Adverbs
+- [ ] Retrieval
+- [ ] Prediction
+- [ ] Summary
+- [ ] Character motivation
+- [ ] Comparing texts
+- [ ] Editing
 
-**Answer:** continue
+### 🟢 Additional — Useful but Lower Priority
 
-👉 “Although” signals contrast → important clue
+- [ ] Subject–verb agreement
+- [ ] Basic punctuation beyond the guide
+- [ ] Hyperbole
+- [ ] Idioms
+- [ ] Rule of three
+- [ ] Oxymoron
+- [ ] Assonance
 
----
+### The key FSCE skill
 
-### Example 6:
+For every concept, aim for three levels:
 
-He was tired ______ he went to bed early.
+1. IDENTIFY → What is it?
+2. UNDERSTAND → What does it mean?
+3. APPLY/EXPLAIN → Why is it used / what effect does it have?
 
-**Answer:** so
+**For example:**
 
-👉 Cause → effect relationship
+"The angry storm attacked the village."
 
----
+The child should be able to:
 
-# 🔵 4. Vocabulary Precision Cloze (Harder)
+- **Identify:** Pathetic fallacy/personification
+- **Understand:** The storm is described as if it has human anger.
+- **Explain:** It creates a threatening and frightening atmosphere.
 
-### Example 7:
-
-The teacher asked the students to remain ______ during the exam.
-(a) silent
-(b) noisy
-(c) excited
-(d) talkative
-
-**Answer:** silent
-
-👉 Tests precise word choice, not just meaning
-
----
-
-### Example 8:
-
-The old house looked ______, as if no one had lived there for years.
-(a) cheerful
-(b) abandoned
-(c) crowded
-(d) modern
-
-**Answer:** abandoned
-
-👉 Requires inference
-
----
-
-# 🔴 5. Spelling-Based Cloze
-
-### Example 9:
-
-She walked ______ the door and entered the room.
-(a) threw
-(b) through
-(c) thorough
-(d) though
-
-**Answer:** through
-
-👉 Classic FSCE trap
-
----
-
-### Example 10:
-
-I would like to go, ______ I have too much homework.
-(a) but
-(b) bat
-(c) bet
-(d) bot
-
-**Answer:** but
-
-👉 Tests quick recognition
-
----
-
-# 🟣 6. Paragraph Cloze (Real exam style)
-
-### Example 11:
-
-Fill in the blanks:
-
-The wind was ______ (1) as the storm approached. The trees began to ______ (2) wildly, and dark clouds filled the ______ (3). Suddenly, a loud clap of ______ (4) echoed across the sky.
-
-**Answers:**
-
-1. strong
-2. sway / shake
-3. sky
-4. thunder
-
-👉 Now the child must:
-
-* understand the whole passage
-* not treat blanks separately
-
----
-
-# 🔥 7. Advanced FSCE Cloze (Best answer, not just correct)
-
-### Example 12:
-
-The boy was feeling ______ after winning the competition.
-(a) tired
-(b) proud
-(c) hungry
-(d) bored
-
-**Answer:** proud
-
-👉 Others are possible in life — but only one is *best fit*
-
----
-
-### Example 13:
-
-She gave a ______ explanation that made the problem easy to understand.
-(a) confusing
-(b) clear
-(c) long
-(d) strange
-
-**Answer:** clear
-
-👉 Precision matters
-
----
-
-# ⚡ How to Teach Cloze (this matters more than examples)
-
-Train your child to think in this order:
-
-### 1. Read the whole sentence first
-
-(Not just the blank)
-
-### 2. Predict the word before looking at options
-
-👉 This is a game-changer
-
-### 3. Eliminate wrong answers
-
-👉 Usually 2 are obviously wrong
-
-### 4. Choose the BEST fit, not just “okay”
-
----
-
-# 🚨 Common Mistakes Kids Make
-
-* Picking a word that “sounds okay” but doesn’t fit meaning
-* Not reading the full sentence
-* Ignoring tone (happy/sad/serious)
-* Rushing without eliminating options
-
----
-
-Here’s a **complete breakdown of spelling sub-skills** you should train 👇
-
----
-
-# 🔤 1. Homophones (MOST IMPORTANT)
-
-Words that sound the same but have different meanings/spellings.
-
-### Core set (must master):
-
-* there / their / they’re
-* your / you’re
-* to / too / two
-* where / wear / were
-* here / hear
-* one / won
-* no / know
-* be / bee
-* sea / see
-* right / write
-
-### Trickier (often tested):
-
-* allowed / aloud
-* brake / break
-* past / passed
-* piece / peace
-* plain / plane
-* weather / whether
-* steal / steel
-
-👉 FSCE loves these because they test **meaning + spelling together**.
-
----
-
-# 🔁 2. Homonyms (same spelling, different meaning)
-
-Same word, different meanings depending on context.
-
-### Examples:
-
-* bat (animal / cricket bat)
-* bank (river / money)
-* light (not heavy / lamp)
-* park (place / to stop a car)
-
-👉 These usually appear in **context questions**, not direct spelling questions.
-
----
-
-# 🔀 3. Near-Homophones / Confusables
-
-Words that look or sound similar and are easy to mix up.
-
-### Common traps:
-
-* affect / effect
-* accept / except
-* quiet / quite
-* loose / lose
-* advice / advise
-* practice / practise (UK 👈 important!)
-
-👉 These are *high-value mistakes* — even strong students get them wrong.
-
----
-
-# 🧩 4. Prefixes (word beginnings)
-
-Understanding these helps both spelling and guessing unknown words.
-
-### Key prefixes:
-
-* un- (not) → unhappy
-* re- (again) → rewrite
-* dis- (not/opposite) → disagree
-* mis- (wrongly) → misunderstand
-* pre- (before) → preview
-* non- (not) → non-fiction
-
-👉 Train: *spot the prefix + root word*
-
----
-
-# 🧱 5. Suffixes (word endings)
-
-These change word form and often cause spelling mistakes.
-
-### Key suffixes:
-
-* -ful → careful
-* -less → careless
-* -ness → happiness
-* -ly → quickly
-* -tion / -sion → action, decision
-* -ment → enjoyment
-
-### Common errors:
-
-* dropping letters → hope → hoping (not hopeing ❌)
-* doubling letters → run → running
-
----
-
-# 🔍 6. Root Words & Word Families
-
-Helps with spelling unfamiliar words.
-
-### Examples:
-
-* sign → signal, signature
-* act → action, active, react
-* help → helpful, helpless
-
-👉 Kids who understand this **spell better without memorising everything**.
-
----
-
-# ⚠️ 7. Common Spelling Rules (Patterns)
-
-Instead of memorising words, learn patterns.
-
-### High-impact rules:
-
-* **i before e except after c**
-
-  * believe, receive (but lots of exceptions)
-* **drop the ‘e’ before adding -ing**
-
-  * make → making
-* **double the consonant**
-
-  * run → running
-* **change ‘y’ to ‘i’**
-
-  * happy → happiness
-
----
-
-# 🎯 8. High-Frequency Tricky Words
-
-These appear often and must be automatic.
-
-### Examples:
-
-* because
-* different
-* enough
-* through
-* though
-* thought
-* friend
-* separate
-* necessary
-* important
-
-👉 These should be practised repeatedly — no shortcuts.
-
----
-
-# 🧠 9. Visual Spelling Memory
-
-Some words just need to be *seen correctly many times*.
-
-### Train:
-
-* Look → Cover → Write → Check
-* Spot the mistake in wrong spellings
-* Choose correct spelling from options
-
----
-
-# 🧪 10. Context-Based Spelling
-
-Most important for FSCE.
-
-Instead of:
-👉 “spell this word”
-
-You’ll get:
-👉 “choose the correct word in the sentence”
-
-### Example:
-
-She went ______ the door
-(a) through
-(b) threw
-
-👉 This tests:
-
-* spelling
-* meaning
-* reading comprehension
-
----
-
-# ⚡ 11. Speed Recognition
-
-In exams, kids don’t “spell”—they **recognise quickly**.
-
-### Train:
-
-* Spot correct spelling instantly
-* Eliminate wrong options fast
-
----
-
-# 🚨 Biggest Mistakes to Avoid
-
-* Only doing spelling lists (low impact ❌)
-* Ignoring homophones (high impact ✔)
-* Not practising in sentences
-* Not revising regularly
-
----
-
-
+That is a much stronger target than simply memorising the names of grammar or literary devices.

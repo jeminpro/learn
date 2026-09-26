@@ -1,0 +1,278 @@
+# levels: not_started, in_progress, completed, needs_practice
+sections:
+  - name: Grammar & Sentence Structure
+    topics:
+      - name: Present and Past Tense
+        level: not_started
+        url: ""
+        notes: |
+          Focus on identifying tense, choosing the correct form, and spotting tense shifts.
+      - name: Progressive Forms
+        level: not_started
+        url: ""
+        notes: |
+          Keep revising present and past progressive forms and using them accurately.
+      - name: Subject–Verb Agreement
+        level: not_started
+        url: ""
+        notes: |
+          Revise singular/plural rules and tricky cases such as "there is / there are".
+      - name: Sentence Structure
+        level: not_started
+        url: ""
+        notes: |
+          Build confidence with simple, compound and complex sentences.
+      - name: Relative Clauses
+        level: not_started
+        url: ""
+        notes: |
+          Practise who, which, where, when, whose and that in context.
+
+  - name: Vocabulary & Word Meaning
+    topics:
+      - name: Synonyms
+        level: not_started
+        url: ""
+        notes: |
+          Continue weekly synonym practice and focus on shades of meaning.
+      - name: Antonyms
+        level: not_started
+        url: ""
+        notes: |
+          Match opposites accurately and explain the nuance of meaning.
+      - name: Word Families
+        level: not_started
+        url: ""
+        notes: |
+          Build understanding of related words and common roots.
+      - name: Prefixes
+        level: not_started
+        url: ""
+        notes: |
+          Learn the effect of common prefixes such as dis-, de-, mis-, re- and super-.
+      - name: Suffixes
+        level: not_started
+        url: ""
+        notes: |
+          Review how suffixes change word class and alter meaning.
+      - name: Homophones & Near-Homophones
+        level: not_started
+        url: ""
+        notes: |
+          Practise choosing the correct word from context.
+
+  - name: Punctuation
+    topics:
+      - name: Inverted Commas
+        level: not_started
+        url: ""
+        notes: |
+          Ensure direct speech is punctuated accurately and reporting clauses are included.
+      - name: Apostrophes
+        level: not_started
+        url: ""
+        notes: |
+          Focus on possession, plural possession and contractions.
+      - name: Commas & Fronted Adverbials
+        level: not_started
+        url: ""
+        notes: |
+          Review comma punctuation alongside time, place and manner fronted adverbials.
+      - name: Capital Letters
+        level: not_started
+        url: ""
+        notes: |
+          Used accurately in sentence starts and with a range of nouns.
+      - name: Full Stops, Question Marks & Exclamation Marks
+        level: not_started
+        url: ""
+        notes: |
+          Sentence endings are generally secure.
+
+  - name: Paragraphs & Cohesion
+    topics:
+      - name: Paragraph Organisation
+        level: not_started
+        url: ""
+        notes: |
+          Practise identifying main ideas and grouping related information.
+      - name: Cohesion
+        level: not_started
+        url: ""
+        notes: |
+          Use linking words, pronouns and sequence language to connect ideas clearly.
+      - name: Linking Ideas
+        level: not_started
+        url: ""
+        notes: |
+          Revise time, place, number and cause/effect connectors.
+
+  - name: Pronouns & Reference
+    topics:
+      - name: Pronouns
+        level: not_started
+        url: ""
+        notes: |
+          Review pronoun choice, clarity and what a pronoun refers back to.
+
+  - name: Noun Phrases & Description
+    topics:
+      - name: Expanded Noun Phrases
+        level: not_started
+        url: ""
+        notes: |
+          Add detail using adjectives, nouns and prepositional phrases.
+
+  - name: Adverbs & Modality
+    topics:
+      - name: Adverbs
+        level: not_started
+        url: ""
+        notes: |
+          Revise adverbs of time, place, manner and frequency.
+      - name: Modal Verbs
+        level: not_started
+        url: ""
+        notes: |
+          Explore possibility, probability, certainty and obligation.
+      - name: Adverbs of Possibility
+        level: not_started
+        url: ""
+        notes: |
+          Understand words such as maybe, perhaps, probably and definitely.
+
+  - name: Time, Place & Cause
+    topics:
+      - name: Connecting Time, Place & Cause
+        level: not_started
+        url: ""
+        notes: |
+          Revise conjunctions, prepositions and adverbs that connect ideas.
+
+  - name: Reading Comprehension
+    topics:
+      - name: Retrieval
+        level: not_started
+        url: ""
+        notes: |
+          Accurate at finding clear information in a text.
+      - name: Inference
+        level: not_started
+        url: ""
+        notes: |
+          Good progress; continue with a wider range of inference questions.
+      - name: Vocabulary in Context
+        level: not_started
+        url: ""
+        notes: |
+          Continue daily reading and context-based vocabulary study.
+      - name: Author's Choice
+        level: not_started
+        url: ""
+        notes: |
+          Focus on explaining how particular words and phrases affect the reader.
+      - name: Mood & Atmosphere
+        level: not_started
+        url: ""
+        notes: |
+          Learn to recognise mood and atmosphere and explain how language creates them.
+      - name: Character Feelings & Motivation
+        level: not_started
+        url: ""
+        notes: |
+          Infer feelings and motives using evidence from the text.
+      - name: Prediction
+        level: not_started
+        url: ""
+        notes: |
+          Make predictions supported by evidence from the passage.
+      - name: Summary
+        level: not_started
+        url: ""
+        notes: |
+          Comfortable picking out key detail and identifying main ideas.
+      - name: Comparing Texts
+        level: not_started
+        url: ""
+        notes: |
+          Compare features, viewpoints and language across texts.
+
+  - name: Literary Devices
+    topics:
+      - name: Simile
+        level: not_started
+        url: ""
+        notes: |
+          Distinguish like/as comparisons and explain their effect.
+      - name: Metaphor
+        level: not_started
+        url: ""
+        notes: |
+          Review the difference between metaphor and simile.
+      - name: Personification
+        level: not_started
+        url: ""
+        notes: |
+          Practise giving human qualities to non-human things and explaining the effect.
+      - name: Alliteration
+        level: not_started
+        url: ""
+        notes: |
+          Identify repeated starting sounds and explain the effect.
+      - name: Onomatopoeia
+        level: not_started
+        url: ""
+        notes: |
+          Identify sound-imitating language and explain its effect.
+      - name: Imagery
+        level: not_started
+        url: ""
+        notes: |
+          Build confidence recognising sensory detail and its effect on the reader.
+      - name: Repetition
+        level: not_started
+        url: ""
+        notes: |
+          Explain why repeated words or phrases are used.
+      - name: Rhyme
+        level: not_started
+        url: ""
+        notes: |
+          Recognise rhyme patterns and explain their effect.
+      - name: Rhythm
+        level: not_started
+        url: ""
+        notes: |
+          Explore beat, pacing and mood.
+      - name: Pathetic Fallacy
+        level: not_started
+        url: ""
+        notes: |
+          Review how weather and nature reflect emotion and atmosphere.
+
+  - name: Editing & Language Accuracy
+    topics:
+      - name: Spotting Errors
+        level: not_started
+        url: ""
+        notes: |
+          Includes tense, grammar, apostrophes and punctuation checks.
+      - name: Sentence Improvement
+        level: not_started
+        url: ""
+        notes: |
+          Improve clarity, reduce repetition and sharpen vocabulary choices.
+
+  - name: Audience, Purpose & Reading
+    topics:
+      - name: Audience and Purpose
+        level: not_started
+        url: ""
+        notes: |
+          Identify who a text is for and why it was written, then explain the effect.
+      - name: Reading Range and Fluency
+        level: not_started
+        url: ""
+        notes: |
+          Maintain regular reading and discuss the effect of language choices.
+
