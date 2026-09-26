@@ -1,11 +1,11 @@
 # Tips & Tricks 
 
-*How to master grammar for the 11+ English & Verbal Skills paper — Gloucestershire GL version.*
+*How to master grammar for the 11+ English & Verbal Skills.*
 
 ---
 
 ## 🎯 Overview
-The GL grammar section tests how well you can **spot what sounds wrong** or **choose what fits best**.  
+The grammar section tests how well you can **spot what sounds wrong** or **choose what fits best**.  
 These tips focus on speed, accuracy, and pattern recognition — the keys to success in multiple-choice grammar.
 
 ---
@@ -249,12 +249,5 @@ Child: *No — The children **play** outside!*
 - Always read **every option aloud** in your head.  
 - Focus on **clarity and meaning**, not just rules.  
 - The right answer will *sound right* **and** *make sense*.
-
----
-
-### 💬 Teaching Idea
-Make a **“Grammar Detective” jar** —  
-write short error sentences on slips (like *The cat eat fish*), and each day pick one to fix and explain why.  
-Turns grammar spotting into a game!
 
 ---
