@@ -1,7 +1,5 @@
 # PE Questions for Discussion with Answers
 
-These 96 questions invite a child to explain an idea, give an example, and consider what might change in a different situation. The suggested answers are models, not the only acceptable wording. Questions about health, diet, injuries and school PE go beyond the specific PE points named in the FSCE Gloucestershire parent guide; use them for general discussion.
-
 ## 1. Health and Fitness
 
 1. Why is warming up important before exercise?
