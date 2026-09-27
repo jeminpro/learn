@@ -1,35 +1,6 @@
-# What is included?
-## Physical Education (FSCE)
+# Topics
 
-### 1. Fitness Components
-- strength, stamina, flexibility
-- balance, coordination, agility, speed
-
-### 2. Body & Exercise
-- heart rate, breathing, muscles
-
-### 3. Types of Activities
-- games, gymnastics, dance, athletics
-
-### 4. Teamwork & Rules
-- cooperation, communication, fair play
-
-### 5. Skill Application (VERY IMPORTANT)
-- matching skill to activity
-
-**Vocabulary:**
-- coordination, balance, agility
-- teamwork, rules, performance
-
-**Application:**
-- choose most important skill for an activity
-- understand why a skill is needed
-
-## 1. 🧠 Core Fitness Components (VERY HIGH PRIORITY)
-
-These are **perfect MCQ targets**.
-
-### Teach clearly:
+## 1. 🧠 Core Fitness Components 
 
 * **Strength** → how much force muscles can produce
 * **Stamina / Endurance** → ability to keep going for a long time
@@ -46,9 +17,7 @@ These are **perfect MCQ targets**.
 
 ---
 
-## 2. ❤️ Body & Exercise (High Yield)
-
-### Teach:
+## 2. ❤️ Body & Exercise
 
 * Exercise increases:
 
@@ -74,9 +43,7 @@ These are **perfect MCQ targets**.
 
 ---
 
-## 3. 🏃 Types of Activities (Recognition-Based)
-
-They won’t ask rules — but they may test **classification**.
+## 3. 🏃 Types of Activities 
 
 ### Categories:
 
@@ -93,7 +60,7 @@ They won’t ask rules — but they may test **classification**.
 
 ---
 
-## 4. 🤝 Teamwork & Behaviour (Very Testable Vocabulary)
+## 4. 🤝 Teamwork & Behaviour
 
 ### Key Words
 
@@ -112,8 +79,6 @@ They won’t ask rules — but they may test **classification**.
 ---
 
 ## 5. 📏 Rules & Competition
-
-### Teach:
 
 * Rules ensure:
 
@@ -136,8 +101,6 @@ They won’t ask rules — but they may test **classification**.
 
 ## 6. 📊 Performance & Improvement
 
-### Teach:
-
 * **practice** improves performance
 * **feedback** helps improvement
 
@@ -157,8 +120,6 @@ They won’t ask rules — but they may test **classification**.
 
 ## 7. 🧭 Spatial Awareness & Movement
 
-### Teach:
-
 * Knowing where your body is in space
 
 ### Vocabulary
@@ -171,37 +132,6 @@ They won’t ask rules — but they may test **classification**.
 ### Likely Questions
 
 * “Knowing where you are while moving is called?” → **Awareness / Positioning**
-
----
-
-# ⚠️ What NOT to Spend Time On
-
-Avoid:
-
-* Detailed sport rules ❌
-* History of sports ❌
-* Exact measurements (court sizes etc.) ❌
-
-These are **not FSCE-friendly**.
-
----
-
-# 🎯 How to Teach (Very Important)
-
-Since it's MCQ / one-word:
-
-### Use this method:
-
-* Teach → Define → Test immediately
-
-Example:
-
-* Ask: “What is flexibility?”
-* Then MCQ:
-
-  * A. Speed
-  * B. Strength
-  * C. Movement of joints ✅
 
 ---
 

@@ -1,16 +1,6 @@
-# FSCE Gloucestershire Physical Education Teaching Pack
-
-A parent and child guide to the physical education points named in the FSCE Gloucestershire parent guide, through Year 5.
+# Teaching Pack
 
 The official guide identifies five practical areas: running, jumping, throwing and catching; attacking and defending in competitive games; flexibility, strength, technique, control and balance; comparing performance and improving; and physical confidence, health, fitness, fairness and respect. This edition includes only those areas. The child familiarisation guide's sprint question also illustrates coordination.
-
-The guide says this is **not a practical sporting ability test**. Oak National Academy lessons linked below are examples for teaching the FSCE-listed ideas. Their sport names and lesson sequences are not an FSCE list of examinable sports or facts.
-
-## How to use the pack
-
-1. Read one topic with your child, demonstrate it in a safe space, and ask why one choice works better in a particular situation.
-2. Use a soft ball and simple games. Observe one useful action and one improvement goal.
-3. Practise explaining answers in a sentence; the FSCE sample asks children to identify the most relevant quality in a straight sprint.
 
 ## 1 Movement skills
 
@@ -37,10 +27,6 @@ Skills can be isolated (catch while standing) or combined (run into space, catch
 **Accuracy** How close a throw or movement comes to its intended target.
 
 **Force** A push or pull; more force may send a ball farther but can reduce accuracy.
-
-### Try it
-
-Make three stations: a ten-step run, a standing jump and five gentle throws at a target. Describe which body parts work together and what changes when you link a run to a throw. Keep scores only to compare your own attempts.
 
 ### Check understanding
 
@@ -88,9 +74,6 @@ Physical confidence and fitness develop through varied, age appropriate activity
 
 **Control** Regulating movement and body position.
 
-### Try it
-
-Try one-foot balance, heel-to-toe walking, wall push-ups and a gentle reach. Ask which quality each activity tests most strongly and why. Swap the surface or speed only if safe.
 
 ### Check understanding
 
@@ -144,9 +127,6 @@ A tactic is a planned choice to help a goal; a skill is the action used to carry
 
 **Transition** The moment a team changes from attacking to defending or back.
 
-### Try it
-
-Play two attackers against one defender using a soft ball and two cone goals. Pause before each pass and ask the passer to point to a useful space. Rotate positions and ask why the defender chose a particular place to stand.
 
 ### Check understanding
 
@@ -190,9 +170,6 @@ Being physically confident means feeling able to participate, try a skill and im
 
 **Safety** Reducing avoidable risk to yourself and others.
 
-### Try it
-
-After a walk and a more active game, ask how the body feels and how repeated participation may build confidence and fitness.
 
 ### Check understanding
 
@@ -240,9 +217,6 @@ Competition against others and competition with a previous personal result are b
 
 **Competition** An activity in which participants try to achieve a result, alone or against others.
 
-### Try it
-
-Play a passing game where a team scores only after every teammate has received the ball. Discuss how the new rule changes teamwork. Afterwards each player names one fair decision and one helpful communication choice.
 
 ### Check understanding
 
@@ -294,9 +268,6 @@ Observing a partner can help when the observer knows what to watch for. A short 
 
 **Measure** Record a count, distance, time or other relevant result.
 
-### Try it
-
-Try three target throws from the same marked line. Record hits out of five, choose one adjustment and repeat. Discuss whether the comparison is fair if the target or line moves.
 
 ### Check understanding
 
