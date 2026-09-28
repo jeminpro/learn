@@ -109,6 +109,39 @@ Idioms make writing sound more fluent, interesting, and familiar to the reader.
 
 ---
 
+## 13. Cliché
+
+👉 **A phrase or expression that has been used so often that it has become very familiar or predictable.**
+
+Clichés are common expressions that many people recognise because they have been repeated over time.
+
+**Example 1:** “It’s raining cats and dogs.”
+
+**Example 2:** “Better late than never.”
+
+**Example 3:** “As busy as a bee.”
+
+**Effect:** Makes an idea easy to recognise and understand, but can sometimes make writing feel **unoriginal or predictable** because the expression has been used so often.
+
+---
+
+### 14. Pathetic Fallacy
+
+👉 Giving human emotions or feelings to nature or the weather.
+
+Pathetic fallacy is often used to make the setting reflect the mood or emotions of a character or situation.
+
+Example 1: “The angry storm raged against the windows.”
+
+Example 2: “The sun smiled down on the happy children.”
+
+Example 3: “Dark clouds gathered as he waited for the bad news.”
+
+Effect: Creates mood and atmosphere, helps the reader understand how a character feels, and makes the setting feel connected to the events of the story.
+
+---
+
+
 # ✨ Summary
 These figures of speech make writing:  
 - **More powerful** (Metaphor, Symbolism, Hyperbole)  
