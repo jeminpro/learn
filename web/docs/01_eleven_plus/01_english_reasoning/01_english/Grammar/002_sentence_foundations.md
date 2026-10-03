@@ -1,4 +1,4 @@
-# FSCE English: Sentence Structure
+# Sentence Structure
 
 ## 1. Sentences, phrases and clauses
 
@@ -42,12 +42,6 @@ There are two clauses: *the fox waited* (**fox** + **waited**) and *because the 
 
 **Try it together:** Turn *under the old bridge* into a sentence. For example: *A heron stood under the old bridge.* Then turn it into a clause that needs a partner: *While a heron stood under the old bridge, ...*
 
-### Complete sentences and fragments
-
-A **fragment** looks like part of a sentence but cannot stand alone in the intended meaning: *Because the path was flooded.* Finish it: *Because the path was flooded, we took another route.* A full stop cannot make an incomplete thought complete.
-
-**Teaching check:** Ask the child to underline the verb, identify who or what it refers to, and then ask whether the words make sense on their own. This is more reliable than counting words.
-
 ---
 
 ## 2. Types of clauses
@@ -55,6 +49,12 @@ A **fragment** looks like part of a sentence but cannot stand alone in the inten
 ### Main (independent) clauses
 
 A **main clause** makes sense on its own: **The lights went out.** It can be a complete sentence. Two main clauses may be joined: *The lights went out, but the torches still worked.*
+
+**A useful FSCE rule**
+
+If you can split the sentence at the conjunction and both parts can stand alone as complete sentences, you probably have:
+
+Main clause + coordinating conjunction + main clause
 
 ### Subordinate (dependent) clauses
 
@@ -69,7 +69,7 @@ A **subordinate clause** adds information to a main clause and cannot normally s
 
 Words such as **because, when, if, although, while, before** can introduce these subordinate clauses. The same idea can often be moved: *When the rain stopped, we set off* / *We set off when the rain stopped*. The first puts the time clue up front. A comma commonly follows an introductory subordinate clause, as in the first version.
 
-### Relative clauses: an explicit FSCE point
+### Relative clauses: A relative clause is a type of subordinate clause.
 
 A **relative clause** gives information about a noun (or noun phrase). It is a kind of subordinate clause. The guide names **who, which, where, when, whose, that** as common openings.
 
@@ -85,8 +85,6 @@ The clause *who wore a yellow helmet* tells us **which cyclist**. Its verb is *w
 | **whose** | The boy **whose bike broke** walked home. | Which boy; whose bike. |
 | **where** | The village **where we stayed** was quiet. | Which village. |
 | **when** | The day **when we met** was sunny. | Which day. |
-
-**Meaning matters:** *The pupils who had tickets entered first* identifies a particular group. *The pupils, who had tickets, entered first* presents the ticket information as an aside and suggests all the pupils had tickets. This is a useful reading distinction; detailed comma rules can be studied with punctuation.
 
 **Do not confuse:** *The boy **with a red scarf*** contains a phrase; *The boy **who wore a red scarf*** contains a relative clause, with its own verb *wore*.
 
@@ -166,7 +164,7 @@ A **part of speech** describes a word's job **in its sentence**. Some words chan
 - **Quietly** is an adverb; **explored** a verb; **the** a determiner; **cave** a noun.
 - **Because** is a conjunction linking the reason; **it** a pronoun; **was** a verb; **cool** an adjective.
 
-### Time, place and cause: an explicit FSCE connection
+### Time, place and cause
 
 The guide names **conjunctions, adverbs and prepositions** as ways of connecting ideas of time, place and cause. Compare:
 

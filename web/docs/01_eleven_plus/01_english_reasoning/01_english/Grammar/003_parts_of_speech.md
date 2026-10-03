@@ -137,24 +137,694 @@ The same written word may have another job. In “We ate **before the show**,”
 
 A **conjunction** joins words, phrases or clauses. **Coordinating conjunctions** join equal parts: *and* adds, *but* contrasts, and *or* offers a choice.
 
-- Words: “tea **or** juice.”
-- Phrases: “in the garden **and** under the tree.”
-- Main clauses: “The bell rang, **and** the children left.”
+# Conjunctions
 
-When two main clauses are joined, each can stand alone. But “The dog barked **and** jumped” has one shared subject, so *and* does not automatically make it two clauses.
+## 1. What is a conjunction?
 
-**Subordinating conjunctions** introduce a clause that depends on another clause. The joining word signals the relationship:
+A **conjunction** is a word that connects words, phrases or clauses.
 
-| Word | Relationship | Example |
-|---|---|---|
-| because | reason | We stayed home **because** it rained. |
-| although | contrast | We walked **although** it rained. |
-| when | time | We left **when** the film ended. |
-| if | condition | We will leave **if** the film ends early. |
+Conjunctions help us show the relationship between ideas.
 
-Choose a conjunction that matches the intended meaning. “She carried an umbrella **because** it was raining” gives a reason; “She carried an umbrella **although** it was sunny” expresses a contrast.
+For example:
 
-**Try it:** Choose *because* or *although*: “We took coats ___ it was cold.” Is *but* coordinating or subordinating in “I looked, but I could not see”?
+> Tom **and** Sam went to the park.
+
+> I wanted to go outside, **but** it was raining.
+
+> We stayed inside **because** it was raining.
+
+There are two important types to learn:
+
+1. **Coordinating conjunctions**
+2. **Subordinating conjunctions**
+
+---
+
+# 2. The two types
+
+## Coordinating conjunctions
+
+A **coordinating conjunction** joins parts that are **equal in grammatical importance**.
+
+When it joins two main clauses, both clauses have equal status.
+
+> The lights went out, **but** the torches still worked.
+
+The two ideas are presented as equal:
+
+**The lights went out**
+**but**
+**the torches still worked**
+
+The coordinating conjunction **but** connects them and shows a contrast.
+
+---
+
+## Subordinating conjunctions
+
+A **subordinating conjunction** introduces a **subordinate clause**.
+
+It shows a particular relationship between the subordinate idea and the main idea.
+
+> We used torches **because** it was dark.
+
+The conjunction **because** tells us that *it was dark* gives the **reason** why we used torches.
+
+Subordinating conjunctions can show:
+
+* **reason**
+* **time**
+* **condition**
+* **contrast**
+* and other relationships
+
+---
+
+# 3. Coordinating conjunctions — FANBOYS
+
+A useful way to remember the seven coordinating conjunctions is:
+
+# FANBOYS
+
+| Letter | Conjunction | Main use                      |
+| ------ | ----------- | ----------------------------- |
+| **F**  | **for**     | gives a reason                |
+| **A**  | **and**     | adds information              |
+| **N**  | **nor**     | adds another negative idea    |
+| **B**  | **but**     | shows contrast                |
+| **O**  | **or**      | gives a choice or alternative |
+| **Y**  | **yet**     | shows contrast                |
+| **S**  | **so**      | shows a result                |
+
+### FANBOYS
+
+**F**or
+**A**nd
+**N**or
+**B**ut
+**O**r
+**Y**et
+**S**o
+
+---
+
+# 4. AND — adding information
+
+**And** connects ideas by adding information.
+
+> The sun was shining **and** the birds were singing.
+
+It can also join words or phrases:
+
+> red **and** blue
+
+> slowly **and** carefully
+
+> Tom **and** Sarah
+
+So remember:
+
+> **AND does not always join clauses.**
+
+Its job is to **connect and add**.
+
+---
+
+# 5. BUT — showing contrast
+
+**But** connects contrasting ideas.
+
+> I wanted to go outside, **but** it was raining.
+
+The second idea contrasts with what we might expect from the first.
+
+Compare:
+
+> It was raining, **but** we went outside.
+
+The rain would normally make us expect that they would stay inside. **But** signals the contrast.
+
+---
+
+# 6. OR — giving a choice or alternative
+
+**Or** presents alternatives.
+
+> Would you like tea **or** coffee?
+
+> We can walk home **or** we can take the bus.
+
+The alternatives do not necessarily have to be clauses:
+
+> A red **or** blue pencil.
+
+The important idea is **choice or alternative**.
+
+---
+
+# 7. SO — showing a result
+
+**So** connects an idea with its result.
+
+> It was raining, **so** we stayed inside.
+
+The relationship is:
+
+**Cause → Result**
+
+> It was raining → we stayed inside.
+
+**So** tells us that the second idea is the result of the first.
+
+---
+
+# 8. FOR — giving a reason
+
+**For** can be used to introduce a reason.
+
+> We stayed inside, **for** it was raining heavily.
+
+Here **for** means something similar to **because**.
+
+However, **for** is much less common in everyday modern English in this use.
+
+It is more likely to appear in formal, literary or older-style writing.
+
+Recognise **for** as a coordinating conjunction, but don't confuse it with the much more common subordinating conjunction **because**.
+
+Compare:
+
+> We stayed inside, **for** it was raining.
+
+> We stayed inside **because** it was raining.
+
+The first uses coordinating **for**.
+
+The second uses subordinating **because**.
+
+---
+
+# 9. NOR — adding another negative idea
+
+**Nor** is used to introduce another negative idea.
+
+> She didn't smile, **nor** did she speak.
+
+It is often used after another negative idea:
+
+> He didn't apologise, **nor** did he explain his actions.
+
+**Nor** is less common in everyday speech than **and**, **but**, **or** and **so**, but it is still an important coordinating conjunction to recognise.
+
+### A useful pattern
+
+> neither... **nor**...
+
+> **Neither** Tom **nor** Sam wanted to go.
+
+Here **nor** connects two alternatives within a negative construction.
+
+---
+
+# 10. YET — showing contrast
+
+**Yet** can show a contrast, similar to **but**.
+
+> She was tired, **yet** she continued working.
+
+The two ideas contrast:
+
+**She was tired**
+**yet**
+**she continued working**
+
+A useful way to understand **yet** here is:
+
+> **despite this / nevertheless**
+
+Do not confuse this conjunction with **yet** meaning "up to now":
+
+> I haven't finished **yet**.
+
+In that sentence, **yet is not a conjunction**.
+
+---
+
+# 11. Coordinating conjunctions and clauses
+
+When a coordinating conjunction joins two **main clauses**, the structure is:
+
+> **Main clause + coordinating conjunction + main clause**
+
+For example:
+
+> The lights went out, **but** the torches still worked.
+
+> I was hungry, **so** I made a sandwich.
+
+> We can stay here, **or** we can go home.
+
+The conjunction connects two ideas of **equal grammatical status**.
+
+### Important
+
+A coordinating conjunction can also join:
+
+* words
+* phrases
+* clauses
+
+So don't assume that seeing **and**, **but**, **or**, etc. automatically means there are two clauses.
+
+---
+
+# 12. Subordinating conjunctions
+
+A **subordinating conjunction** introduces a subordinate clause and shows how that idea relates to the main idea.
+
+There are many subordinating conjunctions.
+
+It is more useful to organise them by their **meaning** than to learn them as one huge list.
+
+---
+
+# 13. Subordinating conjunctions showing reason
+
+These explain **why** something happens.
+
+### because
+
+> We stayed inside **because** it was raining.
+
+### since
+
+> **Since** it was raining, we stayed inside.
+
+### as
+
+> We stayed inside **as** it was raining.
+
+The most important one to recognise is:
+
+**because = reason**
+
+---
+
+# 14. Subordinating conjunctions showing time
+
+These tell us **when** something happens.
+
+### when
+
+> **When** the bell rang, the children left.
+
+### while
+
+> The children talked **while** they waited.
+
+### before
+
+> Wash your hands **before** you eat.
+
+### after
+
+> We went outside **after** the rain stopped.
+
+### until
+
+> We waited **until** the teacher arrived.
+
+### whenever
+
+> **Whenever** she visits, we bake a cake.
+
+The relationship is about **time**.
+
+---
+
+# 15. Subordinating conjunctions showing condition
+
+These describe something that must happen or be true for another thing to happen.
+
+### if
+
+> **If** it rains, we will stay inside.
+
+### unless
+
+> We will go outside **unless** it rains.
+
+**Unless** means approximately:
+
+> **if...not**
+
+Compare:
+
+> We will go outside **unless** it rains.
+
+> We will go outside **if it does not rain**.
+
+---
+
+# 16. Subordinating conjunctions showing contrast
+
+These show that two ideas do not fit the expectation created by each other.
+
+### although
+
+> **Although** it was cold, we went outside.
+
+### though
+
+> **Though** she was tired, she continued working.
+
+### even though
+
+> **Even though** it was raining, they continued playing.
+
+The second idea happens **despite** the first.
+
+---
+
+# 17. A useful subordinating conjunction table
+
+| Relationship  | Subordinating conjunctions                  |
+| ------------- | ------------------------------------------- |
+| **Reason**    | because, since, as                          |
+| **Time**      | when, while, before, after, until, whenever |
+| **Condition** | if, unless                                  |
+| **Contrast**  | although, though, even though               |
+| **Purpose**   | so that                                     |
+
+These are not the only subordinating conjunctions, but they are useful ones to recognise and understand at KS2 level.
+
+---
+
+# 18. Coordinating vs subordinating
+
+The most important distinction is:
+
+### Coordinating
+
+Connects **equal** grammatical elements.
+
+> I was tired, **but** I continued.
+
+**Main idea + coordinating conjunction + main idea**
+
+### Subordinating
+
+Introduces an idea that is **subordinate** to the main idea.
+
+> I continued **although** I was tired.
+
+**Main idea + subordinating conjunction + subordinate idea**
+
+---
+
+# 19. Compare the meaning
+
+Sometimes different conjunctions can connect the **same basic ideas**, but they show the relationship differently.
+
+### AND
+
+> It was raining **and** we stayed inside.
+
+Simply adds the information.
+
+### SO
+
+> It was raining, **so** we stayed inside.
+
+Shows a **result**.
+
+### BECAUSE
+
+> We stayed inside **because** it was raining.
+
+Shows a **reason**.
+
+### BUT
+
+> It was raining, **but** we went outside.
+
+Shows a **contrast**.
+
+### ALTHOUGH
+
+> **Although** it was raining, we went outside.
+
+Also shows **contrast**, but uses a subordinating structure.
+
+This is why conjunctions are important: they don't just connect ideas — **they tell the reader how the ideas are related.**
+
+---
+
+# 20. Coordinating and subordinating conjunctions can express similar relationships
+
+This is an important distinction.
+
+### Coordinating
+
+> It was raining, **so** we stayed inside.
+
+**so** = coordinating conjunction
+
+### Subordinating
+
+> We stayed inside **because** it was raining.
+
+**because** = subordinating conjunction
+
+Both sentences connect **rain** and **staying inside**, but they organise the relationship differently.
+
+**SO** presents a **result**.
+
+**BECAUSE** presents a **reason**.
+
+---
+
+# 21. Don't confuse conjunctions with relative words
+
+A **relative clause** can also be introduced by words such as:
+
+* who
+* which
+* that
+* whose
+
+For example:
+
+> The girl **who won the race** received a medal.
+
+**Who** introduces a relative clause.
+
+This is different from:
+
+> The girl ran home **because she was tired**.
+
+**Because** is a subordinating conjunction introducing a subordinate clause expressing **reason**.
+
+Relative clauses should therefore be studied separately from the two main types of conjunction.
+
+---
+
+# 22. Conjunctions can come in different positions
+
+A subordinating conjunction can introduce the subordinate clause at the beginning or later in the sentence.
+
+### Subordinate clause first
+
+> **When the bell rang,** the children left.
+
+### Subordinate clause second
+
+> The children left **when the bell rang**.
+
+The conjunction **when** still performs the same job.
+
+---
+
+# 23. Punctuation with conjunctions
+
+When a subordinate clause comes **before** the main clause, a comma is normally used:
+
+> **Because it was raining,** we stayed inside.
+
+> **Although she was tired,** she continued working.
+
+> **When the bell rang,** the children left.
+
+When the subordinate clause comes **after** the main clause, a comma is usually not needed:
+
+> We stayed inside **because it was raining**.
+
+> She continued working **although she was tired**.
+
+> The children left **when the bell rang**.
+
+### With coordinating conjunctions
+
+When two main clauses are joined, a comma is often used before the coordinating conjunction:
+
+> I was tired, **but** I continued working.
+
+> It was raining, **so** we stayed inside.
+
+For short sentences, punctuation can sometimes vary depending on structure and style, so the important point is to understand the grammatical relationship rather than treating the comma as the definition of a coordinating conjunction.
+
+---
+
+# 24. Common mistakes
+
+## Mistake 1: Thinking every conjunction joins clauses
+
+> Tom **and** Sarah went shopping.
+
+**And** joins two nouns, not two clauses.
+
+---
+
+## Mistake 2: Thinking every FANBOYS word works in exactly the same way
+
+They are all coordinating conjunctions, but they express different relationships:
+
+* **and** → addition
+* **but / yet** → contrast
+* **or** → alternative
+* **so** → result
+* **for** → reason
+* **nor** → additional negative idea
+
+---
+
+## Mistake 3: Confusing SO and BECAUSE
+
+> It was raining, **so** we stayed inside.
+
+**So** introduces the **result**.
+
+> We stayed inside **because** it was raining.
+
+**Because** introduces the **reason**.
+
+A useful way to remember:
+
+> **BECAUSE = Why?**
+
+> **SO = What happened as a result?**
+
+---
+
+## Mistake 4: Thinking BUT and ALTHOUGH are the same type
+
+Both can show contrast, but:
+
+> I was tired, **but** I continued.
+
+**but = coordinating**
+
+Whereas:
+
+> **Although** I was tired, I continued.
+
+**although = subordinating**
+
+Same broad relationship (**contrast**), different grammatical structure.
+
+---
+
+## Mistake 5: Thinking YET always means "up to now"
+
+> I haven't finished **yet**.
+
+Here **yet** means "up to this time".
+
+But:
+
+> She was tired, **yet** she continued.
+
+Here **yet** is a **coordinating conjunction** showing contrast.
+
+---
+
+# 25. Quick reference
+
+## COORDINATING — FANBOYS
+
+**F** — for → reason
+**A** — and → addition
+**N** — nor → negative alternative/addition
+**B** — but → contrast
+**O** — or → alternative
+**Y** — yet → contrast
+**S** — so → result
+
+### Key idea:
+
+> **Equal grammatical elements**
+
+---
+
+## SUBORDINATING
+
+### Reason
+
+**because, since, as**
+
+### Time
+
+**when, while, before, after, until, whenever**
+
+### Condition
+
+**if, unless**
+
+### Contrast
+
+**although, though, even though**
+
+### Purpose
+
+**so that**
+
+### Key idea:
+
+> **Introduces a subordinate clause and shows its relationship to the main idea.**
+
+---
+
+# 26. The key takeaway
+
+Don't just memorise lists of conjunctions.
+
+Learn to ask:
+
+> **What relationship does this conjunction show?**
+
+For example:
+
+**and** → addition
+**but** → contrast
+**or** → choice
+**so** → result
+**because** → reason
+**when** → time
+**if** → condition
+**although** → contrast
+
+And remember:
+
+> **FANBOYS = coordinating conjunctions**
+
+> **Subordinating conjunctions introduce subordinate clauses and show relationships such as reason, time, condition and contrast.**
+
+The most important distinction is:
+
+**COORDINATING → connects equal grammatical elements**
+
+**SUBORDINATING → makes one idea subordinate to another**
+?
 
 ## 8. Determiners: specifying nouns
 
