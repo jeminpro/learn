@@ -1,4 +1,4 @@
-# Sentence Structure and Clauses
+# Clauses
 
 Sentences can contain one clause or connect several related ideas. Recognising the clauses and the words that join them helps you explain how a sentence is built and what it means.
 

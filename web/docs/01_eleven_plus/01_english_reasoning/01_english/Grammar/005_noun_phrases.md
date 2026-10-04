@@ -1,4 +1,4 @@
-# Noun Phrases and Description
+# Noun Phrases
 
 A noun phrase helps us identify or picture a person, place, thing or idea. Adding useful detail can change what the reader imagines and which thing they understand us to mean.
 

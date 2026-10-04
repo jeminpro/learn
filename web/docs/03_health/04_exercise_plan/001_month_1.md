@@ -1,1235 +1,477 @@
-# 1-Month Beginner Strength Plan
+# Full-Body Strength Training Programme
 
-# 1. What This Programme Is Designed To Build
+* Build full-body strength
+* Strengthen arms and shoulders
+* Improve balance and coordination
+* Improve ability to climb stairs and carry shopping/luggage
+* Improve floor-to-stand ability
+* Maintain mobility
+* Build long-term independence
+* Progress gradually rather than training to failure
 
-The goal is not simply to lift weights.
-
-Over time, you want to become stronger at:
-
-* Squatting and standing
-* Climbing stairs
-* Carrying shopping and luggage
-* Pushing and pulling
-* Balancing on one leg
-* Getting down onto the floor
-* Getting back up from the floor
-* Maintaining good posture
-* Controlling your abdominal wall
-* Moving your hips, shoulders and ankles freely
-* Performing everyday activities without feeling physically weak
-
-The programme therefore trains:
-
-**Legs + glutes + hamstrings + calves + chest + back + shoulders + arms + core + grip + balance + mobility + functional movement**
+**Strength:** Monday, Wednesday, Friday
+**Functional:** Saturday
+**Dance:** Sunday
+**Walking/mobility:** Tuesday and Thursday
 
 ---
 
-# 2. Weekly Schedule
+# 1. Warm-up — Before Every Strength Session
 
-| Day           | Activity                             |
-| ------------- | ------------------------------------ |
-| **Monday**    | Full Body A                          |
-| **Tuesday**   | Walking + Mobility                   |
-| **Wednesday** | Full Body B                          |
-| **Thursday**  | Walking + Balance                    |
-| **Friday**    | Full Body A or B                     |
-| **Saturday**  | Functional Strength + Floor Practice |
-| **Sunday**    | Recovery                             |
+**5 minutes**
 
-### Session length
+### 1. Easy movement — 1 minute
 
-**Strength:** approximately 20–30 minutes
-**Walking:** approximately 20–30 minutes
-**Mobility/balance:** approximately 5–10 minutes
+* March on the spot
+* Easy walking
+* Step-touch
 
----
+### 2. Shoulder circles — 8 each direction
 
-# 3. How Hard Should You Train?
+### 3. Hip hinge — 8 reps
 
-Use a simple effort scale.
+### 4. Bodyweight squat — 8 reps
 
-| Effort      | What it feels like                     | What to do                   |
-| ----------- | -------------------------------------- | ---------------------------- |
-| **1–2/10**  | Almost effortless                      | Progress the exercise        |
-| **3–5/10**  | Easy but definitely working            | Keep it and build gradually  |
-| **6–7/10**  | Challenging but controlled             | Ideal later in the programme |
-| **8–10/10** | Straining, breath-holding, losing form | Too difficult                |
+### 5. Calf raises — 10 reps
 
-### Month 1 target
+### 6. Exercise-specific rehearsal
 
-Mostly **4–6/10 effort**, gradually moving toward **6–7/10**.
+Before the first major exercise, do **5 easy bodyweight/light-weight repetitions**.
 
-Do **not** train to failure.
-
-A good rule:
-
-> Finish most sets feeling that you could still perform approximately **3–4 good repetitions**.
+The warm-up should prepare you, not tire you.
 
 ---
 
-# 4. How To Progress An Exercise
+# 2. Complete Exercise Library
 
-Do **not** automatically replace an exercise just because it feels easy.
+## Lower Body
 
-Use this progression:
+### Squat pattern
 
-### If the exercise feels easy but you are still learning it
+* Goblet squat
+* Bodyweight squat
+* Sit-to-stand
 
-Keep it and improve your technique.
+### Hinge pattern
 
-### If you can easily exceed the target repetitions
+* Dumbbell Romanian deadlift
+* Hip thrust
+* Glute bridge
 
-Progress the exercise rather than doing very high numbers of repetitions.
+### Single-leg strength
 
-### If it feels extremely easy from the first repetition
+* Step-up
+* Supported split squat
+* Unsupported split squat
+* Bulgarian split squat — **future progression**
 
-You may start with the next progression.
+### Lower-leg strength
 
-### Progression examples
-
-| Current exercise           | Progress to                        |
-| -------------------------- | ---------------------------------- |
-| Wall push-up               | Incline push-up on kitchen counter |
-| Chair sit-to-stand         | Bodyweight squat                   |
-| Bodyweight squat           | Goblet squat                       |
-| Glute bridge               | Longer pause at top                |
-| Glute bridge               | Weighted glute bridge              |
-| Heel slide                 | Dead-bug heel tap                  |
-| Light band row             | Stronger band                      |
-| Bodyweight calf raise      | Slower calf raise                  |
-| Bodyweight calf raise      | Weighted calf raise                |
-| Supported single-leg stand | Less hand support                  |
-| Supported split squat      | Deeper supported split squat       |
-| Light farmer carry         | Heavier farmer carry               |
-| Low step-up                | Higher step or light weights       |
-
-### Important
-
-Do **not** make an easy exercise harder simply by doing 30–40 repetitions.
-
-Prefer:
-
-**8 reps → 10 reps → 12 reps → slightly harder exercise/resistance → 8 reps again**
+* Standing calf raise
+* Single-leg calf raise — future progression
 
 ---
 
-# 5. Abdominal-Wall Rules
+# 3. Upper Body
 
-Because of your previous diastasis and umbilical hernia repairs:
+## Chest / pushing
 
-### During every exercise
+* Dumbbell chest press
+* Incline push-up
+* Push-up — future progression
 
-* Keep breathing normally.
-* Do not hold your breath.
-* Avoid deliberately bearing down.
-* Exhale during the harder part of the movement.
-* Keep movements controlled.
-* Do not deliberately brace your abdomen as hard as possible.
-* Stop if you develop pain around the repaired area.
+## Back / pulling
 
-### Example
+* One-arm dumbbell row
 
-**Squat:**
+## Shoulders
 
-Inhale as you lower → exhale as you stand.
+* Seated dumbbell shoulder press
+* Dumbbell lateral raise
 
-**Romanian deadlift:**
+## Biceps
 
-Inhale to prepare → exhale as you stand.
+* Dumbbell biceps curl
 
-### Core exercises
+## Triceps
 
-The aim is **control and stability**, not abdominal burning.
+* Overhead dumbbell triceps extension
 
 ---
 
-# 6. Warm-Up Before Every Strength Session
+# 4. Core
 
-Approximately 5 minutes.
+The goal is **controlled trunk strength**, rather than doing large amounts of abdominal exercise.
 
-### 1. March on the spot
-
-**60 seconds**
-
-### 2. Shoulder rolls
-
-**8 forward + 8 backward**
-
-### 3. Hip-hinge practice
-
-**8 repetitions**
-
-Push your hips backwards with slightly bent knees, then return to standing.
-
-### 4. Chair sit-to-stand
-
-**6 repetitions**
-
-### 5. Standing heel raises
-
-**10 repetitions**
+* Dead-bug heel tap
+* Bird dog
+* Pallof press
+* Farmer carry
+* Suitcase carry
 
 ---
 
-# WEEK 1 — LEARN THE MOVEMENTS
+# 5. Carries / Grip
 
-### Goal
+These are particularly useful for real-life strength.
 
-Learn the exercises, breathing and technique.
+* Farmer carry
+* Suitcase carry
 
-**Effort:** approximately 5/10
-
-Use bodyweight or very light resistance.
-
----
-
-## MONDAY — FULL BODY A
-
-### 1. Chair Squat
-
-**2 × 8**
-
-Sit back onto a sturdy chair and stand again without using your hands.
-
-### 2. Seated Resistance-Band Row
-
-**2 × 8**
-
-Sit tall, pull the band toward your ribs, gently squeeze the shoulder blades and slowly release.
-
-### 3. Glute Bridge
-
-**2 × 10**
-
-Lie on your back with knees bent. Lift your hips slowly, pause briefly and lower.
-
-### 4. Wall Push-Up
-
-**2 × 8**
-
-Hands against a wall. Keep your body straight, bend your elbows, bring your chest toward the wall and push away.
-
-### 5. Low Step-Up
-
-**2 × 6 each leg**
-
-Step onto a low, stable step. Stand tall, then lower slowly.
-
-### 6. Standing Calf Raise
-
-**2 × 10**
-
-Hold a chair. Rise onto your toes and lower slowly.
-
-### 7. Heel Slide
-
-**2 × 6 each leg**
-
-Lie on your back with knees bent. Slowly slide one heel away, keeping your pelvis controlled, then return.
-
-### 8. Farmer Carry
-
-**2 × 20 seconds**
-
-Hold a light dumbbell in each hand and walk slowly while staying upright.
-
-### 9. Supported Single-Leg Stand
-
-**2 × 15 seconds each leg**
-
-Hold a chair with one hand and stand on one leg.
+They train grip, shoulders, trunk stability and the ability to carry objects while walking.
 
 ---
 
-# WEDNESDAY — FULL BODY B
+# 6. Balance and Coordination
 
-### 1. Hip-Hinge Practice
-
-**2 × 8**
-
-Practise pushing the hips backwards while keeping the spine comfortable and controlled.
-
-### 2. Romanian Deadlift
-
-**2 × 8**
-
-Start around **2 kg in each hand**.
-
-Keep the weights close to your legs, push the hips backwards and stand tall.
-
-### 3. One-Arm Dumbbell Row
-
-**2 × 8 each arm**
-
-Support one hand on a sturdy chair or table and pull the dumbbell toward your hip.
-
-Starting weight: approximately **2–3 kg**
-
-### 4. Incline Push-Up
-
-**2 × 6–8**
-
-Use a sturdy kitchen counter or high surface.
-
-### 5. Supported Split Squat
-
-**2 × 6 each leg**
-
-Hold a chair. Place one foot slightly behind you and lower a small amount before standing.
-
-### 6. Dumbbell Shoulder Press
-
-**2 × 8**
-
-Starting weight: approximately **1–2 kg each hand**
-
-Press overhead while keeping your trunk controlled.
-
-### 7. Bird Dog
-
-**2 × 5 each side**
-
-From hands and knees, slowly extend one arm forward. Return and alternate.
-
-### 8. Standing Calf Raise
-
-**2 × 10**
-
-### 9. Tandem Walk
-
-**2 × 10 steps**
-
-Walk heel-to-toe along a clear space. Use a wall if necessary.
+* Supported single-leg stand
+* Single-leg stand
+* Tandem stance
+* Tandem walk
+* Step-ups
+* Controlled floor transitions
 
 ---
 
-# FRIDAY — FULL BODY A
+# 7. Functional Strength
 
-Repeat Monday.
-
-The purpose is repetition and technique, not making the session harder simply because it is Friday.
-
----
-
-# SATURDAY — FUNCTIONAL STRENGTH
-
-### 1. Sit-to-Stand
-
-**2 × 8**
-
-### 2. Low Step-Up
-
-**2 × 8 each leg**
-
-### 3. Farmer Carry
-
-**3 × 20 seconds**
-
-### 4. Supported Single-Leg Stand
-
-**2 × 15–20 seconds each leg**
-
-### 5. Wall Push-Up
-
-**2 × 8**
+* Sit-to-stand
+* Step-ups
+* Farmer carry
+* Suitcase carry
+* Floor → kneeling → half-kneeling → standing
+* Floor sitting → side sitting → half-kneeling → standing
 
 ---
 
-## Floor Practice
+# 8. Month 1 — Main Strength Programme
 
-Use a sturdy chair or sofa for support.
+We start at **8 reps**.
 
-Practise:
-
-**Standing → Kneeling → Half-Kneeling → Standing**
-
-Perform approximately:
-
-**3 repetitions each side**
-
-Move slowly.
+The aim is to gradually progress toward 10–12 reps before increasing weight.
 
 ---
 
-# TUESDAY — WALKING + MOBILITY
+## MONDAY — Strength A
 
-### Walking
+### Main strength
 
-**20–30 minutes**
+1. **Goblet squat** — 3 × 8
+2. **Dumbbell Romanian deadlift** — 3 × 8
+3. **One-arm dumbbell row** — 3 × 8/side
+4. **Dumbbell chest press** — 3 × 8
 
-Comfortable to moderately brisk pace.
+### Shoulders and arms
 
-### Mobility
+5. **Dumbbell lateral raise** — 2 × 8
+6. **Dumbbell biceps curl** — 2 × 8
 
-**Ankle dorsiflexion — 8 each side**
+### Core
 
-**Hip-flexor stretch — 20 seconds each side**
+7. **Dead-bug heel tap** — 2 × 8/side
 
-**Gentle hamstring stretch — 20 seconds each side**
+### Carry
 
-**Thoracic rotation — 6 each side**
-
-**Shoulder circles — 8 each direction**
-
----
-
-# THURSDAY — WALKING + BALANCE
-
-### Walking
-
-**20–30 minutes**
-
-### Balance
-
-**Supported single-leg stand — 2 × 15–20 seconds each**
-
-**Tandem walk — 2 × 10 steps**
-
-Do these near a wall or sturdy surface.
+8. **Farmer carry** — 2 × 30 sec
 
 ---
 
-# WEEK 1 END TARGET
+# WEDNESDAY — Strength B
 
-By the end of Week 1, aim for:
+### Main strength
 
-* Familiarity with all exercises
-* Better control of movement
-* Less tendency to hold your breath
-* Comfortable completion of the planned sets
-* Slight improvement in single-leg balance
-* No significant increase in abdominal discomfort
+1. **Goblet squat** — 3 × 8
+2. **Dumbbell Romanian deadlift** — 3 × 8
+3. **One-arm dumbbell row** — 3 × 8/side
+4. **Incline push-up** — 3 × 8
 
-Do not worry about increasing weight yet.
+### Shoulders and arms
+
+5. **Seated dumbbell shoulder press** — 2 × 8
+6. **Overhead dumbbell triceps extension** — 2 × 8
+
+### Core
+
+7. **Pallof press** — 2 × 8/side
+
+### Lower leg
+
+8. **Standing calf raise** — 2 × 10
 
 ---
 
-# WEEK 2 — BUILD REPS AND CONTROL
+# FRIDAY — Strength C
 
-### Goal
+This session changes the lower-body emphasis.
 
-Increase repetitions while keeping technique good.
+### Main strength
 
-**Effort:** approximately 5–6/10
+1. **Step-up** — 3 × 8/leg
+2. **Dumbbell hip thrust** — 3 × 8
+3. **Dumbbell chest press** — 3 × 8
+4. **One-arm dumbbell row** — 3 × 8/side
+
+### Shoulders and arms
+
+5. **Seated dumbbell shoulder press** — 2 × 8
+6. **Dumbbell lateral raise** — 2 × 8
+
+### Core / grip
+
+7. **Dead-bug heel tap** — 2 × 8/side
+8. **Farmer carry** — 2 × 30 sec
 
 ---
 
-## FULL BODY A
+# SATURDAY — Functional Strength
 
-### Chair Squat
+This is deliberately different from the three strength sessions.
 
-**2 × 10**
-
-### Resistance-Band Row
-
-**2 × 10**
-
-### Glute Bridge
-
-**2 × 12**
-
-### Wall Push-Up
+### 1. Sit-to-stand
 
 **2 × 8–10**
 
-### Low Step-Up
+### 2. Step-up
 
-**2 × 8 each leg**
+**2 × 8/leg**
 
-### Standing Calf Raise
+### 3. Farmer carry
 
-**2 × 12**
+**3 × 30 sec**
 
-### Heel Slide
+### 4. Suitcase carry
 
-**2 × 8 each leg**
+**2 × 20–30 sec/side**
 
-### Farmer Carry
+### 5. Supported single-leg stand
 
-**2 × 25–30 seconds**
+**2 × 20–30 sec/side**
 
-### Supported Single-Leg Stand
-
-**2 × 20–30 seconds**
-
----
-
-## FULL BODY B
-
-### Romanian Deadlift
-
-**2 × 10**
-
-### One-Arm Dumbbell Row
-
-**2 × 10 each arm**
-
-### Supported Split Squat
-
-**2 × 8 each leg**
-
-### Incline Push-Up
-
-**2 × 8–10**
-
-### Dumbbell Shoulder Press
-
-**2 × 10**
-
-### Glute Bridge
-
-**2 × 12**
-
-### Bird Dog
-
-**2 × 6 each side**
-
-### Standing Calf Raise
-
-**2 × 12**
-
-### Tandem Walk
-
-**2 × 12–15 steps**
-
----
-
-# WEEK 2 CORE PROGRESSION
-
-Only progress if heel slides feel controlled and comfortable.
-
-### Dead-Bug Heel Tap
-
-**2 × 6 each side**
-
-Lie on your back with hips and knees bent. Slowly lower one heel toward the floor and return.
-
-Maintain controlled breathing throughout.
-
----
-
-# WEEK 2 FUNCTIONAL SESSION
-
-### Sit-to-Stand
-
-**2 × 10**
-
-### Low Step-Up
-
-**2 × 10 each leg**
-
-### Farmer Carry
-
-**3 × 25–30 seconds**
-
-### Supported Single-Leg Stand
-
-**2 × 20–30 seconds**
-
-### Wall/Incline Push-Up
-
-**2 × 8–10**
-
-### Floor Practice
-
-**Standing → Kneeling → Half-Kneeling → Standing**
-
-**3 each side**
-
-Then begin practising:
-
-**Floor sitting → Side-sitting → Half-kneeling → Standing**
-
-Use your hands for support.
-
----
-
-# WEEK 2 END TARGET
-
-You should aim to notice:
-
-* 10 repetitions feel easier
-* Better control during squats
-* Improved balance
-* Easier sit-to-stand
-* Easier stairs and low step-ups
-* Better coordination during core exercises
-* Greater confidence getting toward the floor
-
----
-
-# WEEK 3 — INTRODUCE REAL RESISTANCE
-
-### Goal
-
-Begin developing actual strength.
-
-**Effort:** approximately 6/10
-
----
-
-# FULL BODY A
-
-### 1. Goblet Squat
-
-**2 × 8–10**
-
-Starting weight: approximately **4 kg**
-
-Hold the weight close to your chest.
-
-### 2. Resistance-Band Row
-
-**2 × 10–12**
-
-### 3. Glute Bridge
-
-**2 × 12**
-
-If completely comfortable, add a light weight across the hips.
-
-### 4. Incline Push-Up
-
-**2 × 10**
-
-Use a slightly lower surface than before if appropriate.
-
-### 5. Step-Up
-
-**2 × 8 each leg**
-
-Bodyweight or approximately **1–2 kg each hand** if very stable.
-
-### 6. Calf Raise
-
-**2 × 12–15**
-
-### 7. Dead-Bug Heel Tap
-
-**2 × 8 each side**
-
-### 8. Farmer Carry
-
-**3 × 30 seconds**
-
-Starting weight: approximately **3 kg each hand**
-
-### 9. Single-Leg Stand
-
-**2 × 20–30 seconds each**
-
----
-
-# FULL BODY B
-
-### 1. Romanian Deadlift
-
-**2 × 10**
-
-Approximately **2–3 kg each hand**
-
-### 2. One-Arm Dumbbell Row
-
-**2 × 10**
-
-Approximately **3 kg**
-
-### 3. Supported Split Squat
-
-**2 × 8 each leg**
-
-### 4. Incline Push-Up
-
-**2 × 8–10**
-
-### 5. Dumbbell Shoulder Press
-
-**2 × 8–10**
-
-Approximately **2 kg each hand**
-
-### 6. Glute Bridge
-
-**2 × 12**
-
-### 7. Bird Dog
-
-**2 × 6–8 each side**
-
-### 8. Pallof Press
-
-**2 × 8 each side**
-
-Use a light resistance band.
-
-### 9. Tandem Walk
+### 6. Tandem walk
 
 **2 × 15 steps**
 
----
+### 7. Standing calf raise
 
-# WEEK 3 FUNCTIONAL SESSION
+**2 × 10**
 
-### Sit-to-Stand
-
-**2 × 10–12**
-
-### Step-Up
-
-**2 × 10 each leg**
-
-### Farmer Carry
-
-**3 × 30 seconds**
-
-### Single-Leg Stand
-
-**2 × 20–30 seconds**
-
-### Floor Practice
+### 8. Floor transition
 
 Practise:
 
-**Standing → Kneeling → Half-Kneeling → Standing**
+**Standing → kneeling → half-kneeling → standing**
 
-Then:
+Then, when comfortable:
 
-**Floor sitting → Side-sitting → Half-kneeling → Standing**
+**Floor sitting → side sitting → half-kneeling → standing**
 
-Use support as needed.
-
----
-
-# WEEK 3 END TARGET
-
-You may begin to notice genuine changes in everyday strength:
-
-* Carrying bags feels easier
-* Stairs feel easier
-* Getting out of a chair feels stronger
-* Your legs feel more stable
-* Balance is improving
-* Push-ups feel less difficult
-* Light weights feel more natural
-* Core exercises feel more coordinated
-* You feel more confident moving from standing to the floor
+Use support whenever needed.
 
 ---
 
-# WEEK 4 — CONSOLIDATE THE FOUNDATION
+# 9. Tuesday — Walking + Mobility
 
-### Goal
-
-Demonstrate control and gradually increase challenge.
-
-**Effort:** approximately 6–7/10
-
-Do not make every exercise harder at once.
-
----
-
-# FULL BODY A
-
-### Goblet Squat
-
-**2 × 10–12**
-
-### Resistance-Band Row
-
-**2 × 12**
-
-### Glute Bridge
-
-**2 × 15**
-
-### Incline Push-Up
-
-**2 × 10–12**
-
-### Step-Up
-
-**2 × 10 each leg**
-
-### Calf Raise
-
-**2 × 15**
-
-### Dead-Bug Heel Tap
-
-**2 × 8–10 each side**
-
-### Farmer Carry
-
-**3 × 30–40 seconds**
-
-### Single-Leg Stand
-
-**2 × 30 seconds each**
-
----
-
-# FULL BODY B
-
-### Romanian Deadlift
-
-**2 × 10–12**
-
-### One-Arm Dumbbell Row
-
-**2 × 10–12 each arm**
-
-### Supported Split Squat
-
-**2 × 8–10 each leg**
-
-### Incline Push-Up
-
-**2 × 10**
-
-### Dumbbell Shoulder Press
-
-**2 × 10**
-
-### Glute Bridge
-
-**2 × 15**
-
-### Bird Dog
-
-**2 × 8 each side**
-
-### Pallof Press
-
-**2 × 10 each side**
-
-### Tandem Walk
-
-**2 × 20 steps**
-
----
-
-# WEEK 4 FUNCTIONAL SESSION
-
-### 1. Sit-to-Stand
-
-**2 × 12**
-
-### 2. Step-Up
-
-**2 × 10 each leg**
-
-### 3. Farmer Carry
-
-**3 × 30–40 seconds**
-
-### 4. Single-Leg Stand
-
-**2 × 30 seconds each leg**
-
-### 5. Incline Push-Up
-
-**2 × 10**
-
-### 6. Floor Practice
-
-Work toward:
-
-**Standing → Kneeling → Half-Kneeling → Standing**
-
-and
-
-**Floor sitting → Side-sitting → Half-kneeling → Standing**
-
-Use support where needed.
-
----
-
-# 7. What To Do If An Exercise Feels Very Easy
-
-Do **not** automatically skip it.
-
-Ask:
-
-> "Could I have done 4–5 more good repetitions with exactly the same form?"
-
-### If YES, very easily
-
-Progress the exercise next session.
-
-### If YES, but it still requires effort
-
-Keep the exercise and continue building.
-
-### If NO
-
-The difficulty is appropriate.
-
----
-
-# 8. Exercise Progression Examples
-
-### Squat progression
-
-**Chair squat**
-
-↓
-
-**Bodyweight squat**
-
-↓
-
-**4 kg goblet squat**
-
-↓
-
-**Heavier goblet squat**
-
----
-
-### Push-up progression
-
-**Wall push-up**
-
-↓
-
-**High incline push-up**
-
-↓
-
-**Lower incline push-up**
-
-↓
-
-**Knee-supported floor push-up**
-
-↓
-
-**Full push-up**
-
-Do not rush to the floor.
-
----
-
-### Core progression
-
-**Heel slide**
-
-↓
-
-**Dead-bug heel tap**
-
-↓
-
-**Bird dog**
-
-↓
-
-**Pallof press**
-
-↓
-
-More challenging controlled core work later
-
-The goal is quality rather than abdominal exhaustion.
-
----
-
-### Balance progression
-
-**Single-leg stand holding chair**
-
-↓
-
-**Light fingertip support**
-
-↓
-
-**No support**
-
-↓
-
-**Single-leg RDL with support**
-
-Only progress when the easier version is stable.
-
----
-
-### Carry progression
-
-**2 kg each hand**
-
-↓
-
-**3 kg each hand**
-
-↓
-
-**4 kg each hand**
-
-Increase weight only when you can maintain good posture and breathing.
-
----
-
-# 9. When To Increase Weight
-
-Use this rule:
-
-### Step 1
-
-Complete the prescribed repetitions.
-
-### Step 2
-
-Make sure your technique remains good.
-
-### Step 3
-
-Make sure you are breathing normally.
-
-### Step 4
-
-Make sure abdominal control remains good.
-
-### Step 5
-
-If the exercise is consistently too easy, increase resistance slightly.
-
-Then return toward the lower end of the repetition range.
-
-### Example
-
-**Goblet squat**
-
-4 kg × 12 easy reps
-
-→ increase to 5 kg
-
-→ return to approximately 8–10 reps
-
-→ gradually build back to 12
-
-Do not increase the weight simply because you have reached a particular week.
-
----
-
-# 10. Suggested Starting Weights
-
-These are starting points, not limits.
-
-| Exercise              |    Starting point |
-| --------------------- | ----------------: |
-| Chair squat           |        Bodyweight |
-| Step-up               |        Bodyweight |
-| Split squat           |        Bodyweight |
-| Calf raise            |        Bodyweight |
-| Glute bridge          |        Bodyweight |
-| Romanian deadlift     |   ~2 kg each hand |
-| One-arm row           |           ~2–3 kg |
-| Shoulder press        | ~1–2 kg each hand |
-| Farmer carry          | ~2–3 kg each hand |
-| Goblet squat          |             ~4 kg |
-| Weighted glute bridge |   ~4 kg initially |
-
-You may need less or more depending on your current strength and technique.
-
----
-
-# 11. Mobility Routine
-
-Use this on Tuesday, Thursday and/or after strength sessions.
-
-### Ankle Dorsiflexion
-
-**8 each side**
-
-### Hip-Flexor Stretch
-
-**20 seconds each side**
-
-### Hamstring Stretch
-
-**20 seconds each side**
-
-### Thoracic Rotation
-
-**6 each side**
-
-### Shoulder Circles
-
-**8 each direction**
-
-### Hip Rotation
-
-**6 each side**
-
-### Comfortable Deep Squat Hold With Support
-
-**10–20 seconds**
-
-Only use the squat hold if it feels comfortable and does not cause abdominal symptoms.
-
----
-
-# 12. Walking/Cardio
-
-Start with:
+### Walking
 
 **20–30 minutes**
 
-at a comfortable or moderately brisk pace.
+Comfortable/moderate pace.
 
-You should be able to talk but feel that you are exercising.
+### Mobility
 
-Gradually increase total weekly activity rather than making every walk hard.
-
----
-
-# 13. End-of-Month Progress Check
-
-Do these at the end of Week 4.
-
-## Lower-body strength
-
-### Sit-to-stand
-
-Target:
-
-**12 controlled repetitions without using your hands**
+* Ankle dorsiflexion — 8/side
+* Calf stretch — 30 sec/side
+* Hip-flexor stretch — 30 sec/side
+* Hamstring stretch — 30 sec/side
+* Thoracic rotation — 6/side
+* Shoulder circles — 8 each direction
 
 ---
 
-## Step-up strength
+# 10. Thursday — Walking + Balance + Mobility
 
-Target:
+### Walking
 
-**10 controlled step-ups each leg**
+**15–20 minutes**
 
----
+### Balance
 
-## Balance
+* Supported single-leg stand — 2 × 20–30 sec/side
+* Tandem stance — 2 × 20–30 sec
+* Tandem walk — 2 × 15–20 steps
 
-Target:
+### Mobility
 
-**30-second single-leg stand each leg**
-
-Light fingertip support is acceptable if needed.
-
----
-
-## Upper-body pushing
-
-Target:
-
-**10 controlled incline push-ups**
+* Ankle dorsiflexion
+* Hip-flexor stretch
+* Thoracic rotation
+* Shoulder mobility
 
 ---
 
-## Carrying
+# 11. Sunday — Dance
 
-Target:
+**Dance only.**
 
-**30–40 second farmer carry**
+Dance provides:
 
-while maintaining an upright posture and normal breathing.
+* cardiovascular fitness
+* coordination
+* rhythm
+* movement variety
+* balance
+* enjoyment
 
----
-
-## Core control
-
-Target:
-
-**8–10 dead-bug heel taps each side**
-
-with controlled breathing and no obvious loss of abdominal control.
+No additional strength workout is required.
 
 ---
 
-## Floor ability
+# 12. Starting Weights
 
-Target:
+These are starting points for this month.
 
-Perform:
+| Exercise          |           Starting weight |
+| ----------------- | ------------------------: |
+| Goblet squat      |                  **4 kg** |
+| Romanian deadlift |        **3 kg each hand** |
+| One-arm row       |                  **4 kg** |
+| Chest press       |        **3 kg each hand** |
+| Lateral raise     |        **1 kg each hand** |
+| Biceps curl       |        **2 kg each hand** |
+| Shoulder press    |        **2 kg each hand** |
+| Triceps extension |                  **2 kg** |
+| Hip thrust        |            **Bodyweight** |
+| Step-up           |            **Bodyweight** |
+| Calf raise        |            **Bodyweight** |
+| Farmer carry      |        **4 kg each hand** |
+| Suitcase carry    |         **5 kg one hand** |
+| Pallof press      | **Light resistance band** |
+| Core exercises    |            **Bodyweight** |
 
-**Standing → Kneeling → Half-kneeling → Standing**
-
-with controlled movement.
-
-Then work toward:
-
-**Floor sitting → Side-sitting → Half-kneeling → Standing**
-
-Support is completely acceptable at this stage.
-
----
-
-# 14. What Improvement To Expect
-
-| Phase              | Main expected improvement                                     |
-| ------------------ | ------------------------------------------------------------- |
-| **Week 1**         | Learn movements, improve body awareness and confidence        |
-| **Week 2**         | Better coordination, repetition capacity and balance          |
-| **Week 3**         | Noticeable improvement in everyday strength and stability     |
-| **Week 4**         | Better strength, carrying, stairs, balance and floor movement |
-| **End of Month 1** | A solid foundation for progressive strength training          |
-
-The biggest first-month success is **not lifting a heavy weight**.
-
-It is being able to say:
-
-> **"I know how to squat, hinge, push, pull, step, carry, balance, control my core and get down and up from the floor — and I can do these movements confidently."**
+If an exercise is clearly too easy, increase the weight rather than doing excessive repetitions.
 
 ---
 
-# 15. Golden Rules
+# 13. How We Fit This Into Different Session Lengths
 
-### 1. Consistency beats intensity
+The complete programme is intentionally larger than your current 20-minute limit.
 
-Three moderate sessions are better than one very hard session followed by several days of recovery.
+## 20-minute version
 
-### 2. Technique before weight
+Prioritise:
 
-Only increase resistance when the movement remains controlled.
+1. Major lower-body movement
+2. Hinge
+3. Row
+4. Push
+5. One shoulder/arm exercise
+6. Core/carry
 
-### 3. Do not train to failure
-
-Leave several good repetitions in reserve.
-
-### 4. Progress gradually
-
-Increase either **repetitions, resistance or exercise difficulty** — not everything at once.
-
-### 5. Keep breathing
-
-Never use breath-holding as your normal lifting strategy.
-
-### 6. Easy does not mean useless
-
-An easy exercise may still be teaching coordination or stability.
-
-### 7. But don't stay too easy forever
-
-When an exercise becomes consistently very easy, progress it.
-
-### 8. Don't chase muscle burn
-
-Strength training is about progressively challenging the muscles, not simply making them burn.
-
-### 9. Core quality matters
-
-For abdominal exercises, controlled breathing and trunk stability matter more than doing large numbers of repetitions.
-
-### 10. Pain is not a progression signal
-
-Do not push through abdominal pain or symptoms around your repaired areas.
+The remaining exercises rotate.
 
 ---
 
-# Month 1 Success = Foundation
+## 25-minute version
 
-At the end of this month, you are **not expected to be an advanced lifter**.
+Add:
 
-You are preparing your body for Month 2, when we can begin progressively increasing:
+* second shoulder/arm exercise
+* additional core work
+* slightly more rest
 
-**Squat resistance + RDL resistance + row resistance + push-up difficulty + step-up challenge + carrying weight + core stability + floor-to-stand strength.**
+---
 
-The long-term aim is to become **strong, mobile, balanced and physically capable**, not simply to complete workouts.
+## 30-minute version
+
+Include most of the day's planned exercises.
+
+---
+
+## 35+ minute version
+
+Use the complete session and/or add additional sets.
+
+This means we **don't need to redesign your programme every time your available time changes**.
+
+---
+
+# 14. Progression
+
+Start at **8 reps**.
+
+For most dumbbell exercises:
+
+**8 → 9 → 10 → 11 → 12**
+
+Once you can perform the top of the range with good technique and still have approximately **2–3 good reps in reserve**, increase the weight and return to **8 reps**.
+
+Example:
+
+**Goblet squat**
+
+4 kg × 8
+→ 4 kg × 9
+→ 4 kg × 10
+→ 4 kg × 12
+→ 5 kg × 8
+
+Then repeat the process.
+
+---
+
+# 15. What This Programme Covers
+
+### Legs
+
+Squats + RDLs + step-ups + hip thrusts + calf raises
+
+### Glutes
+
+Squats + RDLs + step-ups + hip thrusts
+
+### Hamstrings
+
+RDLs + hip thrusts
+
+### Chest
+
+Chest press + incline push-ups
+
+### Back
+
+One-arm rows
+
+### Shoulders
+
+Shoulder press + lateral raises
+
+### Biceps
+
+Rows + direct biceps curls
+
+### Triceps
+
+Pressing + direct triceps extensions
+
+### Core
+
+Dead bugs + Pallof press + carries
+
+### Grip
+
+Farmer carries + suitcase carries
+
+### Balance
+
+Step-ups + single-leg stance + tandem walking
+
+### Functional ability
+
+Sit-to-stand + carrying + stairs/step-ups + floor transitions
+
+### Cardio/coordination
+
+Walking + dance
+
+---
+
