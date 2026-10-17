@@ -41,7 +41,7 @@ Subject–Verb Agreement means:
 
 ---
 
-# 📚 **RULE 3 — “I” and “You” behave like plural subjects**
+# 📚 **RULE 3 — “I / You / We / They” behave like plural subjects**
 
 * I **run**, not "runs"
 * You **eat**, not "eats"
@@ -54,6 +54,11 @@ The subject is **never** in the phrase:
 
 ❌ The *basket of apples* **are** heavy.
 ✔ The **basket** of apples **is** heavy. (basket = subject)
+Once you know the subject is basket (singular), you must use a singular verb.
+Using the rules we discussed:
+• The basket (singular) \(\rightarrow \) needs the singular verb ending in -s (is).
+• The apples (plural) \(\rightarrow \) would need the plural verb (are).
+Because you are weighing the basket as a single whole unit, you say "The basket is heavy." If you took the apples out and spread them on the table, you would say, "The apples are heavy."
 
 Other examples:
 
