@@ -182,6 +182,15 @@ Before deciding what a modal means, ask:
 
 **“Is the speaker predicting, advising, allowing, or requiring?”**
 
+| **Confidence Level**           | **Percentage** | **Adverbs**                                        | **Example Sentence**                                                   |
+| ------------------------------ | -------------- | -------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Absolute Fact (Unshakable)** | 100%           | **Definitely, absolutely, positively, undeniably** | "The store is **definitely** closed; I just checked the locked doors." |
+| **Strong Personal Conviction** | 95% – 99%      | **Certainly, clearly, obviously, plainly**         | "He will **certainly** win the race; he has a massive lead."           |
+| **High Probability**           | 70% – 90%      | **Probably, likely, presumably, expectedly**       | "The package will **probably** arrive by tomorrow afternoon."          |
+| **Medium Possibility**         | 40% – 60%      | **Possibly, perhaps, maybe, conceivably**          | "We will **perhaps** go for a walk if the weather clears up."          |
+| **Low Possibility**            | 10% – 30%      | **Improbably, doubtfully, questionably**            | "He will **doubtfully** make it to the meeting on such short notice."   |
+| **Zero Certainty (Negative)**  | 0%             | **Never, definitely not, absolutely not**           | "I will **definitely not** be able to attend the conference."          |
+
 | Situation | Sentence | Meaning |
 |---|---|---|
 | Weather | It **might** snow. | Possible, uncertain. |
